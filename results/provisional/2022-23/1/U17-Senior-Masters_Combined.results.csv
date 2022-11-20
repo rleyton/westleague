@@ -1,0 +1,163 @@
+position,times,team,Name,gender,clubnumber,Club name,Website
+1,0:24:08,6M,Gavin Smith,M,6,Cambuslang Harriers,
+2,0:24:20,4M,Jonathan Glen,M,4,Inverclyde AC,
+3,0:24:30,4M,John Bell,M,4,Inverclyde AC,
+4,0:24:40,7M,Ross Good,M,7,Giffnock North AC,
+5,0:25:05,1M,GRANT BAILLIE,M,1,East Kilbride AC,http://www.ekac.org.uk/
+6,0:25:15,6M,Jamie MacKinnon,M,6,Cambuslang Harriers,
+7,0:25:40,2M,Martin Brown,M,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
+8,0:25:53,6M,Iain MacCorquodale,M,6,Cambuslang Harriers,
+9,0:25:57,6M,Alasdair Campbell,M,6,Cambuslang Harriers,
+10,0:26:00,6M,Gordon Robertson,M,6,Cambuslang Harriers,
+11,0:26:09,7M,Conor Drummond,M,7,Giffnock North AC,
+12,0:26:23,6M,Iain Reid,M,6,Cambuslang Harriers,
+13,0:26:27,10M,Sam Lesley,M,10,Shettleston Harriers,
+14,0:26:28,1M,DAVID ROSS,M,1,East Kilbride AC,http://www.ekac.org.uk/
+15,0:26:29,3M,Tony Connolly,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+16,0:26:29,2M,Jonathon Downey,M,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
+17,0:26:44,40M,,M,40,Motherwell AC,
+18,0:26:47,6M,Richard Carr,M,6,Cambuslang Harriers,
+19,0:26:52,30M,,M,30,Greenock Glenpark Harriers,
+20,0:26:56,14M,Kenny Neill,M,14,Ayr Seaforth AC,
+21,0:27:04,1M,JACK KIRWAN,M,1,East Kilbride AC,http://www.ekac.org.uk/
+22,0:27:08,34M,,M,34,Kilbarchan AAC,
+23,0:27:08,10M,Paul Sorrie ,M,10,Shettleston Harriers,
+24,0:27:28,1M,JAMIE CLEMENTS,M,1,East Kilbride AC,http://www.ekac.org.uk/
+25,0:27:31,6M,Steven Fiztpatrick,M,6,Cambuslang Harriers,
+26,0:27:40,4M,David Tamburini,M,4,Inverclyde AC,
+27,0:27:45,10M,Alex Clarkson ,M,10,Shettleston Harriers,
+28,0:27:52,35M,,M,35,Kirkintilloch Olympians,
+29,0:27:56,35M,,M,35,Kirkintilloch Olympians,
+30,0:28:09,3M,Alan Moss,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+31,0:28:30,6M,George Pettit,M,6,Cambuslang Harriers,
+32,0:28:33,6M,Eve MacKinnon,M,6,Cambuslang Harriers,
+33,0:28:36,10M,Iain Pender,M,10,Shettleston Harriers,
+34,0:28:52,37M,Darran Muir,M,37,Law & District AAC,
+35,0:28:57,6F,Nathalie Brohan,F,6,Cambuslang Harriers,
+36,0:28:57,8M,Matthew Brown,M,8,Bellahouston Harriers,
+37,0:28:48,37M,Matthew Gillon,M,37,Law & District AAC,
+38,0:29:00,4M,Sean Gaffney,M,4,Inverclyde AC,
+39,0:29:20,1M,CHRIS WATTERS,M,1,East Kilbride AC,http://www.ekac.org.uk/
+40,0:29:22,10M,Andrew Taylor ,M,10,Shettleston Harriers,
+41,0:29:22,8M,Brent Brodie,M,8,Bellahouston Harriers,
+42,0:29:25,4M,Alan Callan,M,4,Inverclyde AC,
+43,0:29:32,37M,Alan Neill,M,37,Law & District AAC,
+44,0:29:37,5M,Niall McAlinden,M,5,Westerlands CCC,
+45,0:29:41,14F,Kirstin Oakley,F,14,Ayr Seaforth AC,
+46,0:29:53,35M,,M,35,Kirkintilloch Olympians,
+47,0:29:55,7M,David Shaw,M,7,Giffnock North AC,
+48,0:29:59,14F,Emma Creasey,F,14,Ayr Seaforth AC,
+49,0:30:04,53M,Jim Phillips,M,53,Troon Tortoises,
+50,0:30:09,1M,ANDREW FORTEITH,M,1,East Kilbride AC,http://www.ekac.org.uk/
+51,0:30:10,53M,Darren McMahon,M,53,Troon Tortoises,
+52,0:30:10,3M,Neil McSeveny,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+53,0:30:13,35M,,M,35,Kirkintilloch Olympians,
+54,0:30:17,3M,Chris Allan,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+55,0:30:22,9F,Katie White,F,9,Garscube Harriers,
+56,0:30:28,2F,Laura Haggarty,F,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
+57,0:30:32,10M,John Duffy ,M,10,Shettleston Harriers,
+58,0:30:43,4M,Jason Kane,M,4,Inverclyde AC,
+59,0:30:47,3M,Fraser Kelly,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+60,0:30:48,3M,Alan Chalmers,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+61,0:30:50,14M,Josie Burns,M,14,Ayr Seaforth AC,
+62,0:30:53,10F,Denis Williams,F,10,Shettleston Harriers,
+63,0:30:53,53M,Matt Pearce,M,53,Troon Tortoises,
+64,0:30:54,44M,Stephen McQuistin,M,44,North Ayrshire AAC,
+65,0:30:55,3M,Colin Hughes,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+66,0:30:55,44M,Mark Preston,M,44,North Ayrshire AAC,
+67,0:31:56,10M,John Oates,M,10,Shettleston Harriers,
+68,0:31:04,48F,Ruth Fraser-Moodie,F,48,Springburn Harriers,
+69,0:31:05,42M,Peter Alexander,M,42,Newton Road RUnners,
+70,0:31:15,10M,Duncam McAuley,M,10,Shettleston Harriers,
+71,0:31:20,10M,Bill Brechenridge,M,10,Shettleston Harriers,
+72,0:31:33,48M,Matt Stanley,M,48,Springburn Harriers,
+73,0:31:36,14M,Peter Maclean,M,14,Ayr Seaforth AC,
+74,0:31:42,1M,KEITH CHARTERS,M,1,East Kilbride AC,http://www.ekac.org.uk/
+75,0:31:44,7M,Andy Macdonald ,M,7,Giffnock North AC,
+76,0:31:49,8M,Francis Gilroy,M,8,Bellahouston Harriers,
+77,0:31:51,56F,Ana Richardson,F,56,West End RR,
+78,0:32:59,6F,Kathleen McLachlan,F,6,Cambuslang Harriers,
+79,0:32:00,7F,Catriona Bark,F,7,Giffnock North AC,
+80,0:32:07,5M,David Riach,M,5,Westerlands CCC,
+81,0:32:11,3M,Tony McParland,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+82,0:32:16,3M,Alan Digweed,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+83,0:32:23,44M,Craig Dailly,M,44,North Ayrshire AAC,
+84,0:32:28,3M,Dave Ferguson,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+85,0:32:37,10M,Mark Grant,M,10,Shettleston Harriers,
+86,0:32:43,40M,,M,40,Motherwell AC,
+87,0:32:47,37M,Rich Beattie,M,37,Law & District AAC,
+88,0:32:55,3M,Jamie Robinson,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+89,0:32:57,14F,Morven Hubbard,F,14,Ayr Seaforth AC,
+90,0:33:01,56M,Graeme Jack,M,56,West End RR,
+91,0:33:02,1M,ANDREW CHAPMAN,M,1,East Kilbride AC,http://www.ekac.org.uk/
+92,0:33:04,3M,Stephen McQuade,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+93,0:33:07,8F,Kristina Greig,F,8,Bellahouston Harriers,
+94,0:33:09,37F,Finn Millgan,F,37,Law & District AAC,
+95,0:33:23,1F,KELLY BAILLIE,F,1,East Kilbride AC,http://www.ekac.org.uk/
+96,0:33:27,56M,Simon Murrison,M,56,West End RR,
+97,0:33:40,5M,Lukas Bunse,M,5,Westerlands CCC,
+98,0:33:40,37M,Martin Kay,M,37,Law & District AAC,
+99,0:33:44,37M,Mark Milligan,M,37,Law & District AAC,
+100,0:33:45,46M,Clem Clement,M,46,Royal Mail Run GMC,
+101,0:33:48,57M,James Cathie,M,57,Whitemoss AAC,
+102,0:33:50,22M,,M,22,Dumfries Harriers,
+103,0:33:50,1M,PAUL STUART,M,1,East Kilbride AC,http://www.ekac.org.uk/
+104,0:33:55,2M,Alasdair Murray,M,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
+105,0:34:02,14F,Lucy Stanley,F,14,Ayr Seaforth AC,
+106,0:34:03,57M,David Cathie,M,57,Whitemoss AAC,
+107,0:34:04,5M,Chris Furse,M,5,Westerlands CCC,
+108,0:34:15,37F,John O'Leary,F,37,Law & District AAC,
+109,0:34:18,46M,Donnie Inglis,M,46,Royal Mail Run GMC,
+110,0:34:25,5M,Don Reid,M,5,Westerlands CCC,
+111,0:34:26,8F,Katherine Hylands,F,8,Bellahouston Harriers,
+112,0:34:31,8F,Marianne Wilson,F,8,Bellahouston Harriers,
+113,0:34:32,1M,LUKE KIRWAN,M,1,East Kilbride AC,http://www.ekac.org.uk/
+114,0:34:36,9M,Anthony Mcgale,M,9,Garscube Harriers,
+115,0:34:38,6F,Carole Setchell,F,6,Cambuslang Harriers,
+116,0:34:45,37F,Reagan Binnie,F,37,Law & District AAC,
+117,0:34:54,8M,Iain Morrison,M,8,Bellahouston Harriers,
+118,0:34:56,56M,Allen Campbell,M,56,West End RR,
+119,0:35:01,48M,Glenn McKinstry,M,48,Springburn Harriers,
+120,0:35:02,6F,Erica Christie,F,6,Cambuslang Harriers,
+121,0:35:03,3M,Tony Breslin,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+122,0:35:12,3M,Jonny Moran,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+123,0:35:22,3M,Gerard Croser,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+124,0:35:24,2M,Nick Carter,M,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
+125,0:35:31,10M,David Clarkson ,M,10,Shettleston Harriers,
+126,0:35:35,42F,Emma Craig,F,42,Newton Road RUnners,
+127,0:35:39,37M,Elaine Boyle,M,37,Law & District AAC,
+128,0:35:55,48M,Joe Chambers,M,48,Springburn Harriers,
+129,0:36:00,5M,Andrew Mott,M,5,Westerlands CCC,
+130,0:36:08,56M,Jim Speakman,M,56,West End RR,
+131,0:36:12,53M,Alan Dunlop,M,53,Troon Tortoises,
+132,0:36:14,46M,Robert White ,M,46,Royal Mail Run GMC,
+133,0:36:16,44F,Fiona Comrie,F,44,North Ayrshire AAC,
+134,0:36:28,5M,Fraser Reid,M,5,Westerlands CCC,
+135,0:36:37,6F,Iain Crawford,F,6,Cambuslang Harriers,
+136,0:37:02,1F,VIVIEN THORPE,F,1,East Kilbride AC,http://www.ekac.org.uk/
+137,0:37:11,37F,Lesley Graham,F,37,Law & District AAC,
+138,0:37:18,8F,Rebecca Simister,F,8,Bellahouston Harriers,
+139,0:37:36,3F,Laura Wilkinson,F,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+140,0:37:38,30M,,M,30,Greenock Glenpark Harriers,
+141,0:37:45,3F,Joni Lindsay,F,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+142,0:38:00,6M,,M,6,Cambuslang Harriers,
+143,0:38:04,3F,Charlotte Parkinson,F,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+144,0:38:17,56F,Beth Murrison,F,56,West End RR,
+145,0:38:19,42F,Fiona Thomson,F,42,Newton Road RUnners,
+146,0:38:30,42M,Kieran Mark,M,42,Newton Road RUnners,
+147,0:38:53,37M,Christine Neill,M,37,Law & District AAC,
+148,0:38:59,57F,Amy Oliphant,F,57,Whitemoss AAC,
+149,0:39:20,56M,Trevor Wayman,M,56,West End RR,
+150,0:39:27,3F,Pauline Wright,F,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+151,0:39:52,53F,Anne Noble,F,53,Troon Tortoises,
+152,0:40:01,56F,Ray Musleh,F,56,West End RR,
+153,0:41:09,1F,RACHAEL WILLIAMS,F,1,East Kilbride AC,http://www.ekac.org.uk/
+154,0:41:13,8F,Stephanie Rudd,F,8,Bellahouston Harriers,
+155,0:41:48,3F,Rhoda Yarmahmoudi,F,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+156,0:42:19,1F,GEMMA KIRWAN,F,1,East Kilbride AC,http://www.ekac.org.uk/
+157,0:53:14,30F,,F,30,Greenock Glenpark Harriers,
+158,0:44:10,8M,John Beckett,M,8,Bellahouston Harriers,
+159,0:44:39,8F,Karen Rosling,F,8,Bellahouston Harriers,
+160,0:44:55,10M,Zoe Barber only female,M,10,Shettleston Harriers,
+161,0:45:47,36M,,M,36,Larkhall YMCA,
+162,0:46:17,5F,Weibke Lammers,F,5,Westerlands CCC,
