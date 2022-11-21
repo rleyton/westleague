@@ -3,7 +3,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 2,0:24:20,4M,Jonathan Glen,M,SENIOR,4,Inverclyde AC,
 3,0:24:30,4M,John Bell,M,SENIOR,4,Inverclyde AC,
 4,0:24:40,7M,Ross Good,M,SENIOR,7,Giffnock North AC,
-5,0:25:05,1M,GRANT BAILLIE,M,MASTER 40,1,East Kilbride AC,http://www.ekac.org.uk/
+5,0:25:05,1M,GRANT BAILLIE,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/
 6,0:25:15,6M,Jamie MacKinnon,M,SENIOR,6,Cambuslang Harriers,
 7,0:25:40,2M,Martin Brown,M,SENIOR,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
 8,0:25:53,6M,Iain MacCorquodale,M,SENIOR,6,Cambuslang Harriers,
@@ -12,7 +12,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 11,0:26:09,7M,Conor Drummond,M,SENIOR,7,Giffnock North AC,
 12,0:26:23,6M,Iain Reid,M,MASTER,6,Cambuslang Harriers,
 13,0:26:27,10M,Sam Lesley,M,SENIOR,10,Shettleston Harriers,
-14,0:26:28,1M,DAVID ROSS,M,MASTER 40,1,East Kilbride AC,http://www.ekac.org.uk/
+14,0:26:28,1M,DAVID ROSS,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/
 15,0:26:29,3M,Tony Connolly,M,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
 16,0:26:29,2M,Jonathon Downey,M,U20,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
 17,0:26:44,40M,Jonathan Moore,M,SENIOR,40,Motherwell AC,
@@ -37,7 +37,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 36,0:28:57,8M,Matthew Brown,M,SENIOR,8,Bellahouston Harriers,
 37,0:28:58,37M,Matthew Gillon,M,SENIOR,37,Law & District AAC,
 38,0:29:00,4M,Sean Gaffney,M,SENIOR,4,Inverclyde AC,
-39,0:29:20,1M,CHRIS WATTERS,M,MASTER 40,1,East Kilbride AC,http://www.ekac.org.uk/
+39,0:29:20,1M,CHRIS WATTERS,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/
 40,0:29:22,10M,Andrew Taylor,M,SENIOR,10,Shettleston Harriers,
 41,0:29:22,8M,Brent Brodie,M,MASTER,8,Bellahouston Harriers,
 42,0:29:25,4M,Alan Callan,M,master,4,Inverclyde AC,
@@ -48,7 +48,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 47,0:29:55,7M,David Shaw,M,MASTER,7,Giffnock North AC,
 48,0:29:59,14F,Emma Creasey,F,SENIOR,14,Ayr Seaforth AC,
 49,0:30:04,53M,Jim Phillips,M,MASTER,53,Troon Tortoises,
-50,0:30:09,1M,ANDREW FORTEITH,M,MASTER 40,1,East Kilbride AC,http://www.ekac.org.uk/
+50,0:30:09,1M,ANDREW FORTEITH,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/
 51,0:30:10,53M,Darren McMahon,M,SENIOR,53,Troon Tortoises,
 52,0:30:10,3M,Neil McSeveny,M,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
 53,0:30:13,35M,,M,,35,Kirkintilloch Olympians,
@@ -72,7 +72,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 71,0:31:20,10M,Duncam McAuley,M,MASTER,10,Shettleston Harriers,
 72,0:31:33,48M,Matt Stanley,M,SENIOR,48,Springburn Harriers,
 73,0:31:36,14M,Peter Maclean,M,MASTER,14,Ayr Seaforth AC,
-74,0:31:42,1M,KEITH CHARTERS,M,MASTER 50,1,East Kilbride AC,http://www.ekac.org.uk/
+74,0:31:42,1M,KEITH CHARTERS,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/
 75,0:31:44,7M,Andy Macdonald,M,MASTER,7,Giffnock North AC,
 76,0:31:49,8M,Francis Gilroy,M,MASTER,8,Bellahouston Harriers,
 77,0:31:51,56F,Ana Richardson,F,MASTER,56,West End RR,
@@ -89,11 +89,11 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 88,0:32:55,3M,Jamie Robinson,M,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
 89,0:32:57,14F,Morven Hubbard,F,U20,14,Ayr Seaforth AC,
 90,0:33:01,56M,Graeme Jack,M,MASTER,56,West End RR,
-91,0:33:02,1M,ANDREW CHAPMAN,M,MASTER 40,1,East Kilbride AC,http://www.ekac.org.uk/
+91,0:33:02,1M,ANDREW CHAPMAN,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/
 92,0:33:04,3M,Stephen McQuade,M,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
 93,0:33:07,8F,Kristina Greig,F,SENIOR,8,Bellahouston Harriers,
 94,0:33:09,37F,Reagan Binnie,F,SENIOR,37,Law & District AAC,
-95,0:33:23,1F,KELLY BAILLIE,F,MASTER 40,1,East Kilbride AC,http://www.ekac.org.uk/
+95,0:33:23,1F,KELLY BAILLIE,F,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/
 96,0:33:27,56M,Simon Murrison,M,MASTER,56,West End RR,
 97,0:33:40,5M,Lukas Bunse,M,SENIOR,5,Westerlands CCC,
 98,0:33:40,37M,Finn Millgan,M,U20,37,Law & District AAC,
@@ -101,7 +101,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 100,0:33:45,46M,Clem Clement,M,MASTER,46,Royal Mail Run GMC,
 101,0:33:48,57M,James Cathie,M,SENIOR,57,Whitemoss AAC,
 102,0:33:50,2M,Alasdair Murray,M,MASTER,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
-103,0:33:50,1M,PAUL STUART,M,MASTER 50,1,East Kilbride AC,http://www.ekac.org.uk/
+103,0:33:50,1M,PAUL STUART,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/
 104,0:33:55,2M,Nick Carter,M,SENIOR,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
 105,0:34:02,14F,Lucy Stanley,F,U20,14,Ayr Seaforth AC,
 106,0:34:03,57M,David Cathie,M,MASTER,57,Whitemoss AAC,
@@ -133,7 +133,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 132,0:36:16,44F,Fiona Comrie,F,SENIOR,44,North Ayrshire AAC,
 133,0:36:28,5M,Fraser Reid,M,SENIOR,5,Westerlands CCC,
 134,0:36:37,6F,Erica Christie,F,MASTER,6,Cambuslang Harriers,
-135,0:37:02,1F,VIVIEN THORPE,F,MASTER 40,1,East Kilbride AC,http://www.ekac.org.uk/
+135,0:37:02,1F,VIVIEN THORPE,F,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/
 136,0:37:11,37F,Christine Neill,F,SENIOR,37,Law & District AAC,
 137,0:37:18,8F,Rebecca Simister,F,SENIOR,8,Bellahouston Harriers,
 138,0:37:36,3F,Laura Wilkinson,F,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
@@ -153,7 +153,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 152,0:41:09,1F,RACHAEL WILLIAMS,F,SENIOR,1,East Kilbride AC,http://www.ekac.org.uk/
 153,0:41:13,8F,Stephanie Rudd,F,MASTER,8,Bellahouston Harriers,
 154,0:41:48,3F,Rhoda Yarmahmoudi,F,MASTER,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
-155,0:42:19,1F,GEMMA KIRWAN,F,MASTER 50,1,East Kilbride AC,http://www.ekac.org.uk/
+155,0:42:19,1F,GEMMA KIRWAN,F,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/
 156,0:43:14,30F,Sarah Jane Whalen,F,SENIOR,30,Greenock Glenpark Harriers,
 157,0:44:10,8M,John Beckett,M,MASTER,8,Bellahouston Harriers,
 158,0:44:39,8F,Karen Rosling,F,MASTER,8,Bellahouston Harriers,
