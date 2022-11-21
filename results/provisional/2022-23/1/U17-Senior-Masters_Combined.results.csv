@@ -60,16 +60,16 @@ position,times,team,Name,gender,clubnumber,Club name,Website
 59,0:30:47,3M,Fraser Kelly,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
 60,0:30:48,3M,Alan Chalmers,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
 61,0:30:50,14M,Josie Burns,M,14,Ayr Seaforth AC,
-62,0:30:53,10F,Denis Williams,F,10,Shettleston Harriers,
+62,0:30:53,10F,Zoe Barber,F,10,Shettleston Harriers,
 63,0:30:53,53M,Matt Pearce,M,53,Troon Tortoises,
 64,0:30:54,44M,Stephen McQuistin,M,44,North Ayrshire AAC,
 65,0:30:55,3M,Colin Hughes,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
 66,0:30:55,44M,Mark Preston,M,44,North Ayrshire AAC,
-67,0:30:56,10M,John Oates,M,10,Shettleston Harriers,
+67,0:30:56,10M,Denis Williams,M,10,Shettleston Harriers,
 68,0:31:04,48F,Ruth Fraser-Moodie,F,48,Springburn Harriers,
 69,0:31:05,42M,Peter Alexander,M,42,Newton Road Runners,
-70,0:31:15,10M,Duncam McAuley,M,10,Shettleston Harriers,
-71,0:31:20,10M,Bill Brechenridge,M,10,Shettleston Harriers,
+70,0:31:15,10M,John Oates,M,10,Shettleston Harriers,
+71,0:31:20,10M,Duncam McAuley,M,10,Shettleston Harriers,
 72,0:31:33,48M,Matt Stanley,M,48,Springburn Harriers,
 73,0:31:36,14M,Peter Maclean,M,14,Ayr Seaforth AC,
 74,0:31:42,1M,KEITH CHARTERS,M,1,East Kilbride AC,http://www.ekac.org.uk/
@@ -83,7 +83,7 @@ position,times,team,Name,gender,clubnumber,Club name,Website
 82,0:32:16,3M,Alan Digweed,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
 83,0:32:23,44M,Craig Dailly,M,44,North Ayrshire AAC,
 84,0:32:28,3M,Dave Ferguson,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
-85,0:32:37,10M,Mark Grant,M,10,Shettleston Harriers,
+85,0:32:37,10M,Bill Brechenridge,M,10,Shettleston Harriers,
 86,0:32:43,40M,,M,40,Motherwell AC,
 87,0:32:47,37M,Rich Beattie,M,37,Law & District AAC,
 88,0:32:55,3M,Jamie Robinson,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
@@ -122,7 +122,7 @@ position,times,team,Name,gender,clubnumber,Club name,Website
 121,0:35:12,3M,Jonny Moran,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
 122,0:35:22,3M,Gerard Croser,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
 123,0:35:24,2M,Stewart McAllister,M,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
-124,0:35:31,10M,David Clarkson ,M,10,Shettleston Harriers,
+124,0:35:31,10M,Mark Grant,M,10,Shettleston Harriers,
 125,0:35:35,42F,Emma Craig,F,42,Newton Road Runners,
 126,0:35:39,37M,Mark Milligan,M,37,Law & District AAC,
 127,0:35:55,48M,Joe Chambers,M,48,Springburn Harriers,
@@ -157,6 +157,6 @@ position,times,team,Name,gender,clubnumber,Club name,Website
 156,0:43:14,30F,Sarah Jane Whalen,F,30,Greenock Glenpark Harriers,
 157,0:44:10,8M,John Beckett,M,8,Bellahouston Harriers,
 158,0:44:39,8F,Karen Rosling,F,8,Bellahouston Harriers,
-159,0:44:55,10M,Zoe Barber,M,10,Shettleston Harriers,
+159,0:44:55,10M,David Clarkson ,M,10,Shettleston Harriers,
 160,0:45:47,36M,,M,36,Larkhall YMCA,
 161,0:46:17,5F,Weibke Lammers,F,5,Westerlands CCC,
