@@ -17,7 +17,7 @@ position,times,team,Name,gender,clubnumber,Club name,Website
 16,0:26:29,2M,Jonathon Downey,M,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
 17,0:26:44,40M,,M,40,Motherwell AC,
 18,0:26:47,6M,Richard Carr,M,6,Cambuslang Harriers,
-19,0:26:52,30M,,M,30,Greenock Glenpark Harriers,
+19,0:26:52,30M,Dylan Crawford,M,30,Greenock Glenpark Harriers,
 20,0:26:56,14M,Kenny Neill,M,14,Ayr Seaforth AC,
 21,0:27:04,1M,JACK KIRWAN,M,1,East Kilbride AC,http://www.ekac.org.uk/
 22,0:27:08,34M,,M,34,Kilbarchan AAC,
@@ -92,12 +92,12 @@ position,times,team,Name,gender,clubnumber,Club name,Website
 91,0:33:02,1M,ANDREW CHAPMAN,M,1,East Kilbride AC,http://www.ekac.org.uk/
 92,0:33:04,3M,Stephen McQuade,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
 93,0:33:07,8F,Kristina Greig,F,8,Bellahouston Harriers,
-94,0:33:09,37F,Finn Millgan,F,37,Law & District AAC,
+94,0:33:09,37F,Reagan Binnie,F,37,Law & District AAC,
 95,0:33:23,1F,KELLY BAILLIE,F,1,East Kilbride AC,http://www.ekac.org.uk/
 96,0:33:27,56M,Simon Murrison,M,56,West End RR,
 97,0:33:40,5M,Lukas Bunse,M,5,Westerlands CCC,
-98,0:33:40,37M,Martin Kay,M,37,Law & District AAC,
-99,0:33:44,37M,Mark Milligan,M,37,Law & District AAC,
+98,0:33:40,37M,Finn Millgan,M,37,Law & District AAC,
+99,0:33:44,37M,Martin Kay,M,37,Law & District AAC,
 100,0:33:45,46M,Clem Clement,M,46,Royal Mail Run GMC,
 101,0:33:48,57M,James Cathie,M,57,Whitemoss AAC,
 102,0:33:50,2M,Alasdair Murray,M,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
@@ -106,7 +106,7 @@ position,times,team,Name,gender,clubnumber,Club name,Website
 105,0:34:02,14F,Lucy Stanley,F,14,Ayr Seaforth AC,
 106,0:34:03,57M,David Cathie,M,57,Whitemoss AAC,
 107,0:34:04,5M,Chris Furse,M,5,Westerlands CCC,
-108,0:34:15,37F,John O'Leary,F,37,Law & District AAC,
+108,0:34:15,37F,Elaine Boyle,F,37,Law & District AAC,
 109,0:34:18,46M,Donnie Inglis,M,46,Royal Mail Run GMC,
 110,0:34:25,5M,Don Reid,M,5,Westerlands CCC,
 111,0:34:26,8F,Katherine Hylands,F,8,Bellahouston Harriers,
@@ -114,7 +114,7 @@ position,times,team,Name,gender,clubnumber,Club name,Website
 113,0:34:32,1M,LUKE KIRWAN,M,1,East Kilbride AC,http://www.ekac.org.uk/
 114,0:34:36,9M,Anthony Mcgale,M,9,Garscube Harriers,
 115,0:34:38,6F,Carole Setchell,F,6,Cambuslang Harriers,
-116,0:34:45,37F,Reagan Binnie,F,37,Law & District AAC,
+116,0:34:45,37F,Lesley Graham,F,37,Law & District AAC,
 117,0:34:54,8M,Iain Morrison,M,8,Bellahouston Harriers,
 118,0:34:56,56M,Allen Campbell,M,56,West End RR,
 119,0:35:01,48M,Glenn McKinstry,M,48,Springburn Harriers,
@@ -125,7 +125,7 @@ position,times,team,Name,gender,clubnumber,Club name,Website
 124,0:35:24,2M,Stewart McAllister,M,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
 125,0:35:31,10M,David Clarkson ,M,10,Shettleston Harriers,
 126,0:35:35,42F,Emma Craig,F,42,Newton Road Runners,
-127,0:35:39,37M,Elaine Boyle,M,37,Law & District AAC,
+127,0:35:39,37M,Mark Milligan,M,37,Law & District AAC,
 128,0:35:55,48M,Joe Chambers,M,48,Springburn Harriers,
 129,0:36:00,5M,Andrew Mott,M,5,Westerlands CCC,
 130,0:36:08,56M,Jim Speakman,M,56,West End RR,
@@ -135,17 +135,17 @@ position,times,team,Name,gender,clubnumber,Club name,Website
 134,0:36:28,5M,Fraser Reid,M,5,Westerlands CCC,
 135,0:36:37,6F,Iain Crawford,F,6,Cambuslang Harriers,
 136,0:37:02,1F,VIVIEN THORPE,F,1,East Kilbride AC,http://www.ekac.org.uk/
-137,0:37:11,37F,Lesley Graham,F,37,Law & District AAC,
+137,0:37:11,37F,Christine Neill,F,37,Law & District AAC,
 138,0:37:18,8F,Rebecca Simister,F,8,Bellahouston Harriers,
 139,0:37:36,3F,Laura Wilkinson,F,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
-140,0:37:38,30M,,M,30,Greenock Glenpark Harriers,
+140,0:37:38,30M,Gerry Gallacher,M,30,Greenock Glenpark Harriers,
 141,0:37:45,3F,Joni Lindsay,F,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
 142,0:38:00,6M,,M,6,Cambuslang Harriers,
 143,0:38:04,3F,Charlotte Parkinson,F,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
 144,0:38:17,56F,Beth Murrison,F,56,West End RR,
 145,0:38:19,42F,Fiona Thomson,F,42,Newton Road Runners,
 146,0:38:30,42M,Kieran Mark,M,42,Newton Road Runners,
-147,0:38:53,37M,Christine Neill,M,37,Law & District AAC,
+147,0:38:53,37M,John O'Leary,M,37,Law & District AAC,
 148,0:38:59,57F,Amy Oliphant,F,57,Whitemoss AAC,
 149,0:39:20,56M,Trevor Wayman,M,56,West End RR,
 150,0:39:27,3F,Pauline Wright,F,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
@@ -155,7 +155,7 @@ position,times,team,Name,gender,clubnumber,Club name,Website
 154,0:41:13,8F,Stephanie Rudd,F,8,Bellahouston Harriers,
 155,0:41:48,3F,Rhoda Yarmahmoudi,F,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
 156,0:42:19,1F,GEMMA KIRWAN,F,1,East Kilbride AC,http://www.ekac.org.uk/
-157,0:53:14,30F,,F,30,Greenock Glenpark Harriers,
+157,0:53:14,30F,Sarah Jane Whalen,F,30,Greenock Glenpark Harriers,
 158,0:44:10,8M,John Beckett,M,8,Bellahouston Harriers,
 159,0:44:39,8F,Karen Rosling,F,8,Bellahouston Harriers,
 160,0:44:55,10M,Zoe Barber only female,M,10,Shettleston Harriers,
