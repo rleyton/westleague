@@ -9,7 +9,9 @@ Apologies for the longer than expected delay in publishing.
 * Corrections still required to a recording of team number.
 * A disqualification to apply.
 * Some missing team submissions
+* Age categories not applied/displayed yet
 * No team results yet
+
 
 # Queries
 
