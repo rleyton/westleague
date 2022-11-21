@@ -1,59 +1,59 @@
-position,times,team,Name,gender,clubnumber,Club name,Website
-1,0:04:35,48F,Brooke Dawson,F,48,Springburn Harriers,
-2,0:04:37,7F,Eilidh Brown ,F,7,Giffnock North AC,
-3,0:04:39,14F,Isla Milligan,F,14,Ayr Seaforth AC,
-4,0:04:41,10F,Zoe Roberts,F,10,Shettleston Harriers,
-5,0:04:43,1F,ZOE BAILLIE,F,1,East Kilbride AC,http://www.ekac.org.uk/
-6,0:04:43,2F,Megan Haggarty,F,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
-7,0:04:46,34F,,F,34,Kilbarchan AAC,
-8,0:04:54,48F,Willow Smith,F,48,Springburn Harriers,
-9,0:04:55,11F,Zara Gillespie ,F,11,Airdrie Harriers,
-10,0:04:55,6F,Brooke Walker,F,6,Cambuslang Harriers,
-11,0:05:01,54F,Caitlin Laing,F,54,VP-Glasgow,
-12,0:05:03,44F,Isla Preston,F,44,North Ayrshire AAC,
-13,0:05:04,2F,Ava Warboys,F,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
-14,0:05:10,4F,Iona Wilson,F,4,Inverclyde AC,
-15,0:05:13,37F,Abbie Boyle,F,37,Law & District AAC,
-16,0:05:14,10F,Charolotte Reilly,F,10,Shettleston Harriers,
-17,0:05:14,10F,Eilidh Stevens,F,10,Shettleston Harriers,
-18,0:05:14,1F,LOTTIE SIM,F,1,East Kilbride AC,http://www.ekac.org.uk/
-19,0:05:17,7F,Chloe Simpson,F,7,Giffnock North AC,
-20,0:05:19,7F,Lotty Martin,F,7,Giffnock North AC,
-21,0:05:21,4F,Rosie Callan,F,4,Inverclyde AC,
-22,0:05:21,1F,ELSPETH THORPE,F,1,East Kilbride AC,http://www.ekac.org.uk/
-23,0:05:21,11F,Georgia McMahon ,F,11,Airdrie Harriers,
-24,0:05:21,54F,Freya Jarvie,F,54,VP-Glasgow,
-25,0:05:24,7F,Lola Saez,F,7,Giffnock North AC,
-26,0:05:27,7F,Anna Macfarlane,F,7,Giffnock North AC,
-27,0:05:30,37F,Allyssa Bennet,F,37,Law & District AAC,
-28,0:05:30,1F,REEVE STUART,F,1,East Kilbride AC,http://www.ekac.org.uk/
-29,0:05:32,1F,REBECCA CHAPMAN,F,1,East Kilbride AC,http://www.ekac.org.uk/
-30,0:05:33,7F,Aurora MacIntyre,F,7,Giffnock North AC,
-31,0:05:35,11F,Jorgie Gairn ,F,11,Airdrie Harriers,
-32,0:05:38,7F,Abbie Gallagher ,F,7,Giffnock North AC,
-33,0:05:40,14F,Murrin Ronney,F,14,Ayr Seaforth AC,
-34,0:05:40,1F,JESSICA CASKIE,F,1,East Kilbride AC,http://www.ekac.org.uk/
-35,0:05:43,11F,Bethany Hawkins,F,11,Airdrie Harriers,
-36,0:05:43,1F,REBECCA PEW,F,1,East Kilbride AC,http://www.ekac.org.uk/
-37,0:05:44,4F,Annie Henry,F,4,Inverclyde AC,
-38,0:05:45,44F,Lacey Dailly,F,44,North Ayrshire AAC,
-39,0:05:45,36F,,F,36,Larkhall YMCA,
-40,0:05:49,7F,Keira Saez,F,7,Giffnock North AC,
-41,0:05:54,10F,Amelia mcGurn ,F,10,Shettleston Harriers,
-42,0:05:57,4F,Emily Kane,F,4,Inverclyde AC,
-43,0:05:57,11F,Alice Philips,F,11,Airdrie Harriers,
-44,0:05:58,11F,Emily Davey,F,11,Airdrie Harriers,
-45,0:05:58,1F,DAISY CLARKE,F,1,East Kilbride AC,http://www.ekac.org.uk/
-46,0:06:02,37F,Layla Kirk,F,37,Law & District AAC,
-47,0:06:02,37F,Helena Wotherspoon,F,37,Law & District AAC,
-48,0:06:05,11F,Gracie Martin,F,11,Airdrie Harriers,
-49,0:06:06,48F,Caoimhe McNulty,F,48,Springburn Harriers,
-50,0:06:09,6F,Gemma Drummond,F,6,Cambuslang Harriers,
-51,0:06:10,7F,Isla Mostyn,F,7,Giffnock North AC,
-52,0:06:13,7F,Emma Wilkinson ,F,7,Giffnock North AC,
-53,0:06:17,6F,Holly Greer,F,6,Cambuslang Harriers,
-54,0:06:23,57F,Ailsa McKenzie,F,57,Whitemoss AAC,
-55,0:06:28,48F,Sofia Stanley,F,48,Springburn Harriers,
-56,0:06:32,57F,Jessica Menzies,F,57,Whitemoss AAC,
-57,0:06:49,37F,Emma Preston,F,37,Law & District AAC,
-58,0:07:02,1F,CAIOMHE GALLAGHER,F,1,East Kilbride AC,http://www.ekac.org.uk/
+position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
+1,0:04:35,48F,Brooke Dawson,F,U11,48,Springburn Harriers,
+2,0:04:37,7F,Eilidh Brown,F,U11,7,Giffnock North AC,
+3,0:04:39,14F,Isla Milligan,F,U11,14,Ayr Seaforth AC,
+4,0:04:41,10F,Zoe Roberts,F,U11,10,Shettleston Harriers,
+5,0:04:43,1F,ZOE BAILLIE,F,U11,1,East Kilbride AC,http://www.ekac.org.uk/
+6,0:04:43,2F,Megan Haggarty,F,U11,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
+7,0:04:46,34F,,F,U11,34,Kilbarchan AAC,
+8,0:04:54,48F,Willow Smith,F,U11,48,Springburn Harriers,
+9,0:04:55,11F,Zara Gillespie,F,U11,11,Airdrie Harriers,
+10,0:04:55,6F,Brooke Walker,F,U11,6,Cambuslang Harriers,
+11,0:05:01,54F,Caitlin Laing,F,U11,54,VP-Glasgow,
+12,0:05:03,44F,Isla Preston,F,U11,44,North Ayrshire AAC,
+13,0:05:04,2F,Ava Warboys,F,U11,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
+14,0:05:10,4F,Iona Wilson,F,U11,4,Inverclyde AC,
+15,0:05:13,37F,Abbie Boyle,F,U11,37,Law & District AAC,
+16,0:05:14,10F,Charolotte Reilly,F,U11,10,Shettleston Harriers,
+17,0:05:14,10F,Eilidh Stevens,F,U11,10,Shettleston Harriers,
+18,0:05:14,1F,LOTTIE SIM,F,U11,1,East Kilbride AC,http://www.ekac.org.uk/
+19,0:05:17,7F,Chloe Simpson,F,U11,7,Giffnock North AC,
+20,0:05:19,7F,Lotty Martin,F,U11,7,Giffnock North AC,
+21,0:05:21,4F,Rosie Callan,F,U11,4,Inverclyde AC,
+22,0:05:21,1F,ELSPETH THORPE,F,U11,1,East Kilbride AC,http://www.ekac.org.uk/
+23,0:05:21,11F,Georgia McMahon,F,U11,11,Airdrie Harriers,
+24,0:05:21,54F,Freya Jarvie,F,U11,54,VP-Glasgow,
+25,0:05:24,7F,Lola Saez,F,U11,7,Giffnock North AC,
+26,0:05:27,7F,Anna Macfarlane,F,U11,7,Giffnock North AC,
+27,0:05:30,37F,Allyssa Bennet,F,U11,37,Law & District AAC,
+28,0:05:30,1F,REEVE STUART,F,U11,1,East Kilbride AC,http://www.ekac.org.uk/
+29,0:05:32,1F,REBECCA CHAPMAN,F,U11,1,East Kilbride AC,http://www.ekac.org.uk/
+30,0:05:33,7F,Aurora MacIntyre,F,U11,7,Giffnock North AC,
+31,0:05:35,11F,Jorgie Gairn,F,U11,11,Airdrie Harriers,
+32,0:05:38,7F,Abbie Gallagher,F,U11,7,Giffnock North AC,
+33,0:05:40,14F,Murrin Ronney,F,U11,14,Ayr Seaforth AC,
+34,0:05:40,1F,JESSICA CASKIE,F,U11,1,East Kilbride AC,http://www.ekac.org.uk/
+35,0:05:43,11F,Bethany Hawkins,F,U11,11,Airdrie Harriers,
+36,0:05:43,1F,REBECCA PEW,F,U11,1,East Kilbride AC,http://www.ekac.org.uk/
+37,0:05:44,4F,Annie Henry,F,U11,4,Inverclyde AC,
+38,0:05:45,44F,Lacey Dailly,F,U11,44,North Ayrshire AAC,
+39,0:05:45,36F,,F,U11,36,Larkhall YMCA,
+40,0:05:49,7F,Keira Saez,F,U11,7,Giffnock North AC,
+41,0:05:54,10F,Amelia mcGurn,F,U11,10,Shettleston Harriers,
+42,0:05:57,4F,Emily Kane,F,U11,4,Inverclyde AC,
+43,0:05:57,11F,Alice Philips,F,U11,11,Airdrie Harriers,
+44,0:05:58,11F,Emily Davey,F,U11,11,Airdrie Harriers,
+45,0:05:58,1F,DAISY CLARKE,F,U11,1,East Kilbride AC,http://www.ekac.org.uk/
+46,0:06:02,37F,Layla Kirk,F,U11,37,Law & District AAC,
+47,0:06:02,37F,Helena Wotherspoon,F,U11,37,Law & District AAC,
+48,0:06:05,11F,Gracie Martin,F,U11,11,Airdrie Harriers,
+49,0:06:06,48F,Caoimhe McNulty,F,U11,48,Springburn Harriers,
+50,0:06:09,6F,Gemma Drummond,F,U11,6,Cambuslang Harriers,
+51,0:06:10,7F,Isla Mostyn,F,U11,7,Giffnock North AC,
+52,0:06:13,7F,Emma Wilkinson,F,U11,7,Giffnock North AC,
+53,0:06:17,6F,Holly Greer,F,U11,6,Cambuslang Harriers,
+54,0:06:23,57F,Ailsa McKenzie,F,U11,57,Whitemoss AAC,
+55,0:06:28,48F,Sofia Stanley,F,U11,48,Springburn Harriers,
+56,0:06:32,57F,Jessica Menzies,F,U11,57,Whitemoss AAC,
+57,0:06:49,37F,Emma Preston,F,U11,37,Law & District AAC,
+58,0:07:02,1F,CAIOMHE GALLAGHER,F,U11,1,East Kilbride AC,http://www.ekac.org.uk/

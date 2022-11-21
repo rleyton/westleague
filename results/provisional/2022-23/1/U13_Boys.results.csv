@@ -1,29 +1,29 @@
-position,times,team,Name,gender,clubnumber,Club name,Website
-1,0:08:52,9M,Connor Campbell,M,9,Garscube Harriers,
-2,0:08:54,7M,Cameron Nugent,M,7,Giffnock North AC,
-3,0:09:07,7M,Kian Dick,M,7,Giffnock North AC,
-4,0:09:15,7M,Max Deery,M,7,Giffnock North AC,
-5,0:09:24,7M,Joseph Mowat,M,7,Giffnock North AC,
-6,0:09:42,37M,Cameron Chambers,M,37,Law & District AAC,
-7,0:09:47,48M,Gregor McNaught,M,48,Springburn Harriers,
-8,0:09:51,6M,Rory Barclay,M,6,Cambuslang Harriers,
-9,0:09:52,7M,Adam Tortolano,M,7,Giffnock North AC,
-10,0:10:05,7M,Ollie Macfarlane,M,7,Giffnock North AC,
-11,0:10:10,37M,Jamie Mackie,M,37,Law & District AAC,
-12,0:10:13,6M,Jack Gillon,M,6,Cambuslang Harriers,
-13,0:10:33,1M,CAMERON McKIGGAN,M,1,East Kilbride AC,http://www.ekac.org.uk/
-14,0:10:39,7M,Luca Saez,M,7,Giffnock North AC,
-15,0:10:42,4M,Charlie lyne,M,4,Inverclyde AC,
-16,0:10:50,7M,Campbell Miller,M,7,Giffnock North AC,
-17,0:10:51,10M,Lucas Millican ,M,10,Shettleston Harriers,
-18,0:11:00,4M,Archie Reid,M,4,Inverclyde AC,
-19,0:11:01,34M,,M,34,Kilbarchan AAC,
-20,0:11:02,10M,Sam McGowan,M,10,Shettleston Harriers,
-21,0:11:13,2M,Callum O'Neil,M,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
-22,0:11:18,11M,Nathan Reynolds ,M,11,Airdrie Harriers,
-23,0:11:25,14M,Iain Maclean,M,14,Ayr Seaforth AC,
-24,0:11:51,4M,Sol Currie,M,4,Inverclyde AC,
-25,0:12:11,54M,Theo Macadam,M,54,VP-Glasgow,
-26,0:12:21,2M,Rory O'Neil ,M,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
-27,0:12:42,44M,Kyle Caldwell,M,44,North Ayrshire AAC,
-28,0:13:43,1M,SAM HENDRY,M,1,East Kilbride AC,http://www.ekac.org.uk/
+position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
+1,0:08:52,9M,Connor Campbell,M,U13,9,Garscube Harriers,
+2,0:08:54,7M,Cameron Nugent,M,U13,7,Giffnock North AC,
+3,0:09:07,7M,Kian Dick,M,U13,7,Giffnock North AC,
+4,0:09:15,7M,Max Deery,M,U13,7,Giffnock North AC,
+5,0:09:24,7M,Joseph Mowat,M,U13,7,Giffnock North AC,
+6,0:09:42,37M,Cameron Chambers,M,U13,37,Law & District AAC,
+7,0:09:47,48M,Gregor McNaught,M,U13,48,Springburn Harriers,
+8,0:09:51,6M,Rory Barclay,M,U13,6,Cambuslang Harriers,
+9,0:09:52,7M,Adam Tortolano,M,U13,7,Giffnock North AC,
+10,0:10:05,7M,Ollie Macfarlane,M,U13,7,Giffnock North AC,
+11,0:10:10,37M,Jamie Mackie,M,U13,37,Law & District AAC,
+12,0:10:13,6M,Jack Gillon,M,U13,6,Cambuslang Harriers,
+13,0:10:33,1M,CAMERON McKIGGAN,M,U13,1,East Kilbride AC,http://www.ekac.org.uk/
+14,0:10:39,7M,Luca Saez,M,U13,7,Giffnock North AC,
+15,0:10:42,4M,Charlie lyne,M,U13,4,Inverclyde AC,
+16,0:10:50,7M,Campbell Miller,M,U13,7,Giffnock North AC,
+17,0:10:51,10M,Lucas Millican,M,U13,10,Shettleston Harriers,
+18,0:11:00,4M,Archie Reid,M,U13,4,Inverclyde AC,
+19,0:11:01,34M,,M,U13,34,Kilbarchan AAC,
+20,0:11:02,10M,Sam McGowan,M,U13,10,Shettleston Harriers,
+21,0:11:13,2M,Callum O'Neil,M,U13,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
+22,0:11:18,11M,Nathan Reynolds,M,U13,11,Airdrie Harriers,
+23,0:11:25,14M,Iain Maclean,M,U13,14,Ayr Seaforth AC,
+24,0:11:51,4M,Sol Currie,M,U13,4,Inverclyde AC,
+25,0:12:11,54M,Theo Macadam,M,U13,54,VP-Glasgow,
+26,0:12:21,2M,Rory O'Neil,M,U13,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
+27,0:12:42,44M,Kyle Caldwell,M,U13,44,North Ayrshire AAC,
+28,0:13:43,1M,SAM HENDRY,M,U13,1,East Kilbride AC,http://www.ekac.org.uk/
