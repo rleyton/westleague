@@ -1,6 +1,8 @@
 # Notes
 
-These are early provisional results, showing individual results.
+These are very early provisional results, showing individual results.
+
+Apologies for the longer than expected delay in publishing.
 
 # Known issues
 
@@ -11,4 +13,4 @@ These are early provisional results, showing individual results.
 
 # Queries
 
-Queries to [results@westleague.org.uk](results@westleague.org.uk) please
+Queries to `results@westleague.org.uk` please
