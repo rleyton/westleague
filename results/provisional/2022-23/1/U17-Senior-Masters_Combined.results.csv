@@ -113,51 +113,50 @@ position,times,team,Name,gender,clubnumber,Club name,Website
 112,0:34:31,8F,Marianne Wilson,F,8,Bellahouston Harriers,
 113,0:34:32,1M,LUKE KIRWAN,M,1,East Kilbride AC,http://www.ekac.org.uk/
 114,0:34:36,9M,Anthony Mcgale,M,9,Garscube Harriers,
-115,0:34:38,6F,Carole Setchell,F,6,Cambuslang Harriers,
-116,0:34:45,37F,Lesley Graham,F,37,Law & District AAC,
-117,0:34:54,8M,Iain Morrison,M,8,Bellahouston Harriers,
-118,0:34:56,56M,Allen Campbell,M,56,West End RR,
-119,0:35:01,48M,Glenn McKinstry,M,48,Springburn Harriers,
-120,0:35:02,6F,Erica Christie,F,6,Cambuslang Harriers,
-121,0:35:03,3M,Tony Breslin,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
-122,0:35:12,3M,Jonny Moran,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
-123,0:35:22,3M,Gerard Croser,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
-124,0:35:24,2M,Stewart McAllister,M,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
-125,0:35:31,10M,David Clarkson ,M,10,Shettleston Harriers,
-126,0:35:35,42F,Emma Craig,F,42,Newton Road Runners,
-127,0:35:39,37M,Mark Milligan,M,37,Law & District AAC,
-128,0:35:55,48M,Joe Chambers,M,48,Springburn Harriers,
-129,0:36:00,5M,Andrew Mott,M,5,Westerlands CCC,
-130,0:36:08,56M,Jim Speakman,M,56,West End RR,
-131,0:36:12,53M,Alan Dunlop,M,53,Troon Tortoises,
-132,0:36:14,46M,Robert White ,M,46,Royal Mail Run GMC,
-133,0:36:16,44F,Fiona Comrie,F,44,North Ayrshire AAC,
-134,0:36:28,5M,Fraser Reid,M,5,Westerlands CCC,
-135,0:36:37,6F,Iain Crawford,F,6,Cambuslang Harriers,
-136,0:37:02,1F,VIVIEN THORPE,F,1,East Kilbride AC,http://www.ekac.org.uk/
-137,0:37:11,37F,Christine Neill,F,37,Law & District AAC,
-138,0:37:18,8F,Rebecca Simister,F,8,Bellahouston Harriers,
-139,0:37:36,3F,Laura Wilkinson,F,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
-140,0:37:38,30M,Gerry Gallacher,M,30,Greenock Glenpark Harriers,
-141,0:37:45,3F,Joni Lindsay,F,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
-142,0:38:00,6M,,M,6,Cambuslang Harriers,
-143,0:38:04,3F,Charlotte Parkinson,F,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
-144,0:38:17,56F,Beth Murrison,F,56,West End RR,
-145,0:38:19,42F,Fiona Thomson,F,42,Newton Road Runners,
-146,0:38:30,42M,Kieran Mark,M,42,Newton Road Runners,
-147,0:38:53,37M,John O'Leary,M,37,Law & District AAC,
-148,0:38:59,57F,Amy Oliphant,F,57,Whitemoss AAC,
-149,0:39:20,56M,Trevor Wayman,M,56,West End RR,
-150,0:39:27,3F,Pauline Wright,F,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
-151,0:39:52,53F,Anne Noble,F,53,Troon Tortoises,
-152,0:40:01,56F,Ray Musleh,F,56,West End RR,
-153,0:41:09,1F,RACHAEL WILLIAMS,F,1,East Kilbride AC,http://www.ekac.org.uk/
-154,0:41:13,8F,Stephanie Rudd,F,8,Bellahouston Harriers,
-155,0:41:48,3F,Rhoda Yarmahmoudi,F,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
-156,0:42:19,1F,GEMMA KIRWAN,F,1,East Kilbride AC,http://www.ekac.org.uk/
-157,0:53:14,30F,Sarah Jane Whalen,F,30,Greenock Glenpark Harriers,
-158,0:44:10,8M,John Beckett,M,8,Bellahouston Harriers,
-159,0:44:39,8F,Karen Rosling,F,8,Bellahouston Harriers,
-160,0:44:55,10M,Zoe Barber only female,M,10,Shettleston Harriers,
-161,0:45:47,36M,,M,36,Larkhall YMCA,
-162,0:46:17,5F,Weibke Lammers,F,5,Westerlands CCC,
+115,0:34:45,37F,Lesley Graham,F,37,Law & District AAC,
+116,0:34:54,8M,Iain Morrison,M,8,Bellahouston Harriers,
+117,0:34:56,56M,Allen Campbell,M,56,West End RR,
+118,0:35:01,48M,Glenn McKinstry,M,48,Springburn Harriers,
+119,0:35:02,6F,Erica Christie,F,6,Cambuslang Harriers,
+120,0:35:03,3M,Tony Breslin,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+121,0:35:12,3M,Jonny Moran,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+122,0:35:22,3M,Gerard Croser,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+123,0:35:24,2M,Stewart McAllister,M,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
+124,0:35:31,10M,David Clarkson ,M,10,Shettleston Harriers,
+125,0:35:35,42F,Emma Craig,F,42,Newton Road Runners,
+126,0:35:39,37M,Mark Milligan,M,37,Law & District AAC,
+127,0:35:55,48M,Joe Chambers,M,48,Springburn Harriers,
+128,0:36:00,5M,Andrew Mott,M,5,Westerlands CCC,
+129,0:36:08,56M,Jim Speakman,M,56,West End RR,
+130,0:36:12,53M,Alan Dunlop,M,53,Troon Tortoises,
+131,0:36:14,46M,Robert White ,M,46,Royal Mail Run GMC,
+132,0:36:16,44F,Fiona Comrie,F,44,North Ayrshire AAC,
+133,0:36:28,5M,Fraser Reid,M,5,Westerlands CCC,
+134,0:36:37,6F,Iain Crawford,F,6,Cambuslang Harriers,
+135,0:37:02,1F,VIVIEN THORPE,F,1,East Kilbride AC,http://www.ekac.org.uk/
+136,0:37:11,37F,Christine Neill,F,37,Law & District AAC,
+137,0:37:18,8F,Rebecca Simister,F,8,Bellahouston Harriers,
+138,0:37:36,3F,Laura Wilkinson,F,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+139,0:37:38,30M,Gerry Gallacher,M,30,Greenock Glenpark Harriers,
+140,0:37:45,3F,Joni Lindsay,F,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+141,0:38:00,6M,,M,6,Cambuslang Harriers,
+142,0:38:04,3F,Charlotte Parkinson,F,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+143,0:38:17,56F,Beth Murrison,F,56,West End RR,
+144,0:38:19,42F,Fiona Thomson,F,42,Newton Road Runners,
+145,0:38:30,42M,Kieran Mark,M,42,Newton Road Runners,
+146,0:38:53,37M,John O'Leary,M,37,Law & District AAC,
+147,0:38:59,57F,Amy Oliphant,F,57,Whitemoss AAC,
+148,0:39:20,56M,Trevor Wayman,M,56,West End RR,
+149,0:39:27,3F,Pauline Wright,F,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+150,0:39:52,53F,Anne Noble,F,53,Troon Tortoises,
+151,0:40:01,56F,Ray Musleh,F,56,West End RR,
+152,0:41:09,1F,RACHAEL WILLIAMS,F,1,East Kilbride AC,http://www.ekac.org.uk/
+153,0:41:13,8F,Stephanie Rudd,F,8,Bellahouston Harriers,
+154,0:41:48,3F,Rhoda Yarmahmoudi,F,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+155,0:42:19,1F,GEMMA KIRWAN,F,1,East Kilbride AC,http://www.ekac.org.uk/
+156,0:53:14,30F,Sarah Jane Whalen,F,30,Greenock Glenpark Harriers,
+157,0:44:10,8M,John Beckett,M,8,Bellahouston Harriers,
+158,0:44:39,8F,Karen Rosling,F,8,Bellahouston Harriers,
+159,0:44:55,10M,Zoe Barber only female,M,10,Shettleston Harriers,
+160,0:45:47,36M,,M,36,Larkhall YMCA,
+161,0:46:17,5F,Weibke Lammers,F,5,Westerlands CCC,
