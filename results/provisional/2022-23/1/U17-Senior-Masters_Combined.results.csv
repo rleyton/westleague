@@ -67,7 +67,7 @@ position,times,team,Name,gender,clubnumber,Club name,Website
 66,0:30:55,44M,Mark Preston,M,44,North Ayrshire AAC,
 67,0:31:56,10M,John Oates,M,10,Shettleston Harriers,
 68,0:31:04,48F,Ruth Fraser-Moodie,F,48,Springburn Harriers,
-69,0:31:05,42M,Peter Alexander,M,42,Newton Road RUnners,
+69,0:31:05,42M,Peter Alexander,M,42,Newton Road Runners,
 70,0:31:15,10M,Duncam McAuley,M,10,Shettleston Harriers,
 71,0:31:20,10M,Bill Brechenridge,M,10,Shettleston Harriers,
 72,0:31:33,48M,Matt Stanley,M,48,Springburn Harriers,
@@ -100,9 +100,9 @@ position,times,team,Name,gender,clubnumber,Club name,Website
 99,0:33:44,37M,Mark Milligan,M,37,Law & District AAC,
 100,0:33:45,46M,Clem Clement,M,46,Royal Mail Run GMC,
 101,0:33:48,57M,James Cathie,M,57,Whitemoss AAC,
-102,0:33:50,22M,,M,22,Dumfries Harriers,
+102,0:33:50,2M,Alasdair Murray,M,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
 103,0:33:50,1M,PAUL STUART,M,1,East Kilbride AC,http://www.ekac.org.uk/
-104,0:33:55,2M,Alasdair Murray,M,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
+104,0:33:55,2M,Nick Carter,M,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
 105,0:34:02,14F,Lucy Stanley,F,14,Ayr Seaforth AC,
 106,0:34:03,57M,David Cathie,M,57,Whitemoss AAC,
 107,0:34:04,5M,Chris Furse,M,5,Westerlands CCC,
@@ -122,9 +122,9 @@ position,times,team,Name,gender,clubnumber,Club name,Website
 121,0:35:03,3M,Tony Breslin,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
 122,0:35:12,3M,Jonny Moran,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
 123,0:35:22,3M,Gerard Croser,M,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
-124,0:35:24,2M,Nick Carter,M,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
+124,0:35:24,2M,Stewart McAllister,M,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
 125,0:35:31,10M,David Clarkson ,M,10,Shettleston Harriers,
-126,0:35:35,42F,Emma Craig,F,42,Newton Road RUnners,
+126,0:35:35,42F,Emma Craig,F,42,Newton Road Runners,
 127,0:35:39,37M,Elaine Boyle,M,37,Law & District AAC,
 128,0:35:55,48M,Joe Chambers,M,48,Springburn Harriers,
 129,0:36:00,5M,Andrew Mott,M,5,Westerlands CCC,
@@ -143,8 +143,8 @@ position,times,team,Name,gender,clubnumber,Club name,Website
 142,0:38:00,6M,,M,6,Cambuslang Harriers,
 143,0:38:04,3F,Charlotte Parkinson,F,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
 144,0:38:17,56F,Beth Murrison,F,56,West End RR,
-145,0:38:19,42F,Fiona Thomson,F,42,Newton Road RUnners,
-146,0:38:30,42M,Kieran Mark,M,42,Newton Road RUnners,
+145,0:38:19,42F,Fiona Thomson,F,42,Newton Road Runners,
+146,0:38:30,42M,Kieran Mark,M,42,Newton Road Runners,
 147,0:38:53,37M,Christine Neill,M,37,Law & District AAC,
 148,0:38:59,57F,Amy Oliphant,F,57,Whitemoss AAC,
 149,0:39:20,56M,Trevor Wayman,M,56,West End RR,
