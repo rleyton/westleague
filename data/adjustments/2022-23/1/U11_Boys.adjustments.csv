@@ -1,2 +1,2 @@
-recordno,dataset,refrecord,adjustment
-1,times,8.5,=8
+recordno,dataset,refrecord,adjustment,note
+1,times,8.5,=8,missed time
