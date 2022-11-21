@@ -6,7 +6,6 @@ Apologies for the longer than expected delay in publishing.
 
 # Known issues
 
-* A disqualification to apply.
 * Some missing team submissions
 * Age categories not applied/displayed yet
 * No team results yet
