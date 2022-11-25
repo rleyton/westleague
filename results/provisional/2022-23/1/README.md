@@ -12,7 +12,7 @@
 
 * Known issue with additional Cambuslang record; TBC
 * Aware of a time or position issue around 27:00 that requires a bit of investigation
-* Competitions are exclusively by declared age category, so eg. a master finishing in top 4 for a senior team, isn't currently counted.
+* Competitions are exclusively by declared age category just now, so eg. a master finishing in overall top 4 for club, doesn't count towards seniors.
 
 # Queries
 
