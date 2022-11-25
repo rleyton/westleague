@@ -43,6 +43,7 @@ genders = pd.read_csv(GENDERS, index_col="shortcode")
 
 results = {}
 leagueResults = {}
+teamResults = {}
 
 # for each event we have files for
 for event in fetch_events_from_dir(DATA_DIR):
@@ -101,12 +102,9 @@ for event in fetch_events_from_dir(DATA_DIR):
     )
 
     # Now we have a results DataFrame, so process the competition results
-    # Iterate over the competitions in each result set (M, F in most; AgeCat in Seniors)
-    teamResults = {}
-    for event in results:
-        teamResults[event] = calculate_competition_points(
-            results=results[event], teams=teams, event=event
-        )
+    teamResults[event] = calculate_competition_points(
+        results=results[event], teams=teams, event=event
+    )
 
     # Produce the CSV outputs
 
