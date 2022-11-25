@@ -50,12 +50,15 @@ def load_result_times(sheet: Worksheet = None):
     if sheet is not None:
         returnTimes = []
         times = sheet.range(RESULT_TIME_RANGE)
+        missingValues = 0
         for time in times:
             if len(time.value) == 0:
-                # reached the end
-                break
+                missingValues += 1
             else:
                 returnTimes.append(time.value)
+
+            if missingValues > 10:
+                break
 
     return returnTimes
 

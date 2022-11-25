@@ -8,6 +8,7 @@ pandas = "*"
 gspread = "*"
 python-dotenv = "*"
 black = "*"
+openpyxl = "*"
 
 [dev-packages]
 

@@ -11,6 +11,22 @@
             "program": "tools/sheets-to-csv.py",
             "console": "integratedTerminal",
             "justMyCode": true
+        },
+        {
+            "name": "clubs-to-csv",
+            "type": "python",
+            "request": "launch",
+            "program": "tools/club-submissions-to-csv.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "process-results",
+            "type": "python",
+            "request": "launch",
+            "program": "tools/process-results.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
         }
     ]
 }
