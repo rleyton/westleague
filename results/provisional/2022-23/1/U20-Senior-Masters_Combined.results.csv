@@ -20,11 +20,11 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 19,0:26:52,30M,Dylan Crawford,M,SENIOR,30,Greenock Glenpark Harriers,
 20,0:26:56,14M,Kenny Neill,M,MASTER,14,Ayr Seaforth AC,
 21,0:27:04,1M,JACK KIRWAN,M,SENIOR,1,East Kilbride AC,http://www.ekac.org.uk/
-22,0:27:08,34M,Callum Matthews,M,,34,Kilbarchan AAC,
+22,0:27:08,34M,Callum Matthews,M,SENIOR,34,Kilbarchan AAC,
 23,0:27:08,10M,Paul Sorrie,M,MASTER,10,Shettleston Harriers,
 24,0:27:28,1M,JAMIE CLEMENTS,M,SENIOR,1,East Kilbride AC,http://www.ekac.org.uk/
 25,0:27:31,6M,Richard Carr,M,SENIOR,6,Cambuslang Harriers,
-26,0:27:40,4M,David Tamburini,M,master,4,Inverclyde AC,
+26,0:27:40,4M,David Tamburini,M,MASTER,4,Inverclyde AC,
 27,0:27:45,10M,Alex Clarkson,M,SENIOR,10,Shettleston Harriers,
 28,0:27:52,35M,,M,,35,Kirkintilloch Olympians,
 29,0:27:56,35M,,M,,35,Kirkintilloch Olympians,
@@ -40,7 +40,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 39,0:29:20,1M,CHRIS WATTERS,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/
 40,0:29:22,10M,Andrew Taylor,M,SENIOR,10,Shettleston Harriers,
 41,0:29:22,8M,Brent Brodie,M,MASTER,8,Bellahouston Harriers,
-42,0:29:25,4M,Alan Callan,M,master,4,Inverclyde AC,
+42,0:29:25,4M,Alan Callan,M,MASTER,4,Inverclyde AC,
 43,0:29:32,37M,Alan Neill,M,SENIOR,37,Law & District AAC,
 44,0:29:37,5M,Niall McAlinden,M,SENIOR,5,Westerlands CCC,
 45,0:29:41,14F,Kirstin Oakley,F,SENIOR,14,Ayr Seaforth AC,
