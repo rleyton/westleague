@@ -43,15 +43,16 @@ genders = pd.read_csv(GENDERS, index_col="shortcode")
 
 results = {}
 leagueResults = {}
+
+# for each event we have files for
 for event in fetch_events_from_dir(DATA_DIR):
     logging.debug(f"Processing: {event}")
 
     clubSubmissions = None
 
     record = {}
-    # raw data load
 
-    # Adjustments may not exist
+    # Check if we have adjustments
     try:
         record["adjustments"] = pd.read_csv(
             ADJUSTMENTS_DIR + "/" + event + EXT_ADJUSTMENTS + EXT_CSV
@@ -60,11 +61,13 @@ for event in fetch_events_from_dir(DATA_DIR):
         record["adjustments"] = None
         logging.debug(f"No adjustments for {event}")
 
+    # apply the adjustments
     record["times"] = adjust_times(
         pd.read_csv(DATA_DIR + "/" + event + EXT_TIMES + EXT_CSV),
         adjustments=record["adjustments"],
     )
 
+    # read the csv, and build a places (finish order) DataFrame
     record["places"] = process_teams(
         adjust_places(
             gender_process(
@@ -76,13 +79,16 @@ for event in fetch_events_from_dir(DATA_DIR):
         teamdf=teams,
     )
 
+    # Load the meta record
     record["meta"] = pd.read_csv(DATA_DIR + "/" + event + EXT_META + EXT_CSV)
 
+    # Build a team submissions (finish order, per club) DataFrame
     clubSubmissions = load_team_submissions(event=event)
 
-    # if event == "U11_Girls":
-    #     logging.debug(f"Break")
-
+    # Do the main results processing:
+    #  * Join the times to the finish order
+    #  * Apply the club names to the resulting data frame
+    #  * do some tidy-up
     results[event] = process_final_results(
         tidy_results(
             merge_runners(
@@ -94,17 +100,23 @@ for event in fetch_events_from_dir(DATA_DIR):
         adjustments=record["adjustments"],
     )
 
+    # Now we have a results DataFrame, so process the competition results
+    # Iterate over the competitions in each result set (M, F in most; AgeCat in Seniors)
     teamResults = {}
     for event in results:
         teamResults[event] = calculate_competition_points(
             results=results[event], teams=teams, event=event
         )
 
+    # Produce the CSV outputs
+
+    # core results
     if results[event] is not None:
         results[event].to_csv(RESULTS_DIR + "/" + event + ".results.csv", index=False)
     else:
         raise Exception(f"Unexpectedly no merged results for event {event}")
 
+    # team results
     if teamResults[event] is not None:
         for competition in teamResults[event]:
             for gender in teamResults[event][competition]:

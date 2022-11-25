@@ -29,10 +29,8 @@ def extract_range(sheet, range):
         columnStart = SheetColumns[range]
 
         # TODO: better rule?
-        # dataSlice = sheet.loc[np.r_[DataStart-1:len(sheet)]]
         dataSlice = sheet.loc[DataStart - 1 :]
-        # dataRange = dataSlice.iloc[:,columnStart:columnStart+columnsWide]
-        # dataRange = dataSlice.iloc[:,columnStart-1:columnStart+columnsWide].dropna(how="all").reset_index()
+
         dataRange = (
             dataSlice[dataSlice.columns[columnStart - 1 : columnStart + columnsWide]]
             .dropna(how="all")

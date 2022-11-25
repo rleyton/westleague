@@ -9,7 +9,6 @@ def adjust_places(places, adjustments):
     if places is not None and adjustments is not None:
         for index, row in adjustments.iterrows():
             # most commonly we're going to be inserting a time, based on another
-            # logging.debug(f"Processing adjustment")
 
             if row["dataset"] == "places":
                 # get as vars for easier reference, ditto adjustment for zero index
@@ -74,7 +73,6 @@ def process_final_results(results, adjustments):
                     # zero index adjustment
                     results = results.drop([record - 1])
 
-                    # results["position"] = np.where(results["position"] >= record, results["position"]-1 , results["position"])
                     results["position"] = results["position"].apply(
                         lambda x: x - 1 if x >= record else x
                     )

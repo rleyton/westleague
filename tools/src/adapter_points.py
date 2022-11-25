@@ -37,9 +37,9 @@ def get_competition_agecats(event):
             agecats = [agepart]
 
         # normalise filename MASTERS to MASTER to match the agecat
-        if 'MASTERS' in agecats:
-            agecats.remove('MASTERS')
-            agecats.append('MASTER')
+        if "MASTERS" in agecats:
+            agecats.remove("MASTERS")
+            agecats.append("MASTER")
 
         return agecats
     else:
@@ -198,35 +198,7 @@ def tidy_points(results=None):
         provisionalResults.insert(
             loc=0, column="position", value=np.arange(len(results)) + 1
         )
-        returnResults =  provisionalResults[provisionalResults['totalFinishers']>0]
+        returnResults = provisionalResults[provisionalResults["totalFinishers"] > 0]
         return returnResults
     else:
         return None
-
-    # groupedResults = results.groupby(competitionBreakout)
-
-    # # isSeniors=False
-    # # if event == 'U20-Senior-Masters_Combined':
-    # #     isSeniors=True
-    # #     grouped = results.groupby(['team','gender','AgeCat'])['position']
-    # # else:
-    # #     grouped = results.groupby(['team','gender'])['position']
-
-    # frames=[]
-    # for team,frame in groupedResults:
-    #     teamPoints = frame.head(counters).sum()
-    #     teamCounters = frame.head(counters).count()
-    #     (clubRecord,gender,agecat) = team
-
-    #     club = int(re.sub('[A-Z]','',clubRecord))
-    #     clubname= teams.loc[club]['Club name']
-    #     penaltyPoints = ( counters-teamCounters ) * eventPenalty
-    #     dict={'Gender':gender,'Team':clubRecord,"Club":clubname,"ParticipantPoints":teamPoints,"TeamParticipants":teamCounters,"PenaltyPoints":penaltyPoints,"EventPoints":penaltyPoints+teamPoints}
-    #     if isSeniors:
-    #         dict['AgeCat']=agecat
-    #     teamResults=pd.concat([teamResults,pd.DataFrame(dict,index=[0])])
-
-    # if isSeniors:
-    #     leagueResults[event] = teamResults.sort_values(by=['Gender','AgeCat','EventPoints'])
-    # else:
-    #     leagueResults[event] = teamResults.sort_values(by=['Gender','EventPoints'])
