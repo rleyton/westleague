@@ -31,7 +31,7 @@
   * multi-year?
 * Support time manipulation etc.
 * Graphs! Statistic! Prettyness
- * @bazzargh suggested looking at [https://datasette.io/](Datasette), which does seem quite tasty
+ * [@bazzargh](https://github.com/bazzargh/) suggested looking at [https://datasette.io/](Datasette), which does seem quite tasty
 
 # Example run
 
