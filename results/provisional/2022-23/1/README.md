@@ -1,3 +1,8 @@
+# Reference
+
+* See [the results and points system website page](https://westleague.org.uk/what-do-i-need-to-know/results-and-points-system/) for an explainer for how team results work.
+* See also the [East District League results page](http://www.salroadrunningandcrosscountrymedalists.co.uk/Archive/East%20District%20League/Template%20Files/Results/East%20District%20League%20Results%20index.html) for what we're broadly following/aspiring to.
+
 # Notes
 
 * Apologies for the delay in publishing. Juggling work, other commitments. Also on holiday.
