@@ -116,9 +116,9 @@ for event in fetch_events_from_dir(DATA_DIR):
 
     # team results
     if teamResults[event] is not None:
-        for competition in teamResults[event]:
-            for gender in teamResults[event][competition]:
-                teamResults[event][competition][gender].to_csv(
+        for gender in teamResults[event]:
+            for competition in teamResults[event][gender]:
+                teamResults[event][gender][competition].to_csv(
                     RESULTS_DIR
                     + "/"
                     + event
