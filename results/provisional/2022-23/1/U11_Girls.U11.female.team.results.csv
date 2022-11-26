@@ -1,16 +1,16 @@
 position,Club name,team,gender,finisherPositions,teamPoints,penaltyPoints,totalPoints,totalFinishers,Website
-1,Shettleston Harriers,10,F,"4,16,17",37,0,37,4,
-2,Giffnock North AC,7,F,"2,19,20",41,0,41,10,
+1,Shettleston Harriers,10,F,"4,16,17",37,0,37,4,http://shettlestonharriers.org.uk/
+2,Giffnock North AC,7,F,"2,19,20",41,0,41,10,https://www.giffnocknorth.co.uk/
 3,East Kilbride AC,1,F,"5,18,22",45,0,45,9,http://www.ekac.org.uk/
-4,Springburn Harriers,48,F,"1,8,49",58,0,58,4,
-5,Airdrie Harriers,11,F,"9,23,31",63,0,63,7,
-6,Inverclyde AC,4,F,"14,21,37",72,0,72,4,
+4,Springburn Harriers,48,F,"1,8,49",58,0,58,4,https://www.springburnharriers.co.uk/
+5,Airdrie Harriers,11,F,"9,23,31",63,0,63,7,http://airdrieharriers.org/
+6,Inverclyde AC,4,F,"14,21,37",72,0,72,4,https://www.inverclydeac.org/
 7,Kilmarnock H&AC,2,F,"6,13",19,68,87,2,http://www.kilmarnockharriers.com/
-8,Law & District AAC,37,F,"15,27,46",88,0,88,5,
+8,Law & District AAC,37,F,"15,27,46",88,0,88,5,http://www.lawaac.co.uk/
 9,VP-Glasgow,54,F,"11,24",35,68,103,2,
-10,Ayr Seaforth AC,14,F,"3,33",36,68,104,2,
-11,Cambuslang Harriers,6,F,"10,50,53",113,0,113,3,
-12,North Ayrshire AAC,44,F,"12,38",50,68,118,2,
-13,Kilbarchan AAC,34,F,7,7,136,143,1,
-14,Larkhall YMCA,36,F,39,39,136,175,1,
-15,Whitemoss AAC,57,F,"54,56",110,68,178,2,
+10,Ayr Seaforth AC,14,F,"3,33",36,68,104,2,https://www.ayrseaforth.co.uk/
+11,Cambuslang Harriers,6,F,"10,50,53",113,0,113,3,https://cambuslangharriers.org/
+12,North Ayrshire AAC,44,F,"12,38",50,68,118,2,https://naathletics.co.uk/
+13,Kilbarchan AAC,34,F,7,7,136,143,1,https://kilbarchanaac.org.uk/
+14,Larkhall YMCA,36,F,39,39,136,175,1,https://www.facebook.com/larkhallharriers/
+15,Whitemoss AAC,57,F,"54,56",110,68,178,2,https://whitemossaac.co.uk/

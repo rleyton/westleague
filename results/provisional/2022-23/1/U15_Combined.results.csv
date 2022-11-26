@@ -1,63 +1,63 @@
 position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
-1,0:12:36,7M,Tristan Robin,M,U15,7,Giffnock North AC,
-2,0:12:43,34M,Alistair Street,M,U15,34,Kilbarchan AAC,
-3,0:12:47,34M,Joshua Mungin,M,U15,34,Kilbarchan AAC,
-4,0:12:53,48M,Angus Fraser-Moodie,M,U15,48,Springburn Harriers,
-5,0:12:58,44M,Sam Walton,M,U15,44,North Ayrshire AAC,
-6,0:13:01,10M,Matthew Fox,M,U15,10,Shettleston Harriers,
-7,0:13:09,6M,Daibhidh Kinnaird,M,U15,6,Cambuslang Harriers,
-8,0:13:12,48M,Archie Watters,M,U15,48,Springburn Harriers,
-9,0:13:24,37M,John Frood,M,U15,37,Law & District AAC,
-10,0:13:24,7M,Aaron Reid,M,U15,7,Giffnock North AC,
-11,0:13:36,14M,Alasdair Maclean,M,U15,14,Ayr Seaforth AC,
-12,0:13:37,34F,Zara Redmond,F,U15,34,Kilbarchan AAC,
+1,0:12:36,7M,Tristan Robin,M,U15,7,Giffnock North AC,https://www.giffnocknorth.co.uk/
+2,0:12:43,34M,Alistair Street,M,U15,34,Kilbarchan AAC,https://kilbarchanaac.org.uk/
+3,0:12:47,34M,Joshua Mungin,M,U15,34,Kilbarchan AAC,https://kilbarchanaac.org.uk/
+4,0:12:53,48M,Angus Fraser-Moodie,M,U15,48,Springburn Harriers,https://www.springburnharriers.co.uk/
+5,0:12:58,44M,Sam Walton,M,U15,44,North Ayrshire AAC,https://naathletics.co.uk/
+6,0:13:01,10M,Matthew Fox,M,U15,10,Shettleston Harriers,http://shettlestonharriers.org.uk/
+7,0:13:09,6M,Daibhidh Kinnaird,M,U15,6,Cambuslang Harriers,https://cambuslangharriers.org/
+8,0:13:12,48M,Archie Watters,M,U15,48,Springburn Harriers,https://www.springburnharriers.co.uk/
+9,0:13:24,37M,John Frood,M,U15,37,Law & District AAC,http://www.lawaac.co.uk/
+10,0:13:24,7M,Aaron Reid,M,U15,7,Giffnock North AC,https://www.giffnocknorth.co.uk/
+11,0:13:36,14M,Alasdair Maclean,M,U15,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/
+12,0:13:37,34F,Zara Redmond,F,U15,34,Kilbarchan AAC,https://kilbarchanaac.org.uk/
 13,0:13:42,1M,FRANCIS SANTANGELI,M,U15,1,East Kilbride AC,http://www.ekac.org.uk/
 14,0:13:48,1M,BEN BAILLIE,M,U15,1,East Kilbride AC,http://www.ekac.org.uk/
 15,0:14:06,1M,DYLAN EDWARDS,M,U15,1,East Kilbride AC,http://www.ekac.org.uk/
 16,0:14:07,1M,GORDON BALLANTYNE,M,U15,1,East Kilbride AC,http://www.ekac.org.uk/
-17,0:14:11,11F,Millie Gairn,F,U15,11,Airdrie Harriers,
-18,0:14:13,14M,Sam McCrorie,M,U15,14,Ayr Seaforth AC,
-19,0:14:25,14M,Gregor Samson,M,U15,14,Ayr Seaforth AC,
-20,0:14:27,44M,Luke Grundy,M,U15,44,North Ayrshire AAC,
-21,0:14:27,34M,Ruaridh Miller,M,U15,34,Kilbarchan AAC,
+17,0:14:11,11F,Millie Gairn,F,U15,11,Airdrie Harriers,http://airdrieharriers.org/
+18,0:14:13,14M,Sam McCrorie,M,U15,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/
+19,0:14:25,14M,Gregor Samson,M,U15,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/
+20,0:14:27,44M,Luke Grundy,M,U15,44,North Ayrshire AAC,https://naathletics.co.uk/
+21,0:14:27,34M,Ruaridh Miller,M,U15,34,Kilbarchan AAC,https://kilbarchanaac.org.uk/
 22,0:14:37,1M,RORY CHARTERS,M,U15,1,East Kilbride AC,http://www.ekac.org.uk/
-23,0:14:41,34F,Cara McMinn,F,U15,34,Kilbarchan AAC,
-24,0:14:55,11F,Eihlinn Gillespie,F,U15,11,Airdrie Harriers,
-25,0:14:56,7F,Lauren McPherson,F,U15,7,Giffnock North AC,
-26,0:14:58,7M,Dillon Sim,M,U15,7,Giffnock North AC,
-27,0:14:58,36M,,M,U15,36,Larkhall YMCA,
-28,0:15:16,11M,Joshua Harmon,M,U15,11,Airdrie Harriers,
-29,0:15:19,37M,Daniel Simpson,M,U15,37,Law & District AAC,
-30,0:15:24,6M,Euan Reid,M,U15,6,Cambuslang Harriers,
-31,0:15:27,7F,Eva Saez,F,U15,7,Giffnock North AC,
-32,0:15:31,14M,Nicholas Latto,M,U15,14,Ayr Seaforth AC,
-33,0:15:38,7M,Zac Wright,M,U15,7,Giffnock North AC,
-34,0:15:42,48M,Umberto Minchella,M,U15,48,Springburn Harriers,
+23,0:14:41,34F,Cara McMinn,F,U15,34,Kilbarchan AAC,https://kilbarchanaac.org.uk/
+24,0:14:55,11F,Eihlinn Gillespie,F,U15,11,Airdrie Harriers,http://airdrieharriers.org/
+25,0:14:56,7F,Lauren McPherson,F,U15,7,Giffnock North AC,https://www.giffnocknorth.co.uk/
+26,0:14:58,7M,Dillon Sim,M,U15,7,Giffnock North AC,https://www.giffnocknorth.co.uk/
+27,0:14:58,36M,,M,U15,36,Larkhall YMCA,https://www.facebook.com/larkhallharriers/
+28,0:15:16,11M,Joshua Harmon,M,U15,11,Airdrie Harriers,http://airdrieharriers.org/
+29,0:15:19,37M,Daniel Simpson,M,U15,37,Law & District AAC,http://www.lawaac.co.uk/
+30,0:15:24,6M,Euan Reid,M,U15,6,Cambuslang Harriers,https://cambuslangharriers.org/
+31,0:15:27,7F,Eva Saez,F,U15,7,Giffnock North AC,https://www.giffnocknorth.co.uk/
+32,0:15:31,14M,Nicholas Latto,M,U15,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/
+33,0:15:38,7M,Zac Wright,M,U15,7,Giffnock North AC,https://www.giffnocknorth.co.uk/
+34,0:15:42,48M,Umberto Minchella,M,U15,48,Springburn Harriers,https://www.springburnharriers.co.uk/
 35,0:15:43,1F,EVA MORRISON,F,U15,1,East Kilbride AC,http://www.ekac.org.uk/
-36,0:15:50,48F,Skye Smith,F,U15,48,Springburn Harriers,
-37,0:16:12,34M,Lucas Watt,M,U15,34,Kilbarchan AAC,
+36,0:15:50,48F,Skye Smith,F,U15,48,Springburn Harriers,https://www.springburnharriers.co.uk/
+37,0:16:12,34M,Lucas Watt,M,U15,34,Kilbarchan AAC,https://kilbarchanaac.org.uk/
 38,0:16:20,1M,CHRISTOPHER PATON,M,U15,1,East Kilbride AC,http://www.ekac.org.uk/
-39,0:16:21,7F,Erin Reilly,F,U15,7,Giffnock North AC,
-40,0:16:36,6F,Olivia McNichol,F,U15,6,Cambuslang Harriers,
-41,0:16:42,11F,Lucille King,F,U15,11,Airdrie Harriers,
+39,0:16:21,7F,Erin Reilly,F,U15,7,Giffnock North AC,https://www.giffnocknorth.co.uk/
+40,0:16:36,6F,Olivia McNichol,F,U15,6,Cambuslang Harriers,https://cambuslangharriers.org/
+41,0:16:42,11F,Lucille King,F,U15,11,Airdrie Harriers,http://airdrieharriers.org/
 42,0:16:49,1F,KATIE FIELDING,F,U15,1,East Kilbride AC,http://www.ekac.org.uk/
-43,0:16:58,11F,Murryn Burns,F,U15,11,Airdrie Harriers,
-44,0:17:10,10F,Ava Millican,F,U15,10,Shettleston Harriers,
-45,0:17:13,37F,Alayna McCann,F,U15,37,Law & District AAC,
-46,0:17:14,34M,Alex Massie,M,U15,34,Kilbarchan AAC,
-47,0:17:16,44F,Eilidh Comrie,F,U15,44,North Ayrshire AAC,
-48,0:17:17,10F,Kate Monaghan,F,U15,10,Shettleston Harriers,
+43,0:16:58,11F,Murryn Burns,F,U15,11,Airdrie Harriers,http://airdrieharriers.org/
+44,0:17:10,10F,Ava Millican,F,U15,10,Shettleston Harriers,http://shettlestonharriers.org.uk/
+45,0:17:13,37F,Alayna McCann,F,U15,37,Law & District AAC,http://www.lawaac.co.uk/
+46,0:17:14,34M,Alex Massie,M,U15,34,Kilbarchan AAC,https://kilbarchanaac.org.uk/
+47,0:17:16,44F,Eilidh Comrie,F,U15,44,North Ayrshire AAC,https://naathletics.co.uk/
+48,0:17:17,10F,Kate Monaghan,F,U15,10,Shettleston Harriers,http://shettlestonharriers.org.uk/
 49,0:17:19,54F,Carys Murrison,F,U15,54,VP-Glasgow,
-50,0:17:20,34F,Poppy Bowers,F,U15,34,Kilbarchan AAC,
+50,0:17:20,34F,Poppy Bowers,F,U15,34,Kilbarchan AAC,https://kilbarchanaac.org.uk/
 51,0:17:30,1F,CARRIE CHARTERS,F,U15,1,East Kilbride AC,http://www.ekac.org.uk/
 52,0:17:37,1M,KIERAN BUDD,M,U15,1,East Kilbride AC,http://www.ekac.org.uk/
-53,0:17:49,37F,Sophie Nelson,F,U15,37,Law & District AAC,
-54,0:17:53,6F,Emma Ritchie,F,U15,6,Cambuslang Harriers,
+53,0:17:49,37F,Sophie Nelson,F,U15,37,Law & District AAC,http://www.lawaac.co.uk/
+54,0:17:53,6F,Emma Ritchie,F,U15,6,Cambuslang Harriers,https://cambuslangharriers.org/
 55,0:17:53,1F,OLIVIA BAXTER,F,U15,1,East Kilbride AC,http://www.ekac.org.uk/
-56,0:18:02,44F,Naideen Dailly,F,U15,44,North Ayrshire AAC,
+56,0:18:02,44F,Naideen Dailly,F,U15,44,North Ayrshire AAC,https://naathletics.co.uk/
 57,0:18:05,2F,Isla Fitzgerald,F,U15,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
-58,0:18:44,9F,Erin Burnet,F,U15,9,Garscube Harriers,
-59,0:19:32,36F,,F,U15,36,Larkhall YMCA,
+58,0:18:44,9F,Erin Burnet,F,U15,9,Garscube Harriers,https://www.garscubeharriers.org.uk/
+59,0:19:32,36F,,F,U15,36,Larkhall YMCA,https://www.facebook.com/larkhallharriers/
 60,0:19:55,1F,EMILY ALLAN,F,U15,1,East Kilbride AC,http://www.ekac.org.uk/
-61,0:20:14,37F,Erin McGurk,F,U15,37,Law & District AAC,
-62,0:20:22,7F,Lexie Martin,F,U15,7,Giffnock North AC,
+61,0:20:14,37F,Erin McGurk,F,U15,37,Law & District AAC,http://www.lawaac.co.uk/
+62,0:20:22,7F,Lexie Martin,F,U15,7,Giffnock North AC,https://www.giffnocknorth.co.uk/
