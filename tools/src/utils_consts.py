@@ -46,7 +46,7 @@ CompetitionsBreakouts = {
 SeniorAgeCats = ["senior", "u20", "master"]
 
 DEFAULT_COUNTERS = 3
-AgeCatCounterOverrides = {"SENIOR": 4}
+AgeCatCounterOverrides = {"SENIOR": 4, "OVERALL": 4}
 PENALTY_POINTS = 10
 
 
