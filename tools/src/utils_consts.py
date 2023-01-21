@@ -78,10 +78,10 @@ EXT_CSV = ".csv"
 EXT_ADJUSTMENTS = ".adjustments"
 
 # hard-coded for now
-DATA_DIR = "data/2022-23/1"
+DATA_DIR = "data/2022-23/2"
 CLUB_SUBMISSIONS = "club-submissions"
 CLUB_PARSED = "club-parsed"
-RESULTS_DIR = "results/provisional/2022-23/1"
+RESULTS_DIR = "results/provisional/2022-23/2"
 TEAMS = "data/reference/clubs.csv"
 GENDERS = "data/reference/genders.csv"
-ADJUSTMENTS_DIR = "data/adjustments/2022-23/1"
+ADJUSTMENTS_DIR = "data/adjustments/2022-23/2"
