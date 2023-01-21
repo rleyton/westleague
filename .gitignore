@@ -171,3 +171,5 @@ cython_debug/
 
 # results, for now
 results/**
+
+.DS_Store
