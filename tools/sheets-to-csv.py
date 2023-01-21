@@ -45,7 +45,7 @@ volunteers = pd.DataFrame({"volunteers": volunteers})
 volunteers.to_csv(DATA_DIR + "/" + "volunteers.csv", index=True)
 logging.info(f"Processing volunteers")
 
-# Wrange each of the race data sets
+# Wrangle each of the race data sets
 for race in race_results:
     (meta, times, team) = race_results[race]
 
@@ -53,6 +53,7 @@ for race in race_results:
     logging.info(f"Processing event: {event}")
 
     times = pd.DataFrame({"times": times})
+    # TODO: Sanity check time sequence
     times.to_csv(DATA_DIR + "/" + event + ".times.csv", index=True)
 
     places = pd.DataFrame({"team": team})

@@ -90,16 +90,19 @@ for event in fetch_events_from_dir(DATA_DIR):
     #  * Join the times to the finish order
     #  * Apply the club names to the resulting data frame
     #  * do some tidy-up
-    results[event] = process_final_results(
-        tidy_results(
-            merge_runners(
-                results_merge(times=record["times"], places=record["places"]),
-                clubSubmissions=clubSubmissions,
-                event=event,
-            )
-        ),
-        adjustments=record["adjustments"],
-    )
+    try:
+        results[event] = process_final_results(
+            tidy_results(
+                merge_runners(
+                    results_merge(times=record["times"], places=record["places"]),
+                    clubSubmissions=clubSubmissions,
+                    event=event,
+                )
+            ),
+            adjustments=record["adjustments"],
+        )
+    except Exception as e:
+        raise Exception(f"Problem processing event {event}: {e}")
 
     # Now we have a results DataFrame, so process the competition results
     teamResults[event] = calculate_competition_points(

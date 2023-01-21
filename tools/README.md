@@ -8,7 +8,13 @@
 
 * Requires python3.9
 * Run: `pipenv shell`
-* Run: `tools/process-results.py`
+* Processing steps:
+  * Check/review top-level [.env](../.env)
+  * Load Google Sheets transcripts: Run: `tools/sheets-to-csv.py`
+  * If staged club results available, run: `tools/club-submissions-to-csv.py`
+  * Run: `tools/process-results.py` and review initial output
+    * Add adjustments if required
+    * Review initial errors, eg. Time sequence/transcription issues, correct and re-download/process
 
 # Outline intent
 

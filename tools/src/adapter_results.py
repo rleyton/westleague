@@ -83,9 +83,12 @@ def normalise_agecat_record(agecat, event):
             for category in SeniorAgeCats:
                 if agecat.lower().__contains__(category):
                     return category.upper()
-            if agecat.lower()[:1] == "v":
+            # Some clubs put full agecat or similar, eg. V40, FV40, M40; normalise these down
+            if agecat.lower()[:1] == "v" or agecat.lower()[:1] == 'm' or agecat.lower().find('v'):
                 return "MASTER"
-            raise Exception("Unxpected age category")
+            elif agecat.lower()[:1] == 's':
+                return "SENIOR"
+            raise Exception("Unxpected age category: {agecat}")
         else:
             return coreEvent
     else:
