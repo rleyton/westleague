@@ -139,6 +139,7 @@ def merge_runners(results=None, clubSubmissions=None, event: str = None):
                     logging.error(
                         f"Insufficient names for club {clubnum} in event {event}"
                     )
+                    results.at[i,col] = "Unknown: {clubname}".format(clubname=results.at[i,'Club name'])
                 set_club_position(clubnum, clubPosition + 1)
 
     # if no age category in the results, add it from the implict event name
