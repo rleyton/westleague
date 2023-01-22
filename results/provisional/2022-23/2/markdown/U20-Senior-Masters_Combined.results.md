@@ -18,7 +18,7 @@
 |         16 | 0:26:38 | 30M    | Dylan Crawford        | M        | SENIOR   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
 |         17 | 0:26:43 | 6M     | Stevie Wylie          | M        | MASTER   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
 |         18 | 0:26:45 | 10M    | Andrew Taylor         | M        | SENIOR   |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |
-|         19 | 0:26:46 | 5M     | nan                   | M        | nan      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
+|         19 | 0:26:46 | 5M     | Robert Hamlin         | M        | SENIOR   |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
 |         20 | 0:26:56 | 1M     | nan                   | M        | nan      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
 |         21 | 0:27:08 | 1M     | nan                   | M        | nan      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
 |         22 | 0:27:31 | 1M     | nan                   | M        | nan      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
@@ -26,12 +26,12 @@
 |         24 | 0:27:34 | 1M     | nan                   | M        | nan      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
 |         25 | 0:27:51 | 3M     | Calum Borthwick       | M        | SENIOR   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
 |         26 | 0:28:01 | 37M    | Darran Muir           | M        | MASTER   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |
-|         27 | 0:28:04 | 5M     | nan                   | M        | nan      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
+|         27 | 0:28:04 | 5M     | Scott Henderson       | M        | MASTER   |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
 |         28 | 0:28:06 | 1M     | nan                   | M        | nan      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
 |         29 | 0:28:19 | 1M     | nan                   | M        | nan      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
 |         30 | 0:28:21 | 10M    | Andrew Jackson        | M        | SENIOR   |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |
 |         31 | 0:28:26 | 4M     | Alan Callan           | M        | MASTER   |            4 | Inverclyde AC              | https://www.inverclydeac.org/              |
-|         32 | 0:28:29 | 5M     | nan                   | M        | nan      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
+|         32 | 0:28:29 | 5M     | Niall McAlinden       | M        | SENIOR   |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
 |         33 | 0:28:35 | 14F    | Kirstin Oakley        | F        | SENIOR   |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
 |         34 | 0:28:46 | 37M    | Alan Neill            | M        | SENIOR   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |
 |         35 | 0:28:51 | 14F    | Emma Creasey          | F        | SENIOR   |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
@@ -58,7 +58,7 @@
 |         56 | 0:31:01 | 48F    | Ruth Fraser-Moodie    | F        | MASTER   |           48 | Springburn Harriers        | https://www.springburnharriers.co.uk/      |
 |         57 | 0:31:10 | 3M     | Gerry Scullion        | M        | MASTER   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
 |         58 | 0:31:21 | 6M     | Des Dickson           | M        | MASTER   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
-|         59 | 0:31:32 | 5M     | nan                   | M        | nan      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
+|         59 | 0:31:32 | 5M     | David Riach           | M        | MASTER   |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
 |         60 | 0:31:36 | 3M     | Dave Ferguson         | M        | MASTER   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
 |         61 | 0:31:38 | 3M     | Barry Edwards         | M        | SENIOR   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
 |         62 | 0:31:42 | 14F    | Morven Hubbard        | F        | SENIOR   |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
@@ -75,13 +75,13 @@
 |         73 | 0:32:54 | 2M     | nan                   | M        | nan      |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
 |         74 | 0:32:55 | 46M    | Donnie Inglis         | M        | MASTER   |           46 | Royal Mail Run GMC         | https://www.facebook.com/royalmailrungmc/  |
 |         75 | 0:32:58 | 17F    | Karen Allen           | F        | SENIOR   |           17 | Calderglen Harriers        | nan                                        |
-|         76 | 0:33:09 | 5M     | nan                   | M        | nan      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
+|         76 | 0:33:09 | 5M     | Daniel Reid           | M        | MASTER   |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
 |         77 | 0:33:17 | 37M    | Martin Kay            | M        | MASTER   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |
 |         78 | 0:33:19 | 14M    | Iain Pettigrew        | M        | SENIOR   |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
 |         79 | 0:33:28 | 2M     | nan                   | M        | nan      |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
 |         80 | 0:33:28 | 7F     | Hilary Carswell       | F        | MASTER   |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |
 |         81 | 0:33:34 | 14F    | Islay Hubbard         | F        | SENIOR   |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
-|         82 | 0:33:40 | 5M     | nan                   | M        | nan      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
+|         82 | 0:33:40 | 5M     | David Calder          | M        | MASTER   |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
 |         83 | 0:33:52 | 8M     | Paul Clawson          | M        | SENIOR   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
 |         84 | 0:33:58 | 6M     | Scott Hunter          | M        | MASTER   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
 |         85 | 0:33:58 | 1M     | nan                   | M        | nan      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
@@ -116,7 +116,7 @@
 |        114 | 0:37:32 | 3M     | Richard Leyton        | M        | MASTER   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
 |        115 | 0:37:33 | 17M    | Gordon McInally       | M        | MASTER   |           17 | Calderglen Harriers        | nan                                        |
 |        116 | 0:37:40 | 6F     | Erica Christie        | F        | MASTER   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
-|        117 | 0:38:04 | 5F     | nan                   | F        | nan      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
+|        117 | 0:38:04 | 5F     | Lorna Mahony          | F        | MASTER   |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
 |        118 | 0:38:06 | 8M     | Simon McDougall       | M        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
 |        119 | 0:38:42 | 17M    | Kenny Leinster        | M        | MASTER   |           17 | Calderglen Harriers        | nan                                        |
 |        120 | 0:38:58 | 46M    | Robert White          | M        | MASTER   |           46 | Royal Mail Run GMC         | https://www.facebook.com/royalmailrungmc/  |
