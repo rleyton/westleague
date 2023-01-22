@@ -1,0 +1,15 @@
+|   position | Club name                  |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                    |
+|-----------:|:---------------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
+|          1 | Ayr Seaforth AC            |     14 | F        | 1,2,3,5             |           11 |               0 |            11 |                7 | https://www.ayrseaforth.co.uk/             |
+|          2 | Kilmarnock H&AC            |      2 | F        | 6,14,16,17          |           53 |               0 |            53 |                4 | http://www.kilmarnockharriers.com/         |
+|          3 | Calderglen Harriers        |     17 | F        | 8,10,18,24          |           60 |               0 |            60 |                4 | nan                                        |
+|          4 | Bellahouston RR            |      3 | F        | 19,21,23,26         |           89 |               0 |            89 |                5 | https://www.bellahoustonroadrunners.co.uk/ |
+|          5 | Law & District AAC         |     37 | F        | 9,13,25             |           47 |              44 |            91 |                3 | http://www.lawaac.co.uk/                   |
+|          6 | East Kilbride AC           |      1 | F        | 7,20,32             |           59 |              44 |           103 |                3 | http://www.ekac.org.uk/                    |
+|          7 | Springburn Harriers        |     48 | F        | 4                   |            4 |             132 |           136 |                1 | https://www.springburnharriers.co.uk/      |
+|          8 | Giffnock North AC          |      7 | F        | 11                  |           11 |             132 |           143 |                1 | https://www.giffnocknorth.co.uk/           |
+|          9 | Bellahouston Harriers      |      8 | F        | 22,34               |           56 |              88 |           144 |                2 | http://www.bellahoustonharriers.co.uk/     |
+|         10 | Cambuslang Harriers        |      6 | F        | 28                  |           28 |             132 |           160 |                1 | https://cambuslangharriers.org/            |
+|         11 | Westerlands CCC            |      5 | F        | 29                  |           29 |             132 |           161 |                1 | https://westerlandsccc.co.uk/              |
+|         12 | Troon Tortoises            |     53 | F        | 31                  |           31 |             132 |           163 |                1 | https://www.ayrseaforth.co.uk/             |
+|         13 | Ayrodynamic Triathlon Club |     15 | F        | 33                  |           33 |             132 |           165 |                1 | nan                                        |

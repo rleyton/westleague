@@ -1,0 +1,14 @@
+|   position | Club name                  |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                    |
+|-----------:|:---------------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
+|          1 | Shettleston Harriers       |     10 | M        | 3,7,10,12           |           32 |               0 |            32 |                4 | http://shettlestonharriers.org.uk/         |
+|          2 | Cambuslang Harriers        |      6 | M        | 2,4,8               |           14 |              34 |            48 |                3 | https://cambuslangharriers.org/            |
+|          3 | Giffnock North AC          |      7 | M        | 1,5                 |            6 |              68 |            74 |                2 | https://www.giffnocknorth.co.uk/           |
+|          4 | Bellahouston RR            |      3 | M        | 11,14,18            |           43 |              34 |            77 |                3 | https://www.bellahoustonroadrunners.co.uk/ |
+|          5 | Law & District AAC         |     37 | M        | 13,15,24            |           52 |              34 |            86 |                3 | http://www.lawaac.co.uk/                   |
+|          6 | Ayr Seaforth AC            |     14 | M        | 16,21               |           37 |              68 |           105 |                2 | https://www.ayrseaforth.co.uk/             |
+|          7 | VP-Glasgow                 |     54 | M        | 6                   |            6 |             102 |           108 |                1 | nan                                        |
+|          8 | Bellahouston Harriers      |      8 | M        | 20,22               |           42 |              68 |           110 |                2 | http://www.bellahoustonharriers.co.uk/     |
+|          9 | Greenock Glenpark Harriers |     30 | M        | 9                   |            9 |             102 |           111 |                1 | https://greenockglenparkharriers.com/      |
+|         10 | West End RR                |     56 | M        | 17                  |           17 |             102 |           119 |                1 | https://www.westendroadrunners.co.uk/      |
+|         11 | Garscube Harriers          |      9 | M        | 19                  |           19 |             102 |           121 |                1 | https://www.garscubeharriers.org.uk/       |
+|         12 | Springburn Harriers        |     48 | M        | 23                  |           23 |             102 |           125 |                1 | https://www.springburnharriers.co.uk/      |

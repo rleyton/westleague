@@ -1,0 +1,4 @@
+|   position | Club name         |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                          |
+|-----------:|:------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:---------------------------------|
+|          1 | VP-Glasgow        |     54 | M        | 2,3                 |            5 |              13 |            18 |                2 | nan                              |
+|          2 | Giffnock North AC |      7 | M        | 1                   |            1 |              26 |            27 |                1 | https://www.giffnocknorth.co.uk/ |
