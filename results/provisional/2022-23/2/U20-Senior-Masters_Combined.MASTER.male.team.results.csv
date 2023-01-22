@@ -1,5 +1,11 @@
 position,Club name,team,gender,finisherPositions,teamPoints,penaltyPoints,totalPoints,totalFinishers,Website
-1,Inverclyde AC,4,M,"2,3,5",10,0,10,3,https://www.inverclydeac.org/
-2,Calderglen Harriers,17,M,"4,6,7",17,0,17,7,
-3,Ayr Seaforth AC,14,M,"1,9,10",20,0,20,4,https://www.ayrseaforth.co.uk/
-4,Shettleston Harriers,10,M,"8,13",21,26,47,2,http://shettlestonharriers.org.uk/
+1,Inverclyde AC,4,M,"3,5,10",18,0,18,3,https://www.inverclydeac.org/
+2,Cambuslang Harriers,6,M,"2,7,16",25,0,25,5,https://cambuslangharriers.org/
+3,Calderglen Harriers,17,M,"9,11,12",32,0,32,7,
+4,Ayr Seaforth AC,14,M,"1,14,21",36,0,36,4,https://www.ayrseaforth.co.uk/
+5,Bellahouston RR,3,M,"15,17,22",54,0,54,5,https://www.bellahoustonroadrunners.co.uk/
+6,Law & District AAC,37,M,"4,19,33",56,0,56,3,http://www.lawaac.co.uk/
+7,Shettleston Harriers,10,M,"13,25",38,43,81,2,http://shettlestonharriers.org.uk/
+8,Garscube Harriers,9,M,6,6,86,92,1,https://www.garscubeharriers.org.uk/
+9,Royal Mail Run GMC,46,M,"18,31",49,43,92,2,https://www.facebook.com/royalmailrungmc/
+10,Giffnock North AC,7,M,8,8,86,94,1,https://www.giffnocknorth.co.uk/

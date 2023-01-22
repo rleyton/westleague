@@ -1,22 +1,3 @@
 position,Club name,team,gender,finisherPositions,teamPoints,penaltyPoints,totalPoints,totalFinishers,Website
-1,Giffnock North AC,7,M,"1,3,10",14,0,14,4,https://www.giffnocknorth.co.uk/
-2,Cambuslang Harriers,6,M,"2,8,15",25,0,25,8,https://cambuslangharriers.org/
-3,Kilmarnock H&AC,2,M,"6,9,11",26,0,26,7,http://www.kilmarnockharriers.com/
-4,Shettleston Harriers,10,M,"4,13,18",35,0,35,6,http://shettlestonharriers.org.uk/
-5,East Kilbride AC,1,M,"5,20,21",46,0,46,11,http://www.ekac.org.uk/
-6,Westerlands CCC,5,M,"19,27,32",78,0,78,6,https://westerlandsccc.co.uk/
-7,Inverclyde AC,4,M,"23,31,44",98,0,98,3,https://www.inverclydeac.org/
-8,Law & District AAC,37,M,"26,33,40",99,0,99,6,http://www.lawaac.co.uk/
-9,Ayr Seaforth AC,14,M,"14,41,51",106,0,106,6,https://www.ayrseaforth.co.uk/
-10,VP-Glasgow,54,M,"7,12,91",110,0,110,3,
-11,Bellahouston RR,3,M,"25,39,52",116,0,116,8,https://www.bellahoustonroadrunners.co.uk/
-12,Calderglen Harriers,17,M,"38,45,48",131,0,131,7,
-13,Bellahouston Harriers,8,M,"46,59,70",175,0,175,4,http://www.bellahoustonharriers.co.uk/
-14,Troon Tortoises,53,M,"47,60,75",182,0,182,3,https://www.ayrseaforth.co.uk/
-15,Garscube Harriers,9,M,"34,57",91,103,194,2,https://www.garscubeharriers.org.uk/
-16,Springburn Harriers,48,M,"62,74,81",217,0,217,3,https://www.springburnharriers.co.uk/
-17,Greenock Glenpark Harriers,30,M,16,16,206,222,1,https://greenockglenparkharriers.com/
-18,Irvine RC,33,M,42,42,206,248,1,
-19,West End RR,56,M,43,43,206,249,1,https://www.westendroadrunners.co.uk/
-20,Newton Road Runners,42,M,50,50,206,256,1,https://www.newton-roadrunners.com/
-21,Royal Mail Run GMC,46,M,"64,90",154,103,257,2,https://www.facebook.com/royalmailrungmc/
+1,VP-Glasgow,54,M,"2,3",5,13,18,2,
+2,Giffnock North AC,7,M,1,1,26,27,1,https://www.giffnocknorth.co.uk/
