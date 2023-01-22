@@ -97,7 +97,8 @@ for event in fetch_events_from_dir(DATA_DIR):
         results[event] = process_final_results(
             tidy_results(
                 merge_runners(
-                    results_merge(times=record["times"], places=record["places"]),
+                    results_merge(
+                        times=record["times"], places=record["places"]),
                     clubSubmissions=clubSubmissions,
                     event=event,
                 )
@@ -116,9 +117,12 @@ for event in fetch_events_from_dir(DATA_DIR):
 
     # core results
     if results[event] is not None:
-        results[event].to_csv(RESULTS_DIR + "/" + event + ".results.csv", index=False)
-        results[event].to_markdown(RESULTS_DIR+MARKDOWN_DIR + "/" + event + ".results.md", index=False)
-        render(df=results[event],style='blue_light',filename=RESULTS_DIR+HTML_DIR + "/" + event + ".results.html")
+        results[event].to_csv(RESULTS_DIR + "/" + event +
+                              ".results.csv", index=False)
+        results[event].to_markdown(
+            RESULTS_DIR+MARKDOWN_DIR + "/" + event + ".results.md", index=False)
+        render(df=results[event], style='blue_light',
+               filename=RESULTS_DIR+HTML_DIR + "/" + event + ".results.html")
     else:
         raise Exception(f"Unexpectedly no merged results for event {event}")
 
@@ -148,14 +152,14 @@ for event in fetch_events_from_dir(DATA_DIR):
                     + ".team.results.md",
                     index=False,
                 )
-                render(df=teamResults[event][gender][competition],style='blue_light',filename=RESULTS_DIR+HTML_DIR
-                    + "/"
-                    + event
-                    + "."
-                    + competition
-                    + "."
-                    + GENDER_COMPETITION_MAP[gender]
-                    + ".team.results.html")
+                render(df=teamResults[event][gender][competition], style='blue_light', filename=RESULTS_DIR+HTML_DIR
+                       + "/"
+                       + event
+                       + "."
+                       + competition
+                       + "."
+                       + GENDER_COMPETITION_MAP[gender]
+                       + ".team.results.html")
     else:
         raise Exception(
             f"Unexpectedly no merged results for team results in event {event}"
