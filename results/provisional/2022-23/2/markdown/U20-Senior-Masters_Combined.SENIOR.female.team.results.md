@@ -1,7 +1,8 @@
 |   position | Club name             |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                    |
 |-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
 |          1 | Ayr Seaforth AC       |     14 | F        | 1,2,3,4             |           10 |               0 |            10 |                7 | https://www.ayrseaforth.co.uk/             |
-|          2 | Calderglen Harriers   |     17 | F        | 5,9,14              |           28 |              27 |            55 |                3 | nan                                        |
-|          3 | Bellahouston RR       |      3 | F        | 10,11,13            |           34 |              27 |            61 |                3 | https://www.bellahoustonroadrunners.co.uk/ |
-|          4 | Law & District AAC    |     37 | F        | 7,15                |           22 |              54 |            76 |                2 | http://www.lawaac.co.uk/                   |
-|          5 | Bellahouston Harriers |      8 | F        | 12,17               |           29 |              54 |            83 |                2 | http://www.bellahoustonharriers.co.uk/     |
+|          2 | Calderglen Harriers   |     17 | F        | 5,11,16             |           32 |              29 |            61 |                3 | nan                                        |
+|          3 | Bellahouston RR       |      3 | F        | 12,13,15            |           40 |              29 |            69 |                3 | https://www.bellahoustonroadrunners.co.uk/ |
+|          4 | Kilmarnock H&AC       |      2 | F        | 8,10                |           18 |              58 |            76 |                2 | http://www.kilmarnockharriers.com/         |
+|          5 | Law & District AAC    |     37 | F        | 7,17                |           24 |              58 |            82 |                2 | http://www.lawaac.co.uk/                   |
+|          6 | Bellahouston Harriers |      8 | F        | 14,19               |           33 |              58 |            91 |                2 | http://www.bellahoustonharriers.co.uk/     |

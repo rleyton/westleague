@@ -1,10 +1,11 @@
 |   position | Club name           |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                    |
 |-----------:|:--------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
-|          1 | Bellahouston RR     |      3 | F        | 5,6                 |           11 |              19 |            30 |                2 | https://www.bellahoustonroadrunners.co.uk/ |
-|          2 | Springburn Harriers |     48 | F        | 1                   |            1 |              38 |            39 |                1 | https://www.springburnharriers.co.uk/      |
-|          3 | Calderglen Harriers |     17 | F        | 2                   |            2 |              38 |            40 |                1 | nan                                        |
-|          4 | Law & District AAC  |     37 | F        | 3                   |            3 |              38 |            41 |                1 | http://www.lawaac.co.uk/                   |
-|          5 | Giffnock North AC   |      7 | F        | 4                   |            4 |              38 |            42 |                1 | https://www.giffnocknorth.co.uk/           |
-|          6 | Cambuslang Harriers |      6 | F        | 7                   |            7 |              38 |            45 |                1 | https://cambuslangharriers.org/            |
-|          7 | Westerlands CCC     |      5 | F        | 8                   |            8 |              38 |            46 |                1 | https://westerlandsccc.co.uk/              |
-|          8 | Troon Tortoises     |     53 | F        | 9                   |            9 |              38 |            47 |                1 | http://troontortoises.co.uk                |
+|          1 | Bellahouston RR     |      3 | F        | 6,7                 |           13 |              20 |            33 |                2 | https://www.bellahoustonroadrunners.co.uk/ |
+|          2 | Springburn Harriers |     48 | F        | 1                   |            1 |              40 |            41 |                1 | https://www.springburnharriers.co.uk/      |
+|          3 | Kilmarnock H&AC     |      2 | F        | 2                   |            2 |              40 |            42 |                1 | http://www.kilmarnockharriers.com/         |
+|          4 | Calderglen Harriers |     17 | F        | 3                   |            3 |              40 |            43 |                1 | nan                                        |
+|          5 | Law & District AAC  |     37 | F        | 4                   |            4 |              40 |            44 |                1 | http://www.lawaac.co.uk/                   |
+|          6 | Giffnock North AC   |      7 | F        | 5                   |            5 |              40 |            45 |                1 | https://www.giffnocknorth.co.uk/           |
+|          7 | Cambuslang Harriers |      6 | F        | 8                   |            8 |              40 |            48 |                1 | https://cambuslangharriers.org/            |
+|          8 | Westerlands CCC     |      5 | F        | 9                   |            9 |              40 |            49 |                1 | https://westerlandsccc.co.uk/              |
+|          9 | Troon Tortoises     |     53 | F        | 10                  |           10 |              40 |            50 |                1 | http://troontortoises.co.uk                |
