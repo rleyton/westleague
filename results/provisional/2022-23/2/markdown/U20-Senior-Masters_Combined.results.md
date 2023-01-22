@@ -4,7 +4,7 @@
 |          2 | 0:24:12 | 6M     | Mike Christoforou     | M        | SENIOR   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
 |          3 | 0:24:24 | 7M     | Cameron Green         | M        | U20      |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |
 |          4 | 0:24:43 | 10M    | Mark McKelvie         | M        | SENIOR   |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |
-|          5 | 0:24:47 | 1M     | nan                   | M        | nan      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
+|          5 | 0:24:47 | 1M     | GRANT BAILLIE         | M        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
 |          6 | 0:24:58 | 2M     | Martin Brown          | M        | SENIOR   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
 |          7 | 0:25:04 | 54M    | Henry Horiuchi-Sutton | M        | U20      |           54 | VP-Glasgow                 | nan                                        |
 |          8 | 0:25:05 | 6M     | Andrew Carey          | M        | SENIOR   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
@@ -19,16 +19,16 @@
 |         17 | 0:26:43 | 6M     | Stevie Wylie          | M        | MASTER   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
 |         18 | 0:26:45 | 10M    | Andrew Taylor         | M        | SENIOR   |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |
 |         19 | 0:26:46 | 5M     | Robert Hamlin         | M        | SENIOR   |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
-|         20 | 0:26:56 | 1M     | nan                   | M        | nan      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
-|         21 | 0:27:08 | 1M     | nan                   | M        | nan      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
-|         22 | 0:27:31 | 1M     | nan                   | M        | nan      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
+|         20 | 0:26:56 | 1M     | DAVID ROSS            | M        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
+|         21 | 0:27:08 | 1M     | JAMIE CLEMENTS        | M        | SENIOR   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
+|         22 | 0:27:31 | 1M     | JACK KIRWAN           | M        | SENIOR   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
 |         23 | 0:27:32 | 4M     | Sean Gaffney          | M        | SENIOR   |            4 | Inverclyde AC              | https://www.inverclydeac.org/              |
-|         24 | 0:27:34 | 1M     | nan                   | M        | nan      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
+|         24 | 0:27:34 | 1M     | ANDREW FORTEATH       | M        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
 |         25 | 0:27:51 | 3M     | Calum Borthwick       | M        | SENIOR   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
 |         26 | 0:28:01 | 37M    | Darran Muir           | M        | MASTER   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |
 |         27 | 0:28:04 | 5M     | Scott Henderson       | M        | MASTER   |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
-|         28 | 0:28:06 | 1M     | nan                   | M        | nan      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
-|         29 | 0:28:19 | 1M     | nan                   | M        | nan      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
+|         28 | 0:28:06 | 1M     | CHRISTOPHER WATTERS   | M        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
+|         29 | 0:28:19 | 1M     | LUKE KIRWAN           | M        | SENIOR   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
 |         30 | 0:28:21 | 10M    | Andrew Jackson        | M        | SENIOR   |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |
 |         31 | 0:28:26 | 4M     | Alan Callan           | M        | MASTER   |            4 | Inverclyde AC              | https://www.inverclydeac.org/              |
 |         32 | 0:28:29 | 5M     | Niall McAlinden       | M        | SENIOR   |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
@@ -67,8 +67,8 @@
 |         65 | 0:31:55 | 2M     | David Anderson        | M        | MASTER   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
 |         66 | 0:32:09 | 8M     | Felix Lembke          | M        | SENIOR   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
 |         67 | 0:32:16 | 53M    | John McCabe           | M        | MASTER   |           53 | Troon Tortoises            | http://troontortoises.co.uk                |
-|         68 | 0:32:16 | 1F     | nan                   | F        | nan      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
-|         69 | 0:32:21 | 1M     | nan                   | M        | nan      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
+|         68 | 0:32:16 | 1F     | KELLY BAILLIE         | F        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
+|         69 | 0:32:21 | 1M     | ANDREW CHAPMAN        | M        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
 |         70 | 0:32:40 | 48M    | Paul Wilson           | M        | MASTER   |           48 | Springburn Harriers        | https://www.springburnharriers.co.uk/      |
 |         71 | 0:32:45 | 17F    | Julie Beveridge       | F        | MASTER   |           17 | Calderglen Harriers        | nan                                        |
 |         72 | 0:32:51 | 37F    | Elaine Boyle          | F        | MASTER   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |
@@ -84,9 +84,9 @@
 |         82 | 0:33:40 | 5M     | David Calder          | M        | MASTER   |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
 |         83 | 0:33:52 | 8M     | Paul Clawson          | M        | SENIOR   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
 |         84 | 0:33:58 | 6M     | Scott Hunter          | M        | MASTER   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
-|         85 | 0:33:58 | 1M     | nan                   | M        | nan      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
+|         85 | 0:33:58 | 1M     | GRAEME HADDOW         | M        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
 |         86 | 0:34:04 | 37F    | Lesley Graham         | F        | SENIOR   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |
-|         87 | 0:34:16 | 1M     | nan                   | M        | nan      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
+|         87 | 0:34:16 | 1M     | VINCENT GLENNON       | M        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
 |         88 | 0:34:22 | 46M    | Clem Clement          | M        | MASTER   |           46 | Royal Mail Run GMC         | https://www.facebook.com/royalmailrungmc/  |
 |         89 | 0:34:31 | 53M    | Alan Dunlop           | M        | MASTER   |           53 | Troon Tortoises            | http://troontortoises.co.uk                |
 |         90 | 0:34:33 | 2F     | Bethany Ross          | F        | SENIOR   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
@@ -98,9 +98,9 @@
 |         96 | 0:35:16 | 2F     | Amanda Bryden         | F        | SENIOR   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
 |         97 | 0:35:19 | 17F    | Alison Lessells       | F        | SENIOR   |           17 | Calderglen Harriers        | nan                                        |
 |         98 | 0:35:27 | 3F     | Kirsty Macfarlane     | F        | SENIOR   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
-|         99 | 0:35:31 | 1F     | nan                   | F        | nan      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
+|         99 | 0:35:31 | 1F     | VIVIEN THORPE         | F        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
 |        100 | 0:35:42 | 17M    | Jim Holmes            | M        | MASTER   |           17 | Calderglen Harriers        | nan                                        |
-|        101 | 0:36:05 | 1M     | nan                   | M        | nan      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
+|        101 | 0:36:05 | 1M     | GORDON COLVIN         | M        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
 |        102 | 0:36:22 | 3F     | Joni Lindsay          | F        | SENIOR   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
 |        103 | 0:36:44 | 48M    | Joe Chambers          | M        | SENIOR   |           48 | Springburn Harriers        | https://www.springburnharriers.co.uk/      |
 |        104 | 0:36:49 | 8F     | Rebecca Simister      | F        | SENIOR   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
@@ -123,7 +123,7 @@
 |        121 | 0:39:04 | 14F    | Lucy Cameron          | F        | SENIOR   |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
 |        122 | 0:39:09 | 53F    | Anne Noble            | F        | MASTER   |           53 | Troon Tortoises            | http://troontortoises.co.uk                |
 |        123 | 0:39:52 | 54M    | Gregory Gontor        | M        | U20      |           54 | VP-Glasgow                 | nan                                        |
-|        124 | 0:39:58 | 1F     | nan                   | F        | nan      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
+|        124 | 0:39:58 | 1F     | GEMMA KIRWAN          | F        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
 |        125 | 0:42:21 | 17M    | Russell Couper        | M        | MASTER   |           17 | Calderglen Harriers        | nan                                        |
 |        126 | 0:42:40 | 15F    | nan                   | F        | nan      |           15 | Ayrodynamic Triathlon Club | nan                                        |
 |        127 | 0:45:39 | 37M    | Pat Kelly             | M        | MASTER   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |
