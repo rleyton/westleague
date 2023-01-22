@@ -77,6 +77,9 @@ EXT_META = ".meta"
 EXT_CSV = ".csv"
 EXT_ADJUSTMENTS = ".adjustments"
 
+HTML_DIR = "/html"
+MARKDOWN_DIR = "/markdown"
+
 # hard-coded for now
 DATA_DIR = "data/2022-23/2"
 CLUB_SUBMISSIONS = "club-submissions"
