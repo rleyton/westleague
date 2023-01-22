@@ -47,7 +47,7 @@ genders = pd.read_csv(GENDERS, index_col="shortcode")
 results = {}
 leagueResults = {}
 teamResults = {}
-
+index = []
 # for each event we have files for
 for event in fetch_events_from_dir(DATA_DIR):
     logging.debug(f"Processing: {event}")
@@ -123,6 +123,7 @@ for event in fetch_events_from_dir(DATA_DIR):
             RESULTS_DIR+MARKDOWN_DIR + "/" + event + ".results.md", index=False)
         render(df=results[event], style='blue_light',
                filename=RESULTS_DIR+HTML_DIR + "/" + event + ".results.html")
+        index.append(event + ".results.html")
     else:
         raise Exception(f"Unexpectedly no merged results for event {event}")
 
@@ -130,40 +131,37 @@ for event in fetch_events_from_dir(DATA_DIR):
     if teamResults[event] is not None:
         for gender in teamResults[event]:
             for competition in teamResults[event][gender]:
+                baseFileName = event + "." + competition + \
+                    "." + GENDER_COMPETITION_MAP[gender]
                 teamResults[event][gender][competition].to_csv(
-                    RESULTS_DIR
-                    + "/"
-                    + event
-                    + "."
-                    + competition
-                    + "."
-                    + GENDER_COMPETITION_MAP[gender]
-                    + ".team.results.csv",
+                    RESULTS_DIR + "/"+baseFileName + ".team.results.csv",
                     index=False,
                 )
                 teamResults[event][gender][competition].to_markdown(
-                    RESULTS_DIR+MARKDOWN_DIR
-                    + "/"
-                    + event
-                    + "."
-                    + competition
-                    + "."
-                    + GENDER_COMPETITION_MAP[gender]
-                    + ".team.results.md",
+                    RESULTS_DIR+MARKDOWN_DIR + "/" + baseFileName + ".team.results.md",
                     index=False,
                 )
-                render(df=teamResults[event][gender][competition], style='blue_light', filename=RESULTS_DIR+HTML_DIR
-                       + "/"
-                       + event
-                       + "."
-                       + competition
-                       + "."
-                       + GENDER_COMPETITION_MAP[gender]
-                       + ".team.results.html")
+                render(df=teamResults[event][gender][competition], style='blue_light', filename=RESULTS_DIR+HTML_DIR+"/"
+                       + baseFileName + ".team.results.html")
+
+                index.append(baseFileName + ".team.results.html")
     else:
         raise Exception(
             f"Unexpectedly no merged results for team results in event {event}"
         )
 
+
+# Render a basic HTML index
+
+def make_clickable(val):
+    return f'<a target="_blank" href="{val}">{val}</a>'
+
+
+index.sort()
+indexDF = pd.DataFrame({'resultsPage': index})
+indexDF = indexDF.style.format({'resultsPage': make_clickable})
+
+indexDF.to_html(RESULTS_DIR+HTML_DIR+"/"+"index.html",
+                index=False, render_links=True, escape=False)
 
 logging.info("Finished")

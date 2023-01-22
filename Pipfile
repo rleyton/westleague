@@ -11,6 +11,7 @@ black = "*"
 openpyxl = "*"
 tabulate = "*"
 pretty-html-table = "*"
+jinja2 = "*"
 
 [dev-packages]
 autopep8 = "*"
