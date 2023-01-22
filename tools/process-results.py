@@ -1,9 +1,7 @@
 #!env python
 
 from dotenv import dotenv_values
-from google.oauth2.service_account import Credentials
 import logging
-import gspread
 from src.adapter_sheets import load_volunteers, load_results
 from src.utils_consts import (
     DATA_DIR,
@@ -25,9 +23,10 @@ from src.adapter_results import results_merge, tidy_results, merge_runners
 from src.adapter_times import adjust_times
 from src.adapter_places import adjust_places, process_final_results
 from src.adapter_points import calculate_competition_points
+from src.adapter_pretty_html import render
 import pandas as pd
 import pathlib
-import re
+from pretty_html_table import build_table
 
 logging.basicConfig(level=logging.DEBUG)
 config = dotenv_values(".env")
@@ -114,6 +113,8 @@ for event in fetch_events_from_dir(DATA_DIR):
     # core results
     if results[event] is not None:
         results[event].to_csv(RESULTS_DIR + "/" + event + ".results.csv", index=False)
+        results[event].to_markdown(RESULTS_DIR + "/" + event + ".results.md", index=False)
+        render(df=results[event],style='blue_light',filename=RESULTS_DIR + "/" + event + ".results.html")
     else:
         raise Exception(f"Unexpectedly no merged results for event {event}")
 
@@ -132,6 +133,25 @@ for event in fetch_events_from_dir(DATA_DIR):
                     + ".team.results.csv",
                     index=False,
                 )
+                teamResults[event][gender][competition].to_markdown(
+                    RESULTS_DIR
+                    + "/"
+                    + event
+                    + "."
+                    + competition
+                    + "."
+                    + GENDER_COMPETITION_MAP[gender]
+                    + ".team.results.md",
+                    index=False,
+                )
+                render(df=teamResults[event][gender][competition],style='blue_light',filename=RESULTS_DIR
+                    + "/"
+                    + event
+                    + "."
+                    + competition
+                    + "."
+                    + GENDER_COMPETITION_MAP[gender]
+                    + ".team.results.html")
     else:
         raise Exception(
             f"Unexpectedly no merged results for team results in event {event}"
