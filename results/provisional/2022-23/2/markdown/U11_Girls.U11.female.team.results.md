@@ -1,0 +1,13 @@
+|   position | Club name           |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                               |
+|-----------:|:--------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:--------------------------------------|
+|          1 | Giffnock North AC   |      7 | F        | 3,8,9               |           20 |               0 |            20 |                9 | https://www.giffnocknorth.co.uk/      |
+|          2 | East Kilbride AC    |      1 | F        | 5,14,15             |           34 |               0 |            34 |                6 | http://www.ekac.org.uk/               |
+|          3 | Law & District AAC  |     37 | F        | 4,19,26             |           49 |               0 |            49 |                4 | http://www.lawaac.co.uk/              |
+|          4 | Airdrie Harriers    |     11 | F        | 12,22,28            |           62 |               0 |            62 |                6 | http://airdrieharriers.org/           |
+|          5 | Ayr Seaforth AC     |     14 | F        | 1,29                |           30 |              46 |            76 |                2 | https://www.ayrseaforth.co.uk/        |
+|          6 | Inverclyde AC       |      4 | F        | 13,24               |           37 |              46 |            83 |                2 | https://www.inverclydeac.org/         |
+|          7 | Kilmarnock H&AC     |      2 | F        | 6,36                |           42 |              46 |            88 |                2 | http://www.kilmarnockharriers.com/    |
+|          8 | Kilbarchan AAC      |     34 | F        | 2                   |            2 |              92 |            94 |                1 | https://kilbarchanaac.org.uk/         |
+|          9 | Cambuslang Harriers |      6 | F        | 21,30               |           51 |              46 |            97 |                2 | https://cambuslangharriers.org/       |
+|         10 | VP-Glasgow          |     54 | F        | 7                   |            7 |              92 |            99 |                1 | nan                                   |
+|         11 | Springburn Harriers |     48 | F        | 25                  |           25 |              92 |           117 |                1 | https://www.springburnharriers.co.uk/ |

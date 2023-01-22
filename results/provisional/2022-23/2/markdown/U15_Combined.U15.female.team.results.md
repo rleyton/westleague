@@ -1,0 +1,11 @@
+|   position | Club name            |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                            |
+|-----------:|:---------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-----------------------------------|
+|          1 | East Kilbride AC     |      1 | F        | 4,7,10              |           21 |               0 |            21 |                3 | http://www.ekac.org.uk/            |
+|          2 | Shettleston Harriers |     10 | F        | 1,11                |           12 |              25 |            37 |                2 | http://shettlestonharriers.org.uk/ |
+|          3 | Kilmarnock H&AC      |      2 | F        | 12,13,15            |           40 |               0 |            40 |                3 | http://www.kilmarnockharriers.com/ |
+|          4 | Giffnock North AC    |      7 | F        | 5,14                |           19 |              25 |            44 |                2 | https://www.giffnocknorth.co.uk/   |
+|          5 | Kilbarchan AAC       |     34 | F        | 2                   |            2 |              50 |            52 |                1 | https://kilbarchanaac.org.uk/      |
+|          6 | Ayr Seaforth AC      |     14 | F        | 3                   |            3 |              50 |            53 |                1 | https://www.ayrseaforth.co.uk/     |
+|          7 | Law & District AAC   |     37 | F        | 6                   |            6 |              50 |            56 |                1 | http://www.lawaac.co.uk/           |
+|          8 | Inverclyde AC        |      4 | F        | 8                   |            8 |              50 |            58 |                1 | https://www.inverclydeac.org/      |
+|          9 | Airdrie Harriers     |     11 | F        | 9                   |            9 |              50 |            59 |                1 | http://airdrieharriers.org/        |

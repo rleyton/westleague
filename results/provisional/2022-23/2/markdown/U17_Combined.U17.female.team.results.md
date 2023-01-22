@@ -1,0 +1,6 @@
+|   position | Club name           |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                            |
+|-----------:|:--------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-----------------------------------|
+|          1 | East Kilbride AC    |      1 | F        | 2,5,8               |           15 |               0 |            15 |                3 | http://www.ekac.org.uk/            |
+|          2 | Kilmarnock H&AC     |      2 | F        | 3,6,7               |           16 |               0 |            16 |                3 | http://www.kilmarnockharriers.com/ |
+|          3 | Ayr Seaforth AC     |     14 | F        | 1                   |            1 |              36 |            37 |                1 | https://www.ayrseaforth.co.uk/     |
+|          4 | Cambuslang Harriers |      6 | F        | 4                   |            4 |              36 |            40 |                1 | https://cambuslangharriers.org/    |

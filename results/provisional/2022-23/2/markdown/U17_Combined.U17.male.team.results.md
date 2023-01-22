@@ -1,0 +1,10 @@
+|   position | Club name            |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                            |
+|-----------:|:---------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-----------------------------------|
+|          1 | Cambuslang Harriers  |      6 | M        | 2,3,11              |           16 |               0 |            16 |                3 | https://cambuslangharriers.org/    |
+|          2 | Law & District AAC   |     37 | M        | 4,6                 |           10 |              25 |            35 |                2 | http://www.lawaac.co.uk/           |
+|          3 | East Kilbride AC     |      1 | M        | 5,7                 |           12 |              25 |            37 |                2 | http://www.ekac.org.uk/            |
+|          4 | Airdrie Harriers     |     11 | M        | 13,14,15            |           42 |               0 |            42 |                3 | http://airdrieharriers.org/        |
+|          5 | Ayr Seaforth AC      |     14 | M        | 8,10                |           18 |              25 |            43 |                2 | https://www.ayrseaforth.co.uk/     |
+|          6 | Giffnock North AC    |      7 | M        | 1                   |            1 |              50 |            51 |                1 | https://www.giffnocknorth.co.uk/   |
+|          7 | Shettleston Harriers |     10 | M        | 9                   |            9 |              50 |            59 |                1 | http://shettlestonharriers.org.uk/ |
+|          8 | Kilmarnock H&AC      |      2 | M        | 12                  |           12 |              50 |            62 |                1 | http://www.kilmarnockharriers.com/ |
