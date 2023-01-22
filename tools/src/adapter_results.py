@@ -147,3 +147,15 @@ def merge_runners(results=None, clubSubmissions=None, event: str = None):
         results["AgeCat"] = event[:3].upper()
 
     return results
+
+
+def get_missing_teams(results=None,submissions=None):
+    missingTeams=set()
+    if results is not None and submissions is not None:
+        theMissingResults = results[results['Name'].isna()]['clubnumber'].unique().tolist()
+        for missingResult in theMissingResults:
+            if missingResult not in submissions:
+                missingTeams.add(missingResult)
+        return missingTeams
+    else:
+        return None
