@@ -6,4 +6,4 @@
 |          4 | Law & District AAC  |     37 | F        | 3                   |            3 |              36 |            39 |                1 | http://www.lawaac.co.uk/                   |
 |          5 | Giffnock North AC   |      7 | F        | 4                   |            4 |              36 |            40 |                1 | https://www.giffnocknorth.co.uk/           |
 |          6 | Cambuslang Harriers |      6 | F        | 7                   |            7 |              36 |            43 |                1 | https://cambuslangharriers.org/            |
-|          7 | Troon Tortoises     |     53 | F        | 8                   |            8 |              36 |            44 |                1 | https://www.ayrseaforth.co.uk/             |
+|          7 | Troon Tortoises     |     53 | F        | 8                   |            8 |              36 |            44 |                1 | http://troontortoises.co.uk                |
