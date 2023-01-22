@@ -2,15 +2,15 @@
 |-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
 |          1 | Cambuslang Harriers   |      6 | M        | 2,7,18              |           27 |               0 |            27 |                5 | https://cambuslangharriers.org/            |
 |          2 | Calderglen Harriers   |     17 | M        | 9,10,13             |           32 |               0 |            32 |                7 | nan                                        |
-|          3 | Ayr Seaforth AC       |     14 | M        | 1,16,26             |           43 |               0 |            43 |                4 | https://www.ayrseaforth.co.uk/             |
-|          4 | Bellahouston Harriers |      8 | M        | 6,11,35             |           52 |               0 |            52 |                3 | http://www.bellahoustonharriers.co.uk/     |
-|          5 | Troon Tortoises       |     53 | M        | 12,20,25            |           57 |               0 |            57 |                3 | http://troontortoises.co.uk                |
-|          6 | Bellahouston RR       |      3 | M        | 17,19,27            |           63 |               0 |            63 |                5 | https://www.bellahoustonroadrunners.co.uk/ |
-|          7 | Law & District AAC    |     37 | M        | 3,23,39             |           65 |               0 |            65 |                3 | http://www.lawaac.co.uk/                   |
-|          8 | Shettleston Harriers  |     10 | M        | 14,30               |           44 |              49 |            93 |                2 | http://shettlestonharriers.org.uk/         |
-|          9 | Inverclyde AC         |      4 | M        | 4                   |            4 |              98 |           102 |                1 | https://www.inverclydeac.org/              |
-|         10 | Garscube Harriers     |      9 | M        | 5                   |            5 |              98 |           103 |                1 | https://www.garscubeharriers.org.uk/       |
-|         11 | Giffnock North AC     |      7 | M        | 8                   |            8 |              98 |           106 |                1 | https://www.giffnocknorth.co.uk/           |
-|         12 | Royal Mail Run GMC    |     46 | M        | 22,37               |           59 |              49 |           108 |                2 | https://www.facebook.com/royalmailrungmc/  |
-|         13 | Newton Road Runners   |     42 | M        | 15                  |           15 |              98 |           113 |                1 | https://www.newton-roadrunners.com/        |
-|         14 | Springburn Harriers   |     48 | M        | 21                  |           21 |              98 |           119 |                1 | https://www.springburnharriers.co.uk/      |
+|          3 | Ayr Seaforth AC       |     14 | M        | 1,16,27             |           44 |               0 |            44 |                4 | https://www.ayrseaforth.co.uk/             |
+|          4 | Bellahouston Harriers |      8 | M        | 6,11,36             |           53 |               0 |            53 |                3 | http://www.bellahoustonharriers.co.uk/     |
+|          5 | Troon Tortoises       |     53 | M        | 12,20,26            |           58 |               0 |            58 |                3 | http://troontortoises.co.uk                |
+|          6 | Bellahouston RR       |      3 | M        | 17,19,28            |           64 |               0 |            64 |                5 | https://www.bellahoustonroadrunners.co.uk/ |
+|          7 | Law & District AAC    |     37 | M        | 3,23,40             |           66 |               0 |            66 |                3 | http://www.lawaac.co.uk/                   |
+|          8 | Royal Mail Run GMC    |     46 | M        | 22,25,38            |           85 |               0 |            85 |                3 | https://www.facebook.com/royalmailrungmc/  |
+|          9 | Shettleston Harriers  |     10 | M        | 14,31               |           45 |              50 |            95 |                2 | http://shettlestonharriers.org.uk/         |
+|         10 | Inverclyde AC         |      4 | M        | 4                   |            4 |             100 |           104 |                1 | https://www.inverclydeac.org/              |
+|         11 | Garscube Harriers     |      9 | M        | 5                   |            5 |             100 |           105 |                1 | https://www.garscubeharriers.org.uk/       |
+|         12 | Giffnock North AC     |      7 | M        | 8                   |            8 |             100 |           108 |                1 | https://www.giffnocknorth.co.uk/           |
+|         13 | Newton Road Runners   |     42 | M        | 15                  |           15 |             100 |           115 |                1 | https://www.newton-roadrunners.com/        |
+|         14 | Springburn Harriers   |     48 | M        | 21                  |           21 |             100 |           121 |                1 | https://www.springburnharriers.co.uk/      |

@@ -15,9 +15,9 @@
 |         13 | VP-Glasgow                 |     54 | M        | 7,12,92             |          111 |             104 |           215 |                3 | nan                                        |
 |         14 | Troon Tortoises            |     53 | M        | 48,61,76            |          185 |             104 |           289 |                3 | http://troontortoises.co.uk                |
 |         15 | Garscube Harriers          |      9 | M        | 34,58               |           92 |             208 |           300 |                2 | https://www.garscubeharriers.org.uk/       |
-|         16 | Springburn Harriers        |     48 | M        | 63,75,82            |          220 |             104 |           324 |                3 | https://www.springburnharriers.co.uk/      |
-|         17 | Greenock Glenpark Harriers |     30 | M        | 16                  |           16 |             312 |           328 |                1 | https://greenockglenparkharriers.com/      |
-|         18 | Irvine RC                  |     33 | M        | 43                  |           43 |             312 |           355 |                1 | nan                                        |
-|         19 | West End RR                |     56 | M        | 44                  |           44 |             312 |           356 |                1 | https://www.westendroadrunners.co.uk/      |
-|         20 | Newton Road Runners        |     42 | M        | 51                  |           51 |             312 |           363 |                1 | https://www.newton-roadrunners.com/        |
-|         21 | Royal Mail Run GMC         |     46 | M        | 65,91               |          156 |             208 |           364 |                2 | https://www.facebook.com/royalmailrungmc/  |
+|         16 | Greenock Glenpark Harriers |     30 | M        | 16                  |           16 |             312 |           328 |                1 | https://greenockglenparkharriers.com/      |
+|         17 | Royal Mail Run GMC         |     46 | M        | 65,75,91            |          231 |             104 |           335 |                3 | https://www.facebook.com/royalmailrungmc/  |
+|         18 | Springburn Harriers        |     48 | M        | 63,82               |          145 |             208 |           353 |                2 | https://www.springburnharriers.co.uk/      |
+|         19 | Irvine RC                  |     33 | M        | 43                  |           43 |             312 |           355 |                1 | nan                                        |
+|         20 | West End RR                |     56 | M        | 44                  |           44 |             312 |           356 |                1 | https://www.westendroadrunners.co.uk/      |
+|         21 | Newton Road Runners        |     42 | M        | 51                  |           51 |             312 |           363 |                1 | https://www.newton-roadrunners.com/        |
