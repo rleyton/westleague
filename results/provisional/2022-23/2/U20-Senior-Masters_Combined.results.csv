@@ -48,7 +48,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 47,0:29:44,4M,Jason Kane,M,MASTER,4,Inverclyde AC,https://www.inverclydeac.org/
 48,0:29:45,17M,Duncan McKellar,M,MASTER,17,Calderglen Harriers,
 49,0:30:01,8M,Brent Brodie,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
-50,0:30:16,53M,,M,,53,Troon Tortoises,https://www.ayrseaforth.co.uk/
+50,0:30:16,53M,Matt Pearce,M,MASTER,53,Troon Tortoises,https://www.ayrseaforth.co.uk/
 51,0:30:27,17M,Gerard Connelly,M,MASTER,17,Calderglen Harriers,
 52,0:30:33,14F,Anna Blake,F,SENIOR,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/
 53,0:30:48,10M,Duncan McCauley,M,MASTER,10,Shettleston Harriers,http://shettlestonharriers.org.uk/
@@ -65,7 +65,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 64,0:31:52,2F,,F,,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
 65,0:31:55,2M,,M,,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
 66,0:32:09,8M,Felix Lembke,M,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
-67,0:32:16,53M,,M,,53,Troon Tortoises,https://www.ayrseaforth.co.uk/
+67,0:32:16,53M,John McCabe,M,MASTER,53,Troon Tortoises,https://www.ayrseaforth.co.uk/
 68,0:32:16,1F,,F,,1,East Kilbride AC,http://www.ekac.org.uk/
 69,0:32:21,1M,,M,,1,East Kilbride AC,http://www.ekac.org.uk/
 70,0:32:40,48M,Paul Wilson,M,MASTER,48,Springburn Harriers,https://www.springburnharriers.co.uk/
@@ -87,7 +87,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 86,0:34:04,37F,Lesley Graham,F,SENIOR,37,Law & District AAC,http://www.lawaac.co.uk/
 87,0:34:16,1M,,M,,1,East Kilbride AC,http://www.ekac.org.uk/
 88,0:34:22,48M,Joe Chambers,M,SENIOR,48,Springburn Harriers,https://www.springburnharriers.co.uk/
-89,0:34:31,53M,,M,,53,Troon Tortoises,https://www.ayrseaforth.co.uk/
+89,0:34:31,53M,Alan Dunlop,M,MASTER,53,Troon Tortoises,https://www.ayrseaforth.co.uk/
 90,0:34:33,2F,,F,,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
 91,0:34:38,14M,Stuart Brockie,M,MASTER,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/
 92,0:34:46,14F,Lucy Stanley,F,SENIOR,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/
@@ -120,7 +120,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 119,0:38:42,17M,Kenny Leinster,M,MASTER,17,Calderglen Harriers,
 120,0:38:58,46M,Clem Clement,M,MASTER,46,Royal Mail Run GMC,https://www.facebook.com/royalmailrungmc/
 121,0:39:04,14F,Lucy Cameron,F,SENIOR,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/
-122,0:39:09,53F,,F,,53,Troon Tortoises,https://www.ayrseaforth.co.uk/
+122,0:39:09,53F,Anne Noble,F,MASTER,53,Troon Tortoises,https://www.ayrseaforth.co.uk/
 123,0:39:52,54M,Gregory Gontor,M,U20,54,VP-Glasgow,
 124,0:39:58,1F,,F,,1,East Kilbride AC,http://www.ekac.org.uk/
 125,0:42:21,17M,Russell Couper,M,MASTER,17,Calderglen Harriers,
