@@ -15,6 +15,8 @@ from src.utils_consts import (
     GENDERS,
     RESULTS_DIR,
     GENDER_COMPETITION_MAP,
+    HTML_DIR,
+    MARKDOWN_DIR
 )
 from src.utils_functions import fetch_events_from_dir
 from src.adapter_gender import gender_process
@@ -35,6 +37,8 @@ config = dotenv_values(".env")
 SOURCE_DATA = DATA_DIR
 
 pathlib.Path(RESULTS_DIR).mkdir(parents=True, exist_ok=True)
+pathlib.Path(RESULTS_DIR+MARKDOWN_DIR).mkdir(parents=True, exist_ok=True)
+pathlib.Path(RESULTS_DIR+HTML_DIR).mkdir(parents=True, exist_ok=True)
 
 
 teams = pd.read_csv(TEAMS, index_col="Number")
@@ -113,8 +117,8 @@ for event in fetch_events_from_dir(DATA_DIR):
     # core results
     if results[event] is not None:
         results[event].to_csv(RESULTS_DIR + "/" + event + ".results.csv", index=False)
-        results[event].to_markdown(RESULTS_DIR + "/" + event + ".results.md", index=False)
-        render(df=results[event],style='blue_light',filename=RESULTS_DIR + "/" + event + ".results.html")
+        results[event].to_markdown(RESULTS_DIR+MARKDOWN_DIR + "/" + event + ".results.md", index=False)
+        render(df=results[event],style='blue_light',filename=RESULTS_DIR+HTML_DIR + "/" + event + ".results.html")
     else:
         raise Exception(f"Unexpectedly no merged results for event {event}")
 
@@ -134,7 +138,7 @@ for event in fetch_events_from_dir(DATA_DIR):
                     index=False,
                 )
                 teamResults[event][gender][competition].to_markdown(
-                    RESULTS_DIR
+                    RESULTS_DIR+MARKDOWN_DIR
                     + "/"
                     + event
                     + "."
@@ -144,7 +148,7 @@ for event in fetch_events_from_dir(DATA_DIR):
                     + ".team.results.md",
                     index=False,
                 )
-                render(df=teamResults[event][gender][competition],style='blue_light',filename=RESULTS_DIR
+                render(df=teamResults[event][gender][competition],style='blue_light',filename=RESULTS_DIR+HTML_DIR
                     + "/"
                     + event
                     + "."
