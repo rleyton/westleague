@@ -44,7 +44,7 @@
 |         42 | 0:29:23 | 3M     | Chris Allan           | M        | SENIOR   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
 |         43 | 0:29:29 | 37M    | Ross Hill             | M        | SENIOR   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |
 |         44 | 0:29:32 | 14M    | Ben Forrest           | M        | SENIOR   |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
-|         45 | 0:29:34 | 33M    | nan                   | M        | nan      |           33 | Irvine RC                  | nan                                        |
+|         45 | 0:29:34 | 33M    | Mark Sands            | M        | MASTER   |           33 | Irvine RC                  | nan                                        |
 |         46 | 0:29:37 | 56M    | Andy Macpherson       | M        | SENIOR   |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |
 |         47 | 0:29:44 | 4M     | Jason Kane            | M        | SENIOR   |            4 | Inverclyde AC              | https://www.inverclydeac.org/              |
 |         48 | 0:29:45 | 17M    | Duncan McKellar       | M        | MASTER   |           17 | Calderglen Harriers        | nan                                        |
@@ -125,6 +125,6 @@
 |        123 | 0:39:52 | 54M    | Gregory Gontor        | M        | U20      |           54 | VP-Glasgow                 | nan                                        |
 |        124 | 0:39:58 | 1F     | GEMMA KIRWAN          | F        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
 |        125 | 0:42:21 | 17M    | Russell Couper        | M        | MASTER   |           17 | Calderglen Harriers        | nan                                        |
-|        126 | 0:42:40 | 15F    | nan                   | F        | nan      |           15 | Ayrodynamic Triathlon Club | nan                                        |
+|        126 | 0:42:40 | 15F    | Lorna Sloan           | F        | MASTER   |           15 | Ayrodynamic Triathlon Club | nan                                        |
 |        127 | 0:45:39 | 37M    | Pat Kelly             | M        | MASTER   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |
 |        128 | 0:46:11 | 8F     | Tabea Sander          | F        | SENIOR   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
