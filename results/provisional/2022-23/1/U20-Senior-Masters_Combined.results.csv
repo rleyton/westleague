@@ -47,9 +47,9 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 46,0:29:53,35M,David Allsop,M,MASTER,35,Kirkintilloch Olympians,https://kirkintillocholympians.co.uk/
 47,0:29:55,7M,David Shaw,M,MASTER,7,Giffnock North AC,https://www.giffnocknorth.co.uk/
 48,0:29:59,14F,Emma Creasey,F,SENIOR,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/
-49,0:30:04,53M,Jim Phillips,M,MASTER,53,Troon Tortoises,https://www.ayrseaforth.co.uk/
+49,0:30:04,53M,Jim Phillips,M,MASTER,53,Troon Tortoises,http://troontortoises.co.uk
 50,0:30:09,1M,ANDREW FORTEITH,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/
-51,0:30:10,53M,Darren McMahon,M,SENIOR,53,Troon Tortoises,https://www.ayrseaforth.co.uk/
+51,0:30:10,53M,Darren McMahon,M,SENIOR,53,Troon Tortoises,http://troontortoises.co.uk
 52,0:30:10,3M,Neil McSeveny,M,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
 53,0:30:13,35M,Graham Little,M,MASTER,35,Kirkintilloch Olympians,https://kirkintillocholympians.co.uk/
 54,0:30:17,3M,Chris Allan,M,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
@@ -61,7 +61,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 60,0:30:48,3M,Alan Chalmers,M,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
 61,0:30:50,14M,Josie Burns,M,MASTER,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/
 62,0:30:53,10F,Zoe Barber,F,SENIOR,10,Shettleston Harriers,http://shettlestonharriers.org.uk/
-63,0:30:53,53M,Matt Pearce,M,MASTER,53,Troon Tortoises,https://www.ayrseaforth.co.uk/
+63,0:30:53,53M,Matt Pearce,M,MASTER,53,Troon Tortoises,http://troontortoises.co.uk
 64,0:30:54,44M,Stephen McQuistin,M,SENIOR,44,North Ayrshire AAC,https://naathletics.co.uk/
 65,0:30:55,3M,Colin Hughes,M,MASTER,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
 66,0:30:55,44M,Mark Preston,M,SENIOR,44,North Ayrshire AAC,https://naathletics.co.uk/
@@ -128,7 +128,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 127,0:35:55,48M,Joe Chambers,M,SENIOR,48,Springburn Harriers,https://www.springburnharriers.co.uk/
 128,0:36:00,5M,Andrew Mott,M,MASTER,5,Westerlands CCC,https://westerlandsccc.co.uk/
 129,0:36:08,56M,Jim Speakman,M,MASTER,56,West End RR,https://www.westendroadrunners.co.uk/
-130,0:36:12,53M,Alan Dunlop,M,MASTER,53,Troon Tortoises,https://www.ayrseaforth.co.uk/
+130,0:36:12,53M,Alan Dunlop,M,MASTER,53,Troon Tortoises,http://troontortoises.co.uk
 131,0:36:14,46M,Robert White,M,MASTER,46,Royal Mail Run GMC,https://www.facebook.com/royalmailrungmc/
 132,0:36:16,44F,Fiona Comrie,F,MASTER,44,North Ayrshire AAC,https://naathletics.co.uk/
 133,0:36:28,5M,Fraser Reid,M,SENIOR,5,Westerlands CCC,https://westerlandsccc.co.uk/
@@ -148,7 +148,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 147,0:38:59,57F,Amy Oliphant,F,MASTER,57,Whitemoss AAC,https://whitemossaac.co.uk/
 148,0:39:20,56M,Trevor Wayman,M,MASTER,56,West End RR,https://www.westendroadrunners.co.uk/
 149,0:39:27,3F,Pauline Wright,F,MASTER,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
-150,0:39:52,53F,Anne Noble,F,MASTER,53,Troon Tortoises,https://www.ayrseaforth.co.uk/
+150,0:39:52,53F,Anne Noble,F,MASTER,53,Troon Tortoises,http://troontortoises.co.uk
 151,0:40:01,56F,Ray Musleh,F,MASTER,56,West End RR,https://www.westendroadrunners.co.uk/
 152,0:41:09,1F,RACHAEL WILLIAMS,F,SENIOR,1,East Kilbride AC,http://www.ekac.org.uk/
 153,0:41:13,8F,Stephanie Rudd,F,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/

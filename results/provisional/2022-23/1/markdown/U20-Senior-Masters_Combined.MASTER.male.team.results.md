@@ -1,0 +1,20 @@
+|   position | Club name               |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                    |
+|-----------:|:------------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
+|          1 | Cambuslang Harriers     |      6 | M        | 2,3,8               |           13 |               0 |            13 |                4 | https://cambuslangharriers.org/            |
+|          2 | East Kilbride AC        |      1 | M        | 1,4,10              |           15 |               0 |            15 |                7 | http://www.ekac.org.uk/                    |
+|          3 | Shettleston Harriers    |     10 | M        | 6,18,22             |           46 |               0 |            46 |                7 | http://shettlestonharriers.org.uk/         |
+|          4 | Ayr Seaforth AC         |     14 | M        | 5,19,25             |           49 |               0 |            49 |                3 | https://www.ayrseaforth.co.uk/             |
+|          5 | Bellahouston RR         |      3 | M        | 21,30,31            |           82 |               0 |            82 |                6 | https://www.bellahoustonroadrunners.co.uk/ |
+|          6 | Law & District AAC      |     37 | M        | 9,35,39             |           83 |               0 |            83 |                5 | http://www.lawaac.co.uk/                   |
+|          7 | Bellahouston Harriers   |      8 | M        | 11,28,47            |           86 |               0 |            86 |                4 | http://www.bellahoustonharriers.co.uk/     |
+|          8 | Inverclyde AC           |      4 | M        | 7,12                |           19 |              70 |            89 |                2 | https://www.inverclydeac.org/              |
+|          9 | Troon Tortoises         |     53 | M        | 15,20,55            |           90 |               0 |            90 |                3 | http://troontortoises.co.uk                |
+|         10 | Kirkintilloch Olympians |     35 | M        | 13,17               |           30 |              70 |           100 |                2 | https://kirkintillocholympians.co.uk/      |
+|         11 | Giffnock North AC       |      7 | M        | 14,27               |           41 |              70 |           111 |                2 | https://www.giffnocknorth.co.uk/           |
+|         12 | West End RR             |     56 | M        | 36,38,48            |          122 |               0 |           122 |                5 | https://www.westendroadrunners.co.uk/      |
+|         13 | Westerlands CCC         |      5 | M        | 29,44,53            |          126 |               0 |           126 |                3 | https://westerlandsccc.co.uk/              |
+|         14 | Royal Mail Run GMC      |     46 | M        | 40,45,56            |          141 |               0 |           141 |                3 | https://www.facebook.com/royalmailrungmc/  |
+|         15 | Motherwell AC           |     40 | M        | 34                  |           34 |             140 |           174 |                1 | https://motherwellac.com/                  |
+|         16 | Kilmarnock H&AC         |      2 | M        | 41                  |           41 |             140 |           181 |                1 | http://www.kilmarnockharriers.com/         |
+|         17 | Whitemoss AAC           |     57 | M        | 43                  |           43 |             140 |           183 |                1 | https://whitemossaac.co.uk/                |
+|         18 | Garscube Harriers       |      9 | M        | 46                  |           46 |             140 |           186 |                1 | https://www.garscubeharriers.org.uk/       |

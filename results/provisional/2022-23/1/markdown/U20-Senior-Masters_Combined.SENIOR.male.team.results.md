@@ -1,0 +1,22 @@
+|   position | Club name                  |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                    |
+|-----------:|:---------------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
+|          1 | Cambuslang Harriers        |      6 | M        | 1,5,7,8             |           21 |               0 |            21 |                7 | https://cambuslangharriers.org/            |
+|          2 | Inverclyde AC              |      4 | M        | 2,3,27,34           |           66 |               0 |            66 |                4 | https://www.inverclydeac.org/              |
+|          3 | Shettleston Harriers       |     10 | M        | 10,19,24,28         |           81 |               0 |            81 |                5 | http://shettlestonharriers.org.uk/         |
+|          4 | Bellahouston RR            |      3 | M        | 11,22,32,33         |           98 |               0 |            98 |                9 | https://www.bellahoustonroadrunners.co.uk/ |
+|          5 | East Kilbride AC           |      1 | M        | 15,17,48            |           80 |              67 |           147 |                3 | http://www.ekac.org.uk/                    |
+|          6 | Giffnock North AC          |      7 | M        | 4,9                 |           13 |             134 |           147 |                2 | https://www.giffnocknorth.co.uk/           |
+|          7 | Kilmarnock H&AC            |      2 | M        | 6,46,51             |          103 |              67 |           170 |                3 | http://www.kilmarnockharriers.com/         |
+|          8 | Westerlands CCC            |      5 | M        | 30,44,47,53         |          174 |               0 |           174 |                4 | https://westerlandsccc.co.uk/              |
+|          9 | Kirkintilloch Olympians    |     35 | M        | 20,21               |           41 |             134 |           175 |                2 | https://kirkintillocholympians.co.uk/      |
+|         10 | North Ayrshire AAC         |     44 | M        | 37,38,41            |          116 |              67 |           183 |                3 | https://naathletics.co.uk/                 |
+|         11 | Law & District AAC         |     37 | M        | 26,29               |           55 |             134 |           189 |                2 | http://www.lawaac.co.uk/                   |
+|         12 | Greenock Glenpark Harriers |     30 | M        | 14,54               |           68 |             134 |           202 |                2 | https://greenockglenparkharriers.com/      |
+|         13 | Springburn Harriers        |     48 | M        | 40,49,52            |          141 |              67 |           208 |                3 | https://www.springburnharriers.co.uk/      |
+|         14 | Motherwell AC              |     40 | M        | 12                  |           12 |             201 |           213 |                1 | https://motherwellac.com/                  |
+|         15 | Kilbarchan AAC             |     34 | M        | 16                  |           16 |             201 |           217 |                1 | https://kilbarchanaac.org.uk/              |
+|         16 | Bellahouston Harriers      |      8 | M        | 25                  |           25 |             201 |           226 |                1 | http://www.bellahoustonharriers.co.uk/     |
+|         17 | Newton Road Runners        |     42 | M        | 39,55               |           94 |             134 |           228 |                2 | https://www.newton-roadrunners.com/        |
+|         18 | Troon Tortoises            |     53 | M        | 31                  |           31 |             201 |           232 |                1 | http://troontortoises.co.uk                |
+|         19 | Whitemoss AAC              |     57 | M        | 45                  |           45 |             201 |           246 |                1 | https://whitemossaac.co.uk/                |
+|         20 | Larkhall YMCA              |     36 | M        | 57                  |           57 |             201 |           258 |                1 | https://www.facebook.com/larkhallharriers/ |

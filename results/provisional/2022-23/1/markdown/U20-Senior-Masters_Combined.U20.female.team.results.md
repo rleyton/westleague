@@ -1,0 +1,3 @@
+|   position | Club name       |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                        |
+|-----------:|:----------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------|
+|          1 | Ayr Seaforth AC |     14 | F        | 1,2                 |            3 |              12 |            15 |                2 | https://www.ayrseaforth.co.uk/ |

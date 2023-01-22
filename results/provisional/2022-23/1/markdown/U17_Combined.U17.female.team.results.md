@@ -1,0 +1,13 @@
+|   position | Club name               |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                    |
+|-----------:|:------------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
+|          1 | Law & District AAC      |     37 | F        | 2,5,13              |           20 |               0 |            20 |                4 | http://www.lawaac.co.uk/                   |
+|          2 | Kilmarnock H&AC         |      2 | F        | 8,14,15             |           37 |               0 |            37 |                3 | http://www.kilmarnockharriers.com/         |
+|          3 | Airdrie Harriers        |     11 | F        | 7,16                |           23 |              27 |            50 |                2 | http://airdrieharriers.org/                |
+|          4 | Kilbarchan AAC          |     34 | F        | 1                   |            1 |              54 |            55 |                1 | https://kilbarchanaac.org.uk/              |
+|          5 | East Kilbride AC        |      1 | F        | 3                   |            3 |              54 |            57 |                1 | http://www.ekac.org.uk/                    |
+|          6 | Ayr Seaforth AC         |     14 | F        | 4                   |            4 |              54 |            58 |                1 | https://www.ayrseaforth.co.uk/             |
+|          7 | Kirkintilloch Olympians |     35 | F        | 6                   |            6 |              54 |            60 |                1 | https://kirkintillocholympians.co.uk/      |
+|          8 | Giffnock North AC       |      7 | F        | 9                   |            9 |              54 |            63 |                1 | https://www.giffnocknorth.co.uk/           |
+|          9 | Larkhall YMCA           |     36 | F        | 10                  |           10 |              54 |            64 |                1 | https://www.facebook.com/larkhallharriers/ |
+|         10 | Cambuslang Harriers     |      6 | F        | 11                  |           11 |              54 |            65 |                1 | https://cambuslangharriers.org/            |
+|         11 | Whitemoss AAC           |     57 | F        | 12                  |           12 |              54 |            66 |                1 | https://whitemossaac.co.uk/                |

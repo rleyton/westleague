@@ -1,0 +1,11 @@
+|   position | Club name            |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                    |
+|-----------:|:---------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
+|          1 | East Kilbride AC     |      1 | M        | 4,5,7               |           16 |               0 |            16 |                4 | http://www.ekac.org.uk/                    |
+|          2 | Cambuslang Harriers  |      6 | M        | 2,3                 |            5 |              27 |            32 |                2 | https://cambuslangharriers.org/            |
+|          3 | Kilmarnock H&AC      |      2 | M        | 1,11                |           12 |              27 |            39 |                2 | http://www.kilmarnockharriers.com/         |
+|          4 | Law & District AAC   |     37 | M        | 6,9                 |           15 |              27 |            42 |                2 | http://www.lawaac.co.uk/                   |
+|          5 | Airdrie Harriers     |     11 | M        | 15,16,17            |           48 |               0 |            48 |                3 | http://airdrieharriers.org/                |
+|          6 | Shettleston Harriers |     10 | M        | 8                   |            8 |              54 |            62 |                1 | http://shettlestonharriers.org.uk/         |
+|          7 | Ayr Seaforth AC      |     14 | M        | 10                  |           10 |              54 |            64 |                1 | https://www.ayrseaforth.co.uk/             |
+|          8 | Whitemoss AAC        |     57 | M        | 12                  |           12 |              54 |            66 |                1 | https://whitemossaac.co.uk/                |
+|          9 | Larkhall YMCA        |     36 | M        | 14                  |           14 |              54 |            68 |                1 | https://www.facebook.com/larkhallharriers/ |

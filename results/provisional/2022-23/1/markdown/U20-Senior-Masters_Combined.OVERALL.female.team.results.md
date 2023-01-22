@@ -1,0 +1,20 @@
+|   position | Club name                  |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                    |
+|-----------:|:---------------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
+|          1 | Ayr Seaforth AC            |     14 | F        | 2,3,11,15           |           31 |               0 |            31 |                4 | https://www.ayrseaforth.co.uk/             |
+|          2 | Cambuslang Harriers        |      6 | F        | 1,9,19,23           |           52 |               0 |            52 |                4 | https://cambuslangharriers.org/            |
+|          3 | Bellahouston Harriers      |      8 | F        | 12,17,18,26         |           73 |               0 |            73 |                6 | http://www.bellahoustonharriers.co.uk/     |
+|          4 | Law & District AAC         |     37 | F        | 13,16,20,25         |           74 |               0 |            74 |                4 | http://www.lawaac.co.uk/                   |
+|          5 | East Kilbride AC           |      1 | F        | 14,24,36,39         |          113 |               0 |           113 |                4 | http://www.ekac.org.uk/                    |
+|          6 | Bellahouston RR            |      3 | F        | 27,28,29,33         |          117 |               0 |           117 |                5 | https://www.bellahoustonroadrunners.co.uk/ |
+|          7 | West End RR                |     56 | F        | 8,30,35             |           73 |              52 |           125 |                3 | https://www.westendroadrunners.co.uk/      |
+|          8 | Newton Road Runners        |     42 | F        | 21,31               |           52 |             104 |           156 |                2 | https://www.newton-roadrunners.com/        |
+|          9 | Garscube Harriers          |      9 | F        | 4                   |            4 |             156 |           160 |                1 | https://www.garscubeharriers.org.uk/       |
+|         10 | Kilmarnock H&AC            |      2 | F        | 5                   |            5 |             156 |           161 |                1 | http://www.kilmarnockharriers.com/         |
+|         11 | Shettleston Harriers       |     10 | F        | 6                   |            6 |             156 |           162 |                1 | http://shettlestonharriers.org.uk/         |
+|         12 | Springburn Harriers        |     48 | F        | 7                   |            7 |             156 |           163 |                1 | https://www.springburnharriers.co.uk/      |
+|         13 | Giffnock North AC          |      7 | F        | 10                  |           10 |             156 |           166 |                1 | https://www.giffnocknorth.co.uk/           |
+|         14 | North Ayrshire AAC         |     44 | F        | 22                  |           22 |             156 |           178 |                1 | https://naathletics.co.uk/                 |
+|         15 | Whitemoss AAC              |     57 | F        | 32                  |           32 |             156 |           188 |                1 | https://whitemossaac.co.uk/                |
+|         16 | Troon Tortoises            |     53 | F        | 34                  |           34 |             156 |           190 |                1 | http://troontortoises.co.uk                |
+|         17 | Greenock Glenpark Harriers |     30 | F        | 40                  |           40 |             156 |           196 |                1 | https://greenockglenparkharriers.com/      |
+|         18 | Westerlands CCC            |      5 | F        | 42                  |           42 |             156 |           198 |                1 | https://westerlandsccc.co.uk/              |

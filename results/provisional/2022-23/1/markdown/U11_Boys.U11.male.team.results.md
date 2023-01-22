@@ -1,0 +1,14 @@
+|   position | Club name            |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                    |
+|-----------:|:---------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
+|          1 | Giffnock North AC    |      7 | M        | 1,3,7               |           11 |               0 |            11 |                7 | https://www.giffnocknorth.co.uk/           |
+|          2 | East Kilbride AC     |      1 | M        | 4,10,17             |           31 |               0 |            31 |                9 | http://www.ekac.org.uk/                    |
+|          3 | VP-Glasgow           |     54 | M        | 2,12,19             |           33 |               0 |            33 |                5 | nan                                        |
+|          4 | Kilmarnock H&AC      |      2 | M        | 9,13,14             |           36 |               0 |            36 |                6 | http://www.kilmarnockharriers.com/         |
+|          5 | Law & District AAC   |     37 | M        | 5,22,24             |           51 |               0 |            51 |                3 | http://www.lawaac.co.uk/                   |
+|          6 | Inverclyde AC        |      4 | M        | 6,25                |           31 |              49 |            80 |                2 | https://www.inverclydeac.org/              |
+|          7 | Airdrie Harriers     |     11 | M        | 26,30               |           56 |              49 |           105 |                2 | http://airdrieharriers.org/                |
+|          8 | Garscube Harriers    |      9 | M        | 18                  |           18 |              98 |           116 |                1 | https://www.garscubeharriers.org.uk/       |
+|          9 | Cambuslang Harriers  |      6 | M        | 28                  |           28 |              98 |           126 |                1 | https://cambuslangharriers.org/            |
+|         10 | Shettleston Harriers |     10 | M        | 29                  |           29 |              98 |           127 |                1 | http://shettlestonharriers.org.uk/         |
+|         11 | Larkhall YMCA        |     36 | M        | 31                  |           31 |              98 |           129 |                1 | https://www.facebook.com/larkhallharriers/ |
+|         12 | Springburn Harriers  |     48 | M        | 34                  |           34 |              98 |           132 |                1 | https://www.springburnharriers.co.uk/      |
