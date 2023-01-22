@@ -29,22 +29,25 @@ for club, filename in clubSubmissions:
         logging.debug("Break")
         True
 
-    sheet = pd.read_excel(
-        io=DATA_DIR + "/" + CLUB_SUBMISSIONS + "/" + filename,
-        sheet_name="Submission",
-    )
-    for event in fetch_events_from_dir(DATA_DIR):
-        clubData[event] = extract_range(sheet, event)
-        if clubData[event] is not None:
-            logging.info(
-                f"Processed: club {club} {event} - {len(clubData[event])} records"
-            )
-            clubData[event].to_csv(
-                DATA_DIR + "/" + CLUB_PARSED + "/" + club + "." + event + ".csv",
-                index=True,
-            )
-        else:
-            logging.debug("No submissions for event {event}")
+    try:
+        sheet = pd.read_excel(
+            io=DATA_DIR + "/" + CLUB_SUBMISSIONS + "/" + filename,
+            sheet_name="Submission",
+        )
+        for event in fetch_events_from_dir(DATA_DIR):
+            clubData[event] = extract_range(sheet, event)
+            if clubData[event] is not None:
+                logging.info(
+                    f"Processed: club {club} {event} - {len(clubData[event])} records"
+                )
+                clubData[event].to_csv(
+                    DATA_DIR + "/" + CLUB_PARSED + "/" + club + "." + event + ".csv",
+                    index=True,
+                )
+            else:
+                logging.debug("No submissions for event {event}")
+    except ValueError as e:
+        logging.error(f"Error processing {filename} for {club}: {e}")
 
 
 logging.info("Finished")
