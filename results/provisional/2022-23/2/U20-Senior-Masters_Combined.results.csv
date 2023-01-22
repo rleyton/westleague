@@ -35,7 +35,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 34,0:28:46,37M,Alan Neill,M,SENIOR,37,Law & District AAC,http://www.lawaac.co.uk/
 35,0:28:51,14F,Emma Creasey,F,SENIOR,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/
 36,0:28:57,9M,Daniel Scroop,M,MASTER,9,Garscube Harriers,https://www.garscubeharriers.org.uk/
-37,0:29:03,8M,,M,,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
+37,0:29:03,8M,Ian Sim,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
 38,0:29:05,2M,,M,,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
 39,0:29:18,6M,Brian Douglas,M,MASTER,6,Cambuslang Harriers,https://cambuslangharriers.org/
 40,0:29:19,7M,David Shaw,M,MASTER,7,Giffnock North AC,https://www.giffnocknorth.co.uk/
@@ -47,7 +47,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 46,0:29:37,56M,Andy Macpherson,M,SENIOR,56,West End RR,https://www.westendroadrunners.co.uk/
 47,0:29:44,4M,Jason Kane,M,MASTER,4,Inverclyde AC,https://www.inverclydeac.org/
 48,0:29:45,17M,Duncan McKellar,M,MASTER,17,Calderglen Harriers,
-49,0:30:01,8M,,M,,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
+49,0:30:01,8M,Brent Brodie,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
 50,0:30:16,53M,,M,,53,Troon Tortoises,https://www.ayrseaforth.co.uk/
 51,0:30:27,17M,Gerard Connelly,M,MASTER,17,Calderglen Harriers,
 52,0:30:33,14F,Anna Blake,F,SENIOR,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/
@@ -64,7 +64,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 63,0:31:44,9M,Mattia Mancinelli,M,SENIOR,9,Garscube Harriers,https://www.garscubeharriers.org.uk/
 64,0:31:52,2F,,F,,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
 65,0:31:55,2M,,M,,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
-66,0:32:09,8M,,M,,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
+66,0:32:09,8M,Felix Lembke,M,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
 67,0:32:16,53M,,M,,53,Troon Tortoises,https://www.ayrseaforth.co.uk/
 68,0:32:16,1F,,F,,1,East Kilbride AC,http://www.ekac.org.uk/
 69,0:32:21,1M,,M,,1,East Kilbride AC,http://www.ekac.org.uk/
@@ -81,7 +81,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 80,0:33:28,7F,Hilary Carswell,F,MASTER,7,Giffnock North AC,https://www.giffnocknorth.co.uk/
 81,0:33:34,14F,Islay Hubbard,F,SENIOR,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/
 82,0:33:40,5M,,M,,5,Westerlands CCC,https://westerlandsccc.co.uk/
-83,0:33:52,8M,,M,,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
+83,0:33:52,8M,Paul Clawson,M,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
 84,0:33:58,6M,Scott Hunter,M,MASTER,6,Cambuslang Harriers,https://cambuslangharriers.org/
 85,0:33:58,1M,,M,,1,East Kilbride AC,http://www.ekac.org.uk/
 86,0:34:04,37F,Lesley Graham,F,SENIOR,37,Law & District AAC,http://www.lawaac.co.uk/
@@ -102,7 +102,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 101,0:36:05,1M,,M,,1,East Kilbride AC,http://www.ekac.org.uk/
 102,0:36:22,3F,Joni Lindsay,F,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
 103,0:36:44,48M,Unknown: Springburn Harriers,M,,48,Springburn Harriers,https://www.springburnharriers.co.uk/
-104,0:36:49,8F,,F,,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
+104,0:36:49,8F,Rebecca Simister,F,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
 105,0:36:58,10M,Richard Millar,M,MASTER,10,Shettleston Harriers,http://shettlestonharriers.org.uk/
 106,0:37:01,3M,Kenny McDonald,M,MASTER,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
 107,0:37:02,3F,Laura Wilkinson,F,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
@@ -116,7 +116,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 115,0:37:33,17M,Gordon McInally,M,MASTER,17,Calderglen Harriers,
 116,0:37:40,6F,Erica Christie,F,MASTER,6,Cambuslang Harriers,https://cambuslangharriers.org/
 117,0:38:04,5F,,F,,5,Westerlands CCC,https://westerlandsccc.co.uk/
-118,0:38:06,8M,,M,,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
+118,0:38:06,8M,Simon McDougall,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
 119,0:38:42,17M,Kenny Leinster,M,MASTER,17,Calderglen Harriers,
 120,0:38:58,46M,Clem Clement,M,MASTER,46,Royal Mail Run GMC,https://www.facebook.com/royalmailrungmc/
 121,0:39:04,14F,Lucy Cameron,F,SENIOR,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/
@@ -126,4 +126,4 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 125,0:42:21,17M,Russell Couper,M,MASTER,17,Calderglen Harriers,
 126,0:42:40,15F,,F,,15,Ayrodynamic Triathlon Club,
 127,0:45:39,37M,Pat Kelly,M,MASTER,37,Law & District AAC,http://www.lawaac.co.uk/
-128,0:46:11,8F,,F,,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
+128,0:46:11,8F,Tabea Sander,F,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
