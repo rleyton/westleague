@@ -7,7 +7,8 @@ from .utils_consts import SeniorAgeCats
 def results_merge(times=None, places=None):
     if times is not None and places is not None:
         if len(times) == len(places):
-            results = times.join(other=places, lsuffix="times", rsuffix="places")
+            results = times.join(
+                other=places, lsuffix="times", rsuffix="places")
             return results
         else:
             raise Exception("Mismatch on number of times and places")
@@ -100,6 +101,7 @@ def merge_runners(results=None, clubSubmissions=None, event: str = None):
     reset_club_positions()
 
     if results is not None and clubSubmissions is not None and len(clubSubmissions) > 0:
+        rowCount = 0
         for i, row in results.iterrows():
             clubnum = int(row["clubnumber"])
             if clubnum in clubSubmissions:
@@ -110,7 +112,8 @@ def merge_runners(results=None, clubSubmissions=None, event: str = None):
                         "gender": "Gender",
                         "agecat": "AgeCat",
                     }
-                    for key in ["names", "gender", "agecat"]:
+                    genderMismatch = False
+                    for key in tidyColumns.keys():
                         # younger age categories don't have some of these
                         if key in clubSubmissions[clubnum]:
                             col = tidyColumns[key]
@@ -121,6 +124,9 @@ def merge_runners(results=None, clubSubmissions=None, event: str = None):
                                 newValue = normalise_gender_record(
                                     clubSubmissions[clubnum].at[clubPosition, key]
                                 )
+                                # in the case of Gender, do the submissions match?
+                                if newValue != results.at[i, key]:
+                                    genderMismatch = True
                             elif key == "agecat":
                                 newValue = normalise_agecat_record(
                                     clubSubmissions[clubnum].at[clubPosition, key],
@@ -139,7 +145,13 @@ def merge_runners(results=None, clubSubmissions=None, event: str = None):
                     logging.error(
                         f"Insufficient names for club {clubnum} in event {event}"
                     )
-                    results.at[i,col] = "Unknown: {clubname}".format(clubname=results.at[i,'Club name'])
+                    results.at[i, col] = "Unknown: {clubname}".format(
+                        clubname=results.at[i, 'Club name'])
+
+                if genderMismatch is True:
+                    logging.error(
+                        f"Mismatched gender for club {row['Club name']} at result position {rowCount+1}, club submission position {clubPosition+1}, Name: {results.at[i,'Name']}. Results gender: {results.at[i,'gender']}, Submitted: {results.at[i,'Gender']}")
+
                 set_club_position(clubnum, clubPosition + 1)
 
     # if no age category in the results, add it from the implict event name
@@ -149,10 +161,11 @@ def merge_runners(results=None, clubSubmissions=None, event: str = None):
     return results
 
 
-def get_missing_teams(results=None,submissions=None):
-    missingTeams=set()
+def get_missing_teams(results=None, submissions=None):
+    missingTeams = set()
     if results is not None and submissions is not None:
-        theMissingResults = results[results['Name'].isna()]['clubnumber'].unique().tolist()
+        theMissingResults = results[results['Name'].isna(
+        )]['clubnumber'].unique().tolist()
         for missingResult in theMissingResults:
             if missingResult not in submissions:
                 missingTeams.add(missingResult)
