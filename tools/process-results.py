@@ -20,7 +20,7 @@ from src.utils_consts import (
     YEAR,
     EVENT
 )
-from src.utils_functions import fetch_events_from_dir
+from src.utils_functions import fetch_events_from_dir, fetch_volunteers_from_dir
 from src.adapter_gender import gender_process
 from src.adapter_team import process_teams, load_team_submissions
 from src.adapter_results import results_merge, tidy_results, merge_runners, get_missing_teams
@@ -35,9 +35,9 @@ from pretty_html_table import build_table
 logging.basicConfig(level=logging.DEBUG)
 config = dotenv_values(".env")
 
-DATA_DIR = DATA_DIR.format(YEAR=YEAR,EVENT=EVENT)
-RESULTS_DIR = RESULTS_DIR.format(YEAR=YEAR,EVENT=EVENT)
-ADJUSTMENTS_DIR = ADJUSTMENTS_DIR.format(YEAR=YEAR,EVENT=EVENT)
+DATA_DIR = DATA_DIR.format(YEAR=YEAR, EVENT=EVENT)
+RESULTS_DIR = RESULTS_DIR.format(YEAR=YEAR, EVENT=EVENT)
+ADJUSTMENTS_DIR = ADJUSTMENTS_DIR.format(YEAR=YEAR, EVENT=EVENT)
 
 # hard-coded to same location for now
 SOURCE_DATA = DATA_DIR
@@ -115,7 +115,8 @@ for event in fetch_events_from_dir(DATA_DIR):
     except Exception as e:
         raise Exception(f"Problem processing event {event}: {e}")
 
-    missingTeams = missingTeams.union(set(get_missing_teams(results=results[event],submissions=clubSubmissions)))
+    missingTeams = missingTeams.union(set(get_missing_teams(
+        results=results[event], submissions=clubSubmissions)))
 
     # Now we have a results DataFrame, so process the competition results
     teamResults[event] = calculate_competition_points(
@@ -153,7 +154,7 @@ for event in fetch_events_from_dir(DATA_DIR):
                 )
                 render(df=teamResults[event][gender][competition], style='blue_light', filename=RESULTS_DIR+HTML_DIR+"/"
                        + baseFileName + ".team.results.html")
-                
+
                 index.append(baseFileName + ".team.results.html")
                 logging.info("Wrote: "+baseFileName + ".team.results.html")
     else:
@@ -162,14 +163,33 @@ for event in fetch_events_from_dir(DATA_DIR):
         )
 
 
+# TODO: This all needs refactoring/tidying up
 
-missing=pd.DataFrame({'team': list(missingTeams)})
-theMissingTeams = missing.join(other=teams,on='team',lsuffix="missing",rsuffix="teamDetails")
-theMissingTeams.to_csv(RESULTS_DIR + "/" + "missingTeamSubmissions.csv", index=False)
+missing = pd.DataFrame({'team': list(missingTeams)})
+theMissingTeams = missing.join(
+    other=teams, on='team', lsuffix="missing", rsuffix="teamDetails")
+theMissingTeams.to_csv(RESULTS_DIR + "/" +
+                       "missingTeamSubmissions.csv", index=False)
 theMissingTeams.to_markdown(
-        RESULTS_DIR+MARKDOWN_DIR + "/" + "missingTeamSubmissions.md", index=False)
-render(df=theMissingTeams, style='blue_light',filename=RESULTS_DIR+HTML_DIR+"/"+"missingTeamSubmissions.html")    
+    RESULTS_DIR+MARKDOWN_DIR + "/" + "missingTeamSubmissions.md", index=False)
+render(df=theMissingTeams, style='blue_light', filename=RESULTS_DIR +
+       HTML_DIR+"/"+"missingTeamSubmissions.html")
 index.append("missingTeamSubmissions.html")
+
+
+volunteersFile = fetch_volunteers_from_dir(dir=DATA_DIR)
+if volunteersFile:
+    volunteers = pd.read_csv(
+        volunteersFile
+    )
+    volunteers.columns = ['Name', 'Role']
+    volunteers.to_csv(RESULTS_DIR + "/" + "volunteers.csv", index=False)
+
+    volunteers.to_markdown(
+        RESULTS_DIR+MARKDOWN_DIR + "/" + "volunteers.md", index=False)
+    render(df=volunteers, style='blue_light',
+           filename=RESULTS_DIR+HTML_DIR+"/"+"volunteers.html")
+    index.append("volunteers.html")
 
 
 # Render a basic HTML index
@@ -177,13 +197,13 @@ index.append("missingTeamSubmissions.html")
 def make_clickable(val):
     return f'<a target="_blank" href="{val}">{val}</a>'
 
+
 index.sort()
 indexDF = pd.DataFrame({'resultsPage': index})
 indexDF = indexDF.style.format({'resultsPage': make_clickable})
 
 indexDF.to_html(RESULTS_DIR+HTML_DIR+"/"+"index.html",
                 index=False, render_links=True, escape=False)
-
 
 
 logging.info("Finished")
