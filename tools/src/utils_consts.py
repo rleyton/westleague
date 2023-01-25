@@ -90,3 +90,6 @@ RESULTS_DIR = "results/provisional/2022-23/1"
 TEAMS = "data/reference/clubs.csv"
 GENDERS = "data/reference/genders.csv"
 ADJUSTMENTS_DIR = "data/adjustments/2022-23/1"
+
+
+BASE_RESULTS = "results/provisional"
