@@ -1,0 +1,101 @@
+{
+      "races": {
+            "U13": {
+                  "M": {
+                        "penalty": 34,
+                        "participants": 24,
+                        "counters": 3
+                  },
+                  "F": {
+                        "penalty": 46,
+                        "participants": 36,
+                        "counters": 3
+                  }
+            },
+            "U11": {
+                  "M": {
+                        "penalty": 47,
+                        "participants": 37,
+                        "counters": 3
+                  },
+                  "F": {
+                        "penalty": 46,
+                        "participants": 36,
+                        "counters": 3
+                  }
+            },
+            "U15": {
+                  "M": {
+                        "penalty": 37,
+                        "participants": 27,
+                        "counters": 3
+                  },
+                  "F": {
+                        "penalty": 25,
+                        "participants": 15,
+                        "counters": 3
+                  }
+            },
+            "U17": {
+                  "M": {
+                        "penalty": 25,
+                        "participants": 15,
+                        "counters": 3
+                  },
+                  "F": {
+                        "penalty": 18,
+                        "participants": 8,
+                        "counters": 3
+                  }
+            },
+            "U20": {
+                  "M": {
+                        "penalty": 14,
+                        "participants": 4,
+                        "counters": 3
+                  },
+                  "F": {
+                        "penalty": 11,
+                        "participants": 1,
+                        "counters": 3
+                  }
+            },
+            "SENIOR": {
+                  "M": {
+                        "penalty": 45,
+                        "participants": 35,
+                        "counters": 4
+                  },
+                  "F": {
+                        "penalty": 29,
+                        "participants": 19,
+                        "counters": 4
+                  }
+            },
+            "MASTER": {
+                  "M": {
+                        "penalty": 65,
+                        "participants": 55,
+                        "counters": 3
+                  },
+                  "F": {
+                        "penalty": 24,
+                        "participants": 14,
+                        "counters": 3
+                  }
+            },
+            "OVERALL": {
+                  "M": {
+                        "penalty": 104,
+                        "participants": 94,
+                        "counters": 4
+                  },
+                  "F": {
+                        "penalty": 44,
+                        "participants": 34,
+                        "counters": 4
+                  }
+            }
+      },
+      "attendance": 326
+}

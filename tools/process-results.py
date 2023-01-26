@@ -28,6 +28,7 @@ from src.adapter_times import adjust_times
 from src.adapter_places import adjust_places, process_final_results
 from src.adapter_points import calculate_competition_points
 from src.adapter_pretty_html import render
+from src.adapter_json import json_write
 import pandas as pd
 import pathlib
 from pretty_html_table import build_table
@@ -54,7 +55,9 @@ results = {}
 leagueResults = {}
 teamResults = {}
 missingTeams = set()
+eventMeta = {}
 index = []
+eventTotalParticipants = 0
 # for each event we have files for
 for event in fetch_events_from_dir(DATA_DIR):
     logging.debug(f"Processing: {event}")
@@ -119,7 +122,7 @@ for event in fetch_events_from_dir(DATA_DIR):
         results=results[event], submissions=clubSubmissions)))
 
     # Now we have a results DataFrame, so process the competition results
-    teamResults[event] = calculate_competition_points(
+    (racemeta, teamResults[event]) = calculate_competition_points(
         results=results[event], teams=teams, event=event
     )
 
@@ -137,10 +140,18 @@ for event in fetch_events_from_dir(DATA_DIR):
     else:
         raise Exception(f"Unexpectedly no merged results for event {event}")
 
+    eventTotalParticipants += racemeta['total_participants']
+
     # team results
     if teamResults[event] is not None:
         for gender in teamResults[event]:
             for competition in teamResults[event][gender]:
+
+                if competition not in eventMeta:
+                    eventMeta[competition] = {}
+
+                eventMeta[competition][gender] = racemeta[competition][gender]
+
                 baseFileName = event + "." + competition + \
                     "." + GENDER_COMPETITION_MAP[gender]
 
@@ -164,6 +175,8 @@ for event in fetch_events_from_dir(DATA_DIR):
 
 
 # TODO: This all needs refactoring/tidying up
+json_write(object={'races': eventMeta, 'attendance': eventTotalParticipants},
+           filename=RESULTS_DIR + "/" + "meta.json")
 
 missing = pd.DataFrame({'team': list(missingTeams)})
 theMissingTeams = missing.join(
