@@ -1,8 +1,17 @@
-# Introduction
+# Results 
+
+* 2022-23
+  * [Event #1, Strathaven](https://results.westleague.org.uk/results/provisional/2022-23/1/html/)
+  * [Event #2, Kilmarnock](https://results.westleague.org.uk/results/provisional/2022-23/2/html/)
+  * Event #3, Bellahouston park (not yet available)
+
+# Results processing, technical notes 
+
+## Introduction
 
 This is a repository for tooling, and public data, for the [West District XC League](https://westleague.org.uk/).
 
-# Anticipated process
+## Anticipated process
 
 * Results will be captured at the event with paper and pencil, by officials and volunteers
   * Times (hh:mm:ss), in finishing order
@@ -17,11 +26,6 @@ This is a repository for tooling, and public data, for the [West District XC Lea
   * Website at https://westleague.org.uk/results
 * Once results finalised, they will be marked as **published**
   * Added to data sets in this repository.
-
-# Caveats
-
-* We'll see how the first event goes and what's actually useful. 
-
 
 # Reference data
 
