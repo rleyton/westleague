@@ -7,8 +7,7 @@ from .utils_consts import SeniorAgeCats
 def results_merge(times=None, places=None):
     if times is not None and places is not None:
         if len(times) == len(places):
-            results = times.join(
-                other=places, lsuffix="times", rsuffix="places")
+            results = times.join(other=places, lsuffix="times", rsuffix="places")
             return results
         else:
             raise Exception("Mismatch on number of times and places")
@@ -85,9 +84,13 @@ def normalise_agecat_record(agecat, event):
                 if agecat.lower().__contains__(category):
                     return category.upper()
             # Some clubs put full agecat or similar, eg. V40, FV40, M40; normalise these down
-            if agecat.lower()[:1] == "v" or agecat.lower()[:1] == 'm' or agecat.lower().find('v'):
+            if (
+                agecat.lower()[:1] == "v"
+                or agecat.lower()[:1] == "m"
+                or agecat.lower().find("v")
+            ):
                 return "MASTER"
-            elif agecat.lower()[:1] == 's':
+            elif agecat.lower()[:1] == "s":
                 return "SENIOR"
             raise Exception("Unxpected age category: {agecat}")
         else:
@@ -146,11 +149,13 @@ def merge_runners(results=None, clubSubmissions=None, event: str = None):
                         f"Insufficient names for club {clubnum} in event {event}"
                     )
                     results.at[i, col] = "Unknown: {clubname}".format(
-                        clubname=results.at[i, 'Club name'])
+                        clubname=results.at[i, "Club name"]
+                    )
 
                 if genderMismatch is True:
                     logging.error(
-                        f"Mismatched gender for club {row['Club name']} at result position {rowCount+1}, club submission position {clubPosition+1}, Name: {results.at[i,'Name']}. Results gender: {results.at[i,'gender']}, Submitted: {results.at[i,'Gender']}")
+                        f"Mismatched gender for club {row['Club name']} at result position {rowCount+1}, club submission position {clubPosition+1}, Name: {results.at[i,'Name']}. Results gender: {results.at[i,'gender']}, Submitted: {results.at[i,'Gender']}"
+                    )
 
                 set_club_position(clubnum, clubPosition + 1)
 
@@ -164,8 +169,9 @@ def merge_runners(results=None, clubSubmissions=None, event: str = None):
 def get_missing_teams(results=None, submissions=None):
     missingTeams = set()
     if results is not None and submissions is not None:
-        theMissingResults = results[results['Name'].isna(
-        )]['clubnumber'].unique().tolist()
+        theMissingResults = (
+            results[results["Name"].isna()]["clubnumber"].unique().tolist()
+        )
         for missingResult in theMissingResults:
             if missingResult not in submissions:
                 missingTeams.add(missingResult)

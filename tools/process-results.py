@@ -34,6 +34,7 @@ from src.adapter_places import adjust_places, process_final_results
 from src.adapter_points import calculate_competition_points
 from src.adapter_pretty_html import render
 from src.adapter_json import json_write
+from src.adapter_format import export_results, get_html
 import pandas as pd
 import pathlib
 from pretty_html_table import build_table
@@ -122,9 +123,12 @@ for event in fetch_events_from_dir(DATA_DIR):
     except Exception as e:
         raise Exception(f"Problem processing event {event}: {e}")
 
-    missingTeams = missingTeams.union(
-        set(get_missing_teams(results=results[event], submissions=clubSubmissions))
+    eventMissingTeams = set(
+        get_missing_teams(results=results[event], submissions=clubSubmissions)
     )
+    if len(eventMissingTeams) > 0:
+        logging.warning(f"Missing event submissions for {event}: {eventMissingTeams}")
+        missingTeams = missingTeams.union(eventMissingTeams)
 
     # Now we have a results DataFrame, so process the competition results
     (racemeta, teamResults[event]) = calculate_competition_points(
@@ -164,30 +168,14 @@ for event in fetch_events_from_dir(DATA_DIR):
                     event + "." + competition + "." + GENDER_COMPETITION_MAP[gender]
                 )
 
-                teamResults[event][gender][competition].to_csv(
-                    RESULTS_DIR + "/" + baseFileName + ".team.results.csv",
-                    index=False,
-                )
-                teamResults[event][gender][competition].to_markdown(
-                    RESULTS_DIR
-                    + MARKDOWN_DIR
-                    + "/"
-                    + baseFileName
-                    + ".team.results.md",
-                    index=False,
-                )
-                render(
-                    df=teamResults[event][gender][competition],
-                    style="blue_light",
-                    filename=RESULTS_DIR
-                    + HTML_DIR
-                    + "/"
-                    + baseFileName
-                    + ".team.results.html",
+                resultPages = export_results(
+                    results=teamResults[event][gender][competition],
+                    base_file_name=baseFileName,
+                    suffix=".team.results",
                 )
 
-                index.append(baseFileName + ".team.results.html")
-                logging.info("Wrote: " + baseFileName + ".team.results.html")
+                index.append(get_html(resultPages))
+                logging.info("Wrote: " + get_html(resultPages))
     else:
         raise Exception(
             f"Unexpectedly no merged results for team results in event {event}"
@@ -201,36 +189,27 @@ json_write(
 )
 
 missing = pd.DataFrame({"team": list(missingTeams)})
+
+
 theMissingTeams = missing.join(
     other=teams, on="team", lsuffix="missing", rsuffix="teamDetails"
 )
-theMissingTeams.to_csv(RESULTS_DIR + "/" + "missingTeamSubmissions.csv", index=False)
-theMissingTeams.to_markdown(
-    RESULTS_DIR + MARKDOWN_DIR + "/" + "missingTeamSubmissions.md", index=False
-)
-render(
-    df=theMissingTeams,
-    style="blue_light",
-    filename=RESULTS_DIR + HTML_DIR + "/" + "missingTeamSubmissions.html",
-)
-index.append("missingTeamSubmissions.html")
 
+results = export_results(
+    results=theMissingTeams, base_file_name="", suffix="missingTeamSubmissions"
+)
+
+index.append(get_html(results))
 
 volunteersFile = fetch_volunteers_from_dir(dir=DATA_DIR)
 if volunteersFile:
     volunteers = pd.read_csv(volunteersFile)
-    volunteers.columns = ["Name", "Role"]
-    volunteers.to_csv(RESULTS_DIR + "/" + "volunteers.csv", index=False)
 
-    volunteers.to_markdown(
-        RESULTS_DIR + MARKDOWN_DIR + "/" + "volunteers.md", index=False
-    )
-    render(
-        df=volunteers,
-        style="blue_light",
-        filename=RESULTS_DIR + HTML_DIR + "/" + "volunteers.html",
-    )
-    index.append("volunteers.html")
+    volunteers.columns = ["Name", "Role"]
+
+    vols = export_results(results=volunteers, base_file_name="", suffix="volunteers")
+
+    index.append(get_html(vols))
 
 
 # Render a basic HTML index

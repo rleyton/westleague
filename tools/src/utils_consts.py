@@ -81,8 +81,8 @@ HTML_DIR = "/html"
 MARKDOWN_DIR = "/markdown"
 
 # hard-coded for now
-YEAR="2022-23"
-EVENT="2"
+YEAR = "2022-23"
+EVENT = "2"
 DATA_DIR = "data/2022-23/2"
 CLUB_SUBMISSIONS = "club-submissions"
 CLUB_PARSED = "club-parsed"

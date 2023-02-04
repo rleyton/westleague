@@ -68,8 +68,7 @@ def extract_filtered_results(results=None, ageCat=None, gender=None):
 
     # extract the matching gender records
     if gender is not None:
-        genderResults = ageCatResults[ageCatResults["gender"]
-                                      == gender].reset_index()
+        genderResults = ageCatResults[ageCatResults["gender"] == gender].reset_index()
     else:
         genderResults = ageCatResults.reset_index()
 
@@ -90,8 +89,7 @@ def calculate_team_points(team, teamResults, maxCounters, penaltyPoints):
 
     # what were the finisher positions
     teamFinishers = ",".join(
-        teamResults.head(maxCounters)["position"].astype(
-            "string").values.tolist()
+        teamResults.head(maxCounters)["position"].astype("string").values.tolist()
     )
     totalFinishers = len(teamResults)
     # base team points
@@ -127,7 +125,7 @@ def calculate_competition_points(results, teams, event):
     competitionPoints = {}
     # reference = { 'penalty':{}, 'participants':{}, 'counters':{}}
     reference = {}
-    reference['total_participants'] = len(results)
+    reference["total_participants"] = len(results)
 
     # for each gender competition
     for gender in GENDER_COMPETITIONS:
@@ -150,8 +148,7 @@ def calculate_competition_points(results, teams, event):
 
             if ageCat == OVERALL:
                 # For overall competition, don't filter on ageCat
-                ageCatResults = extract_filtered_results(
-                    results=results, gender=gender)
+                ageCatResults = extract_filtered_results(results=results, gender=gender)
             else:
                 # get the results for that age category
                 ageCatResults = extract_filtered_results(
@@ -165,9 +162,9 @@ def calculate_competition_points(results, teams, event):
             penaltyPoints = totalParticipants + PENALTY_POINTS
 
             # build reference structure
-            reference[ageCat][gender]['penalty'] = penaltyPoints
-            reference[ageCat][gender]['participants'] = totalParticipants
-            reference[ageCat][gender]['counters'] = maxCounters
+            reference[ageCat][gender]["penalty"] = penaltyPoints
+            reference[ageCat][gender]["participants"] = totalParticipants
+            reference[ageCat][gender]["counters"] = maxCounters
 
             # Work through all the teams we know about
             for team in teams.index:
@@ -189,8 +186,7 @@ def calculate_competition_points(results, teams, event):
                     competitionPoints[gender][ageCat] = teamResult
                 else:
                     competitionPoints[gender][ageCat] = pd.concat(
-                        [competitionPoints[gender][ageCat],
-                            teamResult], ignore_index=0
+                        [competitionPoints[gender][ageCat], teamResult], ignore_index=0
                     )
 
             points = tidy_points(

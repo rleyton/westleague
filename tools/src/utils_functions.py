@@ -22,20 +22,29 @@ def fetch_volunteers_from_dir(dir: str = None):
     else:
         return None
 
-def fetch_events( dir: str = None):
+
+def fetch_events(dir: str = None):
     if dir is not None:
         events = glob.glob(dir + "?")
         return events
     else:
         return None
 
-def fetch_results_filenames(dir:str = None):
+
+def fetch_results_filenames(dir: str = None):
     results = None
     if dir is not None:
         results = []
         for result in glob.glob(dir + "/*.team.results.csv"):
             filename = os.path.basename(result)
-            (eventname,agecat,gender) = filename.split(".")[:3]            
+            (eventname, agecat, gender) = filename.split(".")[:3]
 
-            results.append({'filename':dir+"/"+filename,'eventname':eventname,'agecat':agecat,'gender':gender})
+            results.append(
+                {
+                    "filename": dir + "/" + filename,
+                    "eventname": eventname,
+                    "agecat": agecat,
+                    "gender": gender,
+                }
+            )
     return results
