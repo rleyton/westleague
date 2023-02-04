@@ -4,6 +4,7 @@ keys/**
 __pycache__/
 *.py[cod]
 *$py.class
+*.bkup
 
 # C extensions
 *.so
