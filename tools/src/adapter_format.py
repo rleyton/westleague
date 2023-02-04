@@ -4,7 +4,8 @@ from .utils_consts import MARKDOWN_DIR, HTML_DIR
 from .adapter_pretty_html import render
 import pathlib
 
-def check_dirs_exist(dir:str):
+
+def check_dirs_exist(dir: str):
     pathlib.Path(dir + MARKDOWN_DIR).mkdir(parents=True, exist_ok=True)
     pathlib.Path(dir + HTML_DIR).mkdir(parents=True, exist_ok=True)
 

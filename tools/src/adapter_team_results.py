@@ -50,8 +50,9 @@ def calculate_team_standings(
     results["Total"] = 0
     for race in raceResults:
         raceMeta = eventMeta[race]["races"][competition][gender]
+        noParticipantsPenalty = raceMeta["penalty"] * raceMeta["counters"]
         results.iloc[:, race - 1] = (
-            results.iloc[:, race - 1].replace(np.nan, raceMeta["penalty"]).astype(int)
+            results.iloc[:, race - 1].replace(np.nan, noParticipantsPenalty).astype(int)
         )
         results["Total"] = results["Total"] + results.iloc[:, race - 1].astype(int)
 

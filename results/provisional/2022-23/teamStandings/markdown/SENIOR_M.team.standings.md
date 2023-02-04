@@ -4,23 +4,23 @@
 |  81 |  43 |     124 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |
 |  66 | 132 |     198 | Inverclyde AC              | https://www.inverclydeac.org/              |
 |  98 | 111 |     209 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
-|  67 | 143 |     210 | VP-Glasgow                 | nan                                        |
-|  67 | 145 |     212 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
-| 175 |  45 |     220 | Kirkintilloch Olympians    | https://kirkintillocholympians.co.uk/      |
-|  67 | 160 |     227 | West End RR                | https://www.westendroadrunners.co.uk/      |
-| 183 |  45 |     228 | North Ayrshire AAC         | https://naathletics.co.uk/                 |
-|  67 | 163 |     230 | Garscube Harriers          | https://www.garscubeharriers.org.uk/       |
 | 147 |  92 |     239 | East Kilbride AC           | http://www.ekac.org.uk/                    |
 | 170 |  72 |     242 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
 | 147 |  98 |     245 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |
-| 213 |  45 |     258 | Motherwell AC              | https://motherwellac.com/                  |
-| 217 |  45 |     262 | Kilbarchan AAC             | https://kilbarchanaac.org.uk/              |
-| 228 |  45 |     273 | Newton Road Runners        | https://www.newton-roadrunners.com/        |
-| 232 |  45 |     277 | Troon Tortoises            | http://troontortoises.co.uk                |
-| 246 |  45 |     291 | Whitemoss AAC              | https://whitemossaac.co.uk/                |
 | 174 | 123 |     297 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
-| 258 |  45 |     303 | Larkhall YMCA              | https://www.facebook.com/larkhallharriers/ |
 | 189 | 124 |     313 | Law & District AAC         | http://www.lawaac.co.uk/                   |
 | 202 | 146 |     348 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
+| 175 | 180 |     355 | Kirkintilloch Olympians    | https://kirkintillocholympians.co.uk/      |
+| 183 | 180 |     363 | North Ayrshire AAC         | https://naathletics.co.uk/                 |
 | 208 | 169 |     377 | Springburn Harriers        | https://www.springburnharriers.co.uk/      |
 | 226 | 152 |     378 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
+| 213 | 180 |     393 | Motherwell AC              | https://motherwellac.com/                  |
+| 217 | 180 |     397 | Kilbarchan AAC             | https://kilbarchanaac.org.uk/              |
+| 228 | 180 |     408 | Newton Road Runners        | https://www.newton-roadrunners.com/        |
+| 268 | 143 |     411 | VP-Glasgow                 | nan                                        |
+| 232 | 180 |     412 | Troon Tortoises            | http://troontortoises.co.uk                |
+| 268 | 145 |     413 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
+| 246 | 180 |     426 | Whitemoss AAC              | https://whitemossaac.co.uk/                |
+| 268 | 160 |     428 | West End RR                | https://www.westendroadrunners.co.uk/      |
+| 268 | 163 |     431 | Garscube Harriers          | https://www.garscubeharriers.org.uk/       |
+| 258 | 180 |     438 | Larkhall YMCA              | https://www.facebook.com/larkhallharriers/ |
