@@ -4,7 +4,7 @@ from dotenv import dotenv_values
 import logging
 from src.adapter_sheets import load_volunteers, load_results
 from src.adapter_json import json_load
-from src.adapter_format import export_results
+from src.adapter_format import export_results, get_html
 from src.utils_consts import (
     GENDER_COMPETITION_MAP,
     HTML_DIR,
@@ -63,7 +63,7 @@ for competition in events[baseEvent]:
             suffix=".team.standings",
         )
 
-        theFiles.append(resultPages["html"].split("/")[-1:][0])
+        theFiles.append(get_html(resultPages))
 
 
 # Render a basic HTML index
@@ -77,7 +77,7 @@ filesDF = pd.DataFrame({"teamStandings": theFiles})
 filesDF = filesDF.style.format({"teamStandings": make_clickable})
 
 filesDF.to_html(
-    f"{YEAR_RESULTS_OUTPUT}/index.html",
+    f"{YEAR_RESULTS_OUTPUT}/html/index.html",
     index=False,
     render_links=True,
     escape=False,
