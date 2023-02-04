@@ -3,6 +3,8 @@
 from dotenv import dotenv_values
 import logging
 from src.adapter_sheets import load_volunteers, load_results
+from src.adapter_json import json_load
+from src.adapter_format import export_results
 from src.utils_consts import (
     DATA_DIR,
     TEAMS,
@@ -44,15 +46,17 @@ eventDirectories = fetch_events(
     dir=BASE_RESULTS+"/"+config['PROCESS_YEAR']+"/")
 
 events = {}
-
+event_meta = {}
 # Load the team results from available events
 for event in eventDirectories:
     eventNumber = int(event.split("/")[-1:][0])
     logging.info(f"Processing: {event}")
     events[eventNumber] = load_team_results(dir=event)
+    event_meta[eventNumber] = json_load(filename=event+"/meta.json")
 
 baseEvent = list(events.keys())[0]
 
+theFiles = []
 for competition in events[baseEvent]:
     for gender in GENDER_COMPETITION_MAP:
         logging.info(
@@ -60,7 +64,24 @@ for competition in events[baseEvent]:
         raceResults = extract_race_results(
             allEvents=events, requiredCompetition=competition, requiredGender=GENDER_COMPETITION_MAP[gender])
 
-        teamStandings = calculate_team_standings(raceResults=raceResults)
+        teamStandings = calculate_team_standings(
+            raceResults=raceResults, eventMeta=event_meta, competition=competition, gender=gender)
 
         normalisedTeamStandings = teamStandings.join(other=teams)
-        print(normalisedTeamStandings)
+        resultPages = export_results(results=normalisedTeamStandings,
+                                 base_file_name=f"{competition}_{gender}", suffix=".team.standings")
+        
+        theFiles.append(resultPages["html"].split("/")[-1:][0])
+
+
+# Render a basic HTML index
+
+def make_clickable(val):
+    return f'<a target="_blank" href="{val}">{val}</a>'
+
+
+filesDF = pd.DataFrame({'teamStandings': theFiles})
+filesDF = filesDF.style.format({'teamStandings': make_clickable})
+
+filesDF.to_html(RESULTS_DIR+HTML_DIR+"/"+"teamStandings.html",
+                index=False, render_links=True, escape=False)

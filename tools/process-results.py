@@ -18,12 +18,17 @@ from src.utils_consts import (
     HTML_DIR,
     MARKDOWN_DIR,
     YEAR,
-    EVENT
+    EVENT,
 )
 from src.utils_functions import fetch_events_from_dir, fetch_volunteers_from_dir
 from src.adapter_gender import gender_process
 from src.adapter_team import process_teams, load_team_submissions
-from src.adapter_results import results_merge, tidy_results, merge_runners, get_missing_teams
+from src.adapter_results import (
+    results_merge,
+    tidy_results,
+    merge_runners,
+    get_missing_teams,
+)
 from src.adapter_times import adjust_times
 from src.adapter_places import adjust_places, process_final_results
 from src.adapter_points import calculate_competition_points
@@ -44,8 +49,8 @@ ADJUSTMENTS_DIR = ADJUSTMENTS_DIR.format(YEAR=YEAR, EVENT=EVENT)
 SOURCE_DATA = DATA_DIR
 
 pathlib.Path(RESULTS_DIR).mkdir(parents=True, exist_ok=True)
-pathlib.Path(RESULTS_DIR+MARKDOWN_DIR).mkdir(parents=True, exist_ok=True)
-pathlib.Path(RESULTS_DIR+HTML_DIR).mkdir(parents=True, exist_ok=True)
+pathlib.Path(RESULTS_DIR + MARKDOWN_DIR).mkdir(parents=True, exist_ok=True)
+pathlib.Path(RESULTS_DIR + HTML_DIR).mkdir(parents=True, exist_ok=True)
 
 
 teams = pd.read_csv(TEAMS, index_col="Number")
@@ -107,8 +112,7 @@ for event in fetch_events_from_dir(DATA_DIR):
         results[event] = process_final_results(
             tidy_results(
                 merge_runners(
-                    results_merge(
-                        times=record["times"], places=record["places"]),
+                    results_merge(times=record["times"], places=record["places"]),
                     clubSubmissions=clubSubmissions,
                     event=event,
                 )
@@ -118,8 +122,9 @@ for event in fetch_events_from_dir(DATA_DIR):
     except Exception as e:
         raise Exception(f"Problem processing event {event}: {e}")
 
-    missingTeams = missingTeams.union(set(get_missing_teams(
-        results=results[event], submissions=clubSubmissions)))
+    missingTeams = missingTeams.union(
+        set(get_missing_teams(results=results[event], submissions=clubSubmissions))
+    )
 
     # Now we have a results DataFrame, so process the competition results
     (racemeta, teamResults[event]) = calculate_competition_points(
@@ -130,17 +135,20 @@ for event in fetch_events_from_dir(DATA_DIR):
 
     # core results
     if results[event] is not None:
-        results[event].to_csv(RESULTS_DIR + "/" + event +
-                              ".results.csv", index=False)
+        results[event].to_csv(RESULTS_DIR + "/" + event + ".results.csv", index=False)
         results[event].to_markdown(
-            RESULTS_DIR+MARKDOWN_DIR + "/" + event + ".results.md", index=False)
-        render(df=results[event], style='blue_light',
-               filename=RESULTS_DIR+HTML_DIR + "/" + event + ".results.html")
+            RESULTS_DIR + MARKDOWN_DIR + "/" + event + ".results.md", index=False
+        )
+        render(
+            df=results[event],
+            style="blue_light",
+            filename=RESULTS_DIR + HTML_DIR + "/" + event + ".results.html",
+        )
         index.append(event + ".results.html")
     else:
         raise Exception(f"Unexpectedly no merged results for event {event}")
 
-    eventTotalParticipants += racemeta['total_participants']
+    eventTotalParticipants += racemeta["total_participants"]
 
     # team results
     if teamResults[event] is not None:
@@ -152,22 +160,34 @@ for event in fetch_events_from_dir(DATA_DIR):
 
                 eventMeta[competition][gender] = racemeta[competition][gender]
 
-                baseFileName = event + "." + competition + \
-                    "." + GENDER_COMPETITION_MAP[gender]
+                baseFileName = (
+                    event + "." + competition + "." + GENDER_COMPETITION_MAP[gender]
+                )
 
                 teamResults[event][gender][competition].to_csv(
-                    RESULTS_DIR + "/"+baseFileName + ".team.results.csv",
+                    RESULTS_DIR + "/" + baseFileName + ".team.results.csv",
                     index=False,
                 )
                 teamResults[event][gender][competition].to_markdown(
-                    RESULTS_DIR+MARKDOWN_DIR + "/" + baseFileName + ".team.results.md",
+                    RESULTS_DIR
+                    + MARKDOWN_DIR
+                    + "/"
+                    + baseFileName
+                    + ".team.results.md",
                     index=False,
                 )
-                render(df=teamResults[event][gender][competition], style='blue_light', filename=RESULTS_DIR+HTML_DIR+"/"
-                       + baseFileName + ".team.results.html")
+                render(
+                    df=teamResults[event][gender][competition],
+                    style="blue_light",
+                    filename=RESULTS_DIR
+                    + HTML_DIR
+                    + "/"
+                    + baseFileName
+                    + ".team.results.html",
+                )
 
                 index.append(baseFileName + ".team.results.html")
-                logging.info("Wrote: "+baseFileName + ".team.results.html")
+                logging.info("Wrote: " + baseFileName + ".team.results.html")
     else:
         raise Exception(
             f"Unexpectedly no merged results for team results in event {event}"
@@ -175,48 +195,61 @@ for event in fetch_events_from_dir(DATA_DIR):
 
 
 # TODO: This all needs refactoring/tidying up
-json_write(object={'races': eventMeta, 'attendance': eventTotalParticipants},
-           filename=RESULTS_DIR + "/" + "meta.json")
+json_write(
+    object={"races": eventMeta, "attendance": eventTotalParticipants},
+    filename=RESULTS_DIR + "/" + "meta.json",
+)
 
-missing = pd.DataFrame({'team': list(missingTeams)})
+missing = pd.DataFrame({"team": list(missingTeams)})
 theMissingTeams = missing.join(
-    other=teams, on='team', lsuffix="missing", rsuffix="teamDetails")
-theMissingTeams.to_csv(RESULTS_DIR + "/" +
-                       "missingTeamSubmissions.csv", index=False)
+    other=teams, on="team", lsuffix="missing", rsuffix="teamDetails"
+)
+theMissingTeams.to_csv(RESULTS_DIR + "/" + "missingTeamSubmissions.csv", index=False)
 theMissingTeams.to_markdown(
-    RESULTS_DIR+MARKDOWN_DIR + "/" + "missingTeamSubmissions.md", index=False)
-render(df=theMissingTeams, style='blue_light', filename=RESULTS_DIR +
-       HTML_DIR+"/"+"missingTeamSubmissions.html")
+    RESULTS_DIR + MARKDOWN_DIR + "/" + "missingTeamSubmissions.md", index=False
+)
+render(
+    df=theMissingTeams,
+    style="blue_light",
+    filename=RESULTS_DIR + HTML_DIR + "/" + "missingTeamSubmissions.html",
+)
 index.append("missingTeamSubmissions.html")
 
 
 volunteersFile = fetch_volunteers_from_dir(dir=DATA_DIR)
 if volunteersFile:
-    volunteers = pd.read_csv(
-        volunteersFile
-    )
-    volunteers.columns = ['Name', 'Role']
+    volunteers = pd.read_csv(volunteersFile)
+    volunteers.columns = ["Name", "Role"]
     volunteers.to_csv(RESULTS_DIR + "/" + "volunteers.csv", index=False)
 
     volunteers.to_markdown(
-        RESULTS_DIR+MARKDOWN_DIR + "/" + "volunteers.md", index=False)
-    render(df=volunteers, style='blue_light',
-           filename=RESULTS_DIR+HTML_DIR+"/"+"volunteers.html")
+        RESULTS_DIR + MARKDOWN_DIR + "/" + "volunteers.md", index=False
+    )
+    render(
+        df=volunteers,
+        style="blue_light",
+        filename=RESULTS_DIR + HTML_DIR + "/" + "volunteers.html",
+    )
     index.append("volunteers.html")
 
 
 # Render a basic HTML index
+
 
 def make_clickable(val):
     return f'<a target="_blank" href="{val}">{val}</a>'
 
 
 index.sort()
-indexDF = pd.DataFrame({'resultsPage': index})
-indexDF = indexDF.style.format({'resultsPage': make_clickable})
+indexDF = pd.DataFrame({"resultsPage": index})
+indexDF = indexDF.style.format({"resultsPage": make_clickable})
 
-indexDF.to_html(RESULTS_DIR+HTML_DIR+"/"+"index.html",
-                index=False, render_links=True, escape=False)
+indexDF.to_html(
+    RESULTS_DIR + HTML_DIR + "/" + "index.html",
+    index=False,
+    render_links=True,
+    escape=False,
+)
 
 
 logging.info("Finished")

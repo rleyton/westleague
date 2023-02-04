@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 from .utils_consts import CLUB_PARSED, DATA_DIR
 import glob
 import os
@@ -30,7 +31,7 @@ def extract_race_results(allEvents: dict = None, requiredCompetition: str = None
     return results
 
 
-def calculate_team_standings(raceResults: dict = None):
+def calculate_team_standings(raceResults: dict = None, eventMeta: dict = None,competition:str = None, gender:str = None):
     """ For the results we have, roll up the results """
     table = {}
     for race in raceResults:
@@ -47,7 +48,8 @@ def calculate_team_standings(raceResults: dict = None):
 
     results['Total'] = 0
     for race in raceResults:
-        results.iloc[:, race-1] = results.iloc[:, race-1].replace('NaN', 100)
-        results['Total'] = results['Total']+results.iloc[:, race-1]
+        raceMeta = eventMeta[race]['races'][competition][gender]
+        results.iloc[:, race-1] = results.iloc[:, race-1].replace(np.nan, raceMeta['penalty']).astype(int)
+        results['Total'] = results['Total']+results.iloc[:, race-1].astype(int)
 
-    return results
+    return results.sort_values(by=['Total'])
