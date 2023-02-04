@@ -6,20 +6,11 @@ from src.adapter_sheets import load_volunteers, load_results
 from src.adapter_json import json_load
 from src.adapter_format import export_results
 from src.utils_consts import (
-    DATA_DIR,
     TEAMS,
-    EXT_TIMES,
-    EXT_PLACES,
-    EXT_META,
-    EXT_ADJUSTMENTS,
-    EXT_CSV,
     GENDERS,
     RESULTS_DIR,
     GENDER_COMPETITION_MAP,
     HTML_DIR,
-    MARKDOWN_DIR,
-    YEAR,
-    EVENT,
     BASE_RESULTS,
 )
 from src.utils_functions import fetch_events

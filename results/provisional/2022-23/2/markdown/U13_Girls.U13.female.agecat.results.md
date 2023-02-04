@@ -1,0 +1,38 @@
+|   position | times   | team   | Name                 | gender   | AgeCat   |   clubnumber | Club name           | Website                               |   finishPosition |
+|-----------:|:--------|:-------|:---------------------|:---------|:---------|-------------:|:--------------------|:--------------------------------------|-----------------:|
+|          1 | 0:09:36 | 9F     | Erin Burnett         | F        | U13      |            9 | Garscube Harriers   | https://www.garscubeharriers.org.uk/  |                1 |
+|          2 | 0:09:36 | 7F     | Holly Simpson        | F        | U13      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |                2 |
+|          3 | 0:09:42 | 7F     | Millie Boothman      | F        | U13      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |                3 |
+|          4 | 0:09:58 | 7F     | Eilidh Caldow        | F        | U13      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |                4 |
+|          5 | 0:10:19 | 7F     | Isabella Wilson      | F        | U13      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |                5 |
+|          6 | 0:10:25 | 7F     | Erika Tait           | F        | U13      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |                6 |
+|          7 | 0:10:26 | 7F     | Eve Cameron          | F        | U13      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |                7 |
+|          8 | 0:10:28 | 44F    | Lola Finnigan        | F        | U13      |           44 | North Ayrshire AAC  | https://naathletics.co.uk/            |                8 |
+|          9 | 0:10:36 | 48F    | Brooke Dawson        | F        | U13      |           48 | Springburn Harriers | https://www.springburnharriers.co.uk/ |                9 |
+|         10 | 0:10:40 | 7F     | Eve Wilkinson        | F        | U13      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |               10 |
+|         11 | 0:10:50 | 4F     | Olivia Lyne          | F        | U13      |            4 | Inverclyde AC       | https://www.inverclydeac.org/         |               11 |
+|         12 | 0:10:51 | 4F     | Grace Barry          | F        | U13      |            4 | Inverclyde AC       | https://www.inverclydeac.org/         |               12 |
+|         13 | 0:10:58 | 37F    | Isla Cameron         | F        | U13      |           37 | Law & District AAC  | http://www.lawaac.co.uk/              |               13 |
+|         14 | 0:11:00 | 44F    | Emy Finnigan         | F        | U13      |           44 | North Ayrshire AAC  | https://naathletics.co.uk/            |               14 |
+|         15 | 0:11:00 | 7F     | Megan Jackson        | F        | U13      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |               15 |
+|         16 | 0:11:00 | 4F     | Keira Gregory        | F        | U13      |            4 | Inverclyde AC       | https://www.inverclydeac.org/         |               16 |
+|         17 | 0:11:03 | 14F    | Willow Challis       | F        | U13      |           14 | Ayr Seaforth AC     | https://www.ayrseaforth.co.uk/        |               17 |
+|         18 | 0:11:04 | 7F     | Beth Adams           | F        | U13      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |               18 |
+|         19 | 0:11:05 | 9F     | Alexandra Bell       | F        | U13      |            9 | Garscube Harriers   | https://www.garscubeharriers.org.uk/  |               19 |
+|         20 | 0:11:08 | 44F    | Ella McMillan        | F        | U13      |           44 | North Ayrshire AAC  | https://naathletics.co.uk/            |               20 |
+|         21 | 0:11:10 | 49F    | Alexa Swallwell      | F        | U13      |           49 | Stewartry AC        | nan                                   |               21 |
+|         22 | 0:11:12 | 57F    | Maya Barcella        | F        | U13      |           57 | Whitemoss AAC       | https://whitemossaac.co.uk/           |               22 |
+|         23 | 0:11:17 | 7F     | Lily Grace Inglis    | F        | U13      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |               23 |
+|         24 | 0:11:36 | 57F    | Sophia Barcella      | F        | U13      |           57 | Whitemoss AAC       | https://whitemossaac.co.uk/           |               24 |
+|         25 | 0:11:38 | 37F    | Grace Quinn          | F        | U13      |           37 | Law & District AAC  | http://www.lawaac.co.uk/              |               25 |
+|         26 | 0:11:41 | 11F    | Kady Wood            | F        | U13      |           11 | Airdrie Harriers    | http://airdrieharriers.org/           |               26 |
+|         27 | 0:11:48 | 48F    | Louisa Fraser-Moodie | F        | U13      |           48 | Springburn Harriers | https://www.springburnharriers.co.uk/ |               27 |
+|         28 | 0:11:52 | 37F    | Freya Togneri        | F        | U13      |           37 | Law & District AAC  | http://www.lawaac.co.uk/              |               28 |
+|         29 | 0:12:22 | 1F     | ANNIE MacDONALD      | F        | U13      |            1 | East Kilbride AC    | http://www.ekac.org.uk/               |               29 |
+|         30 | 0:12:28 | 2F     | Rebecca McNulty      | F        | U13      |            2 | Kilmarnock H&AC     | http://www.kilmarnockharriers.com/    |               30 |
+|         31 | 0:12:29 | 11F    | Amelia Bryden        | F        | U13      |           11 | Airdrie Harriers    | http://airdrieharriers.org/           |               31 |
+|         32 | 0:12:31 | 48F    | Naimh Wilson         | F        | U13      |           48 | Springburn Harriers | https://www.springburnharriers.co.uk/ |               32 |
+|         33 | 0:12:31 | 11F    | Lucy O'Reilly        | F        | U13      |           11 | Airdrie Harriers    | http://airdrieharriers.org/           |               33 |
+|         34 | 0:12:34 | 7F     | Lilah MacIntyre      | F        | U13      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |               34 |
+|         35 | 0:12:38 | 4F     | Leah Kane            | F        | U13      |            4 | Inverclyde AC       | https://www.inverclydeac.org/         |               35 |
+|         36 | 0:12:44 | 11F    | Leah Dunphy          | F        | U13      |           11 | Airdrie Harriers    | http://airdrieharriers.org/           |               36 |

@@ -76,6 +76,7 @@ def process_final_results(results, adjustments):
                     results["position"] = results["position"].apply(
                         lambda x: x - 1 if x >= record else x
                     )
+
                 else:
                     logging.debug(f"Adjustment of {row['adjustment']} ignored")
 

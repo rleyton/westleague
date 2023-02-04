@@ -60,6 +60,7 @@ genders = pd.read_csv(GENDERS, index_col="shortcode")
 results = {}
 leagueResults = {}
 teamResults = {}
+ageCatResults = {}
 missingTeams = set()
 eventMeta = {}
 index = []
@@ -131,7 +132,7 @@ for event in fetch_events_from_dir(DATA_DIR):
         missingTeams = missingTeams.union(eventMissingTeams)
 
     # Now we have a results DataFrame, so process the competition results
-    (racemeta, teamResults[event]) = calculate_competition_points(
+    (racemeta, teamResults[event], ageCatResults[event]) = calculate_competition_points(
         results=results[event], teams=teams, event=event
     )
 
@@ -139,12 +140,31 @@ for event in fetch_events_from_dir(DATA_DIR):
 
     # core results
     if results[event] is not None:
-        resultsPages = export_results(results=results[event],base_file_name=event,suffix = "results")
+        resultsPages = export_results(
+            results=results[event], base_file_name=event, suffix=".event.results"
+        )
         index.append(get_html(resultsPages))
     else:
         raise Exception(f"Unexpectedly no merged results for event {event}")
 
     eventTotalParticipants += racemeta["total_participants"]
+
+    # ageCategory specific results
+    if ageCatResults[event] is not None:
+        for gender in ageCatResults[event]:
+            for competition in ageCatResults[event][gender]:
+                # only write files if any data
+                if len(ageCatResults[event][gender][competition]) > 0:
+                    baseFileName = (
+                        event + "." + competition + "." + GENDER_COMPETITION_MAP[gender]
+                    )
+                    ageCatResultsPage = export_results(
+                        results=ageCatResults[event][gender][competition],
+                        base_file_name=baseFileName,
+                        suffix=".agecat.results",
+                    )
+                    index.append(get_html(ageCatResultsPage))
+                    logging.info("Wrote: " + get_html(ageCatResultsPage))
 
     # team results
     if teamResults[event] is not None:
@@ -211,7 +231,7 @@ def make_clickable(val):
     return f'<a target="_blank" href="{val}">{val}</a>'
 
 
-index.sort()
+index = sorted(index, key=lambda s: s.casefold())
 indexDF = pd.DataFrame({"resultsPage": index})
 indexDF = indexDF.style.format({"resultsPage": make_clickable})
 

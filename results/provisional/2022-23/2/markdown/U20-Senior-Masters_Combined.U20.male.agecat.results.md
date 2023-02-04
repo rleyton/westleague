@@ -1,0 +1,6 @@
+|   position | times   | team   | Name                  | gender   | AgeCat   |   clubnumber | Club name         | Website                            |   finishPosition |
+|-----------:|:--------|:-------|:----------------------|:---------|:---------|-------------:|:------------------|:-----------------------------------|-----------------:|
+|          1 | 0:24:24 | 7M     | Cameron Green         | M        | U20      |            7 | Giffnock North AC | https://www.giffnocknorth.co.uk/   |                3 |
+|          2 | 0:25:04 | 54M    | Henry Horiuchi-Sutton | M        | U20      |           54 | VP-Glasgow        | nan                                |                7 |
+|          3 | 0:25:33 | 2M     | Jonathon Downey       | M        | U20      |            2 | Kilmarnock H&AC   | http://www.kilmarnockharriers.com/ |               11 |
+|          4 | 0:39:52 | 54M    | Gregory Gontor        | M        | U20      |           54 | VP-Glasgow        | nan                                |              123 |

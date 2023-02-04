@@ -1,0 +1,17 @@
+|   position | times   | team   | Name             | gender   | AgeCat   |   clubnumber | Club name            | Website                            |   finishPosition |
+|-----------:|:--------|:-------|:-----------------|:---------|:---------|-------------:|:---------------------|:-----------------------------------|-----------------:|
+|          1 | 0:14:48 | 10F    | Katie Woods      | F        | U15      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/ |               17 |
+|          2 | 0:15:43 | 34F    | Lauren           | F        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/      |               21 |
+|          3 | 0:15:54 | 14F    | Marnie Harrower  | F        | U15      |           14 | Ayr Seaforth AC      | https://www.ayrseaforth.co.uk/     |               23 |
+|          4 | 0:16:01 | 1F     | EVA MORRISON     | F        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/            |               26 |
+|          5 | 0:16:14 | 7F     | Isla Munro       | F        | U15      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/   |               27 |
+|          6 | 0:16:45 | 37F    | Alayna McCann    | F        | U15      |           37 | Law & District AAC   | http://www.lawaac.co.uk/           |               28 |
+|          7 | 0:16:50 | 1F     | KARA LINDSAY     | F        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/            |               29 |
+|          8 | 0:16:54 | 4F     | Lexie Bremner    | F        | U15      |            4 | Inverclyde AC        | https://www.inverclydeac.org/      |               30 |
+|          9 | 0:17:17 | 11F    | Joshua Harmon    | F        | U15      |           11 | Airdrie Harriers     | http://airdrieharriers.org/        |               33 |
+|         10 | 0:17:21 | 1F     | CARRIE CHARTERS  | F        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/            |               34 |
+|         11 | 0:17:59 | 10F    | Katie Burns      | F        | U15      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/ |               36 |
+|         12 | 0:19:29 | 2F     | Charlotte Gebbie | F        | U15      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/ |               39 |
+|         13 | 0:19:32 | 2F     | Isla Fitzgerald  | F        | U15      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/ |               40 |
+|         14 | 0:20:15 | 7F     | Lexie Martin     | F        | U15      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/   |               41 |
+|         15 | 0:20:21 | 2F     | Amelie Lee       | F        | U15      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/ |               42 |

@@ -1,0 +1,17 @@
+|   position | times   | team   | Name             | gender   | AgeCat   |   clubnumber | Club name            | Website                            |   finishPosition |
+|-----------:|:--------|:-------|:-----------------|:---------|:---------|-------------:|:---------------------|:-----------------------------------|-----------------:|
+|          1 | 0:16:47 | 7M     | Oliver MacDonald | M        | U17      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/   |                1 |
+|          2 | 0:17:25 | 6M     | Sam McCarthy     | M        | U17      |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/    |                2 |
+|          3 | 0:17:47 | 6M     | Zak Seenan       | M        | U17      |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/    |                3 |
+|          4 | 0:17:58 | 37M    | Logan Whitton    | M        | U17      |           37 | Law & District AAC   | http://www.lawaac.co.uk/           |                4 |
+|          5 | 0:18:04 | 1M     | AARON THOMSON    | M        | U17      |            1 | East Kilbride AC     | http://www.ekac.org.uk/            |                5 |
+|          6 | 0:18:05 | 37M    | Ryan Kellock     | M        | U17      |           37 | Law & District AAC   | http://www.lawaac.co.uk/           |                6 |
+|          7 | 0:18:10 | 1M     | SAM HOSIE        | M        | U17      |            1 | East Kilbride AC     | http://www.ekac.org.uk/            |                7 |
+|          8 | 0:19:09 | 14M    | Fraser McIntyre  | M        | U17      |           14 | Ayr Seaforth AC      | https://www.ayrseaforth.co.uk/     |                8 |
+|          9 | 0:19:19 | 10M    | Joseph Reilly    | M        | U17      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/ |                9 |
+|         10 | 0:19:55 | 14M    | Leo Brockie      | M        | U17      |           14 | Ayr Seaforth AC      | https://www.ayrseaforth.co.uk/     |               11 |
+|         11 | 0:21:00 | 6M     | Gabriel Murphy   | M        | U17      |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/    |               13 |
+|         12 | 0:22:30 | 2M     | Callum Riddell   | M        | U17      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/ |               17 |
+|         13 | 0:22:50 | 11M    | Ben O'Reilly     | M        | U17      |           11 | Airdrie Harriers     | http://airdrieharriers.org/        |               18 |
+|         14 | 0:24:42 | 11M    | Scott Kirley     | M        | U17      |           11 | Airdrie Harriers     | http://airdrieharriers.org/        |               20 |
+|         15 | 0:25:24 | 11M    | Adam Grennan     | M        | U17      |           11 | Airdrie Harriers     | http://airdrieharriers.org/        |               22 |

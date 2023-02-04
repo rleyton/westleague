@@ -126,11 +126,11 @@ def calculate_competition_points(results, teams, event):
     # reference = { 'penalty':{}, 'participants':{}, 'counters':{}}
     reference = {}
     reference["total_participants"] = len(results)
-
+    competitionResults = {}
     # for each gender competition
     for gender in GENDER_COMPETITIONS:
         competitionPoints[gender] = {}
-
+        competitionResults[gender] = {}
         # reference['penalty'][gender] = {}
         # reference['participants'][gender] = {}
         # for each age category in each set of results
@@ -154,6 +154,8 @@ def calculate_competition_points(results, teams, event):
                 ageCatResults = extract_filtered_results(
                     results=results, ageCat=ageCat, gender=gender
                 )
+
+            competitionResults[gender][ageCat] = ageCatResults.drop(["index"], axis=1)
 
             # how many took part
             totalParticipants = len(ageCatResults)
@@ -204,7 +206,7 @@ def calculate_competition_points(results, teams, event):
                 # remove the working data
                 del competitionPoints[gender][ageCat]
 
-    return (reference, competitionPoints)
+    return (reference, competitionPoints, competitionResults)
 
 
 def get_all_possible_columns(results):
