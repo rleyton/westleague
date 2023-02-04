@@ -2,6 +2,7 @@
 
 * 2022-23
   * [Event #1, Strathaven](https://results.westleague.org.uk/results/provisional/2022-23/1/html/)
+
   * [Event #2, Kilmarnock](https://results.westleague.org.uk/results/provisional/2022-23/2/html/)
   * Event #3, Bellahouston park (not yet available)
 

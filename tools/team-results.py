@@ -9,7 +9,7 @@ from src.utils_consts import (
     GENDER_COMPETITION_MAP,
     HTML_DIR,
 )
-from src.utils_config import TEAMS, GENDERS, BASE_RESULTS, YEAR_RESULTS, RESULTS_DIR
+from src.utils_config import TEAMS, GENDERS, BASE_RESULTS, YEAR_RESULTS, RESULTS_DIR, YEAR_RESULTS_OUTPUT
 from src.utils_functions import fetch_events
 from src.adapter_team_results import (
     load_team_results,
@@ -58,6 +58,7 @@ for competition in events[baseEvent]:
         normalisedTeamStandings = teamStandings.join(other=teams)
         resultPages = export_results(
             results=normalisedTeamStandings,
+            results_dir=YEAR_RESULTS_OUTPUT,
             base_file_name=f"{competition}_{gender}",
             suffix=".team.standings",
         )
@@ -76,10 +77,10 @@ filesDF = pd.DataFrame({"teamStandings": theFiles})
 filesDF = filesDF.style.format({"teamStandings": make_clickable})
 
 filesDF.to_html(
-    RESULTS_DIR + HTML_DIR + "/" + "teamStandings.html",
+    f"{YEAR_RESULTS_OUTPUT}/index.html",
     index=False,
     render_links=True,
     escape=False,
 )
 
-logging.info(f"Finished processing year: {YEAR_RESULTS}")
+logging.info(f"Finished processing year: {YEAR_RESULTS} - output to {YEAR_RESULTS_OUTPUT}")

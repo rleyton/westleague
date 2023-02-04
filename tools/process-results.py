@@ -202,8 +202,6 @@ results = export_results(
 )
 
 index.append(get_html(results))
-# pre-empt generation of team-results
-index.append("teamStandings.html")
 
 volunteersFile = fetch_volunteers_from_dir(dir=DATA_DIR)
 if volunteersFile:

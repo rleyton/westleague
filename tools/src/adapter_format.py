@@ -2,6 +2,11 @@ import pandas as pd
 from .utils_config import RESULTS_DIR
 from .utils_consts import MARKDOWN_DIR, HTML_DIR
 from .adapter_pretty_html import render
+import pathlib
+
+def check_dirs_exist(dir:str):
+    pathlib.Path(dir + MARKDOWN_DIR).mkdir(parents=True, exist_ok=True)
+    pathlib.Path(dir + HTML_DIR).mkdir(parents=True, exist_ok=True)
 
 
 def export_results(
@@ -11,7 +16,7 @@ def export_results(
     suffix: str = None,
     index: bool = False,
 ):
-
+    check_dirs_exist(dir=results_dir)
     files = {
         "csv": results_dir + "/" + base_file_name + suffix + ".csv",
         "markdown": results_dir
