@@ -1,6 +1,18 @@
 # Results 
 
-## Notes
+
+# 2022-23
+
+* [Event #1, Strathaven](https://results.westleague.org.uk/results/provisional/2022-23/1/html/)
+  * Variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/1), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/1/markdown/)
+* [Event #2, Kilmarnock](https://results.westleague.org.uk/results/provisional/2022-23/2/html/)
+  * Variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/2), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/2)
+* Event #3, Bellahouston park (not yet available)
+  * Not yet available
+* [Overall team standings](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html)
+  * Variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/teamStandings/), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/teamStandings/markdown/)
+
+# Results explainer
   * Results are still a bit 'raw', but filenames should hopefully make sense. 
     * We hope to have a 'nice' summary generated soon
   * Filenames generally consist of RACE.AGECAT
@@ -18,17 +30,6 @@
     * This determines the eventual winners of the league.
     * See [the league website](https://westleague.org.uk/what-do-i-need-to-know/results-and-points-system/) for more detail.
 
-
-## 2022-23
-
-* [Event #1, Strathaven](https://results.westleague.org.uk/results/provisional/2022-23/1/html/)
-  * Variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/1), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/1/markdown/)
-* [Event #2, Kilmarnock](https://results.westleague.org.uk/results/provisional/2022-23/2/html/)
-  * Variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/2), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/2)
-* Event #3, Bellahouston park (not yet available)
-  * Not yet available
-* [Overall team standings](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html)
-  * Variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/teamStandings/), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/teamStandings/markdown/)
 
 # Results processing, technical notes 
 
