@@ -14,16 +14,16 @@
 |         12 | 0:14:08 | 1M     | BEN BAILLIE         | M        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/                    |
 |         13 | 0:14:13 | 14M    | Gregor Samson       | M        | U15      |           14 | Ayr Seaforth AC      | https://www.ayrseaforth.co.uk/             |
 |         14 | 0:14:28 | 2M     | Lewis Anderson      | M        | U15      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/         |
-|         15 | 0:14:36 | 34M    | nan                 | M        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/              |
+|         15 | 0:14:36 | 34M    | Rhuridh Miller      | M        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/              |
 |         16 | 0:14:42 | 6M     | Euan Reid           | M        | U15      |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/            |
 |         17 | 0:14:48 | 10F    | Katie Woods         | F        | U15      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/         |
 |         18 | 0:14:57 | 7M     | Dillon Sim          | M        | U15      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/           |
 |         19 | 0:15:24 | 1M     | EUAN THORPE         | M        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/                    |
 |         20 | 0:15:40 | 37M    | Daniel Simpson      | M        | U15      |           37 | Law & District AAC   | http://www.lawaac.co.uk/                   |
-|         21 | 0:15:43 | 34F    | nan                 | F        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/              |
+|         21 | 0:15:43 | 34F    | Lauren              | F        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/              |
 |         22 | 0:15:46 | 11M    | Murryn Burns        | M        | U15      |           11 | Airdrie Harriers     | http://airdrieharriers.org/                |
 |         23 | 0:15:54 | 14F    | Marnie Harrower     | F        | U15      |           14 | Ayr Seaforth AC      | https://www.ayrseaforth.co.uk/             |
-|         24 | 0:15:59 | 34M    | nan                 | M        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/              |
+|         24 | 0:15:59 | 34M    | Fraser McKillop     | M        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/              |
 |         25 | 0:16:00 | 36M    | AARON SCOTT         | M        | U15      |           36 | Larkhall YMCA        | https://www.facebook.com/larkhallharriers/ |
 |         26 | 0:16:01 | 1F     | EVA MORRISON        | F        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/                    |
 |         27 | 0:16:14 | 7F     | Isla Munro          | F        | U15      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/           |
@@ -36,8 +36,8 @@
 |         34 | 0:17:21 | 1F     | CARRIE CHARTERS     | F        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/                    |
 |         35 | 0:17:54 | 1M     | CHRISTOPHER PATON   | M        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/                    |
 |         36 | 0:17:59 | 10F    | Katie Burns         | F        | U15      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/         |
-|         37 | 0:18:03 | 34M    | nan                 | M        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/              |
-|         38 | 0:18:35 | 34M    | nan                 | M        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/              |
+|         37 | 0:18:03 | 34M    | Lucas Watt          | M        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/              |
+|         38 | 0:18:35 | 34M    | Alex Massie         | M        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/              |
 |         39 | 0:19:29 | 2F     | Charlotte Gebbie    | F        | U15      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/         |
 |         40 | 0:19:32 | 2F     | Isla Fitzgerald     | F        | U15      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/         |
 |         41 | 0:20:15 | 7F     | Lexie Martin        | F        | U15      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/           |
