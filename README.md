@@ -2,13 +2,13 @@
 
 * 2022-23
   * [Event #1, Strathaven](https://results.westleague.org.uk/results/provisional/2022-23/1/html/)
-    * Variations: [CSV](./results/provisional/2022-23/1), [markdown](./results/provisional/2022-23/1/markdown/)
+    * Variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/1), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/1/markdown/)
   * [Event #2, Kilmarnock](https://results.westleague.org.uk/results/provisional/2022-23/2/html/)
-    * Variations: [CSV](./results/provisional/2022-23/2), [markdown](./results/provisional/2022-23/2/markdown/)
+    * Variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/2), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/2)
   * Event #3, Bellahouston park (not yet available)
     * Not yet available
   * [Overall team standings](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings)
-    * Variations: [CSV](./results/provisional/2022-23/teamStandings/), [markdown](./results/provisional/2022-23/teamStandings/markdown/)
+    * Variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/teamStandings/), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/teamStandings/markdown/)
 
 # Results processing, technical notes 
 
