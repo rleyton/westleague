@@ -1,8 +1,5 @@
 import pandas as pd
 import numpy as np
-from .utils_consts import CLUB_PARSED, DATA_DIR
-import glob
-import os
 from .utils_functions import fetch_results_filenames
 import logging
 
@@ -26,9 +23,6 @@ def extract_race_results(
     """Fetch ALL of the relevant races from the structure, return as list"""
     results = {}
     for event in allEvents:
-        # for competition in allEvents[event]:
-        #     for gender in allEvents[event][competition]:
-        #         if gender == requiredGender and competition == requiredCompetition:
         results[event] = allEvents[event][requiredCompetition][requiredGender]
     return results
 

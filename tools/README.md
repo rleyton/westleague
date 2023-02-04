@@ -23,19 +23,12 @@
 # Coding apologies/TODO
 
 * This is an early first draft; it needs some reflection and tidying. 
-* Currently hard-coded to event 2022-23/1
 * Started with a loose hexagonal architecture intent, but it fell apart in order to get things turned around. 
 * There's a few overlapping constants and variables
 * The pandas logic is generally creating copies of Dataframes for clarity. This could be improved.
 
-
 # Still to do
 
-* Proper counter rule (ie. first N finishers in senior/masters, rather than exclusive-to-specific-age-group)
-* Handle multiple-events, ie. the league itself
-  * ie. pull in previous event results, build the running tally
-  * multi-year?
-* Support time manipulation etc.
 * Graphs! Statistic! Prettyness
  * [@bazzargh](https://github.com/bazzargh/) suggested looking at [https://datasette.io/](Datasette), which does seem quite tasty
 

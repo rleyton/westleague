@@ -6,13 +6,10 @@ from src.adapter_sheets import load_volunteers, load_results
 from src.adapter_json import json_load
 from src.adapter_format import export_results
 from src.utils_consts import (
-    TEAMS,
-    GENDERS,
-    RESULTS_DIR,
     GENDER_COMPETITION_MAP,
     HTML_DIR,
-    BASE_RESULTS,
 )
+from src.utils_config import TEAMS, GENDERS, BASE_RESULTS, YEAR_RESULTS, RESULTS_DIR
 from src.utils_functions import fetch_events
 from src.adapter_team_results import (
     load_team_results,
@@ -22,13 +19,13 @@ from src.adapter_team_results import (
 import pandas as pd
 
 logging.basicConfig(level=logging.DEBUG)
-config = dotenv_values(".env")
 
 # hard-coded to same location for now
 teams = pd.read_csv(TEAMS, index_col="Number")
 genders = pd.read_csv(GENDERS, index_col="shortcode")
 
-eventDirectories = fetch_events(dir=BASE_RESULTS + "/" + config["PROCESS_YEAR"] + "/")
+logging.info(f"Processing year: {YEAR_RESULTS}")
+eventDirectories = fetch_events(dir=YEAR_RESULTS)
 
 events = {}
 event_meta = {}
@@ -84,3 +81,5 @@ filesDF.to_html(
     render_links=True,
     escape=False,
 )
+
+logging.info(f"Finished processing year: {YEAR_RESULTS}")

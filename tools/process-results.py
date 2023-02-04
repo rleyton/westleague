@@ -1,24 +1,16 @@
 #!env python
 
-from dotenv import dotenv_values
 import logging
 from src.adapter_sheets import load_volunteers, load_results
 from src.utils_consts import (
-    DATA_DIR,
-    ADJUSTMENTS_DIR,
-    TEAMS,
     EXT_TIMES,
     EXT_PLACES,
     EXT_META,
     EXT_ADJUSTMENTS,
     EXT_CSV,
-    GENDERS,
-    RESULTS_DIR,
     GENDER_COMPETITION_MAP,
     HTML_DIR,
     MARKDOWN_DIR,
-    YEAR,
-    EVENT,
 )
 from src.utils_functions import fetch_events_from_dir, fetch_volunteers_from_dir
 from src.adapter_gender import gender_process
@@ -38,13 +30,9 @@ from src.adapter_format import export_results, get_html
 import pandas as pd
 import pathlib
 from pretty_html_table import build_table
+from src.utils_config import DATA_DIR, ADJUSTMENTS_DIR, TEAMS, GENDERS, RESULTS_DIR
 
 logging.basicConfig(level=logging.DEBUG)
-config = dotenv_values(".env")
-
-DATA_DIR = DATA_DIR.format(YEAR=YEAR, EVENT=EVENT)
-RESULTS_DIR = RESULTS_DIR.format(YEAR=YEAR, EVENT=EVENT)
-ADJUSTMENTS_DIR = ADJUSTMENTS_DIR.format(YEAR=YEAR, EVENT=EVENT)
 
 # hard-coded to same location for now
 SOURCE_DATA = DATA_DIR
@@ -65,6 +53,7 @@ missingTeams = set()
 eventMeta = {}
 index = []
 eventTotalParticipants = 0
+logging.info(f"Processing: {DATA_DIR}")
 # for each event we have files for
 for event in fetch_events_from_dir(DATA_DIR):
     logging.debug(f"Processing: {event}")
@@ -193,6 +182,7 @@ for event in fetch_events_from_dir(DATA_DIR):
             f"Unexpectedly no merged results for team results in event {event}"
         )
 
+logging.info(f"Finished processing: {DATA_DIR}")
 
 # TODO: This all needs refactoring/tidying up
 json_write(

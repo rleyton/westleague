@@ -5,7 +5,8 @@ from google.oauth2.service_account import Credentials
 import logging
 import gspread
 from src.adapter_sheets import load_volunteers, load_results
-from src.utils_consts import META_EVENT, DATA_DIR
+from src.utils_consts import META_EVENT
+from src.utils_config import DATA_DIR
 import pandas as pd
 import pathlib
 

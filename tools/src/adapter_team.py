@@ -1,5 +1,5 @@
 import pandas as pd
-from .utils_consts import CLUB_PARSED, DATA_DIR
+from .utils_config import CLUB_PARSED, DATA_DIR
 import glob
 import os
 

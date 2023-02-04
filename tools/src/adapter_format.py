@@ -1,5 +1,6 @@
 import pandas as pd
-from .utils_consts import RESULTS_DIR, MARKDOWN_DIR, HTML_DIR
+from .utils_config import RESULTS_DIR
+from .utils_consts import MARKDOWN_DIR, HTML_DIR
 from .adapter_pretty_html import render
 
 
