@@ -139,16 +139,8 @@ for event in fetch_events_from_dir(DATA_DIR):
 
     # core results
     if results[event] is not None:
-        results[event].to_csv(RESULTS_DIR + "/" + event + ".results.csv", index=False)
-        results[event].to_markdown(
-            RESULTS_DIR + MARKDOWN_DIR + "/" + event + ".results.md", index=False
-        )
-        render(
-            df=results[event],
-            style="blue_light",
-            filename=RESULTS_DIR + HTML_DIR + "/" + event + ".results.html",
-        )
-        index.append(event + ".results.html")
+        resultsPages = export_results(results=results[event],base_file_name=event,suffix = "results")
+        index.append(get_html(resultsPages))
     else:
         raise Exception(f"Unexpectedly no merged results for event {event}")
 
