@@ -1,0 +1,4 @@
+|   position | times   | team   | Name           | gender   | AgeCat   |   clubnumber | Club name       | Website                        |   finishPosition |
+|-----------:|:--------|:-------|:---------------|:---------|:---------|-------------:|:----------------|:-------------------------------|-----------------:|
+|          1 | 0:32:57 | 14F    | Morven Hubbard | F        | U20      |           14 | Ayr Seaforth AC | https://www.ayrseaforth.co.uk/ |               89 |
+|          2 | 0:34:02 | 14F    | Lucy Stanley   | F        | U20      |           14 | Ayr Seaforth AC | https://www.ayrseaforth.co.uk/ |              105 |

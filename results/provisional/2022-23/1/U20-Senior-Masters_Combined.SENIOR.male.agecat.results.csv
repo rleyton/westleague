@@ -1,0 +1,58 @@
+position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website,finishPosition
+1,0:24:08,6M,Gavin Smith,M,SENIOR,6,Cambuslang Harriers,https://cambuslangharriers.org/,1
+2,0:24:20,4M,Jonathan Glen,M,SENIOR,4,Inverclyde AC,https://www.inverclydeac.org/,2
+3,0:24:30,4M,John Bell,M,SENIOR,4,Inverclyde AC,https://www.inverclydeac.org/,3
+4,0:24:40,7M,Ross Good,M,SENIOR,7,Giffnock North AC,https://www.giffnocknorth.co.uk/,4
+5,0:25:15,6M,Jamie MacKinnon,M,SENIOR,6,Cambuslang Harriers,https://cambuslangharriers.org/,6
+6,0:25:40,2M,Martin Brown,M,SENIOR,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,7
+7,0:25:53,6M,Iain MacCorquodale,M,SENIOR,6,Cambuslang Harriers,https://cambuslangharriers.org/,8
+8,0:25:57,6M,Alasdair Campbell,M,SENIOR,6,Cambuslang Harriers,https://cambuslangharriers.org/,9
+9,0:26:09,7M,Conor Drummond,M,SENIOR,7,Giffnock North AC,https://www.giffnocknorth.co.uk/,11
+10,0:26:27,10M,Sam Lesley,M,SENIOR,10,Shettleston Harriers,http://shettlestonharriers.org.uk/,13
+11,0:26:29,3M,Tony Connolly,M,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,15
+12,0:26:44,40M,Jonathan Moore,M,SENIOR,40,Motherwell AC,https://motherwellac.com/,17
+13,0:26:47,6M,Correction record (missing from club submission?),M,SENIOR,6,Cambuslang Harriers,https://cambuslangharriers.org/,18
+14,0:26:52,30M,Dylan Crawford,M,SENIOR,30,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/,19
+15,0:27:04,1M,JACK KIRWAN,M,SENIOR,1,East Kilbride AC,http://www.ekac.org.uk/,21
+16,0:27:08,34M,Callum Matthews,M,SENIOR,34,Kilbarchan AAC,https://kilbarchanaac.org.uk/,22
+17,0:27:28,1M,JAMIE CLEMENTS,M,SENIOR,1,East Kilbride AC,http://www.ekac.org.uk/,24
+18,0:27:31,6M,Richard Carr,M,SENIOR,6,Cambuslang Harriers,https://cambuslangharriers.org/,25
+19,0:27:45,10M,Alex Clarkson,M,SENIOR,10,Shettleston Harriers,http://shettlestonharriers.org.uk/,27
+20,0:27:52,35M,Kenny Robertson,M,SENIOR,35,Kirkintilloch Olympians,https://kirkintillocholympians.co.uk/,28
+21,0:27:56,35M,Matthew Graham,M,SENIOR,35,Kirkintilloch Olympians,https://kirkintillocholympians.co.uk/,29
+22,0:28:09,3M,Alan Moss,M,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,30
+23,0:28:30,6M,Steven Fiztpatrick,M,SENIOR,6,Cambuslang Harriers,https://cambuslangharriers.org/,31
+24,0:28:36,10M,Iain Pender,M,SENIOR,10,Shettleston Harriers,http://shettlestonharriers.org.uk/,33
+25,0:28:57,8M,Matthew Brown,M,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,36
+26,0:28:58,37M,Matthew Gillon,M,SENIOR,37,Law & District AAC,http://www.lawaac.co.uk/,37
+27,0:29:00,4M,Sean Gaffney,M,SENIOR,4,Inverclyde AC,https://www.inverclydeac.org/,38
+28,0:29:22,10M,Andrew Taylor,M,SENIOR,10,Shettleston Harriers,http://shettlestonharriers.org.uk/,40
+29,0:29:32,37M,Alan Neill,M,SENIOR,37,Law & District AAC,http://www.lawaac.co.uk/,43
+30,0:29:37,5M,Niall McAlinden,M,SENIOR,5,Westerlands CCC,https://westerlandsccc.co.uk/,44
+31,0:30:10,53M,Darren McMahon,M,SENIOR,53,Troon Tortoises,http://troontortoises.co.uk,51
+32,0:30:10,3M,Neil McSeveny,M,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,52
+33,0:30:17,3M,Chris Allan,M,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,54
+34,0:30:43,4M,Jason Kane,M,SENIOR,4,Inverclyde AC,https://www.inverclydeac.org/,58
+35,0:30:47,3M,Fraser Kelly,M,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,59
+36,0:30:48,3M,Alan Chalmers,M,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,60
+37,0:30:54,44M,Stephen McQuistin,M,SENIOR,44,North Ayrshire AAC,https://naathletics.co.uk/,64
+38,0:30:55,44M,Mark Preston,M,SENIOR,44,North Ayrshire AAC,https://naathletics.co.uk/,66
+39,0:31:05,42M,Peter Alexander,M,SENIOR,42,Newton Road Runners,https://www.newton-roadrunners.com/,69
+40,0:31:33,48M,Matt Stanley,M,SENIOR,48,Springburn Harriers,https://www.springburnharriers.co.uk/,72
+41,0:32:23,44M,Craig Dailly,M,SENIOR,44,North Ayrshire AAC,https://naathletics.co.uk/,83
+42,0:32:55,3M,Jamie Robinson,M,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,88
+43,0:33:04,3M,Stephen McQuade,M,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,92
+44,0:33:40,5M,Lukas Bunse,M,SENIOR,5,Westerlands CCC,https://westerlandsccc.co.uk/,97
+45,0:33:48,57M,James Cathie,M,SENIOR,57,Whitemoss AAC,https://whitemossaac.co.uk/,101
+46,0:33:55,2M,Nick Carter,M,SENIOR,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,104
+47,0:34:25,5M,Don Reid,M,SENIOR,5,Westerlands CCC,https://westerlandsccc.co.uk/,110
+48,0:34:32,1M,LUKE KIRWAN,M,SENIOR,1,East Kilbride AC,http://www.ekac.org.uk/,113
+49,0:35:01,48M,Glenn McKinstry,M,SENIOR,48,Springburn Harriers,https://www.springburnharriers.co.uk/,119
+50,0:35:22,3M,Gerard Croser,M,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,122
+51,0:35:24,2M,Stewart McAllister,M,SENIOR,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,123
+52,0:35:55,48M,Joe Chambers,M,SENIOR,48,Springburn Harriers,https://www.springburnharriers.co.uk/,127
+53,0:36:28,5M,Fraser Reid,M,SENIOR,5,Westerlands CCC,https://westerlandsccc.co.uk/,133
+54,0:37:38,30M,Gerry Gallacher,M,SENIOR,30,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/,139
+55,0:38:30,42M,Kieran Mark,M,SENIOR,42,Newton Road Runners,https://www.newton-roadrunners.com/,145
+56,0:44:55,10M,David Clarkson,M,SENIOR,10,Shettleston Harriers,http://shettlestonharriers.org.uk/,159
+57,0:45:47,36M,Kenny Robertson,M,SENIOR,36,Larkhall YMCA,https://www.facebook.com/larkhallharriers/,160

@@ -1,0 +1,34 @@
+|   position | times   | team   | Name                | gender   | AgeCat   |   clubnumber | Club name            | Website                                    |   finishPosition |
+|-----------:|:--------|:-------|:--------------------|:---------|:---------|-------------:|:---------------------|:-------------------------------------------|-----------------:|
+|          1 | 0:12:36 | 7M     | Tristan Robin       | M        | U15      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/           |                1 |
+|          2 | 0:12:43 | 34M    | Alistair Street     | M        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/              |                2 |
+|          3 | 0:12:47 | 34M    | Joshua Mungin       | M        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/              |                3 |
+|          4 | 0:12:53 | 48M    | Angus Fraser-Moodie | M        | U15      |           48 | Springburn Harriers  | https://www.springburnharriers.co.uk/      |                4 |
+|          5 | 0:12:58 | 44M    | Sam Walton          | M        | U15      |           44 | North Ayrshire AAC   | https://naathletics.co.uk/                 |                5 |
+|          6 | 0:13:01 | 10M    | Matthew Fox         | M        | U15      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/         |                6 |
+|          7 | 0:13:09 | 6M     | Daibhidh Kinnaird   | M        | U15      |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/            |                7 |
+|          8 | 0:13:12 | 48M    | Archie Watters      | M        | U15      |           48 | Springburn Harriers  | https://www.springburnharriers.co.uk/      |                8 |
+|          9 | 0:13:24 | 37M    | John Frood          | M        | U15      |           37 | Law & District AAC   | http://www.lawaac.co.uk/                   |                9 |
+|         10 | 0:13:24 | 7M     | Aaron Reid          | M        | U15      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/           |               10 |
+|         11 | 0:13:36 | 14M    | Alasdair Maclean    | M        | U15      |           14 | Ayr Seaforth AC      | https://www.ayrseaforth.co.uk/             |               11 |
+|         12 | 0:13:42 | 1M     | FRANCIS SANTANGELI  | M        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/                    |               13 |
+|         13 | 0:13:48 | 1M     | BEN BAILLIE         | M        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/                    |               14 |
+|         14 | 0:14:06 | 1M     | DYLAN EDWARDS       | M        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/                    |               15 |
+|         15 | 0:14:07 | 1M     | GORDON BALLANTYNE   | M        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/                    |               16 |
+|         16 | 0:14:13 | 14M    | Sam McCrorie        | M        | U15      |           14 | Ayr Seaforth AC      | https://www.ayrseaforth.co.uk/             |               18 |
+|         17 | 0:14:25 | 14M    | Gregor Samson       | M        | U15      |           14 | Ayr Seaforth AC      | https://www.ayrseaforth.co.uk/             |               19 |
+|         18 | 0:14:27 | 44M    | Luke Grundy         | M        | U15      |           44 | North Ayrshire AAC   | https://naathletics.co.uk/                 |               20 |
+|         19 | 0:14:27 | 34M    | Ruaridh Miller      | M        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/              |               21 |
+|         20 | 0:14:37 | 1M     | RORY CHARTERS       | M        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/                    |               22 |
+|         21 | 0:14:58 | 7M     | Dillon Sim          | M        | U15      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/           |               26 |
+|         22 | 0:14:58 | 36M    | nan                 | M        | U15      |           36 | Larkhall YMCA        | https://www.facebook.com/larkhallharriers/ |               27 |
+|         23 | 0:15:16 | 11M    | Joshua Harmon       | M        | U15      |           11 | Airdrie Harriers     | http://airdrieharriers.org/                |               28 |
+|         24 | 0:15:19 | 37M    | Daniel Simpson      | M        | U15      |           37 | Law & District AAC   | http://www.lawaac.co.uk/                   |               29 |
+|         25 | 0:15:24 | 6M     | Euan Reid           | M        | U15      |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/            |               30 |
+|         26 | 0:15:31 | 14M    | Nicholas Latto      | M        | U15      |           14 | Ayr Seaforth AC      | https://www.ayrseaforth.co.uk/             |               32 |
+|         27 | 0:15:38 | 7M     | Zac Wright          | M        | U15      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/           |               33 |
+|         28 | 0:15:42 | 48M    | Umberto Minchella   | M        | U15      |           48 | Springburn Harriers  | https://www.springburnharriers.co.uk/      |               34 |
+|         29 | 0:16:12 | 34M    | Lucas Watt          | M        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/              |               37 |
+|         30 | 0:16:20 | 1M     | CHRISTOPHER PATON   | M        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/                    |               38 |
+|         31 | 0:17:14 | 34M    | Alex Massie         | M        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/              |               46 |
+|         32 | 0:17:37 | 1M     | KIERAN BUDD         | M        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/                    |               52 |
