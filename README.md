@@ -4,9 +4,13 @@
 # 2022-23
 
 * [Event #1, Strathaven](https://results.westleague.org.uk/results/provisional/2022-23/1/html/)
-  * Variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/1), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/1/markdown/)
+  * [Attendance: 434](./results/provisional/2022-23/1/meta.json)
+  * [Thanks to the volunteers](./results/provisional/2022-23/1/volunteers.csv)
+  * Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/1), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/1/markdown/)
 * [Event #2, Kilmarnock](https://results.westleague.org.uk/results/provisional/2022-23/2/html/)
-  * Variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/2), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/2)
+  * [Attendance: 326](./results/provisional/2022-23/2/meta.json)
+  * [Thanks to the volunteers](./results/provisional/2022-23/2/volunteers.csv)
+  * Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/2), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/2)
 * Event #3, Bellahouston park (not yet available)
   * Not yet available
 * [Team standings, by competition](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html)
