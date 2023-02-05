@@ -13,9 +13,9 @@ Number,Club name,Website
 12,Annan and District AC,
 13,Arran Runners,
 14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/
-15,Ayrodynamic Triathlon Club,
+15,Ayrodynamic Triathlon Club,http://www.ayrodynamic.org.uk/
 16,Beith Harriers,
-17,Calderglen Harriers,
+17,Calderglen Harriers,http://www.calderglenharriers.org.uk/
 18,Campbeltown Running Club,
 19,Clydesdale Harriers,
 20,Cumbernauld AAC,
@@ -31,7 +31,7 @@ Number,Club name,Website
 30,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/
 31,Hamilton Harriers,
 32,Helensburgh AAC,
-33,Irvine RC,
+33,Irvine RC,https://www.irvinerunningclub.co.uk/
 34,Kilbarchan AAC,https://kilbarchanaac.org.uk/
 35,Kirkintilloch Olympians,https://kirkintillocholympians.co.uk/
 36,Larkhall YMCA,https://www.facebook.com/larkhallharriers/
@@ -47,12 +47,12 @@ Number,Club name,Website
 46,Royal Mail Run GMC,https://www.facebook.com/royalmailrungmc/
 47,Scottish Fire & Rescue Service AC,
 48,Springburn Harriers,https://www.springburnharriers.co.uk/
-49,Stewartry AC,
+49,Stewartry AC,https://stewartryac.wordpress.com/
 50,Strathaven Striders,
 51,Strathclyde Police AC,
 52,Strathclyde University Harriers,
 53,Troon Tortoises,http://troontortoises.co.uk
-54,VP-Glasgow,
+54,VP-Glasgow,https://www.vp-glasgow.com
 55,West Dunbartonshire AC,
 56,West End RR,https://www.westendroadrunners.co.uk/
 57,Whitemoss AAC,https://whitemossaac.co.uk/
