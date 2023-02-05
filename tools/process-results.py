@@ -55,7 +55,7 @@ index = []
 eventTotalParticipants = 0
 logging.info(f"Processing: {DATA_DIR}")
 # for each event we have files for
-for event in fetch_events_from_dir(DATA_DIR):
+for event in sorted(fetch_events_from_dir(DATA_DIR)):
     logging.debug(f"Processing: {event}")
 
     clubSubmissions = None
@@ -132,7 +132,14 @@ for event in fetch_events_from_dir(DATA_DIR):
         resultsPages = export_results(
             results=results[event], base_file_name=event, suffix=".event.results"
         )
-        index.append(get_html(resultsPages))
+        index.append(
+            {
+                "event": event,
+                "competition": "n/a",
+                "gender": "all",
+                "results": get_html(resultsPages),
+            }
+        )
     else:
         raise Exception(f"Unexpectedly no merged results for event {event}")
 
@@ -152,7 +159,14 @@ for event in fetch_events_from_dir(DATA_DIR):
                         base_file_name=baseFileName,
                         suffix=".agecat.results",
                     )
-                    index.append(get_html(ageCatResultsPage))
+                    index.append(
+                        {
+                            "event": event,
+                            "competition": competition,
+                            "gender": gender,
+                            "results": get_html(ageCatResultsPage),
+                        }
+                    )
                     logging.info("Wrote: " + get_html(ageCatResultsPage))
 
     # team results
@@ -175,7 +189,14 @@ for event in fetch_events_from_dir(DATA_DIR):
                     suffix=".team.results",
                 )
 
-                index.append(get_html(resultPages))
+                index.append(
+                    {
+                        "event": event,
+                        "competition": competition,
+                        "gender": gender,
+                        "results": get_html(resultPages),
+                    }
+                )
                 logging.info("Wrote: " + get_html(resultPages))
     else:
         raise Exception(
@@ -201,7 +222,14 @@ results = export_results(
     results=theMissingTeams, base_file_name="", suffix="missingTeamSubmissions"
 )
 
-index.append(get_html(results))
+index.append(
+    {
+        "event": "n/a",
+        "competition": "n/a",
+        "gender": "n/a",
+        "results": get_html(results),
+    }
+)
 
 volunteersFile = fetch_volunteers_from_dir(dir=DATA_DIR)
 if volunteersFile:
@@ -211,7 +239,14 @@ if volunteersFile:
 
     vols = export_results(results=volunteers, base_file_name="", suffix="volunteers")
 
-    index.append(get_html(vols))
+    index.append(
+        {
+            "event": "n/a",
+            "competition": "n/a",
+            "gender": "n/a",
+            "results": get_html(vols),
+        }
+    )
 
 
 # Render a basic HTML index
@@ -221,11 +256,10 @@ def make_clickable(val):
     return f'<a target="_blank" href="{val}">{val}</a>'
 
 
-index = sorted(index, key=lambda s: s.casefold())
-indexDF = pd.DataFrame({"resultsPage": index})
-indexDF = indexDF.style.format({"resultsPage": make_clickable})
+indexDF = pd.DataFrame(index)
+indexDF = indexDF.style.format({"results": make_clickable})
 
-indexDF.to_html(
+indexDF.hide(axis="index").to_html(
     RESULTS_DIR + HTML_DIR + "/" + "index.html",
     index=False,
     render_links=True,
