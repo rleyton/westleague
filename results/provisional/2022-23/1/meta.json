@@ -1,17 +1,5 @@
 {
       "races": {
-            "U13": {
-                  "M": {
-                        "penalty": 38,
-                        "participants": 28,
-                        "counters": 3
-                  },
-                  "F": {
-                        "penalty": 62,
-                        "participants": 52,
-                        "counters": 3
-                  }
-            },
             "U11": {
                   "M": {
                         "penalty": 49,
@@ -21,6 +9,18 @@
                   "F": {
                         "penalty": 68,
                         "participants": 58,
+                        "counters": 3
+                  }
+            },
+            "U13": {
+                  "M": {
+                        "penalty": 38,
+                        "participants": 28,
+                        "counters": 3
+                  },
+                  "F": {
+                        "penalty": 62,
+                        "participants": 52,
                         "counters": 3
                   }
             },
