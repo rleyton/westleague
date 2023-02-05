@@ -2,7 +2,8 @@
 
 * [club-submissions-to-csv.py](club-submissions-to-csv.py) - Converts submitted spreadsheets (Excel) into CSV, which are written to [../data/2022-23/1/club-parsed](../data/.../club-parsed). 
 * [sheets-to-csv.py](sheets-to-csv.py) - Pulls tabulated timer and finish position data into a CSV. Requires Google API credentials. Writes out to [../data/2022-23/1/](../data/.../event)
-* [process-results.py](process-results.py) - Uses CSVs produced by previous steps to calculate results, with reference to adjustments stored in [../data/adjustments/2022-23/1](../data/adjustments/...)
+* [process-results.py](process-results.py) - Uses CSVs produced by previous steps to calculate event results, with reference to adjustments stored in [../data/adjustments/2022-23/1](../data/adjustments/...)
+* [team-results.py](./team-results.pyteam-re) - Aggregates event results from the current league year, to produces league tables and summaries.
 
 # Notes 
 
