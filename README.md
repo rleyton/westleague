@@ -9,8 +9,29 @@
   * Variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/2), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/2)
 * Event #3, Bellahouston park (not yet available)
   * Not yet available
-* [Overall team standings](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html)
+* [Team standings, by competition](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html)
   * Variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/teamStandings/), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/teamStandings/markdown/)
+  * U11
+    * [Male](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html/U11_M.team.standings.html)
+    * [Female](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html/U11_F.team.standings.html)
+  * U13
+    * [Male](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html/U13_M.team.standings.html)
+    * [Female](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html/U13_F.team.standings.html)
+  * U15
+    * [Male](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html/U15_M.team.standings.html)
+    * [Female](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html/U15_F.team.standings.html)
+  * U17
+    * [Male](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html/U17_M.team.standings.html)
+    * [Female](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html/U17_F.team.standings.html)
+  * U20
+    * [Male](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html/U20_M.team.standings.html)
+    * [Female](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html/U20_F.team.standings.html)
+  * Senior
+    * [Male](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html/SENIOR_M.team.standings.html)
+    * [Female](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html/SENIOR_F.team.standings.html)
+  * Master
+    * [Male](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html/MASTER_M.team.standings.html)
+    * [Female](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html/MASTER_F.team.standings.html)
 * [Team position summary](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html/club_position_summary.html)
   * What position a club holds in each of the various competitions
 * Website coverage
