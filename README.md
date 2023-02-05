@@ -18,7 +18,6 @@
 * Event #3, Bellahouston park (not yet available)
   * Not yet available
 * [League standings, by competition](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html)
-  * Variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/teamStandings/), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/teamStandings/markdown/)
   * U11
     * [Male](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html/U11_M.team.standings.html)
     * [Female](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html/U11_F.team.standings.html)
@@ -40,6 +39,7 @@
   * Master
     * [Male](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html/MASTER_M.team.standings.html)
     * [Female](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html/MASTER_F.team.standings.html)
+  * Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/teamStandings/), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/teamStandings/markdown/)    
 * [League overview](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html/club_position_summary.html)
   * What position a club holds in each of the various competitions
 * Website coverage
