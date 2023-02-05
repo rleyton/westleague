@@ -104,6 +104,7 @@ def lookup_team_position(
                 )
             except KeyError as e:
                 club_position = None
+
             return club_position
 
 
@@ -114,19 +115,18 @@ for club_number, row in teams.iterrows():
     for competition in dict(sorted(events[baseEvent].items())):
         for gender in GENDER_COMPETITION_MAP:
             key = f"{competition}:{gender}"
-            for event in eventDirectories:
-                eventNumber = int(event.split("/")[-1:][0])
+
+            position = lookup_team_position(
+                standings=the_team_standings,
+                competition=competition,
+                gender=gender,
+                club_number=club_number,
+            )
+            if position is not None:
+                club_results[key] = int(position)
                 logging.info(
-                    f"Consolidating {club_name} results for Event #{eventNumber} - {competition}:{gender}"
+                    f"{club_name} holds poition {position} in {competition}:{gender}"
                 )
-                position = lookup_team_position(
-                    standings=the_team_standings,
-                    competition=competition,
-                    gender=gender,
-                    club_number=club_number,
-                )
-                if position is not None:
-                    club_results[key] = int(position)
 
     if len(club_results) > 0:
         club_table[club_number] = club_results
@@ -151,11 +151,15 @@ display_order = [
     "OVERALL:F",
 ]
 club_table_DF = (
-    pd.DataFrame.from_dict(club_table, orient="index")
-    .join(other=teams)[display_order]
-    .replace(np.nan, "n/a")
-).sort_index()
-pd.set_option("display.precision", 0)
+    (
+        pd.DataFrame.from_dict(club_table, orient="index")
+        .join(other=teams)[display_order]
+        .replace(np.nan, "n/a")
+    )
+    .sort_index()
+    .style.format(precision=0)
+)
+pd.set_option("styler.format.precision", 0)
 club_table_DF.to_html(
     f"{YEAR_RESULTS_OUTPUT}/html/club_position_summary.html",
     index=True,
