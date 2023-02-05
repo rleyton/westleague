@@ -27,6 +27,7 @@ from src.adapter_points import calculate_competition_points
 from src.adapter_pretty_html import render
 from src.adapter_json import json_write
 from src.adapter_format import export_results, get_html
+from src.adapter_clubs import load_clubs
 import pandas as pd
 import pathlib
 from pretty_html_table import build_table
@@ -42,7 +43,7 @@ pathlib.Path(RESULTS_DIR + MARKDOWN_DIR).mkdir(parents=True, exist_ok=True)
 pathlib.Path(RESULTS_DIR + HTML_DIR).mkdir(parents=True, exist_ok=True)
 
 
-teams = pd.read_csv(TEAMS, index_col="Number")
+teams = load_clubs()
 genders = pd.read_csv(GENDERS, index_col="shortcode")
 
 results = {}

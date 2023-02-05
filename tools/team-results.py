@@ -23,12 +23,14 @@ from src.adapter_team_results import (
     extract_race_results,
     calculate_team_standings,
 )
+from src.adapter_clubs import load_clubs
 import pandas as pd
+import numpy as np
 
 logging.basicConfig(level=logging.DEBUG)
 
 # hard-coded to same location for now
-teams = pd.read_csv(TEAMS, index_col="Number")
+teams = load_clubs()
 genders = pd.read_csv(GENDERS, index_col="shortcode")
 
 logging.info(f"Processing year: {YEAR_RESULTS}")
@@ -46,7 +48,12 @@ for event in eventDirectories:
 baseEvent = list(events.keys())[0]
 
 theFiles = []
+the_team_standings = {}
 for competition in dict(sorted(events[baseEvent].items())):
+
+    if competition not in the_team_standings:
+        the_team_standings[competition] = {}
+
     for gender in GENDER_COMPETITION_MAP:
         logging.info(f"Processing {competition}:{GENDER_COMPETITION_MAP[gender]}")
         raceResults = extract_race_results(
@@ -63,6 +70,7 @@ for competition in dict(sorted(events[baseEvent].items())):
         )
 
         normalisedTeamStandings = teamStandings.join(other=teams)
+
         resultPages = export_results(
             results=normalisedTeamStandings,
             results_dir=YEAR_RESULTS_OUTPUT,
@@ -78,10 +86,86 @@ for competition in dict(sorted(events[baseEvent].items())):
             }
         )
 
+        # convenience reference for lookup, add a position column
+        normalisedTeamStandings["position"] = np.arange(len(normalisedTeamStandings))
+        the_team_standings[competition][gender] = normalisedTeamStandings
+
+
+def lookup_team_position(
+    standings=None, club_number=None, competition=None, gender=None
+):
+    if competition in standings:
+        if gender in standings[competition]:
+            # the event isn't indexed, so fetch it, with a new index
+            standings = standings[competition][gender]
+            try:
+                club_position = int(
+                    standings.loc[[club_number]]["position"].astype(int) + 1
+                )
+            except KeyError as e:
+                club_position = None
+            return club_position
+
+
+club_table = {}
+for club_number, row in teams.iterrows():
+    club_name = row["Club name"]
+    club_results = {}
+    for competition in dict(sorted(events[baseEvent].items())):
+        for gender in GENDER_COMPETITION_MAP:
+            key = f"{competition}:{gender}"
+            for event in eventDirectories:
+                eventNumber = int(event.split("/")[-1:][0])
+                logging.info(
+                    f"Consolidating {club_name} results for Event #{eventNumber} - {competition}:{gender}"
+                )
+                position = lookup_team_position(
+                    standings=the_team_standings,
+                    competition=competition,
+                    gender=gender,
+                    club_number=club_number,
+                )
+                if position is not None:
+                    club_results[key] = int(position)
+
+    if len(club_results) > 0:
+        club_table[club_number] = club_results
+
+display_order = [
+    "Club name",
+    "U11:M",
+    "U11:F",
+    "U13:M",
+    "U13:F",
+    "U15:M",
+    "U15:F",
+    "U17:M",
+    "U17:F",
+    "U20:M",
+    "U20:F",
+    "SENIOR:M",
+    "SENIOR:F",
+    "MASTER:M",
+    "MASTER:F",
+    "OVERALL:M",
+    "OVERALL:F",
+]
+club_table_DF = (
+    pd.DataFrame.from_dict(club_table, orient="index")
+    .join(other=teams)[display_order]
+    .replace(np.nan, "n/a")
+)
+pd.set_option("display.precision", 0)
+club_table_DF.to_html(
+    f"{YEAR_RESULTS_OUTPUT}/html/club_position_summary.html",
+    index=True,
+    index_names=False,
+    render_links=True,
+    escape=False,
+)
+
 
 # Render a basic HTML index
-
-
 def make_clickable(val):
     return f'<a target="_blank" href="{val}">{val}</a>'
 
