@@ -154,7 +154,7 @@ club_table_DF = (
     pd.DataFrame.from_dict(club_table, orient="index")
     .join(other=teams)[display_order]
     .replace(np.nan, "n/a")
-)
+).sort_index()
 pd.set_option("display.precision", 0)
 club_table_DF.to_html(
     f"{YEAR_RESULTS_OUTPUT}/html/club_position_summary.html",
