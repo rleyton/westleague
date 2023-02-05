@@ -11,6 +11,8 @@
   * Not yet available
 * [Overall team standings](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html)
   * Variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/teamStandings/), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/teamStandings/markdown/)
+* [Team position summary](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html/club_position_summary.html)
+  * What position a club holds in each of the various competitions
 
 # Results explainer
   * Results are still a bit 'raw', but filenames should hopefully make sense. 
