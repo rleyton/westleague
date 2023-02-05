@@ -17,7 +17,7 @@
   * Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/2), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/2/markdown)
 * Event #3, Bellahouston park (not yet available)
   * Not yet available
-* [Team standings, by competition](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html)
+* [Overall League standings, by club and competition](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html)
   * Variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/teamStandings/), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/teamStandings/markdown/)
   * U11
     * [Male](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html/U11_M.team.standings.html)
