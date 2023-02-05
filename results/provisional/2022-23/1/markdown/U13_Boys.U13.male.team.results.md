@@ -12,5 +12,5 @@
 |         10 | Kilbarchan AAC       |     34 | M        | 19                  |           19 |              76 |            95 |                1 | https://kilbarchanaac.org.uk/         |
 |         11 | Airdrie Harriers     |     11 | M        | 22                  |           22 |              76 |            98 |                1 | http://airdrieharriers.org/           |
 |         12 | Ayr Seaforth AC      |     14 | M        | 23                  |           23 |              76 |            99 |                1 | https://www.ayrseaforth.co.uk/        |
-|         13 | VP-Glasgow           |     54 | M        | 25                  |           25 |              76 |           101 |                1 | nan                                   |
+|         13 | VP-Glasgow           |     54 | M        | 25                  |           25 |              76 |           101 |                1 | https://www.vp-glasgow.com            |
 |         14 | North Ayrshire AAC   |     44 | M        | 27                  |           27 |              76 |           103 |                1 | https://naathletics.co.uk/            |

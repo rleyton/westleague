@@ -9,5 +9,5 @@
 |          7 | Kilmarnock H&AC     |      2 | F        | 6,36                |           42 |              46 |            88 |                2 | http://www.kilmarnockharriers.com/    |
 |          8 | Kilbarchan AAC      |     34 | F        | 2                   |            2 |              92 |            94 |                1 | https://kilbarchanaac.org.uk/         |
 |          9 | Cambuslang Harriers |      6 | F        | 21,30               |           51 |              46 |            97 |                2 | https://cambuslangharriers.org/       |
-|         10 | VP-Glasgow          |     54 | F        | 7                   |            7 |              92 |            99 |                1 | nan                                   |
+|         10 | VP-Glasgow          |     54 | F        | 7                   |            7 |              92 |            99 |                1 | https://www.vp-glasgow.com            |
 |         11 | Springburn Harriers |     48 | F        | 25                  |           25 |              92 |           117 |                1 | https://www.springburnharriers.co.uk/ |

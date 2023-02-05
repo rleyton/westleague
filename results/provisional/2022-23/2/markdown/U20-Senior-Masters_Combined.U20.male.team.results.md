@@ -1,5 +1,5 @@
 |   position | Club name         |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                            |
 |-----------:|:------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-----------------------------------|
-|          1 | VP-Glasgow        |     54 | M        | 2,4                 |            6 |              14 |            20 |                2 | nan                                |
+|          1 | VP-Glasgow        |     54 | M        | 2,4                 |            6 |              14 |            20 |                2 | https://www.vp-glasgow.com         |
 |          2 | Giffnock North AC |      7 | M        | 1                   |            1 |              28 |            29 |                1 | https://www.giffnocknorth.co.uk/   |
 |          3 | Kilmarnock H&AC   |      2 | M        | 3                   |            3 |              28 |            31 |                1 | http://www.kilmarnockharriers.com/ |

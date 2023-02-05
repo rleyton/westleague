@@ -7,7 +7,7 @@
 |          5 | 0:25:05 | 6M     | Andrew Carey      | M        | SENIOR   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |                8 |
 |          6 | 0:25:16 | 2M     | Craig Ferguson    | M        | SENIOR   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |                9 |
 |          7 | 0:25:28 | 7M     | Calum Young       | M        | SENIOR   |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |               10 |
-|          8 | 0:25:35 | 54M    | Videsh Weerakkody | M        | SENIOR   |           54 | VP-Glasgow                 | nan                                        |               12 |
+|          8 | 0:25:35 | 54M    | Videsh Weerakkody | M        | SENIOR   |           54 | VP-Glasgow                 | https://www.vp-glasgow.com                 |               12 |
 |          9 | 0:26:11 | 10M    | Sam Lesley        | M        | SENIOR   |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |               13 |
 |         10 | 0:26:20 | 6M     | Stuart Gibson     | M        | SENIOR   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |               15 |
 |         11 | 0:26:38 | 30M    | Dylan Crawford    | M        | SENIOR   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |               16 |

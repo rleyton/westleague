@@ -6,9 +6,9 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website,finishPositi
 5,0:31:42,14F,Morven Hubbard,F,SENIOR,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/,62
 6,0:31:52,2F,Lynsey O'Connor,F,MASTER,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,64
 7,0:32:16,1F,KELLY BAILLIE,F,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/,68
-8,0:32:45,17F,Julie Beveridge,F,MASTER,17,Calderglen Harriers,,71
+8,0:32:45,17F,Julie Beveridge,F,MASTER,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,71
 9,0:32:51,37F,Elaine Boyle,F,MASTER,37,Law & District AAC,http://www.lawaac.co.uk/,72
-10,0:32:58,17F,Karen Allen,F,SENIOR,17,Calderglen Harriers,,75
+10,0:32:58,17F,Karen Allen,F,SENIOR,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,75
 11,0:33:28,7F,Hilary Carswell,F,MASTER,7,Giffnock North AC,https://www.giffnocknorth.co.uk/,80
 12,0:33:34,14F,Islay Hubbard,F,SENIOR,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/,81
 13,0:34:04,37F,Lesley Graham,F,SENIOR,37,Law & District AAC,http://www.lawaac.co.uk/,86
@@ -16,13 +16,13 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website,finishPositi
 15,0:34:46,14F,Lucy Stanley,F,SENIOR,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/,92
 16,0:35:08,2F,Sasha I'Anson,F,U20,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,95
 17,0:35:16,2F,Amanda Bryden,F,SENIOR,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,96
-18,0:35:19,17F,Alison Lessells,F,SENIOR,17,Calderglen Harriers,,97
+18,0:35:19,17F,Alison Lessells,F,SENIOR,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,97
 19,0:35:27,3F,Kirsty Macfarlane,F,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,98
 20,0:35:31,1F,VIVIEN THORPE,F,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/,99
 21,0:36:22,3F,Joni Lindsay,F,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,102
 22,0:36:49,8F,Rebecca Simister,F,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,104
 23,0:37:02,3F,Laura Wilkinson,F,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,107
-24,0:37:03,17F,Julia Pechlof,F,SENIOR,17,Calderglen Harriers,,108
+24,0:37:03,17F,Julia Pechlof,F,SENIOR,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,108
 25,0:37:10,37F,Christine Neill,F,SENIOR,37,Law & District AAC,http://www.lawaac.co.uk/,109
 26,0:37:22,3F,Anne Campbell,F,MASTER,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,111
 27,0:37:23,3F,Pauline Wright,F,MASTER,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,112
@@ -31,5 +31,5 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website,finishPositi
 30,0:39:04,14F,Lucy Cameron,F,SENIOR,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/,121
 31,0:39:09,53F,Anne Noble,F,MASTER,53,Troon Tortoises,http://troontortoises.co.uk,122
 32,0:39:58,1F,GEMMA KIRWAN,F,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/,124
-33,0:42:40,15F,Lorna Sloan,F,MASTER,15,Ayrodynamic Triathlon Club,,126
+33,0:42:40,15F,Lorna Sloan,F,MASTER,15,Ayrodynamic Triathlon Club,http://www.ayrodynamic.org.uk/,126
 34,0:46:11,8F,Tabea Sander,F,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,128

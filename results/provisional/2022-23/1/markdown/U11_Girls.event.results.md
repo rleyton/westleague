@@ -10,7 +10,7 @@
 |          8 | 0:04:54 | 48F    | Willow Smith       | F        | U11      |           48 | Springburn Harriers  | https://www.springburnharriers.co.uk/      |
 |          9 | 0:04:55 | 11F    | Zara Gillespie     | F        | U11      |           11 | Airdrie Harriers     | http://airdrieharriers.org/                |
 |         10 | 0:04:55 | 6F     | Brooke Walker      | F        | U11      |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/            |
-|         11 | 0:05:01 | 54F    | Caitlin Laing      | F        | U11      |           54 | VP-Glasgow           | nan                                        |
+|         11 | 0:05:01 | 54F    | Caitlin Laing      | F        | U11      |           54 | VP-Glasgow           | https://www.vp-glasgow.com                 |
 |         12 | 0:05:03 | 44F    | Isla Preston       | F        | U11      |           44 | North Ayrshire AAC   | https://naathletics.co.uk/                 |
 |         13 | 0:05:04 | 2F     | Ava Warboys        | F        | U11      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/         |
 |         14 | 0:05:10 | 4F     | Iona Wilson        | F        | U11      |            4 | Inverclyde AC        | https://www.inverclydeac.org/              |
@@ -23,7 +23,7 @@
 |         21 | 0:05:21 | 4F     | Rosie Callan       | F        | U11      |            4 | Inverclyde AC        | https://www.inverclydeac.org/              |
 |         22 | 0:05:21 | 1F     | ELSPETH THORPE     | F        | U11      |            1 | East Kilbride AC     | http://www.ekac.org.uk/                    |
 |         23 | 0:05:21 | 11F    | Georgia McMahon    | F        | U11      |           11 | Airdrie Harriers     | http://airdrieharriers.org/                |
-|         24 | 0:05:21 | 54F    | Freya Jarvie       | F        | U11      |           54 | VP-Glasgow           | nan                                        |
+|         24 | 0:05:21 | 54F    | Freya Jarvie       | F        | U11      |           54 | VP-Glasgow           | https://www.vp-glasgow.com                 |
 |         25 | 0:05:24 | 7F     | Lola Saez          | F        | U11      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/           |
 |         26 | 0:05:27 | 7F     | Anna Macfarlane    | F        | U11      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/           |
 |         27 | 0:05:30 | 37F    | Allyssa Bennet     | F        | U11      |           37 | Law & District AAC   | http://www.lawaac.co.uk/                   |

@@ -24,7 +24,7 @@
 |         22 | 0:11:18 | 11M    | Nathan Reynolds  | M        | U13      |           11 | Airdrie Harriers     | http://airdrieharriers.org/           |
 |         23 | 0:11:25 | 14M    | Iain Maclean     | M        | U13      |           14 | Ayr Seaforth AC      | https://www.ayrseaforth.co.uk/        |
 |         24 | 0:11:51 | 4M     | Sol Currie       | M        | U13      |            4 | Inverclyde AC        | https://www.inverclydeac.org/         |
-|         25 | 0:12:11 | 54M    | Theo Macadam     | M        | U13      |           54 | VP-Glasgow           | nan                                   |
+|         25 | 0:12:11 | 54M    | Theo Macadam     | M        | U13      |           54 | VP-Glasgow           | https://www.vp-glasgow.com            |
 |         26 | 0:12:21 | 2M     | Rory O'Neil      | M        | U13      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/    |
 |         27 | 0:12:42 | 44M    | Kyle Caldwell    | M        | U13      |           44 | North Ayrshire AAC   | https://naathletics.co.uk/            |
 |         28 | 0:13:43 | 1M     | SAM HENDRY       | M        | U13      |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |

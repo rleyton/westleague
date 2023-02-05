@@ -9,6 +9,6 @@
 |          7 | Airdrie Harriers    |     11 | F        | 26,31,33            |           90 |               0 |            90 |                4 | http://airdrieharriers.org/           |
 |          8 | Whitemoss AAC       |     57 | F        | 22,24               |           46 |              46 |            92 |                2 | https://whitemossaac.co.uk/           |
 |          9 | Ayr Seaforth AC     |     14 | F        | 17                  |           17 |              92 |           109 |                1 | https://www.ayrseaforth.co.uk/        |
-|         10 | Stewartry AC        |     49 | F        | 21                  |           21 |              92 |           113 |                1 | nan                                   |
+|         10 | Stewartry AC        |     49 | F        | 21                  |           21 |              92 |           113 |                1 | https://stewartryac.wordpress.com/    |
 |         11 | East Kilbride AC    |      1 | F        | 29                  |           29 |              92 |           121 |                1 | http://www.ekac.org.uk/               |
 |         12 | Kilmarnock H&AC     |      2 | F        | 30                  |           30 |              92 |           122 |                1 | http://www.kilmarnockharriers.com/    |

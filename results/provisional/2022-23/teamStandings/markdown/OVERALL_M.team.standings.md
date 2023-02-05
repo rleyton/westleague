@@ -15,8 +15,8 @@
 | 151 | 416 |     567 | Kirkintilloch Olympians    | https://kirkintillocholympians.co.uk/      |
 | 389 | 328 |     717 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
 | 367 | 356 |     723 | West End RR                | https://www.westendroadrunners.co.uk/      |
-| 516 | 214 |     730 | Calderglen Harriers        | nan                                        |
-| 516 | 215 |     731 | VP-Glasgow                 | nan                                        |
+| 516 | 214 |     730 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |
+| 516 | 215 |     731 | VP-Glasgow                 | https://www.vp-glasgow.com                 |
 | 320 | 416 |     736 | North Ayrshire AAC         | https://naathletics.co.uk/                 |
 | 399 | 353 |     752 | Springburn Harriers        | https://www.springburnharriers.co.uk/      |
 | 418 | 335 |     753 | Royal Mail Run GMC         | https://www.facebook.com/royalmailrungmc/  |
@@ -25,5 +25,5 @@
 | 434 | 363 |     797 | Newton Road Runners        | https://www.newton-roadrunners.com/        |
 | 409 | 416 |     825 | Kilbarchan AAC             | https://kilbarchanaac.org.uk/              |
 | 436 | 416 |     852 | Whitemoss AAC              | https://whitemossaac.co.uk/                |
-| 516 | 355 |     871 | Irvine RC                  | nan                                        |
+| 516 | 355 |     871 | Irvine RC                  | https://www.irvinerunningclub.co.uk/       |
 | 506 | 416 |     922 | Larkhall YMCA              | https://www.facebook.com/larkhallharriers/ |

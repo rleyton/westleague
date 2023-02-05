@@ -5,7 +5,7 @@
 |  74 |  69 |     143 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
 |  58 |  91 |     149 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
 |  92 |  76 |     168 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
-| 116 |  61 |     177 | Calderglen Harriers        | nan                                        |
+| 116 |  61 |     177 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |
 |  86 | 116 |     202 | Newton Road Runners        | https://www.newton-roadrunners.com/        |
 |  88 | 116 |     204 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
 |  91 | 116 |     207 | Garscube Harriers          | https://www.garscubeharriers.org.uk/       |

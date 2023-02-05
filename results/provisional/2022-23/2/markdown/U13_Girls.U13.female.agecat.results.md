@@ -20,7 +20,7 @@
 |         18 | 0:11:04 | 7F     | Beth Adams           | F        | U13      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |               18 |
 |         19 | 0:11:05 | 9F     | Alexandra Bell       | F        | U13      |            9 | Garscube Harriers   | https://www.garscubeharriers.org.uk/  |               19 |
 |         20 | 0:11:08 | 44F    | Ella McMillan        | F        | U13      |           44 | North Ayrshire AAC  | https://naathletics.co.uk/            |               20 |
-|         21 | 0:11:10 | 49F    | Alexa Swallwell      | F        | U13      |           49 | Stewartry AC        | nan                                   |               21 |
+|         21 | 0:11:10 | 49F    | Alexa Swallwell      | F        | U13      |           49 | Stewartry AC        | https://stewartryac.wordpress.com/    |               21 |
 |         22 | 0:11:12 | 57F    | Maya Barcella        | F        | U13      |           57 | Whitemoss AAC       | https://whitemossaac.co.uk/           |               22 |
 |         23 | 0:11:17 | 7F     | Lily Grace Inglis    | F        | U13      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |               23 |
 |         24 | 0:11:36 | 57F    | Sophia Barcella      | F        | U13      |           57 | Whitemoss AAC       | https://whitemossaac.co.uk/           |               24 |

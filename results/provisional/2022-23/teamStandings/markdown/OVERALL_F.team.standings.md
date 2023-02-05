@@ -7,7 +7,7 @@
 | 161 |  53 |     214 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
 | 113 | 103 |     216 | East Kilbride AC           | http://www.ekac.org.uk/                    |
 |  73 | 144 |     217 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
-| 208 |  60 |     268 | Calderglen Harriers        | nan                                        |
+| 208 |  60 |     268 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |
 | 163 | 136 |     299 | Springburn Harriers        | https://www.springburnharriers.co.uk/      |
 | 125 | 176 |     301 | West End RR                | https://www.westendroadrunners.co.uk/      |
 | 166 | 143 |     309 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |
@@ -19,4 +19,4 @@
 | 198 | 161 |     359 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
 | 188 | 176 |     364 | Whitemoss AAC              | https://whitemossaac.co.uk/                |
 | 196 | 176 |     372 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
-| 208 | 165 |     373 | Ayrodynamic Triathlon Club | nan                                        |
+| 208 | 165 |     373 | Ayrodynamic Triathlon Club | http://www.ayrodynamic.org.uk/             |

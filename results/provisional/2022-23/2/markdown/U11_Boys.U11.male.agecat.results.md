@@ -21,12 +21,12 @@
 |         19 | 0:05:39 | 2M     | Freddie Stevenson     | M        | U11      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/    |               19 |
 |         20 | 0:05:40 | 7M     | Ben McKerracher       | M        | U11      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/      |               20 |
 |         21 | 0:05:41 | 44M    | Murray Graham         | M        | U11      |           44 | North Ayrshire AAC   | https://naathletics.co.uk/            |               21 |
-|         22 | 0:05:45 | 54M    | Murray Freer          | M        | U11      |           54 | VP-Glasgow           | nan                                   |               22 |
+|         22 | 0:05:45 | 54M    | Murray Freer          | M        | U11      |           54 | VP-Glasgow           | https://www.vp-glasgow.com            |               22 |
 |         23 | 0:05:46 | 10M    | Naod Woldeslassie     | M        | U11      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/    |               23 |
 |         24 | 0:05:46 | 6M     | Douglas Gallie        | M        | U11      |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/       |               24 |
 |         25 | 0:05:49 | 11M    | Finlay Paterson       | M        | U11      |           11 | Airdrie Harriers     | http://airdrieharriers.org/           |               25 |
 |         26 | 0:05:55 | 11M    | Noah Dunphy           | M        | U11      |           11 | Airdrie Harriers     | http://airdrieharriers.org/           |               26 |
-|         27 | 0:05:56 | 54M    | Noah Freer            | M        | U11      |           54 | VP-Glasgow           | nan                                   |               27 |
+|         27 | 0:05:56 | 54M    | Noah Freer            | M        | U11      |           54 | VP-Glasgow           | https://www.vp-glasgow.com            |               27 |
 |         28 | 0:06:04 | 6M     | Aiden O’Connell       | M        | U11      |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/       |               28 |
 |         29 | 0:06:06 | 7M     | Aaron Hamilton        | M        | U11      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/      |               29 |
 |         30 | 0:06:10 | 7M     | Noah Yates            | M        | U11      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/      |               30 |

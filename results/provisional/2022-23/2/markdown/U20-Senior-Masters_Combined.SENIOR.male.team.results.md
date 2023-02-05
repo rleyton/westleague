@@ -9,7 +9,7 @@
 |          7 | Westerlands CCC            |      5 | M        | 13,20               |           33 |              90 |           123 |                2 | https://westerlandsccc.co.uk/              |
 |          8 | Law & District AAC         |     37 | M        | 21,23,35            |           79 |              45 |           124 |                3 | http://www.lawaac.co.uk/                   |
 |          9 | Inverclyde AC              |      4 | M        | 16,26               |           42 |              90 |           132 |                2 | https://www.inverclydeac.org/              |
-|         10 | VP-Glasgow                 |     54 | M        | 8                   |            8 |             135 |           143 |                1 | nan                                        |
+|         10 | VP-Glasgow                 |     54 | M        | 8                   |            8 |             135 |           143 |                1 | https://www.vp-glasgow.com                 |
 |         11 | Ayr Seaforth AC            |     14 | M        | 24,31               |           55 |              90 |           145 |                2 | https://www.ayrseaforth.co.uk/             |
 |         12 | Greenock Glenpark Harriers |     30 | M        | 11                  |           11 |             135 |           146 |                1 | https://greenockglenparkharriers.com/      |
 |         13 | Bellahouston Harriers      |      8 | M        | 29,33               |           62 |              90 |           152 |                2 | http://www.bellahoustonharriers.co.uk/     |

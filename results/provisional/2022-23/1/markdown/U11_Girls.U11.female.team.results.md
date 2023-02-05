@@ -8,7 +8,7 @@
 |          6 | Inverclyde AC        |      4 | F        | 14,21,37            |           72 |               0 |            72 |                4 | https://www.inverclydeac.org/              |
 |          7 | Kilmarnock H&AC      |      2 | F        | 6,13                |           19 |              68 |            87 |                2 | http://www.kilmarnockharriers.com/         |
 |          8 | Law & District AAC   |     37 | F        | 15,27,46            |           88 |               0 |            88 |                5 | http://www.lawaac.co.uk/                   |
-|          9 | VP-Glasgow           |     54 | F        | 11,24               |           35 |              68 |           103 |                2 | nan                                        |
+|          9 | VP-Glasgow           |     54 | F        | 11,24               |           35 |              68 |           103 |                2 | https://www.vp-glasgow.com                 |
 |         10 | Ayr Seaforth AC      |     14 | F        | 3,33                |           36 |              68 |           104 |                2 | https://www.ayrseaforth.co.uk/             |
 |         11 | Cambuslang Harriers  |      6 | F        | 10,50,53            |          113 |               0 |           113 |                3 | https://cambuslangharriers.org/            |
 |         12 | North Ayrshire AAC   |     44 | F        | 12,38               |           50 |              68 |           118 |                2 | https://naathletics.co.uk/                 |

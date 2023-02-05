@@ -17,7 +17,7 @@
 | 213 | 180 |     393 | Motherwell AC              | https://motherwellac.com/                  |
 | 217 | 180 |     397 | Kilbarchan AAC             | https://kilbarchanaac.org.uk/              |
 | 228 | 180 |     408 | Newton Road Runners        | https://www.newton-roadrunners.com/        |
-| 268 | 143 |     411 | VP-Glasgow                 | nan                                        |
+| 268 | 143 |     411 | VP-Glasgow                 | https://www.vp-glasgow.com                 |
 | 232 | 180 |     412 | Troon Tortoises            | http://troontortoises.co.uk                |
 | 268 | 145 |     413 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
 | 246 | 180 |     426 | Whitemoss AAC              | https://whitemossaac.co.uk/                |

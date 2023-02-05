@@ -12,6 +12,6 @@
 |  83 |  59 |     142 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
 |  71 |  72 |     143 | North Ayrshire AAC         | https://naathletics.co.uk/                 |
 |  93 |  50 |     143 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
-|  93 |  52 |     145 | Calderglen Harriers        | nan                                        |
+|  93 |  52 |     145 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |
 |  75 |  72 |     147 | Whitemoss AAC              | https://whitemossaac.co.uk/                |
-|  93 |  62 |     155 | Ayrodynamic Triathlon Club | nan                                        |
+|  93 |  62 |     155 | Ayrodynamic Triathlon Club | http://www.ayrodynamic.org.uk/             |

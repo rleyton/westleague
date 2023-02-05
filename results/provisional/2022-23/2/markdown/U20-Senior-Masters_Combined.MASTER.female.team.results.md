@@ -4,10 +4,10 @@
 |          2 | Bellahouston RR            |      3 | F        | 8,9                 |           17 |              24 |            41 |                2 | https://www.bellahoustonroadrunners.co.uk/ |
 |          3 | Springburn Harriers        |     48 | F        | 1                   |            1 |              48 |            49 |                1 | https://www.springburnharriers.co.uk/      |
 |          4 | Kilmarnock H&AC            |      2 | F        | 2                   |            2 |              48 |            50 |                1 | http://www.kilmarnockharriers.com/         |
-|          5 | Calderglen Harriers        |     17 | F        | 4                   |            4 |              48 |            52 |                1 | nan                                        |
+|          5 | Calderglen Harriers        |     17 | F        | 4                   |            4 |              48 |            52 |                1 | http://www.calderglenharriers.org.uk/      |
 |          6 | Law & District AAC         |     37 | F        | 5                   |            5 |              48 |            53 |                1 | http://www.lawaac.co.uk/                   |
 |          7 | Giffnock North AC          |      7 | F        | 6                   |            6 |              48 |            54 |                1 | https://www.giffnocknorth.co.uk/           |
 |          8 | Cambuslang Harriers        |      6 | F        | 10                  |           10 |              48 |            58 |                1 | https://cambuslangharriers.org/            |
 |          9 | Westerlands CCC            |      5 | F        | 11                  |           11 |              48 |            59 |                1 | https://westerlandsccc.co.uk/              |
 |         10 | Troon Tortoises            |     53 | F        | 12                  |           12 |              48 |            60 |                1 | http://troontortoises.co.uk                |
-|         11 | Ayrodynamic Triathlon Club |     15 | F        | 14                  |           14 |              48 |            62 |                1 | nan                                        |
+|         11 | Ayrodynamic Triathlon Club |     15 | F        | 14                  |           14 |              48 |            62 |                1 | http://www.ayrodynamic.org.uk/             |

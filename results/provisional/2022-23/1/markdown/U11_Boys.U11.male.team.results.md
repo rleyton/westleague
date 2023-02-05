@@ -2,7 +2,7 @@
 |-----------:|:---------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
 |          1 | Giffnock North AC    |      7 | M        | 1,3,7               |           11 |               0 |            11 |                7 | https://www.giffnocknorth.co.uk/           |
 |          2 | East Kilbride AC     |      1 | M        | 4,10,17             |           31 |               0 |            31 |                9 | http://www.ekac.org.uk/                    |
-|          3 | VP-Glasgow           |     54 | M        | 2,12,19             |           33 |               0 |            33 |                5 | nan                                        |
+|          3 | VP-Glasgow           |     54 | M        | 2,12,19             |           33 |               0 |            33 |                5 | https://www.vp-glasgow.com                 |
 |          4 | Kilmarnock H&AC      |      2 | M        | 9,13,14             |           36 |               0 |            36 |                6 | http://www.kilmarnockharriers.com/         |
 |          5 | Law & District AAC   |     37 | M        | 5,22,24             |           51 |               0 |            51 |                3 | http://www.lawaac.co.uk/                   |
 |          6 | Inverclyde AC        |      4 | M        | 6,25                |           31 |              49 |            80 |                2 | https://www.inverclydeac.org/              |
