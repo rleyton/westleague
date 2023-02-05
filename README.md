@@ -14,7 +14,7 @@
   * Hosted by [Kilmarnock H&AC](http://www.kilmarnockharriers.com/)
   * [Attendance: 326](./results/provisional/2022-23/2/meta.json)
   * [Thanks to the volunteers](./results/provisional/2022-23/2/volunteers.csv)
-  * Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/2), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/2)
+  * Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/2), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/2/markdown)
 * Event #3, Bellahouston park (not yet available)
   * Not yet available
 * [Team standings, by competition](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html)
