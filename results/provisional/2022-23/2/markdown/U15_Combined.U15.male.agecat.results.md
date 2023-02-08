@@ -19,7 +19,7 @@
 |         17 | 0:14:57 | 7M     | Dillon Sim          | M        | U15      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/           |               18 |
 |         18 | 0:15:24 | 1M     | EUAN THORPE         | M        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/                    |               19 |
 |         19 | 0:15:40 | 37M    | Daniel Simpson      | M        | U15      |           37 | Law & District AAC   | http://www.lawaac.co.uk/                   |               20 |
-|         20 | 0:15:46 | 11M    | Murryn Burns        | M        | U15      |           11 | Airdrie Harriers     | http://airdrieharriers.org/                |               22 |
+|         20 | 0:15:46 | 11M    | Joshua Harmon       | M        | U15      |           11 | Airdrie Harriers     | http://airdrieharriers.org/                |               22 |
 |         21 | 0:15:59 | 34M    | Fraser McKillop     | M        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/              |               24 |
 |         22 | 0:16:00 | 36M    | AARON SCOTT         | M        | U15      |           36 | Larkhall YMCA        | https://www.facebook.com/larkhallharriers/ |               25 |
 |         23 | 0:16:58 | 54M    | Gerard Gontor       | M        | U15      |           54 | VP-Glasgow           | https://www.vp-glasgow.com                 |               31 |

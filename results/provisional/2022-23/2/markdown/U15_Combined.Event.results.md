@@ -21,7 +21,7 @@
 |         19 | 0:15:24 | 1M     | EUAN THORPE         | M        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/                    |
 |         20 | 0:15:40 | 37M    | Daniel Simpson      | M        | U15      |           37 | Law & District AAC   | http://www.lawaac.co.uk/                   |
 |         21 | 0:15:43 | 34F    | Lauren              | F        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/              |
-|         22 | 0:15:46 | 11M    | Murryn Burns        | M        | U15      |           11 | Airdrie Harriers     | http://airdrieharriers.org/                |
+|         22 | 0:15:46 | 11M    | Joshua Harmon       | M        | U15      |           11 | Airdrie Harriers     | http://airdrieharriers.org/                |
 |         23 | 0:15:54 | 14F    | Marnie Harrower     | F        | U15      |           14 | Ayr Seaforth AC      | https://www.ayrseaforth.co.uk/             |
 |         24 | 0:15:59 | 34M    | Fraser McKillop     | M        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/              |
 |         25 | 0:16:00 | 36M    | AARON SCOTT         | M        | U15      |           36 | Larkhall YMCA        | https://www.facebook.com/larkhallharriers/ |
@@ -32,7 +32,7 @@
 |         30 | 0:16:54 | 4F     | Lexie Bremner       | F        | U15      |            4 | Inverclyde AC        | https://www.inverclydeac.org/              |
 |         31 | 0:16:58 | 54M    | Gerard Gontor       | M        | U15      |           54 | VP-Glasgow           | https://www.vp-glasgow.com                 |
 |         32 | 0:17:00 | 1M     | KIERAN BUDD         | M        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/                    |
-|         33 | 0:17:17 | 11F    | Joshua Harmon       | F        | U15      |           11 | Airdrie Harriers     | http://airdrieharriers.org/                |
+|         33 | 0:17:17 | 11F    | Murryn Burns        | F        | U15      |           11 | Airdrie Harriers     | http://airdrieharriers.org/                |
 |         34 | 0:17:21 | 1F     | CARRIE CHARTERS     | F        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/                    |
 |         35 | 0:17:54 | 1M     | CHRISTOPHER PATON   | M        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/                    |
 |         36 | 0:17:59 | 10F    | Katie Burns         | F        | U15      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/         |
