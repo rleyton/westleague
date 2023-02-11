@@ -24,8 +24,10 @@ def adjust_places(places, adjustments):
                     logging.info(
                         f"Changing recorded club for place {recordNum} from {curTeam} to {newVal}"
                     )
-                if row["action"] == "remove":
+                elif row["action"] == "remove":
                     logging.info(f"Remove record?")
+                elif row["action"] in ["insert", "add"]:
+                    logging.info(f"add record?")
                 else:
                     logging.debug(f"Adjustment of {row['adjustment']} ignored")
 
