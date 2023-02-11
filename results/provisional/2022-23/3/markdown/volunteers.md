@@ -22,6 +22,7 @@
 | Kenny Crawford     | Marshal              |
 | Kenny McDonald     | Marshal              |
 | Kenny Wharton      | Marshal              |
+| Kevin Queenan      | Photographer         |
 | Lynne Goldie       | Funnel manager       |
 | Mark Wallace       | Marshal              |
 | Richard Leyton     | Positions            |
