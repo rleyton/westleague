@@ -1,4 +1,5 @@
 from gspread import Worksheet
+import logging
 from .utils_consts import (
     META_KEY_COL,
     META_VAL_COL,
@@ -86,12 +87,15 @@ def load_results(sheets):
     if sheets is not None:
         returnResults = {}
         for sheet in sheets:
-            raceMeta = load_result_meta(sheet)
-            times = load_result_times(sheet)
-            team = load_result_finishers(
-                sheet=sheet, implicitGender=raceMeta[META_IMPLICIT_GENDER_KEY]
-            )
-            race = (raceMeta, times, team)
-            returnResults[raceMeta[META_EVENT]] = race
+            try:
+                raceMeta = load_result_meta(sheet)
+                times = load_result_times(sheet)
+                team = load_result_finishers(
+                    sheet=sheet, implicitGender=raceMeta[META_IMPLICIT_GENDER_KEY]
+                )
+                race = (raceMeta, times, team)
+                returnResults[raceMeta[META_EVENT]] = race
+            except KeyError as e:
+                logging.error(f"Error processing sheet {sheet.title}: {e}")
 
     return returnResults

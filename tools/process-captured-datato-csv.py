@@ -24,7 +24,7 @@ pathlib.Path(DATA_DIR).mkdir(parents=True, exist_ok=True)
 
 # Load the worksheets
 for worksheet in sheet.worksheets():
-    logging.info(f"Processing worksheet: {worksheet.title}")
+    logging.info(f"Processing worksheet: {worksheet}")
     if worksheet.title in config["IGNORE_SHEETS"].split(","):
         logging.debug("Ignoring as in IGNORE_SHEETS")
         next
@@ -36,10 +36,9 @@ for worksheet in sheet.worksheets():
             logging.debug("Results sheet")
             results.append(worksheet)
 
-logging.info("Loading volunteers")
+
 # Wrangle the worksheets
 volunteers = load_volunteers(volunteers)
-logging.info("Loading results")
 race_results = load_results(results)
 
 # Process the event volunteers
