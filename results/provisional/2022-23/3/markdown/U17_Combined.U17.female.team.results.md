@@ -1,0 +1,10 @@
+|   position | Club name           |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                               |
+|-----------:|:--------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:--------------------------------------|
+|          1 | East Kilbride AC    |      1 | F        | 1,5,10              |           16 |               0 |            16 |                3 | http://www.ekac.org.uk/               |
+|          2 | Kilmarnock H&AC     |      2 | F        | 3,9                 |           12 |              21 |            33 |                2 | http://www.kilmarnockharriers.com/    |
+|          3 | Ayr Seaforth AC     |     14 | F        | 2                   |            2 |              42 |            44 |                1 | https://www.ayrseaforth.co.uk/        |
+|          4 | Nithsdale AC        |     43 | F        | 4                   |            4 |              42 |            46 |                1 | nan                                   |
+|          5 | Law & District AAC  |     37 | F        | 6                   |            6 |              42 |            48 |                1 | http://www.lawaac.co.uk/              |
+|          6 | Airdrie Harriers    |     11 | F        | 7                   |            7 |              42 |            49 |                1 | http://airdrieharriers.org/           |
+|          7 | Kilbarchan AAC      |     34 | F        | 8                   |            8 |              42 |            50 |                1 | https://kilbarchanaac.org.uk/         |
+|          8 | Calderglen Harriers |     17 | F        | 11                  |           11 |              42 |            53 |                1 | http://www.calderglenharriers.org.uk/ |

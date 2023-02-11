@@ -1,0 +1,60 @@
+{
+      "races": {
+            "U11": {
+                  "M": {
+                        "penalty": 63,
+                        "participants": 53,
+                        "counters": 3
+                  }
+            },
+            "U13": {
+                  "M": {
+                        "penalty": 31,
+                        "participants": 21,
+                        "counters": 3
+                  },
+                  "F": {
+                        "penalty": 56,
+                        "participants": 46,
+                        "counters": 3
+                  }
+            },
+            "U15": {
+                  "M": {
+                        "penalty": 41,
+                        "participants": 31,
+                        "counters": 3
+                  },
+                  "F": {
+                        "penalty": 38,
+                        "participants": 28,
+                        "counters": 3
+                  }
+            },
+            "U17": {
+                  "M": {
+                        "penalty": 25,
+                        "participants": 15,
+                        "counters": 3
+                  },
+                  "F": {
+                        "penalty": 21,
+                        "participants": 11,
+                        "counters": 3
+                  }
+            },
+            "U20": {
+                  "M": {
+                        "penalty": 119,
+                        "participants": 109,
+                        "counters": 3
+                  },
+                  "F": {
+                        "penalty": 55,
+                        "participants": 45,
+                        "counters": 3
+                  }
+            }
+      },
+      "attendance": 359
+}
