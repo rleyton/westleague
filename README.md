@@ -15,8 +15,13 @@
   * [Attendance: 326](./results/provisional/2022-23/2/meta.json)
   * [Thanks to the volunteers](./results/provisional/2022-23/2/volunteers.csv)
   * Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/2), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/2/markdown)
-* Event #3, Bellahouston park (not yet available)
-  * Not yet available
+* Event #3, Bellahouston park (**currently being processed**)
+  * Initial processing done of core results and team submissions recevied to: 12/Feb: 10am
+  * Issues and feedback to resolve issues in the following races:
+    * U15 Combined
+    * U17 Combined
+    * U20, Seniors, Masters
+  * Current results, **with outstanding issues** [available here](https://github.com/rleyton/westleague/tree/2022-23-bellahouston/results/provisional/2022-23/3)
 * [League standings, by competition](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html)
   * U11
     * [Male](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html/U11_M.team.standings.html)
