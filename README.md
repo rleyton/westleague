@@ -16,7 +16,9 @@
   * [Thanks to the volunteers](./results/provisional/2022-23/2/volunteers.csv)
   * Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/2), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/2/markdown)
 * Event #3, Bellahouston park (**currently being processed**)
+  * Timelapse [videos from finish line are available here](https://westleague.org.uk/results/submission/#timelapse)
   * Initial processing done of core results and team submissions recevied to: 12/Feb: 10am
+    * Awaiting results from Kilbarchan, Larkhall, Westerlands, Motherwell, Airdrie, Strathclyde University, West End RR
   * Issues and feedback to resolve issues in the following races:
     * U15 Combined
     * U17 Combined
