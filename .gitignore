@@ -171,6 +171,6 @@ cython_debug/
 *.odt
 
 # results, for now
-results/**
+# results/**
 
 .DS_Store
