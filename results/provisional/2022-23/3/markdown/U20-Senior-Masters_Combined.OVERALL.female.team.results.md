@@ -1,0 +1,18 @@
+|   position | Club name                  |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                    |
+|-----------:|:---------------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
+|          1 | Ayr Seaforth AC            |     14 | F        | 1,4,7,9             |           21 |               0 |            21 |                5 | https://www.ayrseaforth.co.uk/             |
+|          2 | Cambuslang Harriers        |      6 | F        | 2,12,18,24          |           56 |               0 |            56 |                5 | https://cambuslangharriers.org/            |
+|          3 | Garscube Harriers          |      9 | F        | 3,8,25,35           |           71 |               0 |            71 |                4 | https://www.garscubeharriers.org.uk/       |
+|          4 | Bellahouston Harriers      |      8 | F        | 10,17,33,37         |           97 |               0 |            97 |                4 | http://www.bellahoustonharriers.co.uk/     |
+|          5 | VP-Glasgow                 |     54 | F        | 15,19,32,36         |          102 |               0 |           102 |                4 | https://www.vp-glasgow.com                 |
+|          6 | Calderglen Harriers        |     17 | F        | 14,27,30,34         |          105 |               0 |           105 |                4 | http://www.calderglenharriers.org.uk/      |
+|          7 | Bellahouston RR            |      3 | F        | 16,20,29            |           65 |              55 |           120 |                3 | https://www.bellahoustonroadrunners.co.uk/ |
+|          8 | East Kilbride AC           |      1 | F        | 21,38,40,42         |          141 |               0 |           141 |                4 | http://www.ekac.org.uk/                    |
+|          9 | Law & District AAC         |     37 | F        | 11,31               |           42 |             110 |           152 |                2 | http://www.lawaac.co.uk/                   |
+|         10 | Kilmarnock H&AC            |      2 | F        | 22,26               |           48 |             110 |           158 |                2 | http://www.kilmarnockharriers.com/         |
+|         11 | West End RR                |     56 | F        | 23,39,43            |          105 |              55 |           160 |                3 | https://www.westendroadrunners.co.uk/      |
+|         12 | Springburn Harriers        |     48 | F        | 5                   |            5 |             165 |           170 |                1 | https://www.springburnharriers.co.uk/      |
+|         13 | Shettleston Harriers       |     10 | F        | 6                   |            6 |             165 |           171 |                1 | http://shettlestonharriers.org.uk/         |
+|         14 | Motherwell AC              |     40 | F        | 13                  |           13 |             165 |           178 |                1 | https://motherwellac.com/                  |
+|         15 | Greenock Glenpark Harriers |     30 | F        | 44                  |           44 |             165 |           209 |                1 | https://greenockglenparkharriers.com/      |
+|         16 | Ayrodynamic Triathlon Club |     15 | F        | 45                  |           45 |             165 |           210 |                1 | http://www.ayrodynamic.org.uk/             |

@@ -1,17 +1,17 @@
-|   position | times   | team   | gender   | AgeCat   |   clubnumber | Club name            | Website                              |   finishPosition |
-|-----------:|:--------|:-------|:---------|:---------|-------------:|:---------------------|:-------------------------------------|-----------------:|
-|          1 | 0:19:15 | 1M     | M        | U17      |            1 | East Kilbride AC     | http://www.ekac.org.uk/              |                1 |
-|          2 | 0:19:50 | 6M     | M        | U17      |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/      |                2 |
-|          3 | 0:20:18 | 6M     | M        | U17      |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/      |                3 |
-|          4 | 0:20:59 | 1M     | M        | U17      |            1 | East Kilbride AC     | http://www.ekac.org.uk/              |                4 |
-|          5 | 0:21:04 | 1M     | M        | U17      |            1 | East Kilbride AC     | http://www.ekac.org.uk/              |                5 |
-|          6 | 0:21:07 | 37M    | M        | U17      |           37 | Law & District AAC   | http://www.lawaac.co.uk/             |                6 |
-|          7 | 0:21:15 | 37M    | M        | U17      |           37 | Law & District AAC   | http://www.lawaac.co.uk/             |                7 |
-|          8 | 0:21:39 | 6M     | M        | U17      |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/      |                8 |
-|          9 | 0:22:11 | 10M    | M        | U17      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/   |                9 |
-|         10 | 0:22:34 | 9M     | M        | U17      |            9 | Garscube Harriers    | https://www.garscubeharriers.org.uk/ |               10 |
-|         11 | 0:22:39 | 10M    | M        | U17      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/   |               11 |
-|         12 | 0:22:50 | 6M     | M        | U17      |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/      |               12 |
-|         13 | 0:22:58 | 37M    | M        | U17      |           37 | Law & District AAC   | http://www.lawaac.co.uk/             |               13 |
-|         14 | 0:23:46 | 9M     | M        | U17      |            9 | Garscube Harriers    | https://www.garscubeharriers.org.uk/ |               14 |
-|         15 | 0:28:38 | 11M    | M        | U17      |           11 | Airdrie Harriers     | http://airdrieharriers.org/          |               24 |
+|   position | times   | team   | Name             | gender   | AgeCat   |   clubnumber | Club name            | Website                              |   finishPosition |
+|-----------:|:--------|:-------|:-----------------|:---------|:---------|-------------:|:---------------------|:-------------------------------------|-----------------:|
+|          1 | 0:19:15 | 1M     | JAMIE CONNOR     | M        | U17      |            1 | East Kilbride AC     | http://www.ekac.org.uk/              |                1 |
+|          2 | 0:19:50 | 6M     | Sam McCarthy     | M        | U17      |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/      |                2 |
+|          3 | 0:20:18 | 6M     | Finlay Robb      | M        | U17      |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/      |                3 |
+|          4 | 0:20:59 | 1M     | AARON THOMSON    | M        | U17      |            1 | East Kilbride AC     | http://www.ekac.org.uk/              |                4 |
+|          5 | 0:21:04 | 1M     | JONATHAN HUNTER  | M        | U17      |            1 | East Kilbride AC     | http://www.ekac.org.uk/              |                5 |
+|          6 | 0:21:07 | 37M    | Logan Whitton    | M        | U17      |           37 | Law & District AAC   | http://www.lawaac.co.uk/             |                6 |
+|          7 | 0:21:15 | 37M    | Ryan Kellock     | M        | U17      |           37 | Law & District AAC   | http://www.lawaac.co.uk/             |                7 |
+|          8 | 0:21:39 | 6M     | Jonathan Dow     | M        | U17      |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/      |                8 |
+|          9 | 0:22:11 | 10M    | Adam Clifford    | M        | U17      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/   |                9 |
+|         10 | 0:22:34 | 9M     | Callum Macdonald | M        | U17      |            9 | Garscube Harriers    | https://www.garscubeharriers.org.uk/ |               10 |
+|         11 | 0:22:39 | 10M    | Joseph Reilly    | M        | U17      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/   |               11 |
+|         12 | 0:22:50 | 6M     | Gabriel Murphy   | M        | U17      |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/      |               12 |
+|         13 | 0:22:58 | 37M    | Jessica Inglis   | M        | U17      |           37 | Law & District AAC   | http://www.lawaac.co.uk/             |               13 |
+|         14 | 0:23:46 | 9M     | Chris Hargreaves | M        | U17      |            9 | Garscube Harriers    | https://www.garscubeharriers.org.uk/ |               14 |
+|         15 | 0:28:38 | 11M    | nan              | M        | U17      |           11 | Airdrie Harriers     | http://airdrieharriers.org/          |               24 |

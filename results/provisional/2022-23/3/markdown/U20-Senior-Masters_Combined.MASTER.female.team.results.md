@@ -1,0 +1,11 @@
+|   position | Club name                  |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                    |
+|-----------:|:---------------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
+|          1 | Cambuslang Harriers        |      6 | F        | 1,7,9               |           17 |               0 |            17 |                4 | https://cambuslangharriers.org/            |
+|          2 | East Kilbride AC           |      1 | F        | 8,14,15             |           37 |               0 |            37 |                3 | http://www.ekac.org.uk/                    |
+|          3 | Garscube Harriers          |      9 | F        | 2,12                |           14 |              26 |            40 |                2 | https://www.garscubeharriers.org.uk/       |
+|          4 | Bellahouston Harriers      |      8 | F        | 6,13                |           19 |              26 |            45 |                2 | http://www.bellahoustonharriers.co.uk/     |
+|          5 | Springburn Harriers        |     48 | F        | 3                   |            3 |              52 |            55 |                1 | https://www.springburnharriers.co.uk/      |
+|          6 | Law & District AAC         |     37 | F        | 4                   |            4 |              52 |            56 |                1 | http://www.lawaac.co.uk/                   |
+|          7 | Bellahouston RR            |      3 | F        | 5                   |            5 |              52 |            57 |                1 | https://www.bellahoustonroadrunners.co.uk/ |
+|          8 | Calderglen Harriers        |     17 | F        | 11                  |           11 |              52 |            63 |                1 | http://www.calderglenharriers.org.uk/      |
+|          9 | Ayrodynamic Triathlon Club |     15 | F        | 16                  |           16 |              52 |            68 |                1 | http://www.ayrodynamic.org.uk/             |
