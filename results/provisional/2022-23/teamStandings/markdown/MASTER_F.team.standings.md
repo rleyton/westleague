@@ -1,19 +1,19 @@
-|   1 |   3 |   2 |   Total | Club name                  | Website                                    |
+|   1 |   2 |   3 |   Total | Club name                  | Website                                    |
 |----:|----:|----:|--------:|:---------------------------|:-------------------------------------------|
-|  35 |  34 |  23 |      92 | East Kilbride AC           | http://www.ekac.org.uk/                    |
-|  21 |  23 |  58 |     102 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
-|  63 |  56 |  41 |     160 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
-|  44 |  43 |  78 |     165 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
-|  63 |  54 |  49 |     166 | Springburn Harriers        | https://www.springburnharriers.co.uk/      |
-|  68 |  55 |  53 |     176 | Law & District AAC         | http://www.lawaac.co.uk/                   |
+|  35 |  23 |  34 |      92 | East Kilbride AC           | http://www.ekac.org.uk/                    |
+|  21 |  58 |  23 |     102 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
+|  44 |  72 |  43 |     159 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
+|  63 |  41 |  56 |     160 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
+|  63 |  49 |  54 |     166 | Springburn Harriers        | https://www.springburnharriers.co.uk/      |
+|  68 |  53 |  55 |     176 | Law & District AAC         | http://www.lawaac.co.uk/                   |
 |  30 |  72 |  78 |     180 | West End RR                | https://www.westendroadrunners.co.uk/      |
-|  66 |  72 |  54 |     192 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |
-|  93 |  62 |  52 |     207 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |
-|  93 |  38 |  78 |     209 | Garscube Harriers          | https://www.garscubeharriers.org.uk/       |
-|  77 |  72 |  60 |     209 | Troon Tortoises            | http://troontortoises.co.uk                |
-|  83 |  72 |  59 |     214 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
-|  93 |  72 |  50 |     215 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
+|  66 |  54 |  78 |     198 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |
+|  93 |  72 |  38 |     203 | Garscube Harriers          | https://www.garscubeharriers.org.uk/       |
+|  93 |  52 |  62 |     207 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |
+|  77 |  60 |  78 |     215 | Troon Tortoises            | http://troontortoises.co.uk                |
+|  83 |  59 |  78 |     220 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
 |  71 |  72 |  78 |     221 | North Ayrshire AAC         | https://naathletics.co.uk/                 |
-|  93 |  67 |  62 |     222 | Ayrodynamic Triathlon Club | http://www.ayrodynamic.org.uk/             |
+|  93 |  50 |  78 |     221 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
+|  93 |  62 |  67 |     222 | Ayrodynamic Triathlon Club | http://www.ayrodynamic.org.uk/             |
 |  75 |  72 |  78 |     225 | Whitemoss AAC              | https://whitemossaac.co.uk/                |
-|  93 |  68 |  78 |     239 | Dumfries Harriers          | https://dumfriesharriers.co.uk/            |
+|  93 |  72 |  68 |     233 | Dumfries Harriers          | https://dumfriesharriers.co.uk/            |

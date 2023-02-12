@@ -1,25 +1,25 @@
-|   1 |   3 |   2 |   Total | Club name                  | Website                                    |
+|   1 |   2 |   3 |   Total | Club name                  | Website                                    |
 |----:|----:|----:|--------:|:---------------------------|:-------------------------------------------|
-|  31 |  21 |  11 |      63 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
-|  52 |  56 | 160 |     268 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
-|  73 |  97 | 144 |     314 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
-|  74 | 154 |  91 |     319 | Law & District AAC         | http://www.lawaac.co.uk/                   |
-| 117 | 121 |  89 |     327 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
-| 113 | 141 | 103 |     357 | East Kilbride AC           | http://www.ekac.org.uk/                    |
-| 208 | 105 |  60 |     373 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |
-| 161 | 160 |  53 |     374 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
-| 160 |  71 | 224 |     455 | Garscube Harriers          | https://www.garscubeharriers.org.uk/       |
-| 163 | 173 | 136 |     472 | Springburn Harriers        | https://www.springburnharriers.co.uk/      |
-| 166 | 176 | 143 |     485 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |
-| 125 | 161 | 224 |     510 | West End RR                | https://www.westendroadrunners.co.uk/      |
-| 190 | 176 | 163 |     529 | Troon Tortoises            | http://troontortoises.co.uk                |
-| 208 | 102 | 224 |     534 | VP-Glasgow                 | https://www.vp-glasgow.com                 |
-| 198 | 176 | 161 |     535 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
+|  31 |  11 |  21 |      63 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
+|  52 | 160 |  56 |     268 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
+|  73 | 144 |  97 |     314 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
+|  74 |  91 | 154 |     319 | Law & District AAC         | http://www.lawaac.co.uk/                   |
+| 117 |  89 | 121 |     327 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
+| 113 | 103 | 141 |     357 | East Kilbride AC           | http://www.ekac.org.uk/                    |
+| 208 |  60 | 105 |     373 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |
+| 161 |  53 | 160 |     374 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
+| 160 | 176 |  71 |     407 | Garscube Harriers          | https://www.garscubeharriers.org.uk/       |
+| 125 | 176 | 161 |     462 | West End RR                | https://www.westendroadrunners.co.uk/      |
+| 163 | 136 | 173 |     472 | Springburn Harriers        | https://www.springburnharriers.co.uk/      |
+| 208 | 176 | 102 |     486 | VP-Glasgow                 | https://www.vp-glasgow.com                 |
+| 162 | 176 | 174 |     512 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |
+| 166 | 143 | 224 |     533 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |
 | 156 | 176 | 224 |     556 | Newton Road Runners        | https://www.newton-roadrunners.com/        |
-| 162 | 174 | 224 |     560 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |
+| 208 | 176 | 181 |     565 | Motherwell AC              | https://motherwellac.com/                  |
+| 190 | 163 | 224 |     577 | Troon Tortoises            | http://troontortoises.co.uk                |
 | 178 | 176 | 224 |     578 | North Ayrshire AAC         | https://naathletics.co.uk/                 |
-| 208 | 213 | 165 |     586 | Ayrodynamic Triathlon Club | http://www.ayrodynamic.org.uk/             |
+| 198 | 161 | 224 |     583 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
+| 196 | 176 | 212 |     584 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
+| 208 | 165 | 213 |     586 | Ayrodynamic Triathlon Club | http://www.ayrodynamic.org.uk/             |
 | 188 | 176 | 224 |     588 | Whitemoss AAC              | https://whitemossaac.co.uk/                |
-| 208 | 181 | 224 |     613 | Motherwell AC              | https://motherwellac.com/                  |
-| 196 | 212 | 224 |     632 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
-| 208 | 214 | 224 |     646 | Dumfries Harriers          | https://dumfriesharriers.co.uk/            |
+| 208 | 176 | 214 |     598 | Dumfries Harriers          | https://dumfriesharriers.co.uk/            |
