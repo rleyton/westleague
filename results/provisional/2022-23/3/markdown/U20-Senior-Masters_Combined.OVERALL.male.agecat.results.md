@@ -10,7 +10,7 @@
 |          8 | 0:27:08 | 3M     | Tony Connolly         | M        | SENIOR   |            3 | Bellahouston RR                 | https://www.bellahoustonroadrunners.co.uk/ |                8 |
 |          9 | 0:27:43 | 6M     | Stuart Gibson         | M        | SENIOR   |            6 | Cambuslang Harriers             | https://cambuslangharriers.org/            |                9 |
 |         10 | 0:27:57 | 7M     | Connor Drummond       | M        | SENIOR   |            7 | Giffnock North AC               | https://www.giffnocknorth.co.uk/           |               10 |
-|         11 | 0:27:58 | 40M    | nan                   | M        | nan      |           40 | Motherwell AC                   | https://motherwellac.com/                  |               11 |
+|         11 | 0:27:58 | 40M    | Jonathan Moore        | M        | SENIOR   |           40 | Motherwell AC                   | https://motherwellac.com/                  |               11 |
 |         12 | 0:28:03 | 6M     | Colin Reilly          | M        | SENIOR   |            6 | Cambuslang Harriers             | https://cambuslangharriers.org/            |               12 |
 |         13 | 0:28:13 | 7M     | Ali Stables           | M        | SENIOR   |            7 | Giffnock North AC               | https://www.giffnocknorth.co.uk/           |               13 |
 |         14 | 0:28:19 | 1M     | DAVID ROSS            | M        | MASTER   |            1 | East Kilbride AC                | http://www.ekac.org.uk/                    |               14 |

@@ -12,7 +12,7 @@
 |         10 | 0:34:52 | 8F     | Kristina Greig     | F        | SENIOR   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |               70 |
 |         11 | 0:35:11 | 37F    | Elaine Boyle       | F        | MASTER   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               75 |
 |         12 | 0:35:22 | 6F     | Catriona Bain      | F        | SENIOR   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |               77 |
-|         13 | 0:35:43 | 40F    | nan                | F        | nan      |           40 | Motherwell AC              | https://motherwellac.com/                  |               79 |
+|         13 | 0:35:43 | 40F    | Emma Morris        | F        | SENIOR   |           40 | Motherwell AC              | https://motherwellac.com/                  |               79 |
 |         14 | 0:36:16 | 17F    | Karen Allen        | F        | SENIOR   |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |               84 |
 |         15 | 0:36:19 | 54F    | Lucy Olsen         | F        | SENIOR   |           54 | VP-Glasgow                 | https://www.vp-glasgow.com                 |               85 |
 |         16 | 0:36:54 | 3F     | Claire Wharton     | F        | MASTER   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |               94 |
