@@ -45,3 +45,4 @@
 |         43 | 0:44:22 | 56F    | nan                | F        | nan      |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |              147 |
 |         44 | 0:44:25 | 30F    | Sarah Jane Whalen  | F        | SENIOR   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |              148 |
 |         45 | 0:44:45 | 15F    | Lorna Sloan        | F        | MASTER   |           15 | Ayrodynamic Triathlon Club | http://www.ayrodynamic.org.uk/             |              149 |
+|         46 | 0:50:07 | 22F    | Audrey McMinn      | F        | MASTER   |           22 | Dumfries Harriers          | https://dumfriesharriers.co.uk/            |              153 |

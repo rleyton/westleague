@@ -8,19 +8,18 @@
 |          6 | Bellahouston RR                 |      3 | M        | 8,22,34,41          |          105 |               0 |           105 |               12 | https://www.bellahoustonroadrunners.co.uk/ |
 |          7 | Greenock Glenpark Harriers      |     30 | M        | 27,28,66,95         |          216 |               0 |           216 |                5 | https://greenockglenparkharriers.com/      |
 |          8 | Law & District AAC              |     37 | M        | 35,43,70,75         |          223 |               0 |           223 |                9 | http://www.lawaac.co.uk/                   |
-|          9 | Westerlands CCC                 |      5 | M        | 19,32,57            |          108 |             119 |           227 |                3 | https://westerlandsccc.co.uk/              |
+|          9 | Westerlands CCC                 |      5 | M        | 19,32,57            |          108 |             118 |           226 |                3 | https://westerlandsccc.co.uk/              |
 |         10 | Calderglen Harriers             |     17 | M        | 39,53,55,81         |          228 |               0 |           228 |                6 | http://www.calderglenharriers.org.uk/      |
 |         11 | Garscube Harriers               |      9 | M        | 30,45,65,98         |          238 |               0 |           238 |                4 | https://www.garscubeharriers.org.uk/       |
 |         12 | Kilmarnock H&AC                 |      2 | M        | 33,48,79,85         |          245 |               0 |           245 |                4 | http://www.kilmarnockharriers.com/         |
 |         13 | Ayr Seaforth AC                 |     14 | M        | 17,54,80,97         |          248 |               0 |           248 |                4 | https://www.ayrseaforth.co.uk/             |
 |         14 | Springburn Harriers             |     48 | M        | 68,71,87,89         |          315 |               0 |           315 |                4 | https://www.springburnharriers.co.uk/      |
-|         15 | Troon Tortoises                 |     53 | M        | 44,59               |          103 |             238 |           341 |                2 | http://troontortoises.co.uk                |
+|         15 | Troon Tortoises                 |     53 | M        | 44,59               |          103 |             236 |           339 |                2 | http://troontortoises.co.uk                |
 |         16 | West End RR                     |     56 | M        | 72,82,100,101       |          355 |               0 |           355 |                5 | https://www.westendroadrunners.co.uk/      |
-|         17 | VP-Glasgow                      |     54 | M        | 5                   |            5 |             357 |           362 |                1 | https://www.vp-glasgow.com                 |
-|         18 | Motherwell AC                   |     40 | M        | 11                  |           11 |             357 |           368 |                1 | https://motherwellac.com/                  |
-|         19 | Whitemoss AAC                   |     57 | M        | 77,84               |          161 |             238 |           399 |                2 | https://whitemossaac.co.uk/                |
-|         20 | Strathclyde University Harriers |     52 | M        | 50                  |           50 |             357 |           407 |                1 | nan                                        |
-|         21 | Airdrie Harriers                |     11 | M        | 78                  |           78 |             357 |           435 |                1 | http://airdrieharriers.org/                |
-|         22 | Dumfries Running Club           |     23 | M        | 102                 |          102 |             357 |           459 |                1 | https://www.dumfriesrunningclub.org.uk/    |
-|         23 | Bellahouston Harriers           |      8 | M        | 105                 |          105 |             357 |           462 |                1 | http://www.bellahoustonharriers.co.uk/     |
-|         24 | Dumfries Harriers               |     22 | M        | 108                 |          108 |             357 |           465 |                1 | https://dumfriesharriers.co.uk/            |
+|         17 | VP-Glasgow                      |     54 | M        | 5                   |            5 |             354 |           359 |                1 | https://www.vp-glasgow.com                 |
+|         18 | Motherwell AC                   |     40 | M        | 11                  |           11 |             354 |           365 |                1 | https://motherwellac.com/                  |
+|         19 | Whitemoss AAC                   |     57 | M        | 77,84               |          161 |             236 |           397 |                2 | https://whitemossaac.co.uk/                |
+|         20 | Strathclyde University Harriers |     52 | M        | 50                  |           50 |             354 |           404 |                1 | nan                                        |
+|         21 | Airdrie Harriers                |     11 | M        | 78                  |           78 |             354 |           432 |                1 | http://airdrieharriers.org/                |
+|         22 | Dumfries Running Club           |     23 | M        | 102                 |          102 |             354 |           456 |                1 | https://www.dumfriesrunningclub.org.uk/    |
+|         23 | Bellahouston Harriers           |      8 | M        | 105                 |          105 |             354 |           459 |                1 | http://www.bellahoustonharriers.co.uk/     |

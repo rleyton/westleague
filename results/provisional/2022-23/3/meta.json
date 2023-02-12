@@ -74,25 +74,25 @@
             },
             "MASTER": {
                   "M": {
-                        "penalty": 59,
-                        "participants": 49,
+                        "penalty": 58,
+                        "participants": 48,
                         "counters": 3
                   },
                   "F": {
-                        "penalty": 25,
-                        "participants": 15,
+                        "penalty": 26,
+                        "participants": 16,
                         "counters": 3
                   }
             },
             "OVERALL": {
                   "M": {
-                        "penalty": 119,
-                        "participants": 109,
+                        "penalty": 118,
+                        "participants": 108,
                         "counters": 4
                   },
                   "F": {
-                        "penalty": 55,
-                        "participants": 45,
+                        "penalty": 56,
+                        "participants": 46,
                         "counters": 4
                   }
             }

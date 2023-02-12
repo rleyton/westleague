@@ -107,5 +107,4 @@
 |        105 | 0:44:53 | 8M     | John Beckett          | M        | MASTER   |            8 | Bellahouston Harriers           | http://www.bellahoustonharriers.co.uk/     |              150 |
 |        106 | 0:47:27 | 7M     | William McGuire       | M        | SENIOR   |            7 | Giffnock North AC               | https://www.giffnocknorth.co.uk/           |              151 |
 |        107 | 0:48:47 | 37M    | Pat Kelly             | M        | MASTER   |           37 | Law & District AAC              | http://www.lawaac.co.uk/                   |              152 |
-|        108 | 0:50:07 | 22M    | Audrey McMinn         | M        | MASTER   |           22 | Dumfries Harriers               | https://dumfriesharriers.co.uk/            |              153 |
-|        109 | 0:52:38 | 3M     | Cormack Smith         | M        | MASTER   |            3 | Bellahouston RR                 | https://www.bellahoustonroadrunners.co.uk/ |              154 |
+|        108 | 0:52:38 | 3M     | Cormack Smith         | M        | MASTER   |            3 | Bellahouston RR                 | https://www.bellahoustonroadrunners.co.uk/ |              154 |
