@@ -5,6 +5,5 @@
 |      5 | Westerlands CCC                 | https://westerlandsccc.co.uk/              |
 |     40 | Motherwell AC                   | https://motherwellac.com/                  |
 |     11 | Airdrie Harriers                | http://airdrieharriers.org/                |
-|     43 | Nithsdale AC                    | nan                                        |
 |     52 | Strathclyde University Harriers | nan                                        |
 |     56 | West End RR                     | https://www.westendroadrunners.co.uk/      |

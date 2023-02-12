@@ -3,7 +3,7 @@
 |          1 | 0:23:52 | 1F     | RHIANNA DOCHERTY | F        | U17      |            1 | East Kilbride AC    | http://www.ekac.org.uk/               |               15 |
 |          2 | 0:24:11 | 14F    | Iona Hubbard     | F        | U17      |           14 | Ayr Seaforth AC     | https://www.ayrseaforth.co.uk/        |               16 |
 |          3 | 0:25:05 | 2F     | Ellie Anderson   | F        | U17      |            2 | Kilmarnock H&AC     | http://www.kilmarnockharriers.com/    |               17 |
-|          4 | 0:25:12 | 43F    | nan              | F        | U17      |           43 | Nithsdale AC        | nan                                   |               18 |
+|          4 | 0:25:12 | 43F    | Kayla Dinnin     | F        | U17      |           43 | Nithsdale AC        | nan                                   |               18 |
 |          5 | 0:25:36 | 1F     | AMY ANDREW       | F        | U17      |            1 | East Kilbride AC    | http://www.ekac.org.uk/               |               19 |
 |          6 | 0:25:53 | 37F    | Neve Elliot      | F        | U17      |           37 | Law & District AAC  | http://www.lawaac.co.uk/              |               20 |
 |          7 | 0:26:16 | 11F    | nan              | F        | U17      |           11 | Airdrie Harriers    | http://airdrieharriers.org/           |               21 |
