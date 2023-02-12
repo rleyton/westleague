@@ -38,13 +38,13 @@
             },
             "U17": {
                   "M": {
-                        "penalty": 25,
-                        "participants": 15,
+                        "penalty": 24,
+                        "participants": 14,
                         "counters": 3
                   },
                   "F": {
-                        "penalty": 21,
-                        "participants": 11,
+                        "penalty": 22,
+                        "participants": 12,
                         "counters": 3
                   }
             },

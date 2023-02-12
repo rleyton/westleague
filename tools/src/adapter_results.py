@@ -154,7 +154,7 @@ def merge_runners(results=None, clubSubmissions=None, event: str = None):
 
                 if genderMismatch is True:
                     logging.error(
-                        f"Mismatched gender for club {row['Club name']} at result position {rowCount+1}, club submission position {clubPosition+1}, Name: {results.at[i,'Name']}. Results gender: {results.at[i,'gender']}, Submitted: {results.at[i,'Gender']}"
+                        f"Event {event}: Mismatched gender for club {row['Club name']} at gendered result position {rowCount+1}, club submission position {clubPosition+1}, Name: {results.at[i,'Name']}. Results gender: {results.at[i,'gender']}, Submitted: {results.at[i,'Gender']}"
                     )
 
                 set_club_position(clubnum, clubPosition + 1)

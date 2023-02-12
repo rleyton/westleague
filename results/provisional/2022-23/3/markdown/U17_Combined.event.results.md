@@ -12,7 +12,7 @@
 |         10 | 0:22:34 | 9M     | Callum Macdonald | M        | U17      |            9 | Garscube Harriers    | https://www.garscubeharriers.org.uk/  |
 |         11 | 0:22:39 | 10M    | Joseph Reilly    | M        | U17      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/    |
 |         12 | 0:22:50 | 6M     | Gabriel Murphy   | M        | U17      |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/       |
-|         13 | 0:22:58 | 37M    | Jessica Inglis   | M        | U17      |           37 | Law & District AAC   | http://www.lawaac.co.uk/              |
+|         13 | 0:22:58 | 37F    | Jessica Inglis   | F        | U17      |           37 | Law & District AAC   | http://www.lawaac.co.uk/              |
 |         14 | 0:23:46 | 9M     | Chris Hargreaves | M        | U17      |            9 | Garscube Harriers    | https://www.garscubeharriers.org.uk/  |
 |         15 | 0:23:52 | 1F     | RHIANNA DOCHERTY | F        | U17      |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |
 |         16 | 0:24:11 | 14F    | Iona Hubbard     | F        | U17      |           14 | Ayr Seaforth AC      | https://www.ayrseaforth.co.uk/        |
