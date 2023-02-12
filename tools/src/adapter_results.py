@@ -163,6 +163,14 @@ def merge_runners(results=None, clubSubmissions=None, event: str = None):
     if "AgeCat" not in results.columns:
         results["AgeCat"] = event[:3].upper()
 
+    # check that all submissions have been 'used'
+    for club in clubSubmissions:
+        lastPosition = get_club_position(clubnum=club)
+        if len(clubSubmissions[club]) > lastPosition:
+            logging.error(
+                f"Event {event}: Club number: {club} has too many submissions - position recording issue?"
+            )
+
     return results
 
 

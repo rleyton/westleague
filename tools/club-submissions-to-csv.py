@@ -18,9 +18,6 @@ clubSubmissions = fetch_clubs_from_dir(process_dir)
 
 clubData = {}
 for club, filename in clubSubmissions:
-    if club == "7":
-        logging.debug("Break")
-        True
 
     try:
         sheet = pd.read_excel(

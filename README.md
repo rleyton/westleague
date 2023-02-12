@@ -25,7 +25,7 @@
   * **Current processing status**
     * Initial processing done of core results and team submissions recevied to: 12/Feb: 12pm
     * Awaiting results from:
-      * Calderglen Harriers, Larkhall, Westerlands, Motherwell, Airdrie, West End RR
+      * Larkhall YMCA, Westerlands CCC
       * [Full list](./results/provisional/2022-23/3/missingTeamSubmissions.csv)
 * [League standings, by competition](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html)
   * **Note: Does not yet include Event #3**

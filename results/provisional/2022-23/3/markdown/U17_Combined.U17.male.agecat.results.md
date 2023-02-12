@@ -13,4 +13,4 @@
 |         11 | 0:22:39 | 10M    | Joseph Reilly    | M        | U17      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/   |               11 |
 |         12 | 0:22:50 | 6M     | Gabriel Murphy   | M        | U17      |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/      |               12 |
 |         13 | 0:23:46 | 9M     | Chris Hargreaves | M        | U17      |            9 | Garscube Harriers    | https://www.garscubeharriers.org.uk/ |               14 |
-|         14 | 0:28:38 | 11M    | nan              | M        | U17      |           11 | Airdrie Harriers     | http://airdrieharriers.org/          |               24 |
+|         14 | 0:28:38 | 11M    | Ben O Reilly     | M        | U17      |           11 | Airdrie Harriers     | http://airdrieharriers.org/          |               24 |

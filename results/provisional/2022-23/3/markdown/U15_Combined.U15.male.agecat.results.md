@@ -21,7 +21,7 @@
 |         19 | 0:13:31 | 1M     | RYAN McNAMARA       | M        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/                    |               19 |
 |         20 | 0:13:43 | 14M    | Sam McCrorie        | M        | U15      |           14 | Ayr Seaforth AC      | https://www.ayrseaforth.co.uk/             |               22 |
 |         21 | 0:13:53 | 1M     | DYLAN EDWARDS       | M        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/                    |               24 |
-|         22 | 0:14:07 | 11M    | nan                 | M        | U15      |           11 | Airdrie Harriers     | http://airdrieharriers.org/                |               25 |
+|         22 | 0:14:07 | 11M    | Joshua Harmon       | M        | U15      |           11 | Airdrie Harriers     | http://airdrieharriers.org/                |               25 |
 |         23 | 0:14:09 | 7M     | Myles Macaulay      | M        | U15      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/           |               26 |
 |         24 | 0:14:10 | 37M    | Daniel Simpson      | M        | U15      |           37 | Law & District AAC   | http://www.lawaac.co.uk/                   |               27 |
 |         25 | 0:14:12 | 1M     | EUAN THORPE         | M        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/                    |               29 |

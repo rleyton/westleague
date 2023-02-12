@@ -50,8 +50,8 @@
             },
             "U20": {
                   "M": {
-                        "penalty": 13,
-                        "participants": 3,
+                        "penalty": 12,
+                        "participants": 2,
                         "counters": 3
                   },
                   "F": {
@@ -62,25 +62,25 @@
             },
             "SENIOR": {
                   "M": {
-                        "penalty": 56,
-                        "participants": 46,
+                        "penalty": 60,
+                        "participants": 50,
                         "counters": 4
                   },
                   "F": {
-                        "penalty": 35,
-                        "participants": 25,
+                        "penalty": 37,
+                        "participants": 27,
                         "counters": 4
                   }
             },
             "MASTER": {
                   "M": {
-                        "penalty": 58,
-                        "participants": 48,
+                        "penalty": 62,
+                        "participants": 52,
                         "counters": 3
                   },
                   "F": {
-                        "penalty": 26,
-                        "participants": 16,
+                        "penalty": 28,
+                        "participants": 18,
                         "counters": 3
                   }
             },

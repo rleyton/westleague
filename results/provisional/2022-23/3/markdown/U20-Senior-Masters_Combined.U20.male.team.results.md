@@ -1,5 +1,4 @@
-|   position | Club name           |   team | gender   |   finisherPositions |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                         |
-|-----------:|:--------------------|-------:|:---------|--------------------:|-------------:|----------------:|--------------:|-----------------:|:--------------------------------|
-|          1 | VP-Glasgow          |     54 | M        |                   1 |            1 |              26 |            27 |                1 | https://www.vp-glasgow.com      |
-|          2 | Cambuslang Harriers |      6 | M        |                   2 |            2 |              26 |            28 |                1 | https://cambuslangharriers.org/ |
-|          3 | Law & District AAC  |     37 | M        |                   3 |            3 |              26 |            29 |                1 | http://www.lawaac.co.uk/        |
+|   position | Club name          |   team | gender   |   finisherPositions |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                    |
+|-----------:|:-------------------|-------:|:---------|--------------------:|-------------:|----------------:|--------------:|-----------------:|:---------------------------|
+|          1 | VP-Glasgow         |     54 | M        |                   1 |            1 |              24 |            25 |                1 | https://www.vp-glasgow.com |
+|          2 | Law & District AAC |     37 | M        |                   2 |            2 |              24 |            26 |                1 | http://www.lawaac.co.uk/   |

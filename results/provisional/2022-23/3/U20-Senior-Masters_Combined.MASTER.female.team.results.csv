@@ -1,11 +1,12 @@
 position,Club name,team,gender,finisherPositions,teamPoints,penaltyPoints,totalPoints,totalFinishers,Website
 1,Cambuslang Harriers,6,F,"6,8,9",23,0,23,3,https://cambuslangharriers.org/
-2,East Kilbride AC,1,F,"7,13,14",34,0,34,3,http://www.ekac.org.uk/
-3,Garscube Harriers,9,F,"1,11",12,26,38,2,https://www.garscubeharriers.org.uk/
-4,Bellahouston Harriers,8,F,"5,12",17,26,43,2,http://www.bellahoustonharriers.co.uk/
-5,Springburn Harriers,48,F,2,2,52,54,1,https://www.springburnharriers.co.uk/
-6,Law & District AAC,37,F,3,3,52,55,1,http://www.lawaac.co.uk/
-7,Bellahouston RR,3,F,4,4,52,56,1,https://www.bellahoustonroadrunners.co.uk/
-8,Calderglen Harriers,17,F,10,10,52,62,1,http://www.calderglenharriers.org.uk/
-9,Ayrodynamic Triathlon Club,15,F,15,15,52,67,1,http://www.ayrodynamic.org.uk/
-10,Dumfries Harriers,22,F,16,16,52,68,1,https://dumfriesharriers.co.uk/
+2,East Kilbride AC,1,F,"7,13,15",35,0,35,3,http://www.ekac.org.uk/
+3,Garscube Harriers,9,F,"1,11",12,28,40,2,https://www.garscubeharriers.org.uk/
+4,Bellahouston Harriers,8,F,"5,12",17,28,45,2,http://www.bellahoustonharriers.co.uk/
+5,West End RR,56,F,"14,16",30,28,58,2,https://www.westendroadrunners.co.uk/
+6,Springburn Harriers,48,F,2,2,56,58,1,https://www.springburnharriers.co.uk/
+7,Law & District AAC,37,F,3,3,56,59,1,http://www.lawaac.co.uk/
+8,Bellahouston RR,3,F,4,4,56,60,1,https://www.bellahoustonroadrunners.co.uk/
+9,Calderglen Harriers,17,F,10,10,56,66,1,http://www.calderglenharriers.org.uk/
+10,Ayrodynamic Triathlon Club,15,F,17,17,56,73,1,http://www.ayrodynamic.org.uk/
+11,Dumfries Harriers,22,F,18,18,56,74,1,https://dumfriesharriers.co.uk/
