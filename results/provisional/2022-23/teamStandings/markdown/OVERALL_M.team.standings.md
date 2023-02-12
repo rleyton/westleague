@@ -1,29 +1,32 @@
-|   1 |   2 |   Total | Club name                  | Website                                    |
-|----:|----:|--------:|:---------------------------|:-------------------------------------------|
-|  24 |  42 |      66 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
-|  64 |  68 |     132 | East Kilbride AC           | http://www.ekac.org.uk/                    |
-|  96 |  65 |     161 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |
-| 128 |  52 |     180 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |
-| 201 |  62 |     263 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
-|  68 | 203 |     271 | Inverclyde AC              | https://www.inverclydeac.org/              |
-| 145 | 174 |     319 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
-| 189 | 167 |     356 | Law & District AAC         | http://www.lawaac.co.uk/                   |
-| 288 | 133 |     421 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
-| 271 | 176 |     447 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
-| 241 | 213 |     454 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
-| 260 | 289 |     549 | Troon Tortoises            | http://troontortoises.co.uk                |
-| 151 | 416 |     567 | Kirkintilloch Olympians    | https://kirkintillocholympians.co.uk/      |
-| 389 | 328 |     717 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
-| 367 | 356 |     723 | West End RR                | https://www.westendroadrunners.co.uk/      |
-| 516 | 214 |     730 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |
-| 516 | 215 |     731 | VP-Glasgow                 | https://www.vp-glasgow.com                 |
-| 320 | 416 |     736 | North Ayrshire AAC         | https://naathletics.co.uk/                 |
-| 399 | 353 |     752 | Springburn Harriers        | https://www.springburnharriers.co.uk/      |
-| 418 | 335 |     753 | Royal Mail Run GMC         | https://www.facebook.com/royalmailrungmc/  |
-| 351 | 416 |     767 | Motherwell AC              | https://motherwellac.com/                  |
-| 483 | 300 |     783 | Garscube Harriers          | https://www.garscubeharriers.org.uk/       |
-| 434 | 363 |     797 | Newton Road Runners        | https://www.newton-roadrunners.com/        |
-| 409 | 416 |     825 | Kilbarchan AAC             | https://kilbarchanaac.org.uk/              |
-| 436 | 416 |     852 | Whitemoss AAC              | https://whitemossaac.co.uk/                |
-| 516 | 355 |     871 | Irvine RC                  | https://www.irvinerunningclub.co.uk/       |
-| 506 | 416 |     922 | Larkhall YMCA              | https://www.facebook.com/larkhallharriers/ |
+|   1 |   3 |   2 |   Total | Club name                       | Website                                    |
+|----:|----:|----:|--------:|:--------------------------------|:-------------------------------------------|
+|  24 |  38 |  42 |     104 | Cambuslang Harriers             | https://cambuslangharriers.org/            |
+|  96 |  61 |  65 |     222 | Shettleston Harriers            | http://shettlestonharriers.org.uk/         |
+| 128 |  45 |  52 |     225 | Giffnock North AC               | https://www.giffnocknorth.co.uk/           |
+|  64 |  98 |  68 |     230 | East Kilbride AC                | http://www.ekac.org.uk/                    |
+|  68 |  38 | 203 |     309 | Inverclyde AC                   | https://www.inverclydeac.org/              |
+| 145 | 105 | 174 |     424 | Bellahouston RR                 | https://www.bellahoustonroadrunners.co.uk/ |
+| 201 | 245 |  62 |     508 | Kilmarnock H&AC                 | http://www.kilmarnockharriers.com/         |
+| 189 | 223 | 167 |     579 | Law & District AAC              | http://www.lawaac.co.uk/                   |
+| 288 | 226 | 133 |     647 | Westerlands CCC                 | https://westerlandsccc.co.uk/              |
+| 271 | 248 | 176 |     695 | Ayr Seaforth AC                 | https://www.ayrseaforth.co.uk/             |
+| 260 | 339 | 289 |     888 | Troon Tortoises                 | http://troontortoises.co.uk                |
+| 241 | 459 | 213 |     913 | Bellahouston Harriers           | http://www.bellahoustonharriers.co.uk/     |
+| 389 | 216 | 328 |     933 | Greenock Glenpark Harriers      | https://greenockglenparkharriers.com/      |
+| 516 | 228 | 214 |     958 | Calderglen Harriers             | http://www.calderglenharriers.org.uk/      |
+| 483 | 238 | 300 |    1021 | Garscube Harriers               | https://www.garscubeharriers.org.uk/       |
+| 151 | 416 | 472 |    1039 | Kirkintilloch Olympians         | https://kirkintillocholympians.co.uk/      |
+| 399 | 315 | 353 |    1067 | Springburn Harriers             | https://www.springburnharriers.co.uk/      |
+| 367 | 355 | 356 |    1078 | West End RR                     | https://www.westendroadrunners.co.uk/      |
+| 516 | 359 | 215 |    1090 | VP-Glasgow                      | https://www.vp-glasgow.com                 |
+| 418 | 416 | 335 |    1169 | Royal Mail Run GMC              | https://www.facebook.com/royalmailrungmc/  |
+| 351 | 365 | 472 |    1188 | Motherwell AC                   | https://motherwellac.com/                  |
+| 320 | 416 | 472 |    1208 | North Ayrshire AAC              | https://naathletics.co.uk/                 |
+| 434 | 416 | 363 |    1213 | Newton Road Runners             | https://www.newton-roadrunners.com/        |
+| 516 | 416 | 355 |    1287 | Irvine RC                       | https://www.irvinerunningclub.co.uk/       |
+| 409 | 416 | 472 |    1297 | Kilbarchan AAC                  | https://kilbarchanaac.org.uk/              |
+| 436 | 397 | 472 |    1305 | Whitemoss AAC                   | https://whitemossaac.co.uk/                |
+| 516 | 404 | 472 |    1392 | Strathclyde University Harriers | nan                                        |
+| 506 | 416 | 472 |    1394 | Larkhall YMCA                   | https://www.facebook.com/larkhallharriers/ |
+| 516 | 432 | 472 |    1420 | Airdrie Harriers                | http://airdrieharriers.org/                |
+| 516 | 456 | 472 |    1444 | Dumfries Running Club           | https://www.dumfriesrunningclub.org.uk/    |
