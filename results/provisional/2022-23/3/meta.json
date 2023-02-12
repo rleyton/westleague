@@ -67,20 +67,20 @@
                         "counters": 4
                   },
                   "F": {
-                        "penalty": 36,
-                        "participants": 26,
+                        "penalty": 37,
+                        "participants": 27,
                         "counters": 4
                   }
             },
             "MASTER": {
                   "M": {
-                        "penalty": 58,
-                        "participants": 48,
+                        "penalty": 63,
+                        "participants": 53,
                         "counters": 3
                   },
                   "F": {
-                        "penalty": 26,
-                        "participants": 16,
+                        "penalty": 28,
+                        "participants": 18,
                         "counters": 3
                   }
             },

@@ -71,7 +71,7 @@
 |         69 | 0:36:10 | 3M     | Jamie Robinson        | M        | SENIOR   |            3 | Bellahouston RR                 | https://www.bellahoustonroadrunners.co.uk/ |               82 |
 |         70 | 0:36:12 | 37M    | Martin Kay            | M        | MASTER   |           37 | Law & District AAC              | http://www.lawaac.co.uk/                   |               83 |
 |         71 | 0:36:24 | 48M    | Paul Wilson           | M        | MASTER   |           48 | Springburn Harriers             | https://www.springburnharriers.co.uk/      |               86 |
-|         72 | 0:36:26 | 56M    | nan                   | M        | nan      |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |               87 |
+|         72 | 0:36:26 | 56M    | Allen Cambell         | M        | MASTER   |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |               87 |
 |         73 | 0:36:31 | 3M     | Tom Ferris            | M        | MASTER   |            3 | Bellahouston RR                 | https://www.bellahoustonroadrunners.co.uk/ |               88 |
 |         74 | 0:36:34 | 7M     | Lewis McGuire         | M        | SENIOR   |            7 | Giffnock North AC               | https://www.giffnocknorth.co.uk/           |               89 |
 |         75 | 0:36:34 | 37M    | Finn Milligan         | M        | U20      |           37 | Law & District AAC              | http://www.lawaac.co.uk/                   |               90 |
@@ -81,7 +81,7 @@
 |         79 | 0:36:58 | 2M     | Alasdair Murray       | M        | MASTER   |            2 | Kilmarnock H&AC                 | http://www.kilmarnockharriers.com/         |               95 |
 |         80 | 0:37:02 | 14M    | Stuart Brockie        | M        | MASTER   |           14 | Ayr Seaforth AC                 | https://www.ayrseaforth.co.uk/             |               97 |
 |         81 | 0:37:08 | 17M    | Jason Grant           | M        | SENIOR   |           17 | Calderglen Harriers             | http://www.calderglenharriers.org.uk/      |               98 |
-|         82 | 0:37:19 | 56M    | nan                   | M        | nan      |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |              100 |
+|         82 | 0:37:19 | 56M    | Alham Said            | M        | MASTER   |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |              100 |
 |         83 | 0:37:26 | 1M     | GORDON COLVIN         | M        | MASTER   |            1 | East Kilbride AC                | http://www.ekac.org.uk/                    |              101 |
 |         84 | 0:37:31 | 57M    | James Cathie          | M        | SENIOR   |           57 | Whitemoss AAC                   | https://whitemossaac.co.uk/                |              103 |
 |         85 | 0:37:31 | 2M     | Murray MacDonald      | M        | SENIOR   |            2 | Kilmarnock H&AC                 | http://www.kilmarnockharriers.com/         |              104 |
@@ -99,10 +99,10 @@
 |         97 | 0:39:59 | 14M    | Tim Downie            | M        | MASTER   |           14 | Ayr Seaforth AC                 | https://www.ayrseaforth.co.uk/             |              131 |
 |         98 | 0:40:25 | 9M     | Norman Baillie        | M        | MASTER   |            9 | Garscube Harriers               | https://www.garscubeharriers.org.uk/       |              134 |
 |         99 | 0:40:55 | 17M    | Gordon McInally       | M        | MASTER   |           17 | Calderglen Harriers             | http://www.calderglenharriers.org.uk/      |              135 |
-|        100 | 0:41:03 | 56M    | nan                   | M        | nan      |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |              137 |
-|        101 | 0:41:07 | 56M    | nan                   | M        | nan      |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |              138 |
+|        100 | 0:41:03 | 56M    | Trevor Wayman         | M        | MASTER   |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |              137 |
+|        101 | 0:41:07 | 56M    | Paul Toland           | M        | MASTER   |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |              138 |
 |        102 | 0:41:12 | 23M    | Les Hill              | M        | MASTER   |           23 | Dumfries Running Club           | https://www.dumfriesrunningclub.org.uk/    |              139 |
-|        103 | 0:42:19 | 56M    | nan                   | M        | nan      |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |              143 |
+|        103 | 0:42:19 | 56M    | Mark Sherman          | M        | MASTER   |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |              143 |
 |        104 | 0:44:06 | 17M    | Russell Couper        | M        | MASTER   |           17 | Calderglen Harriers             | http://www.calderglenharriers.org.uk/      |              146 |
 |        105 | 0:44:53 | 8M     | John Beckett          | M        | MASTER   |            8 | Bellahouston Harriers           | http://www.bellahoustonharriers.co.uk/     |              150 |
 |        106 | 0:47:27 | 7M     | William McGuire       | M        | SENIOR   |            7 | Giffnock North AC               | https://www.giffnocknorth.co.uk/           |              151 |

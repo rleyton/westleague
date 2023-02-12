@@ -86,7 +86,7 @@
 |         84 | 0:36:16 | 17F    | Karen Allen           | F        | SENIOR   |           17 | Calderglen Harriers             | http://www.calderglenharriers.org.uk/      |
 |         85 | 0:36:19 | 54F    | Lucy Olsen            | F        | SENIOR   |           54 | VP-Glasgow                      | https://www.vp-glasgow.com                 |
 |         86 | 0:36:24 | 48M    | Paul Wilson           | M        | MASTER   |           48 | Springburn Harriers             | https://www.springburnharriers.co.uk/      |
-|         87 | 0:36:26 | 56M    | nan                   | M        | nan      |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |
+|         87 | 0:36:26 | 56M    | Allen Cambell         | M        | MASTER   |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |
 |         88 | 0:36:31 | 3M     | Tom Ferris            | M        | MASTER   |            3 | Bellahouston RR                 | https://www.bellahoustonroadrunners.co.uk/ |
 |         89 | 0:36:34 | 7M     | Lewis McGuire         | M        | SENIOR   |            7 | Giffnock North AC               | https://www.giffnocknorth.co.uk/           |
 |         90 | 0:36:34 | 37M    | Finn Milligan         | M        | U20      |           37 | Law & District AAC              | http://www.lawaac.co.uk/                   |
@@ -99,7 +99,7 @@
 |         97 | 0:37:02 | 14M    | Stuart Brockie        | M        | MASTER   |           14 | Ayr Seaforth AC                 | https://www.ayrseaforth.co.uk/             |
 |         98 | 0:37:08 | 17M    | Jason Grant           | M        | SENIOR   |           17 | Calderglen Harriers             | http://www.calderglenharriers.org.uk/      |
 |         99 | 0:37:10 | 6F     | Kathleen McLachlan    | F        | MASTER   |            6 | Cambuslang Harriers             | https://cambuslangharriers.org/            |
-|        100 | 0:37:19 | 56M    | nan                   | M        | nan      |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |
+|        100 | 0:37:19 | 56M    | Alham Said            | M        | MASTER   |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |
 |        101 | 0:37:26 | 1M     | GORDON COLVIN         | M        | MASTER   |            1 | East Kilbride AC                | http://www.ekac.org.uk/                    |
 |        102 | 0:37:28 | 54F    | Emma Matheson         | F        | SENIOR   |           54 | VP-Glasgow                      | https://www.vp-glasgow.com                 |
 |        103 | 0:37:31 | 57M    | James Cathie          | M        | SENIOR   |           57 | Whitemoss AAC                   | https://whitemossaac.co.uk/                |
@@ -107,7 +107,7 @@
 |        105 | 0:37:38 | 3F     | Joni Lindsay          | F        | SENIOR   |            3 | Bellahouston RR                 | https://www.bellahoustonroadrunners.co.uk/ |
 |        106 | 0:37:49 | 1F     | VIVIEN THORPE         | F        | MASTER   |            1 | East Kilbride AC                | http://www.ekac.org.uk/                    |
 |        107 | 0:37:57 | 2F     | Sasha I'Anson         | F        | SENIOR   |            2 | Kilmarnock H&AC                 | http://www.kilmarnockharriers.com/         |
-|        108 | 0:37:57 | 56F    | nan                   | F        | nan      |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |
+|        108 | 0:37:57 | 56F    | Catriona Campbell     | F        | SENIOR   |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |
 |        109 | 0:38:03 | 6F     | Erica Christie        | F        | MASTER   |            6 | Cambuslang Harriers             | https://cambuslangharriers.org/            |
 |        110 | 0:38:06 | 9F     | Lucy Donaldson        | F        | SENIOR   |            9 | Garscube Harriers               | https://www.garscubeharriers.org.uk/       |
 |        111 | 0:38:12 | 1M     | VINCENT GLENNON       | M        | MASTER   |            1 | East Kilbride AC                | http://www.ekac.org.uk/                    |
@@ -136,17 +136,17 @@
 |        134 | 0:40:25 | 9M     | Norman Baillie        | M        | MASTER   |            9 | Garscube Harriers               | https://www.garscubeharriers.org.uk/       |
 |        135 | 0:40:55 | 17M    | Gordon McInally       | M        | MASTER   |           17 | Calderglen Harriers             | http://www.calderglenharriers.org.uk/      |
 |        136 | 0:41:01 | 8F     | Stephanie Rudd        | F        | MASTER   |            8 | Bellahouston Harriers           | http://www.bellahoustonharriers.co.uk/     |
-|        137 | 0:41:03 | 56M    | nan                   | M        | nan      |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |
-|        138 | 0:41:07 | 56M    | nan                   | M        | nan      |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |
+|        137 | 0:41:03 | 56M    | Trevor Wayman         | M        | MASTER   |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |
+|        138 | 0:41:07 | 56M    | Paul Toland           | M        | MASTER   |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |
 |        139 | 0:41:12 | 23M    | Les Hill              | M        | MASTER   |           23 | Dumfries Running Club           | https://www.dumfriesrunningclub.org.uk/    |
 |        140 | 0:41:32 | 1F     | EMMA LIVINGSTONE      | F        | MASTER   |            1 | East Kilbride AC                | http://www.ekac.org.uk/                    |
-|        141 | 0:41:36 | 56F    | nan                   | F        | nan      |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |
+|        141 | 0:41:36 | 56F    | Ray Musleh            | F        | MASTER   |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |
 |        142 | 0:42:08 | 1F     | GEMMA KIRWAN          | F        | MASTER   |            1 | East Kilbride AC                | http://www.ekac.org.uk/                    |
-|        143 | 0:42:19 | 56M    | nan                   | M        | nan      |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |
+|        143 | 0:42:19 | 56M    | Mark Sherman          | M        | MASTER   |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |
 |        144 | 0:42:40 | 14F    | Lucy Cameron          | F        | SENIOR   |           14 | Ayr Seaforth AC                 | https://www.ayrseaforth.co.uk/             |
 |        145 | 0:43:24 | 1F     | RACHAEL THOMSON       | F        | SENIOR   |            1 | East Kilbride AC                | http://www.ekac.org.uk/                    |
 |        146 | 0:44:06 | 17M    | Russell Couper        | M        | MASTER   |           17 | Calderglen Harriers             | http://www.calderglenharriers.org.uk/      |
-|        147 | 0:44:22 | 56F    | nan                   | F        | nan      |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |
+|        147 | 0:44:22 | 56F    | Sarah Berman          | F        | MASTER   |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |
 |        148 | 0:44:25 | 30F    | Sarah Jane Whalen     | F        | SENIOR   |           30 | Greenock Glenpark Harriers      | https://greenockglenparkharriers.com/      |
 |        149 | 0:44:45 | 15F    | Lorna Sloan           | F        | MASTER   |           15 | Ayrodynamic Triathlon Club      | http://www.ayrodynamic.org.uk/             |
 |        150 | 0:44:53 | 8M     | John Beckett          | M        | MASTER   |            8 | Bellahouston Harriers           | http://www.bellahoustonharriers.co.uk/     |
