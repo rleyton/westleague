@@ -6,7 +6,7 @@
 |          4 | 0:08:04 | 9M     | Connor Campbell  | M        | U13      |            9 | Garscube Harriers    | https://www.garscubeharriers.org.uk/  |                4 |
 |          5 | 0:08:13 | 48M    | Gregor McNaught  | M        | U13      |           48 | Springburn Harriers  | https://www.springburnharriers.co.uk/ |                5 |
 |          6 | 0:08:27 | 6M     | Rory Barclay     | M        | U13      |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/       |                6 |
-|          7 | 0:08:33 | 34M    | nan              | M        | U13      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/         |                7 |
+|          7 | 0:08:33 | 34M    | Jay Jenkins      | M        | U13      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/         |                7 |
 |          8 | 0:08:35 | 6M     | Jack Gillon      | M        | U13      |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/       |                8 |
 |          9 | 0:08:45 | 37M    | Blair Beverley   | M        | U13      |           37 | Law & District AAC   | http://www.lawaac.co.uk/              |                9 |
 |         10 | 0:09:02 | 11M    | nan              | M        | U13      |           11 | Airdrie Harriers     | http://airdrieharriers.org/           |               10 |

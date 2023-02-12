@@ -3,7 +3,7 @@
 |          1 | 0:11:43 | 7M     | Tristan Robyn             | M        | U15      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/           |
 |          2 | 0:11:48 | 9M     | James Alexander           | M        | U15      |            9 | Garscube Harriers    | https://www.garscubeharriers.org.uk/       |
 |          3 | 0:11:57 | 9M     | Rory Treharne             | M        | U15      |            9 | Garscube Harriers    | https://www.garscubeharriers.org.uk/       |
-|          4 | 0:12:04 | 34M    | nan                       | M        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/              |
+|          4 | 0:12:04 | 34M    | Alistair Street           | M        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/              |
 |          5 | 0:12:08 | 7M     | Thomas Reay               | M        | U15      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/           |
 |          6 | 0:12:12 | 44M    | Sam Walton                | M        | U15      |           44 | North Ayrshire AAC   | https://naathletics.co.uk/                 |
 |          7 | 0:12:14 | 2M     | Jamie Work                | M        | U15      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/         |
@@ -16,7 +16,7 @@
 |         14 | 0:13:14 | 14M    | Gregor Samson             | M        | U15      |           14 | Ayr Seaforth AC      | https://www.ayrseaforth.co.uk/             |
 |         15 | 0:13:16 | 2M     | Lewis Anderson            | M        | U15      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/         |
 |         16 | 0:13:22 | 9M     | Daniel Owens              | M        | U15      |            9 | Garscube Harriers    | https://www.garscubeharriers.org.uk/       |
-|         17 | 0:13:24 | 34M    | nan                       | M        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/              |
+|         17 | 0:13:24 | 34M    | Rhuaridh Miller           | M        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/              |
 |         18 | 0:13:24 | 14M    | Sam McCrorie              | M        | U15      |           14 | Ayr Seaforth AC      | https://www.ayrseaforth.co.uk/             |
 |         19 | 0:13:31 | 1M     | RYAN McNAMARA             | M        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/                    |
 |         20 | 0:13:31 | 1F     | MATILDA FREW              | F        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/                    |
@@ -34,7 +34,7 @@
 |         32 | 0:14:37 | 14F    | Unknown: Ayr Seaforth AC  | F        | U15      |           14 | Ayr Seaforth AC      | https://www.ayrseaforth.co.uk/             |
 |         33 | 0:14:45 | 36M    | nan                       | M        | U15      |           36 | Larkhall YMCA        | https://www.facebook.com/larkhallharriers/ |
 |         34 | 0:14:53 | 54F    | Islay Jackson             | F        | U15      |           54 | VP-Glasgow           | https://www.vp-glasgow.com                 |
-|         35 | 0:14:55 | 34M    | nan                       | M        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/              |
+|         35 | 0:14:55 | 34M    | Lucas Watt                | M        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/              |
 |         36 | 0:15:03 | 1F     | CARRIE CHARTERS           | F        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/                    |
 |         37 | 0:15:08 | 7F     | Evas Saez                 | F        | U15      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/           |
 |         38 | 0:15:16 | 48F    | Skye Smith                | F        | U15      |           48 | Springburn Harriers  | https://www.springburnharriers.co.uk/      |
@@ -47,7 +47,7 @@
 |         45 | 0:16:11 | 10F    | Ava Millican              | F        | U15      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/         |
 |         46 | 0:16:13 | 37F    | Alayna McCann             | F        | U15      |           37 | Law & District AAC   | http://www.lawaac.co.uk/                   |
 |         47 | 0:16:20 | 1F     | KIERAN BUDD               | F        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/                    |
-|         48 | 0:16:29 | 34M    | nan                       | M        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/              |
+|         48 | 0:16:29 | 34M    | Alex Massie               | M        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/              |
 |         49 | 0:16:31 | 10F    | Kate Monaghan             | F        | U15      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/         |
 |         50 | 0:16:32 | 1M     | Unknown: East Kilbride AC | M        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/                    |
 |         51 | 0:16:55 | 44F    | Eilidh Dunwoodie          | F        | U15      |           44 | North Ayrshire AAC   | https://naathletics.co.uk/                 |

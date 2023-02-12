@@ -1,11 +1,11 @@
 |   position | Club name                  |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                    |
 |-----------:|:---------------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
-|          1 | Cambuslang Harriers        |      6 | F        | 1,7,9               |           17 |               0 |            17 |                4 | https://cambuslangharriers.org/            |
-|          2 | East Kilbride AC           |      1 | F        | 8,14,15             |           37 |               0 |            37 |                3 | http://www.ekac.org.uk/                    |
-|          3 | Garscube Harriers          |      9 | F        | 2,12                |           14 |              26 |            40 |                2 | https://www.garscubeharriers.org.uk/       |
-|          4 | Bellahouston Harriers      |      8 | F        | 6,13                |           19 |              26 |            45 |                2 | http://www.bellahoustonharriers.co.uk/     |
-|          5 | Springburn Harriers        |     48 | F        | 3                   |            3 |              52 |            55 |                1 | https://www.springburnharriers.co.uk/      |
-|          6 | Law & District AAC         |     37 | F        | 4                   |            4 |              52 |            56 |                1 | http://www.lawaac.co.uk/                   |
-|          7 | Bellahouston RR            |      3 | F        | 5                   |            5 |              52 |            57 |                1 | https://www.bellahoustonroadrunners.co.uk/ |
-|          8 | Calderglen Harriers        |     17 | F        | 11                  |           11 |              52 |            63 |                1 | http://www.calderglenharriers.org.uk/      |
-|          9 | Ayrodynamic Triathlon Club |     15 | F        | 16                  |           16 |              52 |            68 |                1 | http://www.ayrodynamic.org.uk/             |
+|          1 | Cambuslang Harriers        |      6 | F        | 6,8,9               |           23 |               0 |            23 |                3 | https://cambuslangharriers.org/            |
+|          2 | East Kilbride AC           |      1 | F        | 7,13,14             |           34 |               0 |            34 |                3 | http://www.ekac.org.uk/                    |
+|          3 | Garscube Harriers          |      9 | F        | 1,11                |           12 |              25 |            37 |                2 | https://www.garscubeharriers.org.uk/       |
+|          4 | Bellahouston Harriers      |      8 | F        | 5,12                |           17 |              25 |            42 |                2 | http://www.bellahoustonharriers.co.uk/     |
+|          5 | Springburn Harriers        |     48 | F        | 2                   |            2 |              50 |            52 |                1 | https://www.springburnharriers.co.uk/      |
+|          6 | Law & District AAC         |     37 | F        | 3                   |            3 |              50 |            53 |                1 | http://www.lawaac.co.uk/                   |
+|          7 | Bellahouston RR            |      3 | F        | 4                   |            4 |              50 |            54 |                1 | https://www.bellahoustonroadrunners.co.uk/ |
+|          8 | Calderglen Harriers        |     17 | F        | 10                  |           10 |              50 |            60 |                1 | http://www.calderglenharriers.org.uk/      |
+|          9 | Ayrodynamic Triathlon Club |     15 | F        | 15                  |           15 |              50 |            65 |                1 | http://www.ayrodynamic.org.uk/             |

@@ -1,7 +1,7 @@
 |   position | times   | team   | Name               | gender   | AgeCat   |   clubnumber | Club name                  | Website                                    |   finishPosition |
 |-----------:|:--------|:-------|:-------------------|:---------|:---------|-------------:|:---------------------------|:-------------------------------------------|-----------------:|
 |          1 | 0:31:37 | 14F    | Emma Creasey       | F        | SENIOR   |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |               42 |
-|          2 | 0:31:51 | 6F     | Lesley Blackwood   | F        | MASTER   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |               45 |
+|          2 | 0:31:51 | 6F     | Lesley Blackwood   | F        | SENIOR   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |               45 |
 |          3 | 0:32:17 | 9F     | Katie White        | F        | MASTER   |            9 | Garscube Harriers          | https://www.garscubeharriers.org.uk/       |               50 |
 |          4 | 0:32:40 | 14F    | Kirstin Oakley     | F        | SENIOR   |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |               57 |
 |          5 | 0:32:48 | 48F    | Ruth Fraser-Moodie | F        | MASTER   |           48 | Springburn Harriers        | https://www.springburnharriers.co.uk/      |               58 |

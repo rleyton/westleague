@@ -8,7 +8,7 @@
 |          6 | 0:09:08 | 37F    | Olivia Inglis        | F        | U13      |           37 | Law & District AAC   | http://www.lawaac.co.uk/              |                6 |
 |          7 | 0:09:14 | 11F    | nan                  | F        | U13      |           11 | Airdrie Harriers     | http://airdrieharriers.org/           |                7 |
 |          8 | 0:09:18 | 44F    | Lola Finnigan        | F        | U13      |           44 | North Ayrshire AAC   | https://naathletics.co.uk/            |                8 |
-|          9 | 0:09:19 | 34F    | nan                  | F        | U13      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/         |                9 |
+|          9 | 0:09:19 | 34F    | Ella Cardin          | F        | U13      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/         |                9 |
 |         10 | 0:09:20 | 7F     | Erika Tait           | F        | U13      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/      |               10 |
 |         11 | 0:09:24 | 7F     | Emme Johnston        | F        | U13      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/      |               11 |
 |         12 | 0:09:25 | 7F     | Eve Wilkinson        | F        | U13      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/      |               12 |
@@ -33,7 +33,7 @@
 |         31 | 0:10:55 | 11F    | nan                  | F        | U13      |           11 | Airdrie Harriers     | http://airdrieharriers.org/           |               31 |
 |         32 | 0:10:56 | 11F    | nan                  | F        | U13      |           11 | Airdrie Harriers     | http://airdrieharriers.org/           |               32 |
 |         33 | 0:10:57 | 48F    | Naimh Wilson         | F        | U13      |           48 | Springburn Harriers  | https://www.springburnharriers.co.uk/ |               33 |
-|         34 | 0:11:07 | 34F    | nan                  | F        | U13      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/         |               34 |
+|         34 | 0:11:07 | 34F    | Catherine Sullivan   | F        | U13      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/         |               34 |
 |         35 | 0:11:08 | 7F     | Amelie O'Donnell     | F        | U13      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/      |               35 |
 |         36 | 0:11:17 | 2F     | Rebecca McNulty      | F        | U13      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/    |               36 |
 |         37 | 0:11:23 | 37F    | Freya Togneri        | F        | U13      |           37 | Law & District AAC   | http://www.lawaac.co.uk/              |               37 |

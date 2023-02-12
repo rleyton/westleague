@@ -14,7 +14,7 @@
 |         12 | 0:05:41 | 54M    | Murray Freer          | M        | U11      |           54 | VP-Glasgow           | https://www.vp-glasgow.com            |
 |         13 | 0:05:43 | 9M     | Brodie Burnett        | M        | U11      |            9 | Garscube Harriers    | https://www.garscubeharriers.org.uk/  |
 |         14 | 0:05:45 | 2M     | Calum Fitzgerald      | M        | U11      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/    |
-|         15 | 0:05:46 | 34M    | nan                   | M        | U11      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/         |
+|         15 | 0:05:46 | 34M    | Tyler McMeechan       | M        | U11      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/         |
 |         16 | 0:05:47 | 14M    | Hamish Black          | M        | U11      |           14 | Ayr Seaforth AC      | https://www.ayrseaforth.co.uk/        |
 |         17 | 0:05:48 | 1M     | NOAH ANDERSON         | M        | U11      |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |
 |         18 | 0:05:48 | 11M    | nan                   | M        | U11      |           11 | Airdrie Harriers     | http://airdrieharriers.org/           |
@@ -48,8 +48,8 @@
 |         46 | 0:06:48 | 7M     | Ethan Hamilton        | M        | U11      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/      |
 |         47 | 0:06:50 | 6M     | David Lyon            | M        | U11      |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/       |
 |         48 | 0:06:55 | 11M    | nan                   | M        | U11      |           11 | Airdrie Harriers     | http://airdrieharriers.org/           |
-|         49 | 0:07:03 | 34M    | nan                   | M        | U11      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/         |
+|         49 | 0:07:03 | 34M    | Harry White           | M        | U11      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/         |
 |         50 | 0:07:10 | 1M     | CALUM McCORMICK       | M        | U11      |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |
-|         51 | 0:07:12 | 34M    | nan                   | M        | U11      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/         |
+|         51 | 0:07:12 | 34M    | Kye Gillies           | M        | U11      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/         |
 |         52 | 0:07:14 | 17M    | Callum Lloyd          | M        | U11      |           17 | Calderglen Harriers  | http://www.calderglenharriers.org.uk/ |
-|         53 | 0:08:48 | 34M    | nan                   | M        | U11      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/         |
+|         53 | 0:08:48 | 34M    | Euan Gillies          | M        | U11      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/         |
