@@ -50,8 +50,8 @@
             },
             "U20": {
                   "M": {
-                        "penalty": 13,
-                        "participants": 3,
+                        "penalty": 12,
+                        "participants": 2,
                         "counters": 3
                   },
                   "F": {
@@ -62,8 +62,8 @@
             },
             "SENIOR": {
                   "M": {
-                        "penalty": 57,
-                        "participants": 47,
+                        "penalty": 58,
+                        "participants": 48,
                         "counters": 4
                   },
                   "F": {
