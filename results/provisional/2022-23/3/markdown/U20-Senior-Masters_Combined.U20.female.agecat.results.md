@@ -1,0 +1,3 @@
+|   position | times   | team   | Name           | gender   | AgeCat   |   clubnumber | Club name       | Website                        |   finishPosition |
+|-----------:|:--------|:-------|:---------------|:---------|:---------|-------------:|:----------------|:-------------------------------|-----------------:|
+|          1 | 0:34:16 | 14F    | Morven Hubbard | F        | U20      |           14 | Ayr Seaforth AC | https://www.ayrseaforth.co.uk/ |               67 |

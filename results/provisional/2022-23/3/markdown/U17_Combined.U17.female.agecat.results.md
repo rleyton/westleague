@@ -1,0 +1,14 @@
+|   position | times   | team   | Name             | gender   | AgeCat   |   clubnumber | Club name           | Website                               |   finishPosition |
+|-----------:|:--------|:-------|:-----------------|:---------|:---------|-------------:|:--------------------|:--------------------------------------|-----------------:|
+|          1 | 0:22:58 | 37F    | Jessica Inglis   | F        | U17      |           37 | Law & District AAC  | http://www.lawaac.co.uk/              |               13 |
+|          2 | 0:23:52 | 1F     | RHIANNA DOCHERTY | F        | U17      |            1 | East Kilbride AC    | http://www.ekac.org.uk/               |               15 |
+|          3 | 0:24:11 | 14F    | Iona Hubbard     | F        | U17      |           14 | Ayr Seaforth AC     | https://www.ayrseaforth.co.uk/        |               16 |
+|          4 | 0:25:05 | 2F     | Ellie Anderson   | F        | U17      |            2 | Kilmarnock H&AC     | http://www.kilmarnockharriers.com/    |               17 |
+|          5 | 0:25:12 | 43F    | Kayla Dinnin     | F        | U17      |           43 | Nithsdale AC        | nan                                   |               18 |
+|          6 | 0:25:36 | 1F     | AMY ANDREW       | F        | U17      |            1 | East Kilbride AC    | http://www.ekac.org.uk/               |               19 |
+|          7 | 0:25:53 | 37F    | Neve Elliot      | F        | U17      |           37 | Law & District AAC  | http://www.lawaac.co.uk/              |               20 |
+|          8 | 0:26:16 | 11F    | nan              | F        | U17      |           11 | Airdrie Harriers    | http://airdrieharriers.org/           |               21 |
+|          9 | 0:27:56 | 34F    | Adele Street     | F        | U17      |           34 | Kilbarchan AAC      | https://kilbarchanaac.org.uk/         |               22 |
+|         10 | 0:28:14 | 2F     | Izzy Caufield    | F        | U17      |            2 | Kilmarnock H&AC     | http://www.kilmarnockharriers.com/    |               23 |
+|         11 | 0:29:39 | 1F     | ERIN CHAPMAN     | F        | U17      |            1 | East Kilbride AC    | http://www.ekac.org.uk/               |               25 |
+|         12 | 0:30:14 | 17F    | Emma Hutton      | F        | U17      |           17 | Calderglen Harriers | http://www.calderglenharriers.org.uk/ |               26 |

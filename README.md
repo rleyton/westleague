@@ -15,16 +15,20 @@
   * [Attendance: 326](./results/provisional/2022-23/2/meta.json)
   * [Thanks to the volunteers](./results/provisional/2022-23/2/volunteers.csv)
   * Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/2), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/2/markdown)
-* Event #3, Bellahouston park (**currently being processed**)
+* [Event #3, Bellahouston park]((https://results.westleague.org.uk/results/provisional/2022-23/3/html/) **currently being processed**
   * Timelapse [videos from finish line are available here](https://westleague.org.uk/results/submission/#timelapse)
-  * Initial processing done of core results and team submissions recevied to: 12/Feb: 12pm
-    * Awaiting results from Calderglen Harriers, Larkhall, Westerlands, Motherwell, Airdrie, West End RR
-  * Issues fixed since initial publication:
-    * U17 Combined: Corrected transcription typo
-    * U15 Combined: 2 x Position corrections after manual video review
-    * U20, Seniors, Masters: Corrected transcription typo
-  * Current results, **with outstanding issues** [available here](https://github.com/rleyton/westleague/tree/2022-23-bellahouston/results/provisional/2022-23/3)
+  * [Race results](https://results.westleague.org.uk/results/provisional/2022-23/3/html/)
+  * Hosted by [Bellahouston Road Runners](https://www.bellahoustonroadrunners.co.uk/)
+  * [Attendance: 409](./results/provisional/2022-23/3/meta.json)
+  * [Thanks to the volunteers](./results/provisional/2022-23/3/volunteers.csv)
+  * Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/3), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/3/markdown)
+  * **Current processing status**
+    * Initial processing done of core results and team submissions recevied to: 12/Feb: 12pm
+    * Awaiting results from:
+      * Calderglen Harriers, Larkhall, Westerlands, Motherwell, Airdrie, West End RR
+      * [Full list](./results/provisional/2022-23/3/missingTeamSubmissions.csv)
 * [League standings, by competition](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html)
+  * **Note: Does not yet include Event #3**
   * U11
     * [Male](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html/U11_M.team.standings.html)
     * [Female](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html/U11_F.team.standings.html)

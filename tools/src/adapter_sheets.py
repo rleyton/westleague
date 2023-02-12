@@ -1,4 +1,5 @@
 from gspread import Worksheet
+import logging
 from .utils_consts import (
     META_KEY_COL,
     META_VAL_COL,
@@ -10,6 +11,14 @@ from .utils_consts import (
 )
 
 
+def get_volunteer_roles(row):
+    if row is not None:
+        roles = ";".join([x for x in row[1:] if len(x) > 0])
+        return roles
+    else:
+        return "Volunteer"
+
+
 def load_volunteers(sheets):
     returnVolunteers = None
     if sheets is not None:
@@ -18,7 +27,7 @@ def load_volunteers(sheets):
             volunteers = sheet.get_all_values()
             for volunteer in volunteers:
                 if volunteer[0] != "Name":
-                    returnVolunteers[volunteer[0]] = volunteer[1]
+                    returnVolunteers[volunteer[0]] = get_volunteer_roles(row=volunteer)
 
     return returnVolunteers
 
@@ -86,12 +95,15 @@ def load_results(sheets):
     if sheets is not None:
         returnResults = {}
         for sheet in sheets:
-            raceMeta = load_result_meta(sheet)
-            times = load_result_times(sheet)
-            team = load_result_finishers(
-                sheet=sheet, implicitGender=raceMeta[META_IMPLICIT_GENDER_KEY]
-            )
-            race = (raceMeta, times, team)
-            returnResults[raceMeta[META_EVENT]] = race
+            try:
+                raceMeta = load_result_meta(sheet)
+                times = load_result_times(sheet)
+                team = load_result_finishers(
+                    sheet=sheet, implicitGender=raceMeta[META_IMPLICIT_GENDER_KEY]
+                )
+                race = (raceMeta, times, team)
+                returnResults[raceMeta[META_EVENT]] = race
+            except KeyError as e:
+                logging.error(f"Error processing sheet {sheet.title}: {e}")
 
     return returnResults

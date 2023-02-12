@@ -154,7 +154,7 @@ def merge_runners(results=None, clubSubmissions=None, event: str = None):
 
                 if genderMismatch is True:
                     logging.error(
-                        f"Mismatched gender for club {row['Club name']} at result position {rowCount+1}, club submission position {clubPosition+1}, Name: {results.at[i,'Name']}. Results gender: {results.at[i,'gender']}, Submitted: {results.at[i,'Gender']}"
+                        f"Event {event}: Mismatched gender for club {row['Club name']} at gendered result position {rowCount+1}, club submission position {clubPosition+1}, Name: {results.at[i,'Name']}. Results gender: {results.at[i,'gender']}, Submitted: {results.at[i,'Gender']}"
                     )
 
                 set_club_position(clubnum, clubPosition + 1)
@@ -169,12 +169,16 @@ def merge_runners(results=None, clubSubmissions=None, event: str = None):
 def get_missing_teams(results=None, submissions=None):
     missingTeams = set()
     if results is not None and submissions is not None:
-        theMissingResults = (
-            results[results["Name"].isna()]["clubnumber"].unique().tolist()
-        )
-        for missingResult in theMissingResults:
-            if missingResult not in submissions:
-                missingTeams.add(missingResult)
-        return missingTeams
+        try:
+            theMissingResults = (
+                results[results["Name"].isna()]["clubnumber"].unique().tolist()
+            )
+            for missingResult in theMissingResults:
+                if missingResult not in submissions:
+                    missingTeams.add(missingResult)
+            return missingTeams
+        except KeyError as e:
+            logging.error(f"No teams received yet? {e}")
+            return []
     else:
         return None
