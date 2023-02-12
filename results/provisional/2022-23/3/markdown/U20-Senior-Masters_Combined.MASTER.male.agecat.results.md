@@ -43,7 +43,9 @@
 |         41 | 0:39:59 | 14M    | Tim Downie       | M        | MASTER   |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |              131 |
 |         42 | 0:40:25 | 9M     | Norman Baillie   | M        | MASTER   |            9 | Garscube Harriers          | https://www.garscubeharriers.org.uk/       |              134 |
 |         43 | 0:40:55 | 17M    | Gordon McInally  | M        | MASTER   |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |              135 |
-|         44 | 0:44:06 | 17M    | Russell Couper   | M        | MASTER   |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |              146 |
-|         45 | 0:44:53 | 8M     | John Beckett     | M        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |              150 |
-|         46 | 0:48:47 | 37M    | Pat Kelly        | M        | MASTER   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |              152 |
-|         47 | 0:52:38 | 3M     | Cormack Smith    | M        | MASTER   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |              154 |
+|         44 | 0:41:12 | 23M    | Les Hill         | M        | MASTER   |           23 | Dumfries Running Club      | https://www.dumfriesrunningclub.org.uk/    |              139 |
+|         45 | 0:44:06 | 17M    | Russell Couper   | M        | MASTER   |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |              146 |
+|         46 | 0:44:53 | 8M     | John Beckett     | M        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |              150 |
+|         47 | 0:48:47 | 37M    | Pat Kelly        | M        | MASTER   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |              152 |
+|         48 | 0:50:07 | 22M    | Audrey McMinn    | M        | MASTER   |           22 | Dumfries Harriers          | https://dumfriesharriers.co.uk/            |              153 |
+|         49 | 0:52:38 | 3M     | Cormack Smith    | M        | MASTER   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |              154 |

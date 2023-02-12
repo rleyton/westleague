@@ -7,11 +7,13 @@
 |          5 | Ayr Seaforth AC            |     14 | M        | 2,16,32             |           50 |               0 |            50 |                4 | https://www.ayrseaforth.co.uk/             |
 |          6 | Calderglen Harriers        |     17 | M        | 10,15,43            |           68 |               0 |            68 |                4 | http://www.calderglenharriers.org.uk/      |
 |          7 | Garscube Harriers          |      9 | M        | 5,25,42             |           72 |               0 |            72 |                3 | https://www.garscubeharriers.org.uk/       |
-|          8 | Troon Tortoises            |     53 | M        | 12,19               |           31 |              57 |            88 |                2 | http://troontortoises.co.uk                |
-|          9 | Kilmarnock H&AC            |      2 | M        | 6,31                |           37 |              57 |            94 |                2 | http://www.kilmarnockharriers.com/         |
+|          8 | Troon Tortoises            |     53 | M        | 12,19               |           31 |              59 |            90 |                2 | http://troontortoises.co.uk                |
+|          9 | Kilmarnock H&AC            |      2 | M        | 6,31                |           37 |              59 |            96 |                2 | http://www.kilmarnockharriers.com/         |
 |         10 | Law & District AAC         |     37 | M        | 27,35,38            |          100 |               0 |           100 |                4 | http://www.lawaac.co.uk/                   |
-|         11 | Greenock Glenpark Harriers |     30 | M        | 26,40               |           66 |              57 |           123 |                2 | https://greenockglenparkharriers.com/      |
-|         12 | Inverclyde AC              |      4 | M        | 23                  |           23 |             114 |           137 |                1 | https://www.inverclydeac.org/              |
-|         13 | Springburn Harriers        |     48 | M        | 28                  |           28 |             114 |           142 |                1 | https://www.springburnharriers.co.uk/      |
-|         14 | Whitemoss AAC              |     57 | M        | 30                  |           30 |             114 |           144 |                1 | https://whitemossaac.co.uk/                |
-|         15 | Bellahouston Harriers      |      8 | M        | 45                  |           45 |             114 |           159 |                1 | http://www.bellahoustonharriers.co.uk/     |
+|         11 | Greenock Glenpark Harriers |     30 | M        | 26,40               |           66 |              59 |           125 |                2 | https://greenockglenparkharriers.com/      |
+|         12 | Inverclyde AC              |      4 | M        | 23                  |           23 |             118 |           141 |                1 | https://www.inverclydeac.org/              |
+|         13 | Springburn Harriers        |     48 | M        | 28                  |           28 |             118 |           146 |                1 | https://www.springburnharriers.co.uk/      |
+|         14 | Whitemoss AAC              |     57 | M        | 30                  |           30 |             118 |           148 |                1 | https://whitemossaac.co.uk/                |
+|         15 | Dumfries Running Club      |     23 | M        | 44                  |           44 |             118 |           162 |                1 | https://www.dumfriesrunningclub.org.uk/    |
+|         16 | Bellahouston Harriers      |      8 | M        | 46                  |           46 |             118 |           164 |                1 | http://www.bellahoustonharriers.co.uk/     |
+|         17 | Dumfries Harriers          |     22 | M        | 48                  |           48 |             118 |           166 |                1 | https://dumfriesharriers.co.uk/            |

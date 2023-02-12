@@ -21,6 +21,6 @@
 |         19 | Whitemoss AAC                   |     57 | M        | 77,84               |          161 |             238 |           399 |                2 | https://whitemossaac.co.uk/                |
 |         20 | Strathclyde University Harriers |     52 | M        | 50                  |           50 |             357 |           407 |                1 | nan                                        |
 |         21 | Airdrie Harriers                |     11 | M        | 78                  |           78 |             357 |           435 |                1 | http://airdrieharriers.org/                |
-|         22 | Dumfries Running Club           |     23 | M        | 102                 |          102 |             357 |           459 |                1 | nan                                        |
+|         22 | Dumfries Running Club           |     23 | M        | 102                 |          102 |             357 |           459 |                1 | https://www.dumfriesrunningclub.org.uk/    |
 |         23 | Bellahouston Harriers           |      8 | M        | 105                 |          105 |             357 |           462 |                1 | http://www.bellahoustonharriers.co.uk/     |
-|         24 | Dumfries Harriers               |     22 | M        | 108                 |          108 |             357 |           465 |                1 | nan                                        |
+|         24 | Dumfries Harriers               |     22 | M        | 108                 |          108 |             357 |           465 |                1 | https://dumfriesharriers.co.uk/            |

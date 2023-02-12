@@ -7,6 +7,4 @@
 |     11 | Airdrie Harriers                | http://airdrieharriers.org/                |
 |     43 | Nithsdale AC                    | nan                                        |
 |     52 | Strathclyde University Harriers | nan                                        |
-|     22 | Dumfries Harriers               | nan                                        |
-|     23 | Dumfries Running Club           | nan                                        |
 |     56 | West End RR                     | https://www.westendroadrunners.co.uk/      |
