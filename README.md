@@ -18,10 +18,12 @@
 * Event #3, Bellahouston park (**currently being processed**)
   * Timelapse [videos from finish line are available here](https://westleague.org.uk/results/submission/#timelapse)
   * Initial processing done of core results and team submissions recevied to: 12/Feb: 12pm
-    * Awaiting results from Larkhall, Westerlands, Motherwell, Airdrie, Strathclyde University, West End RR
+    * Awaiting results from Calderglen Harriers, Larkhall, Westerlands, Motherwell, Airdrie, West End RR
   * Issues and feedback to resolve issues in the following races:
-    * U15 Combined
     * U20, Seniors, Masters
+  * Issues fixed since initial publication:
+    * U17 Combined: Transcription issue
+    * U15 Combined: 2 x Position corrections after manual video review
   * Current results, **with outstanding issues** [available here](https://github.com/rleyton/westleague/tree/2022-23-bellahouston/results/provisional/2022-23/3)
 * [League standings, by competition](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html)
   * U11
