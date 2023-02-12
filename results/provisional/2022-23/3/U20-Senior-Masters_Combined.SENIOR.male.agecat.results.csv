@@ -28,22 +28,23 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website,finishPositi
 27,0:31:36,3M,Alan Moss,M,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,41
 28,0:31:39,1M,GARY CRAIG,M,SENIOR,1,East Kilbride AC,http://www.ekac.org.uk/,43
 29,0:31:48,37M,Ross Hill,M,SENIOR,37,Law & District AAC,http://www.lawaac.co.uk/,44
-30,0:31:57,9M,Mattia Mancinelli,M,SENIOR,9,Garscube Harriers,https://www.garscubeharriers.org.uk/,47
-31,0:32:04,6M,Steven Fitzpatrick,M,SENIOR,6,Cambuslang Harriers,https://cambuslangharriers.org/,48
-32,0:32:18,2M,Ross McNaught,M,SENIOR,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,51
-33,0:32:21,3M,Chris Allan,M,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,52
-34,0:32:27,3M,Fraser Kelly,M,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,54
-35,0:33:20,17M,Andrew Buchanan,M,SENIOR,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,61
-36,0:35:58,1M,DAVID GORMAN,M,SENIOR,1,East Kilbride AC,http://www.ekac.org.uk/,80
-37,0:36:04,48M,Matt Stanley,M,SENIOR,48,Springburn Harriers,https://www.springburnharriers.co.uk/,81
-38,0:36:10,3M,Jamie Robinson,M,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,82
-39,0:36:34,7M,Lewis McGuire,M,SENIOR,7,Giffnock North AC,https://www.giffnocknorth.co.uk/,89
-40,0:36:35,37M,Bobby Hill,M,SENIOR,37,Law & District AAC,http://www.lawaac.co.uk/,91
-41,0:37:08,17M,Jason Grant,M,SENIOR,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,98
-42,0:37:31,57M,James Cathie,M,SENIOR,57,Whitemoss AAC,https://whitemossaac.co.uk/,103
-43,0:37:31,2M,Murray MacDonald,M,SENIOR,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,104
-44,0:38:16,48M,Joe Chambers,M,SENIOR,48,Springburn Harriers,https://www.springburnharriers.co.uk/,112
-45,0:38:33,48M,Glenn McKinstry,M,SENIOR,48,Springburn Harriers,https://www.springburnharriers.co.uk/,115
-46,0:38:42,37M,Grant Kerr,M,SENIOR,37,Law & District AAC,http://www.lawaac.co.uk/,117
-47,0:39:56,30M,Gerry Gallacher,M,SENIOR,30,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/,130
-48,0:47:27,7M,William McGuire,M,SENIOR,7,Giffnock North AC,https://www.giffnocknorth.co.uk/,151
+30,0:31:53,53M,Darren McMahon,M,SENIOR,53,Troon Tortoises,http://troontortoises.co.uk,46
+31,0:31:57,9M,Mattia Mancinelli,M,SENIOR,9,Garscube Harriers,https://www.garscubeharriers.org.uk/,47
+32,0:32:04,6M,Steven Fitzpatrick,M,SENIOR,6,Cambuslang Harriers,https://cambuslangharriers.org/,48
+33,0:32:18,2M,Ross McNaught,M,SENIOR,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,51
+34,0:32:21,3M,Chris Allan,M,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,52
+35,0:32:27,3M,Fraser Kelly,M,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,54
+36,0:33:20,17M,Andrew Buchanan,M,SENIOR,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,61
+37,0:35:58,1M,DAVID GORMAN,M,SENIOR,1,East Kilbride AC,http://www.ekac.org.uk/,80
+38,0:36:04,48M,Matt Stanley,M,SENIOR,48,Springburn Harriers,https://www.springburnharriers.co.uk/,81
+39,0:36:10,3M,Jamie Robinson,M,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,82
+40,0:36:34,7M,Lewis McGuire,M,SENIOR,7,Giffnock North AC,https://www.giffnocknorth.co.uk/,89
+41,0:36:35,37M,Bobby Hill,M,SENIOR,37,Law & District AAC,http://www.lawaac.co.uk/,91
+42,0:37:08,17M,Jason Grant,M,SENIOR,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,98
+43,0:37:31,57M,James Cathie,M,SENIOR,57,Whitemoss AAC,https://whitemossaac.co.uk/,103
+44,0:37:31,2M,Murray MacDonald,M,SENIOR,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,104
+45,0:38:16,48M,Joe Chambers,M,SENIOR,48,Springburn Harriers,https://www.springburnharriers.co.uk/,112
+46,0:38:33,48M,Glenn McKinstry,M,SENIOR,48,Springburn Harriers,https://www.springburnharriers.co.uk/,115
+47,0:38:42,37M,Grant Kerr,M,SENIOR,37,Law & District AAC,http://www.lawaac.co.uk/,117
+48,0:39:56,30M,Gerry Gallacher,M,SENIOR,30,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/,130
+49,0:47:27,7M,William McGuire,M,SENIOR,7,Giffnock North AC,https://www.giffnocknorth.co.uk/,151

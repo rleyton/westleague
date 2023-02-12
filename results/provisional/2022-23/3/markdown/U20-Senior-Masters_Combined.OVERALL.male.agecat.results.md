@@ -43,7 +43,7 @@
 |         41 | 0:31:36 | 3M     | Alan Moss             | M        | SENIOR   |            3 | Bellahouston RR                 | https://www.bellahoustonroadrunners.co.uk/ |               41 |
 |         42 | 0:31:39 | 1M     | GARY CRAIG            | M        | SENIOR   |            1 | East Kilbride AC                | http://www.ekac.org.uk/                    |               43 |
 |         43 | 0:31:48 | 37M    | Ross Hill             | M        | SENIOR   |           37 | Law & District AAC              | http://www.lawaac.co.uk/                   |               44 |
-|         44 | 0:31:53 | 53M    | Matt Pearce           | M        | MASTER   |           53 | Troon Tortoises                 | http://troontortoises.co.uk                |               46 |
+|         44 | 0:31:53 | 53M    | Darren McMahon        | M        | SENIOR   |           53 | Troon Tortoises                 | http://troontortoises.co.uk                |               46 |
 |         45 | 0:31:57 | 9M     | Mattia Mancinelli     | M        | SENIOR   |            9 | Garscube Harriers               | https://www.garscubeharriers.org.uk/       |               47 |
 |         46 | 0:32:04 | 6M     | Steven Fitzpatrick    | M        | SENIOR   |            6 | Cambuslang Harriers             | https://cambuslangharriers.org/            |               48 |
 |         47 | 0:32:11 | 10M    | John Duffy            | M        | MASTER   |           10 | Shettleston Harriers            | http://shettlestonharriers.org.uk/         |               49 |
