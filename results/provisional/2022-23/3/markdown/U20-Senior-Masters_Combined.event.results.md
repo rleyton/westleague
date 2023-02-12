@@ -86,7 +86,7 @@
 |         84 | 0:36:16 | 17F    | Karen Allen           | F        | SENIOR   |           17 | Calderglen Harriers             | http://www.calderglenharriers.org.uk/      |
 |         85 | 0:36:19 | 54F    | Lucy Olsen            | F        | SENIOR   |           54 | VP-Glasgow                      | https://www.vp-glasgow.com                 |
 |         86 | 0:36:24 | 48M    | Paul Wilson           | M        | MASTER   |           48 | Springburn Harriers             | https://www.springburnharriers.co.uk/      |
-|         87 | 0:36:26 | 56M    | Allen Cambell         | M        | MASTER   |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |
+|         87 | 0:36:26 | 56M    | Allen Campbell        | M        | MASTER   |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |
 |         88 | 0:36:31 | 3M     | Tom Ferris            | M        | MASTER   |            3 | Bellahouston RR                 | https://www.bellahoustonroadrunners.co.uk/ |
 |         89 | 0:36:34 | 7M     | Lewis McGuire         | M        | SENIOR   |            7 | Giffnock North AC               | https://www.giffnocknorth.co.uk/           |
 |         90 | 0:36:34 | 37M    | Finn Milligan         | M        | U20      |           37 | Law & District AAC              | http://www.lawaac.co.uk/                   |
