@@ -55,8 +55,8 @@
                         "counters": 3
                   },
                   "F": {
-                        "penalty": 11,
-                        "participants": 1,
+                        "penalty": 12,
+                        "participants": 2,
                         "counters": 3
                   }
             },
@@ -79,8 +79,8 @@
                         "counters": 3
                   },
                   "F": {
-                        "penalty": 28,
-                        "participants": 18,
+                        "penalty": 27,
+                        "participants": 17,
                         "counters": 3
                   }
             },

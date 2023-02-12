@@ -139,7 +139,7 @@
 |        137 | 0:41:03 | 56M    | Trevor Wayman         | M        | MASTER   |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |
 |        138 | 0:41:07 | 56M    | Paul Toland           | M        | MASTER   |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |
 |        139 | 0:41:12 | 23M    | Les Hill              | M        | MASTER   |           23 | Dumfries Running Club           | https://www.dumfriesrunningclub.org.uk/    |
-|        140 | 0:41:32 | 1F     | EMMA LIVINGSTONE      | F        | MASTER   |            1 | East Kilbride AC                | http://www.ekac.org.uk/                    |
+|        140 | 0:41:32 | 1F     | EMMA LIVINGSTONE      | F        | U20      |            1 | East Kilbride AC                | http://www.ekac.org.uk/                    |
 |        141 | 0:41:36 | 56F    | Ray Musleh            | F        | MASTER   |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |
 |        142 | 0:42:08 | 1F     | GEMMA KIRWAN          | F        | MASTER   |            1 | East Kilbride AC                | http://www.ekac.org.uk/                    |
 |        143 | 0:42:19 | 56M    | Mark Sherman          | M        | MASTER   |           56 | West End RR                     | https://www.westendroadrunners.co.uk/      |

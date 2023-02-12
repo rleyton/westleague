@@ -1,3 +1,4 @@
-|   position | times   | team   | Name           | gender   | AgeCat   |   clubnumber | Club name       | Website                        |   finishPosition |
-|-----------:|:--------|:-------|:---------------|:---------|:---------|-------------:|:----------------|:-------------------------------|-----------------:|
-|          1 | 0:34:16 | 14F    | Morven Hubbard | F        | U20      |           14 | Ayr Seaforth AC | https://www.ayrseaforth.co.uk/ |               67 |
+|   position | times   | team   | Name             | gender   | AgeCat   |   clubnumber | Club name        | Website                        |   finishPosition |
+|-----------:|:--------|:-------|:-----------------|:---------|:---------|-------------:|:-----------------|:-------------------------------|-----------------:|
+|          1 | 0:34:16 | 14F    | Morven Hubbard   | F        | U20      |           14 | Ayr Seaforth AC  | https://www.ayrseaforth.co.uk/ |               67 |
+|          2 | 0:41:32 | 1F     | EMMA LIVINGSTONE | F        | U20      |            1 | East Kilbride AC | http://www.ekac.org.uk/        |              140 |
