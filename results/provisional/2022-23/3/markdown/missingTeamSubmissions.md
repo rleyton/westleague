@@ -1,5 +1,4 @@
-|   team | Club name                       | Website                                    |
-|-------:|:--------------------------------|:-------------------------------------------|
-|     36 | Larkhall YMCA                   | https://www.facebook.com/larkhallharriers/ |
-|      5 | Westerlands CCC                 | https://westerlandsccc.co.uk/              |
-|     52 | Strathclyde University Harriers | nan                                        |
+|   team | Club name                       | Website                       |
+|-------:|:--------------------------------|:------------------------------|
+|     52 | Strathclyde University Harriers | nan                           |
+|      5 | Westerlands CCC                 | https://westerlandsccc.co.uk/ |
