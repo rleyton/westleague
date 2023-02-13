@@ -55,15 +55,15 @@
                         "counters": 3
                   },
                   "F": {
-                        "penalty": 11,
-                        "participants": 1,
+                        "penalty": 12,
+                        "participants": 2,
                         "counters": 3
                   }
             },
             "SENIOR": {
                   "M": {
-                        "penalty": 60,
-                        "participants": 50,
+                        "penalty": 61,
+                        "participants": 51,
                         "counters": 4
                   },
                   "F": {
@@ -79,8 +79,8 @@
                         "counters": 3
                   },
                   "F": {
-                        "penalty": 28,
-                        "participants": 18,
+                        "penalty": 27,
+                        "participants": 17,
                         "counters": 3
                   }
             },

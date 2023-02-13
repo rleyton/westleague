@@ -81,7 +81,7 @@ def normalise_agecat_record(agecat, event):
         # U20_Seniors
         if coreEvent == "U20":
             for category in SeniorAgeCats:
-                if agecat.lower().__contains__(category):
+                if agecat.lower().replace(" ", "").__contains__(category):
                     return category.upper()
             # Some clubs put full agecat or similar, eg. V40, FV40, M40; normalise these down
             if (

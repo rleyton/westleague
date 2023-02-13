@@ -12,9 +12,8 @@
 |         10 | 0:39:08 | 17F    | Frances Ferguson   | F        | MASTER   |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |              120 |
 |         11 | 0:40:10 | 9F     | Kath Scott         | F        | MASTER   |            9 | Garscube Harriers          | https://www.garscubeharriers.org.uk/       |              132 |
 |         12 | 0:41:01 | 8F     | Stephanie Rudd     | F        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |              136 |
-|         13 | 0:41:32 | 1F     | EMMA LIVINGSTONE   | F        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |              140 |
-|         14 | 0:41:36 | 56F    | Ray Musleh         | F        | MASTER   |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |              141 |
-|         15 | 0:42:08 | 1F     | GEMMA KIRWAN       | F        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |              142 |
-|         16 | 0:44:22 | 56F    | Sarah Berman       | F        | MASTER   |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |              147 |
-|         17 | 0:44:45 | 15F    | Lorna Sloan        | F        | MASTER   |           15 | Ayrodynamic Triathlon Club | http://www.ayrodynamic.org.uk/             |              149 |
-|         18 | 0:50:07 | 22F    | Audrey McMinn      | F        | MASTER   |           22 | Dumfries Harriers          | https://dumfriesharriers.co.uk/            |              153 |
+|         13 | 0:41:36 | 56F    | Ray Musleh         | F        | MASTER   |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |              141 |
+|         14 | 0:42:08 | 1F     | GEMMA KIRWAN       | F        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |              142 |
+|         15 | 0:44:22 | 56F    | Sarah Berman       | F        | MASTER   |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |              147 |
+|         16 | 0:44:45 | 15F    | Lorna Sloan        | F        | MASTER   |           15 | Ayrodynamic Triathlon Club | http://www.ayrodynamic.org.uk/             |              149 |
+|         17 | 0:50:07 | 22F    | Audrey McMinn      | F        | MASTER   |           22 | Dumfries Harriers          | https://dumfriesharriers.co.uk/            |              153 |
