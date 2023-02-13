@@ -62,8 +62,8 @@
             },
             "SENIOR": {
                   "M": {
-                        "penalty": 60,
-                        "participants": 50,
+                        "penalty": 61,
+                        "participants": 51,
                         "counters": 4
                   },
                   "F": {

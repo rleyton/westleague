@@ -49,7 +49,7 @@
 |         47 | 0:32:11 | 10M    | John Duffy            | M        | MASTER   |           10 | Shettleston Harriers            | http://shettlestonharriers.org.uk/         |               49 |
 |         48 | 0:32:18 | 2M     | Ross McNaught         | M        | SENIOR   |            2 | Kilmarnock H&AC                 | http://www.kilmarnockharriers.com/         |               51 |
 |         49 | 0:32:21 | 3M     | Chris Allan           | M        | SENIOR   |            3 | Bellahouston RR                 | https://www.bellahoustonroadrunners.co.uk/ |               52 |
-|         50 | 0:32:23 | 52M    | nan                   | M        | nan      |           52 | Strathclyde University Harriers | nan                                        |               53 |
+|         50 | 0:32:23 | 52M    | Cameron Wallace       | M        | SENIOR   |           52 | Strathclyde University Harriers | nan                                        |               53 |
 |         51 | 0:32:27 | 3M     | Fraser Kelly          | M        | SENIOR   |            3 | Bellahouston RR                 | https://www.bellahoustonroadrunners.co.uk/ |               54 |
 |         52 | 0:32:29 | 6M     | Colin Feechan         | M        | MASTER   |            6 | Cambuslang Harriers             | https://cambuslangharriers.org/            |               55 |
 |         53 | 0:32:38 | 17M    | Gerry Connelly        | M        | MASTER   |           17 | Calderglen Harriers             | http://www.calderglenharriers.org.uk/      |               56 |
