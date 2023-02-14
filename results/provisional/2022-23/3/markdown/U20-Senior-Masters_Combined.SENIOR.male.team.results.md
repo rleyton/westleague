@@ -6,14 +6,13 @@
 |          4 | Shettleston Harriers            |     10 | M        | 6,14,15,18          |           53 |               0 |            53 |                5 | http://shettlestonharriers.org.uk/         |
 |          5 | Bellahouston RR                 |      3 | M        | 7,17,27,34          |           85 |               0 |            85 |                6 | https://www.bellahoustonroadrunners.co.uk/ |
 |          6 | East Kilbride AC                |      1 | M        | 23,24,28,38         |          113 |               0 |           113 |                4 | http://www.ekac.org.uk/                    |
-|          7 | Law & District AAC              |     37 | M        | 25,29,42,49         |          145 |               0 |           145 |                4 | http://www.lawaac.co.uk/                   |
-|          8 | Greenock Glenpark Harriers      |     30 | M        | 21,22,50            |           93 |              61 |           154 |                3 | https://greenockglenparkharriers.com/      |
-|          9 | Motherwell AC                   |     40 | M        | 10                  |           10 |             183 |           193 |                1 | https://motherwellac.com/                  |
-|         10 | Springburn Harriers             |     48 | M        | 39,47,48            |          134 |              61 |           195 |                3 | https://www.springburnharriers.co.uk/      |
-|         11 | Kilmarnock H&AC                 |      2 | M        | 33,46               |           79 |             122 |           201 |                2 | http://www.kilmarnockharriers.com/         |
-|         12 | Calderglen Harriers             |     17 | M        | 37,44               |           81 |             122 |           203 |                2 | http://www.calderglenharriers.org.uk/      |
-|         13 | Troon Tortoises                 |     53 | M        | 30                  |           30 |             183 |           213 |                1 | http://troontortoises.co.uk                |
-|         14 | Garscube Harriers               |      9 | M        | 31                  |           31 |             183 |           214 |                1 | https://www.garscubeharriers.org.uk/       |
-|         15 | Strathclyde University Harriers |     52 | M        | 35                  |           35 |             183 |           218 |                1 | nan                                        |
-|         16 | Airdrie Harriers                |     11 | M        | 43                  |           43 |             183 |           226 |                1 | http://airdrieharriers.org/                |
-|         17 | Whitemoss AAC                   |     57 | M        | 45                  |           45 |             183 |           228 |                1 | https://whitemossaac.co.uk/                |
+|          7 | Law & District AAC              |     37 | M        | 25,29,42,48         |          144 |               0 |           144 |                4 | http://www.lawaac.co.uk/                   |
+|          8 | Greenock Glenpark Harriers      |     30 | M        | 21,22,49            |           92 |              60 |           152 |                3 | https://greenockglenparkharriers.com/      |
+|          9 | Motherwell AC                   |     40 | M        | 10                  |           10 |             180 |           190 |                1 | https://motherwellac.com/                  |
+|         10 | Springburn Harriers             |     48 | M        | 39,46,47            |          132 |              60 |           192 |                3 | https://www.springburnharriers.co.uk/      |
+|         11 | Kilmarnock H&AC                 |      2 | M        | 33,45               |           78 |             120 |           198 |                2 | http://www.kilmarnockharriers.com/         |
+|         12 | Calderglen Harriers             |     17 | M        | 37,43               |           80 |             120 |           200 |                2 | http://www.calderglenharriers.org.uk/      |
+|         13 | Troon Tortoises                 |     53 | M        | 30                  |           30 |             180 |           210 |                1 | http://troontortoises.co.uk                |
+|         14 | Garscube Harriers               |      9 | M        | 31                  |           31 |             180 |           211 |                1 | https://www.garscubeharriers.org.uk/       |
+|         15 | Strathclyde University Harriers |     52 | M        | 35                  |           35 |             180 |           215 |                1 | nan                                        |
+|         16 | Whitemoss AAC                   |     57 | M        | 44                  |           44 |             180 |           224 |                1 | https://whitemossaac.co.uk/                |

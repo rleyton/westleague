@@ -62,8 +62,8 @@
             },
             "SENIOR": {
                   "M": {
-                        "penalty": 61,
-                        "participants": 51,
+                        "penalty": 60,
+                        "participants": 50,
                         "counters": 4
                   },
                   "F": {
@@ -74,8 +74,8 @@
             },
             "MASTER": {
                   "M": {
-                        "penalty": 62,
-                        "participants": 52,
+                        "penalty": 63,
+                        "participants": 53,
                         "counters": 3
                   },
                   "F": {
