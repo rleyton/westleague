@@ -18,7 +18,7 @@
 |         16 | 0:28:38 | 10M    | Sam Lesley            | M        | SENIOR   |           10 | Shettleston Harriers            | http://shettlestonharriers.org.uk/         |
 |         17 | 0:28:43 | 14M    | Kenny Neill           | M        | MASTER   |           14 | Ayr Seaforth AC                 | https://www.ayrseaforth.co.uk/             |
 |         18 | 0:28:44 | 10M    | Paul Sorrie           | M        | MASTER   |           10 | Shettleston Harriers            | http://shettlestonharriers.org.uk/         |
-|         19 | 0:29:09 | 5M     | nan                   | M        | nan      |            5 | Westerlands CCC                 | https://westerlandsccc.co.uk/              |
+|         19 | 0:29:09 | 5M     | Robert Hamlin         | M        | SENIOR   |            5 | Westerlands CCC                 | https://westerlandsccc.co.uk/              |
 |         20 | 0:29:11 | 10M    | Fergus Donnelly       | M        | SENIOR   |           10 | Shettleston Harriers            | http://shettlestonharriers.org.uk/         |
 |         21 | 0:29:15 | 7M     | Jordan Orr            | M        | SENIOR   |            7 | Giffnock North AC               | https://www.giffnocknorth.co.uk/           |
 |         22 | 0:29:23 | 3M     | Calum Borthwick       | M        | SENIOR   |            3 | Bellahouston RR                 | https://www.bellahoustonroadrunners.co.uk/ |
@@ -31,7 +31,7 @@
 |         29 | 0:30:16 | 1M     | JACK KIRWAN           | M        | SENIOR   |            1 | East Kilbride AC                | http://www.ekac.org.uk/                    |
 |         30 | 0:30:31 | 9M     | Daniel Scroop         | M        | MASTER   |            9 | Garscube Harriers               | https://www.garscubeharriers.org.uk/       |
 |         31 | 0:30:34 | 1M     | LUKE KIRWAN           | M        | SENIOR   |            1 | East Kilbride AC                | http://www.ekac.org.uk/                    |
-|         32 | 0:30:36 | 5M     | nan                   | M        | nan      |            5 | Westerlands CCC                 | https://westerlandsccc.co.uk/              |
+|         32 | 0:30:36 | 5M     | Scott Henderson       | M        | MASTER   |            5 | Westerlands CCC                 | https://westerlandsccc.co.uk/              |
 |         33 | 0:30:37 | 2M     | John Speirs           | M        | MASTER   |            2 | Kilmarnock H&AC                 | http://www.kilmarnockharriers.com/         |
 |         34 | 0:30:45 | 3M     | Bruce Carse           | M        | MASTER   |            3 | Bellahouston RR                 | https://www.bellahoustonroadrunners.co.uk/ |
 |         35 | 0:30:48 | 37M    | Alan Neill            | M        | SENIOR   |           37 | Law & District AAC              | http://www.lawaac.co.uk/                   |
@@ -64,7 +64,7 @@
 |         62 | 0:33:31 | 3M     | Gerry Scullion        | M        | MASTER   |            3 | Bellahouston RR                 | https://www.bellahoustonroadrunners.co.uk/ |
 |         63 | 0:33:37 | 14F    | Anna Blake            | F        | SENIOR   |           14 | Ayr Seaforth AC                 | https://www.ayrseaforth.co.uk/             |
 |         64 | 0:34:01 | 9F     | Holly Smith           | F        | SENIOR   |            9 | Garscube Harriers               | https://www.garscubeharriers.org.uk/       |
-|         65 | 0:34:03 | 5M     | nan                   | M        | nan      |            5 | Westerlands CCC                 | https://westerlandsccc.co.uk/              |
+|         65 | 0:34:03 | 5M     | David Riach           | M        | MASTER   |            5 | Westerlands CCC                 | https://westerlandsccc.co.uk/              |
 |         66 | 0:34:09 | 1M     | ANDREW CHAPMAN        | M        | MASTER   |            1 | East Kilbride AC                | http://www.ekac.org.uk/                    |
 |         67 | 0:34:16 | 14F    | Morven Hubbard        | F        | U20      |           14 | Ayr Seaforth AC                 | https://www.ayrseaforth.co.uk/             |
 |         68 | 0:34:33 | 53M    | John McCabe           | M        | MASTER   |           53 | Troon Tortoises                 | http://troontortoises.co.uk                |
