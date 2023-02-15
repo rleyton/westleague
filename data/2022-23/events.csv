@@ -1,0 +1,4 @@
+event_number,name,host_club,location_name,latitude,longitude,event_website,event_date
+1,Strathaven,1,Kirkland Park,55.678431,-4.076185,https://westleague.org.uk/events/strathaven/,2022-11-19
+2,Kilmarnock,2,Scott Ellis Recreation Ground,55.600987, -4.479990,https://westleague.org.uk/events/kilmarnock,2023-01-21
+3,Bellahouston,3,Bellahouston Park,55.843141,-4.313486,https://westleague.org.uk/events/bellahouston/,2023-02-11

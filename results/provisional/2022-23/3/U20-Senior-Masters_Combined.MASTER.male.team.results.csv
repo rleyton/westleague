@@ -1,18 +1,20 @@
 position,Club name,team,gender,finisherPositions,teamPoints,penaltyPoints,totalPoints,totalFinishers,Website
-1,East Kilbride AC,1,M,"1,4,17",22,0,22,6,http://www.ekac.org.uk/
-2,Cambuslang Harriers,6,M,"8,9,11",28,0,28,7,https://cambuslangharriers.org/
-3,Shettleston Harriers,10,M,"3,12,21",36,0,36,3,http://shettlestonharriers.org.uk/
-4,Bellahouston RR,3,M,"7,16,19",42,0,42,6,https://www.bellahoustonroadrunners.co.uk/
-5,Ayr Seaforth AC,14,M,"2,15,32",49,0,49,4,https://www.ayrseaforth.co.uk/
-6,Calderglen Harriers,17,M,"10,14,44",68,0,68,4,http://www.calderglenharriers.org.uk/
-7,Garscube Harriers,9,M,"5,24,43",72,0,72,3,https://www.garscubeharriers.org.uk/
-8,Kilmarnock H&AC,2,M,"6,31",37,62,99,2,http://www.kilmarnockharriers.com/
-9,Law & District AAC,37,M,"26,36,39",101,0,101,4,http://www.lawaac.co.uk/
-10,West End RR,56,M,"28,33,45",106,0,106,5,https://www.westendroadrunners.co.uk/
-11,Greenock Glenpark Harriers,30,M,"25,41",66,62,128,2,https://greenockglenparkharriers.com/
-12,Troon Tortoises,53,M,18,18,124,142,1,http://troontortoises.co.uk
-13,Inverclyde AC,4,M,22,22,124,146,1,https://www.inverclydeac.org/
-14,Springburn Harriers,48,M,27,27,124,151,1,https://www.springburnharriers.co.uk/
-15,Whitemoss AAC,57,M,30,30,124,154,1,https://whitemossaac.co.uk/
-16,Dumfries Running Club,23,M,47,47,124,171,1,https://www.dumfriesrunningclub.org.uk/
-17,Bellahouston Harriers,8,M,50,50,124,174,1,http://www.bellahoustonharriers.co.uk/
+1,East Kilbride AC,1,M,"1,4,19",24,0,24,6,http://www.ekac.org.uk/
+2,Cambuslang Harriers,6,M,"9,10,12",31,0,31,7,https://cambuslangharriers.org/
+3,Shettleston Harriers,10,M,"3,13,23",39,0,39,3,http://shettlestonharriers.org.uk/
+4,Bellahouston RR,3,M,"8,17,21",46,0,46,6,https://www.bellahoustonroadrunners.co.uk/
+5,Ayr Seaforth AC,14,M,"2,16,35",53,0,53,4,https://www.ayrseaforth.co.uk/
+6,Calderglen Harriers,17,M,"11,15,47",73,0,73,4,http://www.calderglenharriers.org.uk/
+7,Garscube Harriers,9,M,"5,26,46",77,0,77,3,https://www.garscubeharriers.org.uk/
+8,Westerlands CCC,5,M,"6,18",24,65,89,2,https://westerlandsccc.co.uk/
+9,Kilmarnock H&AC,2,M,"7,34",41,65,106,2,http://www.kilmarnockharriers.com/
+10,Law & District AAC,37,M,"28,39,42",109,0,109,4,http://www.lawaac.co.uk/
+11,West End RR,56,M,"30,36,48",114,0,114,5,https://www.westendroadrunners.co.uk/
+12,Greenock Glenpark Harriers,30,M,"27,44",71,65,136,2,https://greenockglenparkharriers.com/
+13,Troon Tortoises,53,M,20,20,130,150,1,http://troontortoises.co.uk
+14,Inverclyde AC,4,M,24,24,130,154,1,https://www.inverclydeac.org/
+15,Springburn Harriers,48,M,29,29,130,159,1,https://www.springburnharriers.co.uk/
+16,Whitemoss AAC,57,M,32,32,130,162,1,https://whitemossaac.co.uk/
+17,Airdrie Harriers,11,M,33,33,130,163,1,http://airdrieharriers.org/
+18,Dumfries Running Club,23,M,50,50,130,180,1,https://www.dumfriesrunningclub.org.uk/
+19,Bellahouston Harriers,8,M,53,53,130,183,1,http://www.bellahoustonharriers.co.uk/

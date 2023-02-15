@@ -74,8 +74,8 @@
             },
             "MASTER": {
                   "M": {
-                        "penalty": 62,
-                        "participants": 52,
+                        "penalty": 65,
+                        "participants": 55,
                         "counters": 3
                   },
                   "F": {
