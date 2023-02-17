@@ -26,7 +26,7 @@ def fetch_volunteers_from_dir(dir: str = None):
 def fetch_events(dir: str = None):
     if dir is not None:
         events = glob.glob(dir + "?")
-        return events
+        return sorted(events)
     else:
         return None
 

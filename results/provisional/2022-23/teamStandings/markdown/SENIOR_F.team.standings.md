@@ -1,14 +1,17 @@
-|   1 |   2 |   Total | Club name                  | Website                                    |
-|----:|----:|--------:|:---------------------------|:-------------------------------------------|
-|  63 |  10 |      73 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
-|  59 |  82 |     141 | Law & District AAC         | http://www.lawaac.co.uk/                   |
-|  74 |  69 |     143 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
-|  58 |  91 |     149 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
-|  92 |  76 |     168 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
-| 116 |  61 |     177 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |
-|  86 | 116 |     202 | Newton Road Runners        | https://www.newton-roadrunners.com/        |
-|  88 | 116 |     204 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
-|  91 | 116 |     207 | Garscube Harriers          | https://www.garscubeharriers.org.uk/       |
-|  93 | 116 |     209 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |
-| 105 | 116 |     221 | East Kilbride AC           | http://www.ekac.org.uk/                    |
-| 106 | 116 |     222 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
+|   1 |   2 |   3 |   Total | Club name                  | Website                                    |
+|----:|----:|----:|--------:|:---------------------------|:-------------------------------------------|
+|  63 |  10 |  34 |     107 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
+|  74 |  69 | 106 |     249 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
+|  58 |  91 | 103 |     252 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
+| 116 |  61 |  88 |     265 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |
+|  59 |  82 | 131 |     272 | Law & District AAC         | http://www.lawaac.co.uk/                   |
+|  92 |  76 | 105 |     273 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
+|  88 | 116 |  84 |     288 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
+| 116 | 116 |  68 |     300 | VP-Glasgow                 | https://www.vp-glasgow.com                 |
+|  91 | 116 |  96 |     303 | Garscube Harriers          | https://www.garscubeharriers.org.uk/       |
+|  93 | 116 | 115 |     324 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |
+|  86 | 116 | 148 |     350 | Newton Road Runners        | https://www.newton-roadrunners.com/        |
+| 116 | 116 | 120 |     352 | Motherwell AC              | https://motherwellac.com/                  |
+| 105 | 116 | 137 |     358 | East Kilbride AC           | http://www.ekac.org.uk/                    |
+| 116 | 116 | 126 |     358 | West End RR                | https://www.westendroadrunners.co.uk/      |
+| 106 | 116 | 138 |     360 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
