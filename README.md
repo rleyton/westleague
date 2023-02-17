@@ -15,13 +15,14 @@
   * [Attendance: 326](./results/provisional/2022-23/2/meta.json)
   * [Thanks to the volunteers](./results/provisional/2022-23/2/volunteers.csv)
   * Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/2), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/2/markdown)
-* [Event #3, Bellahouston park](https://results.westleague.org.uk/results/provisional/2022-23/3/html/) **currently being processed**
-  * Timelapse [videos from finish line are available here](https://westleague.org.uk/results/submission/#timelapse)
+* [Event #3, Bellahouston park](https://results.westleague.org.uk/results/provisional/2022-23/3/html/)
   * [Race results](https://results.westleague.org.uk/results/provisional/2022-23/3/html/)
   * Hosted by [Bellahouston Road Runners](https://www.bellahoustonroadrunners.co.uk/)
   * [Attendance: 409](./results/provisional/2022-23/3/meta.json)
   * [Thanks to the volunteers](./results/provisional/2022-23/3/volunteers.csv)
   * Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/3), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/3/markdown)
+  * FYI Timelapse [videos from finish line available here](https://westleague.org.uk/results/submission/#timelapse), for a short amount of time after the event.
+  
   * **Current processing status**
     * Initial processing done of core results and team submissions recevied to: 12/Feb: 12pm
     * Awaiting results from:
