@@ -22,14 +22,7 @@
   * [Thanks to the volunteers](./results/provisional/2022-23/3/volunteers.csv)
   * Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/3), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2022-23/3/markdown)
   * FYI Timelapse [videos from finish line available here](https://westleague.org.uk/results/submission/#timelapse), for a short amount of time after the event.
-  
-  * **Current processing status**
-    * Initial processing done of core results and team submissions recevied to: 12/Feb: 12pm
-    * Awaiting results from:
-      * Larkhall YMCA, Westerlands CCC
-      * [Full list](./results/provisional/2022-23/3/missingTeamSubmissions.csv)
 * [League standings, by competition](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html)
-  * **Note: Does not yet include Event #3**
   * U11
     * [Male](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html/U11_M.team.standings.html)
     * [Female](https://results.westleague.org.uk/results/provisional/2022-23/teamStandings/html/U11_F.team.standings.html)
