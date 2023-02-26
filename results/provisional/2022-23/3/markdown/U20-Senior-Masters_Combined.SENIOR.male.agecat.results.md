@@ -19,7 +19,7 @@
 |         17 | 0:29:15 | 7M     | Jordan Orr         | M        | SENIOR   |            7 | Giffnock North AC               | https://www.giffnocknorth.co.uk/           |               21 |
 |         18 | 0:29:23 | 3M     | Calum Borthwick    | M        | SENIOR   |            3 | Bellahouston RR                 | https://www.bellahoustonroadrunners.co.uk/ |               22 |
 |         19 | 0:29:24 | 10M    | Ian Pender         | M        | SENIOR   |           10 | Shettleston Harriers            | http://shettlestonharriers.org.uk/         |               23 |
-|         20 | 0:29:38 | 4M     | Sen Gaffney        | M        | SENIOR   |            4 | Inverclyde AC                   | https://www.inverclydeac.org/              |               25 |
+|         20 | 0:29:38 | 4M     | Sean Gaffney       | M        | SENIOR   |            4 | Inverclyde AC                   | https://www.inverclydeac.org/              |               25 |
 |         21 | 0:29:48 | 10M    | Andrew Taylor      | M        | SENIOR   |           10 | Shettleston Harriers            | http://shettlestonharriers.org.uk/         |               26 |
 |         22 | 0:29:49 | 30M    | Dylan Crawford     | M        | SENIOR   |           30 | Greenock Glenpark Harriers      | https://greenockglenparkharriers.com/      |               27 |
 |         23 | 0:30:09 | 30M    | Andy McCall        | M        | SENIOR   |           30 | Greenock Glenpark Harriers      | https://greenockglenparkharriers.com/      |               28 |
