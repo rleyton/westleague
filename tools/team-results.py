@@ -49,6 +49,8 @@ baseEvent = list(events.keys())[0]
 
 theFiles = []
 the_team_standings = {}
+clubParticipantsColumns = ["club", "participants"]
+totalClubParticipation = None
 for competition in dict(sorted(events[baseEvent].items())):
 
     if competition not in the_team_standings:
@@ -62,12 +64,24 @@ for competition in dict(sorted(events[baseEvent].items())):
             requiredGender=GENDER_COMPETITION_MAP[gender],
         )
 
-        teamStandings = calculate_team_standings(
+        (teamStandings, clubParticipation) = calculate_team_standings(
             raceResults=raceResults,
             eventMeta=event_meta,
             competition=competition,
             gender=gender,
         )
+
+        if competition not in ["OVERALL"]:
+            if totalClubParticipation is None:
+                totalClubParticipation = clubParticipation
+            else:
+                totalClubParticipation = pd.concat(
+                    [totalClubParticipation, clubParticipation], axis=0
+                )
+        else:
+            logging.info(
+                "Skipping OVERALL event for club participation, as combination of Senior and Masters"
+            )
 
         normalisedTeamStandings = teamStandings.join(other=teams)
 
@@ -125,7 +139,7 @@ for club_number, row in teams.iterrows():
             if position is not None:
                 club_results[key] = int(position)
                 logging.info(
-                    f"{club_name} holds poition {position} in {competition}:{gender}"
+                    f"{club_name} holds position {position} in {competition}:{gender}"
                 )
 
     if len(club_results) > 0:
@@ -174,6 +188,30 @@ def make_clickable(val):
     return f'<a target="_blank" href="{val}">{val}</a>'
 
 
+# summaries
+
+breakouts = {
+    "by_club": totalClubParticipation.groupby(["club"], as_index=True)
+    .sum()
+    .join(other=teams),
+    "by_gender": totalClubParticipation.groupby(["gender"], as_index=False)
+    .sum()
+    .drop(columns="club"),
+    "by_competition": totalClubParticipation.groupby(["competition"], as_index=False)
+    .sum()
+    .drop(columns="club"),
+    "by_competition_gender": totalClubParticipation.groupby(
+        ["competition", "gender"], as_index=False
+    )
+    .sum()
+    .drop(columns="club"),
+}
+for breakout in breakouts:
+    breakouts[breakout].style.format({"results": make_clickable}).to_html(
+        f"{YEAR_RESULTS_OUTPUT}/html/{breakout}.html"
+    )
+
+
 filesDF = pd.DataFrame(theFiles)
 filesDF = filesDF.style.format({"results": make_clickable})
 
@@ -184,6 +222,7 @@ filesDF.hide(axis="index").to_html(
     render_links=True,
     escape=False,
 )
+
 
 logging.info(
     f"Finished processing year: {YEAR_RESULTS} - output to {YEAR_RESULTS_OUTPUT}"
