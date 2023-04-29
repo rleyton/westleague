@@ -48,22 +48,22 @@ def calculate_team_standings(
     results = pd.DataFrame(table)
 
     results["Total"] = 0
-    clubParticipantsColumns = ["club", "participations"]
-    clubParticipants = None
+    clubParticipationColumns = ["club", "participations"]
+    clubParticipations = None
     for race in raceResults:
         raceMeta = eventMeta[race]["races"][competition][gender]
 
         participantMeta = pd.DataFrame(
-            raceMeta["clubparticipation"].items(), columns=clubParticipantsColumns
+            raceMeta["clubparticipation"].items(), columns=clubParticipationColumns
         )
         # cast to int
         participantMeta["club"] = participantMeta["club"].astype(np.integer)
         participantMeta.set_index("club")
 
-        if clubParticipants is None:
-            clubParticipants = participantMeta
+        if clubParticipations is None:
+            clubParticipations = participantMeta
         else:
-            clubParticipants = pd.concat([clubParticipants, participantMeta], axis=0)
+            clubParticipations = pd.concat([clubParticipations, participantMeta], axis=0)
 
         noParticipantsPenalty = raceMeta["penalty"] * raceMeta["counters"]
         results.iloc[:, race - 1] = (
@@ -71,9 +71,9 @@ def calculate_team_standings(
         )
         results["Total"] = results["Total"] + results.iloc[:, race - 1].astype(int)
 
-    totalParticipants = clubParticipants.groupby(["club"], as_index=False).sum()
-    totalParticipants["competition"], totalParticipants["gender"] = [
+    totalParticipations = clubParticipations.groupby(["club"], as_index=False).sum()
+    totalParticipations["competition"], totalParticipations["gender"] = [
         competition,
         gender,
     ]
-    return (results.sort_values(by=["Total"]), totalParticipants)
+    return (results.sort_values(by=["Total"]), totalParticipations)

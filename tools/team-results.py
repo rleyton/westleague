@@ -50,7 +50,7 @@ baseEvent = list(events.keys())[0]
 theFiles = []
 the_team_standings = {}
 clubParticipantsColumns = ["club", "participants"]
-totalClubParticipation = None
+totalClubParticipations = None
 for competition in dict(sorted(events[baseEvent].items())):
 
     if competition not in the_team_standings:
@@ -64,7 +64,7 @@ for competition in dict(sorted(events[baseEvent].items())):
             requiredGender=GENDER_COMPETITION_MAP[gender],
         )
 
-        (teamStandings, clubParticipation) = calculate_team_standings(
+        (teamStandings, clubParticipations) = calculate_team_standings(
             raceResults=raceResults,
             eventMeta=event_meta,
             competition=competition,
@@ -72,15 +72,15 @@ for competition in dict(sorted(events[baseEvent].items())):
         )
 
         if competition not in ["OVERALL"]:
-            if totalClubParticipation is None:
-                totalClubParticipation = clubParticipation
+            if totalClubParticipations is None:
+                totalClubParticipations = clubParticipations
             else:
-                totalClubParticipation = pd.concat(
-                    [totalClubParticipation, clubParticipation], axis=0
+                totalClubParticipations = pd.concat(
+                    [totalClubParticipations, clubParticipations], axis=0
                 )
         else:
             logging.info(
-                "Skipping OVERALL event for club participation, as combination of Senior and Masters"
+                "Skipping OVERALL event for club participations, as combination of Senior and Masters"
             )
 
         normalisedTeamStandings = teamStandings.join(other=teams)
@@ -191,16 +191,16 @@ def make_clickable(val):
 # summaries
 
 breakouts = {
-    "by_club": totalClubParticipation.groupby(["club"], as_index=True)
+    "by_club": totalClubParticipations.groupby(["club"], as_index=True)
     .sum()
     .join(other=teams),
-    "by_gender": totalClubParticipation.groupby(["gender"], as_index=False)
+    "by_gender": totalClubParticipations.groupby(["gender"], as_index=False)
     .sum()
     .drop(columns="club"),
-    "by_competition": totalClubParticipation.groupby(["competition"], as_index=False)
+    "by_competition": totalClubParticipations.groupby(["competition"], as_index=False)
     .sum()
     .drop(columns="club"),
-    "by_competition_gender": totalClubParticipation.groupby(
+    "by_competition_gender": totalClubParticipations.groupby(
         ["competition", "gender"], as_index=False
     )
     .sum()
