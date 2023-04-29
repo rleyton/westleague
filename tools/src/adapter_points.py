@@ -167,6 +167,9 @@ def calculate_competition_points(results, teams, event):
             reference[ageCat][gender]["penalty"] = penaltyPoints
             reference[ageCat][gender]["participants"] = totalParticipants
             reference[ageCat][gender]["counters"] = maxCounters
+            reference[ageCat][gender]["clubparticipation"] = (
+                ageCatResults.groupby("clubnumber").count()["position"].to_dict()
+            )
 
             # Work through all the teams we know about
             for team in teams.index:
