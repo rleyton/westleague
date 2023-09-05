@@ -54,7 +54,9 @@ missingTeams = set()
 eventMeta = {}
 index = []
 eventTotalParticipants = 0
+totalGenderParticipants = {}
 logging.info(f"Processing: {DATA_DIR}")
+
 # for each event we have files for
 for event in sorted(fetch_events_from_dir(DATA_DIR)):
     logging.debug(f"Processing: {event}")
@@ -144,7 +146,7 @@ for event in sorted(fetch_events_from_dir(DATA_DIR)):
     else:
         raise Exception(f"Unexpectedly no merged results for event {event}")
 
-    eventTotalParticipants += racemeta["total_participants"]
+    eventTotalParticipants += racemeta["totals"]["participants"]
 
     # ageCategory specific results
     if ageCatResults[event] is not None:
@@ -173,12 +175,18 @@ for event in sorted(fetch_events_from_dir(DATA_DIR)):
     # team results
     if teamResults[event] is not None:
         for gender in teamResults[event]:
+            if gender not in totalGenderParticipants:
+                totalGenderParticipants[gender]=0
+
             for competition in teamResults[event][gender]:
 
                 if competition not in eventMeta:
                     eventMeta[competition] = {}
 
                 eventMeta[competition][gender] = racemeta[competition][gender]
+
+                if competition != "OVERALL":
+                    totalGenderParticipants[gender]+=racemeta[competition][gender]["participants"]
 
                 baseFileName = (
                     event + "." + competition + "." + GENDER_COMPETITION_MAP[gender]
@@ -208,7 +216,7 @@ logging.info(f"Finished processing: {DATA_DIR}")
 
 # TODO: This all needs refactoring/tidying up
 json_write(
-    object={"races": eventMeta, "attendance": eventTotalParticipants},
+    object={"races": eventMeta, "attendance": {"total": eventTotalParticipants,"gender":totalGenderParticipants}},
     filename=RESULTS_DIR + "/" + "meta.json",
 )
 

@@ -17,6 +17,10 @@
     * Add adjustments if required
     * Review initial errors, eg. Time sequence/transcription issues, correct and re-download/process
 
+## For totals across season
+
+* Run: `tools/team-results.py`
+
 # Outline intent
 
 * See [top-level README](../README.md) for overall approach
