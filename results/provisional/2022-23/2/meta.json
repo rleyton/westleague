@@ -300,5 +300,11 @@
                   }
             }
       },
-      "attendance": 326
+      "attendance": {
+            "total": 326,
+            "gender": {
+                  "M": 197,
+                  "F": 129
+            }
+      }
 }

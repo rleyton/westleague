@@ -10,7 +10,7 @@ def results_merge(times=None, places=None):
             results = times.join(other=places, lsuffix="times", rsuffix="places")
             return results
         else:
-            raise Exception("Mismatch on number of times and places")
+            raise Exception("Mismatch on number of times and places (check right source spreadsheet?)")
 
 
 def get_all_possible_columns(results):
