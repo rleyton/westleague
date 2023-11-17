@@ -1,7 +1,20 @@
 # Results 
 
+## Submission of results
 
-# 2022-23
+* Team managers/club captains, please see the [league website for details on submitting results](https://westleague.org.uk/results/submission/)
+
+
+## 2023-24
+
+* Event #1, Kilmarnock (18th November, 2023)
+  * Please check back after the event
+* Event #2, Bellahouston (20th January, 2024)
+  * Please check back after the event
+* Event #3, Erskine (10th February, 2024)
+  * Please check back after the event
+
+## 2022-23
 
 * [Event #1, Strathaven](https://results.westleague.org.uk/results/confirmed/2022-23/1/html/)
   * [Race results](https://results.westleague.org.uk/results/confirmed/2022-23/1/html/)
@@ -74,21 +87,21 @@
     * See [the league website](https://westleague.org.uk/what-do-i-need-to-know/results-and-points-system/) for more detail.
 
 
-# Results processing, technical notes 
+## Results processing, technical notes 
 
-## Introduction
+### Introduction
 
 This is a repository for tooling, and public data, for the [West District XC League](https://westleague.org.uk/).
 
-## Running the results process
+### Running the results process
 
 See [tools/README.md](./tools/README.md) for the steps to process results.
 
-# Reference data
+## Reference data
 
 * [West District clubs (CSV)](./data/reference/clubs.csv)
 
-# See also
+## See also
 
 * [West District League website](https://westleague.org.uk/)
 
