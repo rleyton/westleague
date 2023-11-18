@@ -1,0 +1,107 @@
+|   position | times   | team   | gender   | AgeCat   |   clubnumber | Club name                  | Website                                    |   finishPosition |
+|-----------:|:--------|:-------|:---------|:---------|-------------:|:---------------------------|:-------------------------------------------|-----------------:|
+|          1 | 0:26:34 | 2M     | M        | U20      |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |                1 |
+|          2 | 0:26:37 | 40M    | M        | U20      |           40 | Motherwell AC              | https://motherwellac.com/                  |                2 |
+|          3 | 0:26:39 | 1M     | M        | U20      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |                3 |
+|          4 | 0:26:49 | 1M     | M        | U20      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |                4 |
+|          5 | 0:27:26 | 2M     | M        | U20      |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |                5 |
+|          6 | 0:27:26 | 10M    | M        | U20      |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |                6 |
+|          7 | 0:27:36 | 10M    | M        | U20      |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |                7 |
+|          8 | 0:27:43 | 14M    | M        | U20      |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |                8 |
+|          9 | 0:28:08 | 5M     | M        | U20      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |                9 |
+|         10 | 0:28:24 | 8M     | M        | U20      |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |               10 |
+|         11 | 0:28:36 | 6M     | M        | U20      |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |               11 |
+|         12 | 0:28:51 | 1M     | M        | U20      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |               12 |
+|         13 | 0:28:55 | 27M    | M        | U20      |           27 | Glasgow FrontRunners       | nan                                        |               13 |
+|         14 | 0:29:00 | 37M    | M        | U20      |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               14 |
+|         15 | 0:29:15 | 5M     | M        | U20      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |               15 |
+|         16 | 0:29:21 | 34M    | M        | U20      |           34 | Kilbarchan AAC             | https://kilbarchanaac.org.uk/              |               16 |
+|         17 | 0:29:33 | 6M     | M        | U20      |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |               17 |
+|         18 | 0:29:36 | 5M     | M        | U20      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |               18 |
+|         19 | 0:29:37 | 4M     | M        | U20      |            4 | Inverclyde AC              | https://www.inverclydeac.org/              |               19 |
+|         20 | 0:29:38 | 37M    | M        | U20      |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               20 |
+|         21 | 0:29:38 | 37M    | M        | U20      |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               21 |
+|         22 | 0:29:49 | 5M     | M        | U20      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |               23 |
+|         23 | 0:29:52 | 2M     | M        | U20      |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |               24 |
+|         24 | 0:29:53 | 8M     | M        | U20      |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |               25 |
+|         25 | 0:30:03 | 3M     | M        | U20      |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |               26 |
+|         26 | 0:30:07 | 2M     | M        | U20      |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |               27 |
+|         27 | 0:30:24 | 10M    | M        | U20      |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |               28 |
+|         28 | 0:30:30 | 14M    | M        | U20      |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |               29 |
+|         29 | 0:30:31 | 32M    | M        | U20      |           32 | Helensburgh AAC            | nan                                        |               30 |
+|         30 | 0:30:43 | 3M     | M        | U20      |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |               31 |
+|         31 | 0:30:48 | 33M    | M        | U20      |           33 | Irvine RC                  | https://www.irvinerunningclub.co.uk/       |               32 |
+|         32 | 0:30:55 | 4M     | M        | U20      |            4 | Inverclyde AC              | https://www.inverclydeac.org/              |               33 |
+|         33 | 0:31:05 | 8M     | M        | U20      |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |               34 |
+|         34 | 0:31:30 | 5M     | M        | U20      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |               35 |
+|         35 | 0:32:07 | 5M     | M        | U20      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |               37 |
+|         36 | 0:32:11 | 7M     | M        | U20      |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |               38 |
+|         37 | 0:32:15 | 14M    | M        | U20      |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |               39 |
+|         38 | 0:32:32 | 17M    | M        | U20      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |               41 |
+|         39 | 0:32:36 | 53M    | M        | U20      |           53 | Troon Tortoises            | http://troontortoises.co.uk                |               42 |
+|         40 | 0:32:49 | 10M    | M        | U20      |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |               44 |
+|         41 | 0:32:51 | 6M     | M        | U20      |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |               45 |
+|         42 | 0:32:58 | 27M    | M        | U20      |           27 | Glasgow FrontRunners       | nan                                        |               47 |
+|         43 | 0:33:03 | 33M    | M        | U20      |           33 | Irvine RC                  | https://www.irvinerunningclub.co.uk/       |               48 |
+|         44 | 0:33:07 | 37M    | M        | U20      |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               49 |
+|         45 | 0:33:09 | 1M     | M        | U20      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |               50 |
+|         46 | 0:33:17 | 44M    | M        | U20      |           44 | North Ayrshire AAC         | https://naathletics.co.uk/                 |               53 |
+|         47 | 0:33:38 | 5M     | M        | U20      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |               56 |
+|         48 | 0:33:38 | 6M     | M        | U20      |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |               57 |
+|         49 | 0:33:40 | 44M    | M        | U20      |           44 | North Ayrshire AAC         | https://naathletics.co.uk/                 |               58 |
+|         50 | 0:33:40 | 1M     | M        | U20      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |               59 |
+|         51 | 0:33:40 | 30M    | M        | U20      |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |               60 |
+|         52 | 0:33:40 | 30M    | M        | U20      |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |               61 |
+|         53 | 0:34:10 | 2M     | M        | U20      |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |               65 |
+|         54 | 0:34:12 | 10M    | M        | U20      |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |               67 |
+|         55 | 0:34:15 | 56M    | M        | U20      |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |               68 |
+|         56 | 0:34:27 | 40M    | M        | U20      |           40 | Motherwell AC              | https://motherwellac.com/                  |               70 |
+|         57 | 0:34:37 | 42M    | M        | U20      |           42 | Newton Road Runners        | https://www.newton-roadrunners.com/        |               71 |
+|         58 | 0:34:43 | 53M    | M        | U20      |           53 | Troon Tortoises            | http://troontortoises.co.uk                |               72 |
+|         59 | 0:34:55 | 6M     | M        | U20      |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |               74 |
+|         60 | 0:35:02 | 3M     | M        | U20      |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |               75 |
+|         61 | 0:35:07 | 57M    | M        | U20      |           57 | Whitemoss AAC              | https://whitemossaac.co.uk/                |               76 |
+|         62 | 0:35:12 | 2M     | M        | U20      |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |               77 |
+|         63 | 0:35:17 | 27M    | M        | U20      |           27 | Glasgow FrontRunners       | nan                                        |               78 |
+|         64 | 0:35:21 | 27M    | M        | U20      |           27 | Glasgow FrontRunners       | nan                                        |               79 |
+|         65 | 0:35:32 | 42M    | M        | U20      |           42 | Newton Road Runners        | https://www.newton-roadrunners.com/        |               80 |
+|         66 | 0:35:35 | 42M    | M        | U20      |           42 | Newton Road Runners        | https://www.newton-roadrunners.com/        |               81 |
+|         67 | 0:35:47 | 42M    | M        | U20      |           42 | Newton Road Runners        | https://www.newton-roadrunners.com/        |               82 |
+|         68 | 0:35:59 | 5M     | M        | U20      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |               83 |
+|         69 | 0:36:06 | 37M    | M        | U20      |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               84 |
+|         70 | 0:36:18 | 30M    | M        | U20      |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |               85 |
+|         71 | 0:36:20 | 6M     | M        | U20      |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |               87 |
+|         72 | 0:36:22 | 8M     | M        | U20      |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |               88 |
+|         73 | 0:36:43 | 3M     | M        | U20      |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |               92 |
+|         74 | 0:36:49 | 10M    | M        | U20      |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |               93 |
+|         75 | 0:36:49 | 1M     | M        | U20      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |               94 |
+|         76 | 0:36:55 | 3M     | M        | U20      |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |               96 |
+|         77 | 0:37:10 | 37M    | M        | U20      |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               98 |
+|         78 | 0:37:16 | 37M    | M        | U20      |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               99 |
+|         79 | 0:37:19 | 2M     | M        | U20      |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |              100 |
+|         80 | 0:37:21 | 3M     | M        | U20      |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |              101 |
+|         81 | 0:37:23 | 8M     | M        | U20      |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |              102 |
+|         82 | 0:37:33 | 11M    | M        | U20      |           11 | Airdrie Harriers           | http://airdrieharriers.org/                |              104 |
+|         83 | 0:37:47 | 3M     | M        | U20      |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |              107 |
+|         84 | 0:37:53 | 1M     | M        | U20      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |              108 |
+|         85 | 0:37:57 | 56M    | M        | U20      |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |              109 |
+|         86 | 0:38:02 | 40M    | M        | U20      |           40 | Motherwell AC              | https://motherwellac.com/                  |              111 |
+|         87 | 0:38:26 | 57M    | M        | U20      |           57 | Whitemoss AAC              | https://whitemossaac.co.uk/                |              114 |
+|         88 | 0:38:31 | 6M     | M        | U20      |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |              115 |
+|         89 | 0:38:42 | 2M     | M        | U20      |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |              117 |
+|         90 | 0:38:51 | 37M    | M        | U20      |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |              118 |
+|         91 | 0:39:09 | 5M     | M        | U20      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |              120 |
+|         92 | 0:39:16 | 8M     | M        | U20      |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |              121 |
+|         93 | 0:39:18 | 10M    | M        | U20      |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |              123 |
+|         94 | 0:39:37 | 30M    | M        | U20      |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |              125 |
+|         95 | 0:39:44 | 44M    | M        | U20      |           44 | North Ayrshire AAC         | https://naathletics.co.uk/                 |              126 |
+|         96 | 0:40:36 | 27M    | M        | U20      |           27 | Glasgow FrontRunners       | nan                                        |              131 |
+|         97 | 0:40:52 | 30M    | M        | U20      |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |              134 |
+|         98 | 0:40:54 | 8M     | M        | U20      |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |              135 |
+|         99 | 0:41:15 | 42M    | M        | U20      |           42 | Newton Road Runners        | https://www.newton-roadrunners.com/        |              136 |
+|        100 | 0:41:17 | 56M    | M        | U20      |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |              137 |
+|        101 | 0:41:26 | 56M    | M        | U20      |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |              138 |
+|        102 | 0:42:47 | 57M    | M        | U20      |           57 | Whitemoss AAC              | https://whitemossaac.co.uk/                |              143 |
+|        103 | 0:43:04 | 36M    | M        | U20      |           36 | Larkhall YMCA              | https://www.larkhallymcaharriers.org       |              145 |
+|        104 | 0:43:25 | 8M     | M        | U20      |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |              146 |
+|        105 | 0:44:41 | 11M    | M        | U20      |           11 | Airdrie Harriers           | http://airdrieharriers.org/                |              148 |
