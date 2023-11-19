@@ -6,7 +6,7 @@
 
 ## Provisional results
 
-_Provisional results reflect team submissions received by 19th November, 11:50am_ - Please direct queries/issues to contact@westleague.org.uk
+_Provisional results reflect team submissions received by **19th November, 3:15pm**_ - Please direct queries/issues to contact@westleague.org.uk
 
 * [Event #1, Kilmarnock (18th November, 2023)](https://results.westleague.org.uk/results/provisional/2023-24/1/html/)
   * [Provisional Race results](https://results.westleague.org.uk/results/provisional/2023-24/1/html/) - See below for known issues
@@ -19,7 +19,7 @@ _Provisional results reflect team submissions received by 19th November, 11:50am
 
 ### Known results issues
 
-* [17 teams still to submit results, list here](https://github.com/rleyton/westleague/blob/2023-24-kilmarnock-inital/results/provisional/2023-24/1/markdown/missingTeamSubmissions.md)
+* [15 teams still to submit results, list here](https://github.com/rleyton/westleague/blob/2023-24-kilmarnock-inital/results/provisional/2023-24/1/markdown/missingTeamSubmissions.md)
 * Known time/results mismatch in the following events:
   * U11 Boys 
   * U15 Combined
