@@ -29,13 +29,13 @@
 |         27 | 0:30:07 | 2M     | Graeme Quinn          | M        | SENIOR   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
 |         28 | 0:30:24 | 10M    | Callum Butterworth    | M        | SENIOR   |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |
 |         29 | 0:30:30 | 14M    | Ben Forrest           | M        | SENIOR   |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
-|         30 | 0:30:31 | 32M    | Claire Heasman        | M        | MASTER   |           32 | Helensburgh AAC            | https://www.helensburghaac.com/            |
+|         30 | 0:30:31 | 32M    | Richard O'Grady       | M        | MASTER   |           32 | Helensburgh AAC            | https://www.helensburghaac.com/            |
 |         31 | 0:30:43 | 3M     | Craig Ross            | M        | MASTER   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
 |         32 | 0:30:48 | 33M    | nan                   | M        | nan      |           33 | Irvine RC                  | https://www.irvinerunningclub.co.uk/       |
 |         33 | 0:30:55 | 4M     | nan                   | M        | nan      |            4 | Inverclyde AC              | https://www.inverclydeac.org/              |
 |         34 | 0:31:05 | 8M     | nan                   | M        | nan      |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
 |         35 | 0:31:30 | 5M     | nan                   | M        | nan      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
-|         36 | 0:31:35 | 32F    | Richard O'Grady       | F        | MASTER   |           32 | Helensburgh AAC            | https://www.helensburghaac.com/            |
+|         36 | 0:31:35 | 32F    | Claire Heasman        | F        | MASTER   |           32 | Helensburgh AAC            | https://www.helensburghaac.com/            |
 |         37 | 0:32:07 | 5M     | nan                   | M        | nan      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
 |         38 | 0:32:11 | 7M     | nan                   | M        | nan      |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |
 |         39 | 0:32:15 | 14M    | Alasdair Meldrum      | M        | MASTER   |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |

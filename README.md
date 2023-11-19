@@ -7,8 +7,25 @@
 
 ## 2023-24
 
-* Event #1, Kilmarnock (18th November, 2023)
-  * Please check back after the event
+
+### Provisional results
+* [Event #1, Kilmarnock (18th November, 2023)](https://results.westleague.org.uk/results/provisional/2023-24/1/html/)
+  * [Provisional Race results](https://results.westleague.org.uk/results/provisional/2023-24/1/html/) - See below for known issues
+  * **Teams still need to submit results** - [List of teams here](https://github.com/rleyton/westleague/blob/2023-24-kilmarnock-inital/results/provisional/2023-24/1/markdown/missingTeamSubmissions.md), [please submit via website here](https://westleague.org.uk/results/submission/)
+  * Hosted by [Kilmarnock H&AC](http://www.kilmarnockharriers.com/)
+  * [Attendance: 441](./results/provisional/2023-24/1/meta.json)
+  * [Thanks to the 20 volunteers](./results/provisional/2023-24/1/html/volunteers.html)
+  * Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/1), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/1/markdown/)
+
+#### Currently known results issues
+
+* [17 teams still to submit results, list here](https://github.com/rleyton/westleague/blob/2023-24-kilmarnock-inital/results/provisional/2023-24/1/markdown/missingTeamSubmissions.md)
+* Known time/results mismatch in the following events:
+  * U11 Boys 
+  * U15 Combined
+
+### Future events
+
 * Event #2, Bellahouston (20th January, 2024)
   * Please check back after the event
 * Event #3, Erskine (10th February, 2024)

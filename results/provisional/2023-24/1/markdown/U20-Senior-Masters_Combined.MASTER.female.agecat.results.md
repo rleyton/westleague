@@ -1,6 +1,6 @@
 |   position | times   | team   | Name              | gender   | AgeCat   |   clubnumber | Club name                  | Website                                    |   finishPosition |
 |-----------:|:--------|:-------|:------------------|:---------|:---------|-------------:|:---------------------------|:-------------------------------------------|-----------------:|
-|          1 | 0:31:35 | 32F    | Richard O'Grady   | F        | MASTER   |           32 | Helensburgh AAC            | https://www.helensburghaac.com/            |               36 |
+|          1 | 0:31:35 | 32F    | Claire Heasman    | F        | MASTER   |           32 | Helensburgh AAC            | https://www.helensburghaac.com/            |               36 |
 |          2 | 0:33:33 | 6F     | Natalie Brohan    | F        | MASTER   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |               55 |
 |          3 | 0:33:44 | 6F     | Kirsty Anderson   | F        | MASTER   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |               62 |
 |          4 | 0:33:50 | 1F     | KELLY BAILLIE     | F        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |               63 |

@@ -1,7 +1,7 @@
 |   position | times   | team   | Name              | gender   | AgeCat   |   clubnumber | Club name                  | Website                                    |   finishPosition |
 |-----------:|:--------|:-------|:------------------|:---------|:---------|-------------:|:---------------------------|:-------------------------------------------|-----------------:|
 |          1 | 0:29:48 | 7F     | nan               | F        | nan      |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |               22 |
-|          2 | 0:31:35 | 32F    | Richard O'Grady   | F        | MASTER   |           32 | Helensburgh AAC            | https://www.helensburghaac.com/            |               36 |
+|          2 | 0:31:35 | 32F    | Claire Heasman    | F        | MASTER   |           32 | Helensburgh AAC            | https://www.helensburghaac.com/            |               36 |
 |          3 | 0:32:30 | 48F    | nan               | F        | nan      |           48 | Springburn Harriers        | https://www.springburnharriers.co.uk/      |               40 |
 |          4 | 0:32:44 | 14F    | Anna Blake        | F        | SENIOR   |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |               43 |
 |          5 | 0:32:53 | 4F     | nan               | F        | nan      |            4 | Inverclyde AC              | https://www.inverclydeac.org/              |               46 |
