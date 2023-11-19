@@ -39,7 +39,7 @@
 |         37 | 0:32:07 | 5M     | nan                   | M        | nan      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
 |         38 | 0:32:11 | 7M     | nan                   | M        | nan      |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |
 |         39 | 0:32:15 | 14M    | Alasdair Meldrum      | M        | MASTER   |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
-|         40 | 0:32:30 | 48F    | nan                   | F        | nan      |           48 | Springburn Harriers        | https://www.springburnharriers.co.uk/      |
+|         40 | 0:32:30 | 48F    | Cat Gillen            | F        | SENIOR   |           48 | Springburn Harriers        | https://www.springburnharriers.co.uk/      |
 |         41 | 0:32:32 | 17M    | nan                   | M        | nan      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |
 |         42 | 0:32:36 | 53M    | nan                   | M        | nan      |           53 | Troon Tortoises            | http://troontortoises.co.uk                |
 |         43 | 0:32:44 | 14F    | Anna Blake            | F        | SENIOR   |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
@@ -63,7 +63,7 @@
 |         61 | 0:33:40 | 30M    | Stephen Harrison      | M        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
 |         62 | 0:33:44 | 6F     | Kirsty Anderson       | F        | MASTER   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
 |         63 | 0:33:50 | 1F     | KELLY BAILLIE         | F        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
-|         64 | 0:33:55 | 48F    | nan                   | F        | nan      |           48 | Springburn Harriers        | https://www.springburnharriers.co.uk/      |
+|         64 | 0:33:55 | 48F    | Ruth Fraser-Moodie    | F        | MASTER   |           48 | Springburn Harriers        | https://www.springburnharriers.co.uk/      |
 |         65 | 0:34:10 | 2M     | Nick Carter           | M        | SENIOR   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
 |         66 | 0:34:11 | 1F     | MILLIE AITKEN         | F        | U20      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
 |         67 | 0:34:12 | 10M    | John Oates            | M        | MASTER   |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |

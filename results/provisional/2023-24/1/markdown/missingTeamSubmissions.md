@@ -10,7 +10,6 @@
 |     33 | Irvine RC             | https://www.irvinerunningclub.co.uk/      |
 |     34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/             |
 |     46 | Royal Mail Run GMC    | https://www.facebook.com/royalmailrungmc/ |
-|     48 | Springburn Harriers   | https://www.springburnharriers.co.uk/     |
 |     51 | Strathclyde Police AC | nan                                       |
 |     53 | Troon Tortoises       | http://troontortoises.co.uk               |
 |     56 | West End RR           | https://www.westendroadrunners.co.uk/     |
