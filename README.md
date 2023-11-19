@@ -10,7 +10,7 @@ _Provisional results reflect team submissions received by **19th November, 3:15p
 
 * [Event #1, Kilmarnock (18th November, 2023)](https://results.westleague.org.uk/results/provisional/2023-24/1/html/)
   * [Provisional Race results](https://results.westleague.org.uk/results/provisional/2023-24/1/html/) - See below for known issues
-  * **Teams still need to submit results** - [List of teams here](https://github.com/rleyton/westleague/blob/2023-24-kilmarnock-inital/results/provisional/2023-24/1/markdown/missingTeamSubmissions.md), [please submit via website here](https://westleague.org.uk/results/submission/)
+  * **Teams still need to submit results** - [List of teams here](https://github.com/rleyton/westleague/blob/main/results/provisional/2023-24/1/markdown/missingTeamSubmissions.md), [please submit via website here](https://westleague.org.uk/results/submission/)
   * Hosted by [Kilmarnock H&AC](http://www.kilmarnockharriers.com/)
   * [Attendance: 441](./results/provisional/2023-24/1/meta.json)
   * [Thanks to the 20 volunteers](./results/provisional/2023-24/1/html/volunteers.html)
@@ -19,7 +19,7 @@ _Provisional results reflect team submissions received by **19th November, 3:15p
 
 ### Known results issues
 
-* [15 teams still to submit results, list here](https://github.com/rleyton/westleague/blob/2023-24-kilmarnock-inital/results/provisional/2023-24/1/markdown/missingTeamSubmissions.md)
+* [15 teams still to submit results, list here](https://github.com/rleyton/westleague/blob/main/results/provisional/2023-24/1/markdown/missingTeamSubmissions.md)
 * Known time/results mismatch in the following events:
   * U11 Boys 
   * U15 Combined
