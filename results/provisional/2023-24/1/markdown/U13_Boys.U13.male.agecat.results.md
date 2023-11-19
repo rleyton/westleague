@@ -31,6 +31,6 @@
 |         29 | 0:12:15 | 7M     | nan                   | M        | U13      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |               29 |
 |         30 | 0:12:26 | 17M    | nan                   | M        | U13      |           17 | Calderglen Harriers | http://www.calderglenharriers.org.uk/ |               30 |
 |         31 | 0:12:34 | 11M    | nan                   | M        | U13      |           11 | Airdrie Harriers    | http://airdrieharriers.org/           |               31 |
-|         32 | 0:12:55 | 36M    | nan                   | M        | U13      |           36 | Larkhall YMCA       | https://www.larkhallymcaharriers.org  |               32 |
+|         32 | 0:12:55 | 36M    | Gavin Lees            | M        | U13      |           36 | Larkhall YMCA       | https://www.larkhallymcaharriers.org  |               32 |
 |         33 | 0:13:00 | 11M    | nan                   | M        | U13      |           11 | Airdrie Harriers    | http://airdrieharriers.org/           |               33 |
-|         34 | 0:13:36 | 36M    | nan                   | M        | U13      |           36 | Larkhall YMCA       | https://www.larkhallymcaharriers.org  |               34 |
+|         34 | 0:13:36 | 36M    | Sam Thomson           | M        | U13      |           36 | Larkhall YMCA       | https://www.larkhallymcaharriers.org  |               34 |

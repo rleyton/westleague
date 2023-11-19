@@ -1,14 +1,16 @@
 |   1 |   Total | Club name                  | Website                                    |
 |----:|--------:|:---------------------------|:-------------------------------------------|
-|  23 |      23 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |
-|  35 |      35 | East Kilbride AC           | http://www.ekac.org.uk/                    |
-|  40 |      40 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
-|  44 |      44 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
-|  53 |      53 | North Ayrshire AAC         | https://naathletics.co.uk/                 |
-|  56 |      56 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
-|  65 |      65 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
-|  75 |      75 | Law & District AAC         | http://www.lawaac.co.uk/                   |
-|  88 |      88 | Motherwell AC              | https://motherwellac.com/                  |
-|  93 |      93 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
-|  97 |      97 | Helensburgh AAC            | https://www.helensburghaac.com/            |
-| 100 |     100 | Newton Road Runners        | https://www.newton-roadrunners.com/        |
+|  25 |      25 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |
+|  38 |      38 | East Kilbride AC           | http://www.ekac.org.uk/                    |
+|  42 |      42 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
+|  48 |      48 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
+|  56 |      56 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
+|  59 |      59 | North Ayrshire AAC         | https://naathletics.co.uk/                 |
+|  64 |      64 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
+|  71 |      71 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
+|  81 |      81 | Law & District AAC         | http://www.lawaac.co.uk/                   |
+|  99 |      99 | Motherwell AC              | https://motherwellac.com/                  |
+| 104 |     104 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
+| 112 |     112 | Helensburgh AAC            | https://www.helensburghaac.com/            |
+| 113 |     113 | Newton Road Runners        | https://www.newton-roadrunners.com/        |
+| 148 |     148 | Larkhall YMCA              | https://www.larkhallymcaharriers.org       |

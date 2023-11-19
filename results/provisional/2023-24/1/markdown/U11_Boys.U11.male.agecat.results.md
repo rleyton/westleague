@@ -35,13 +35,13 @@
 |         33 | 0:06:02 | 7M     | nan                | M        | U11      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/      |               33 |
 |         34 | 0:06:02 | 34M    | nan                | M        | U11      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/         |               34 |
 |         35 | 0:06:03 | 2M     | Keir Jamieson      | M        | U11      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/    |               35 |
-|         36 | 0:06:03 | 36M    | nan                | M        | U11      |           36 | Larkhall YMCA        | https://www.larkhallymcaharriers.org  |               36 |
+|         36 | 0:06:03 | 36M    | George Brown       | M        | U11      |           36 | Larkhall YMCA        | https://www.larkhallymcaharriers.org  |               36 |
 |         37 | 0:06:03 | 1M     | MAX TOBIN          | M        | U11      |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |               37 |
 |         38 | 0:06:03 | 2M     | Neil Parker        | M        | U11      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/    |               38 |
 |         39 | 0:06:03 | 10M    | Louis Millican     | M        | U11      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/    |               39 |
 |         40 | 0:06:05 | 17M    | nan                | M        | U11      |           17 | Calderglen Harriers  | http://www.calderglenharriers.org.uk/ |               40 |
 |         41 | 0:06:05 | 54M    | Matthew Dempsey    | M        | U11      |           54 | VP-Glasgow           | https://www.vp-glasgow.com            |               41 |
-|         42 | 0:06:10 | 36M    | nan                | M        | U11      |           36 | Larkhall YMCA        | https://www.larkhallymcaharriers.org  |               42 |
+|         42 | 0:06:10 | 36M    | Drew Reid          | M        | U11      |           36 | Larkhall YMCA        | https://www.larkhallymcaharriers.org  |               42 |
 |         43 | 0:06:10 | 1M     | CALUM McCORMICK    | M        | U11      |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |               43 |
 |         44 | 0:06:10 | 10M    | Naod Woldeselassie | M        | U11      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/    |               44 |
 |         45 | 0:06:13 | 2M     | Aeson Allardyce    | M        | U11      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/    |               45 |

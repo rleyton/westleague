@@ -1,6 +1,7 @@
-|   position | Club name           |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                            |
-|-----------:|:--------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-----------------------------------|
-|          1 | Cambuslang Harriers |      6 | F        | 2,3                 |            5 |              32 |            37 |                2 | https://cambuslangharriers.org/    |
-|          2 | Ayr Seaforth AC     |     14 | F        | 1,6                 |            7 |              32 |            39 |                2 | https://www.ayrseaforth.co.uk/     |
-|          3 | Kilmarnock H&AC     |      2 | F        | 4                   |            4 |              48 |            52 |                1 | http://www.kilmarnockharriers.com/ |
-|          4 | Law & District AAC  |     37 | F        | 5                   |            5 |              48 |            53 |                1 | http://www.lawaac.co.uk/           |
+|   position | Club name             |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                |
+|-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:---------------------------------------|
+|          1 | Bellahouston Harriers |      8 | F        | 3,4,8               |           15 |              19 |            34 |                3 | http://www.bellahoustonharriers.co.uk/ |
+|          2 | Cambuslang Harriers   |      6 | F        | 2,5                 |            7 |              38 |            45 |                2 | https://cambuslangharriers.org/        |
+|          3 | Ayr Seaforth AC       |     14 | F        | 1,9                 |           10 |              38 |            48 |                2 | https://www.ayrseaforth.co.uk/         |
+|          4 | Kilmarnock H&AC       |      2 | F        | 6                   |            6 |              57 |            63 |                1 | http://www.kilmarnockharriers.com/     |
+|          5 | Law & District AAC    |     37 | F        | 7                   |            7 |              57 |            64 |                1 | http://www.lawaac.co.uk/               |

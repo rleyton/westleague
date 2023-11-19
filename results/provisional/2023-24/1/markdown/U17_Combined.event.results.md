@@ -23,7 +23,7 @@
 |         21 | 0:22:08 | 2M     | Callum Riddell     | M        | U17      |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/    |
 |         22 | 0:22:52 | 11M    | nan                | M        | U17      |           11 | Airdrie Harriers           | http://airdrieharriers.org/           |
 |         23 | 0:22:52 | 11F    | nan                | F        | U17      |           11 | Airdrie Harriers           | http://airdrieharriers.org/           |
-|         24 | 0:23:35 | 36M    | nan                | M        | U17      |           36 | Larkhall YMCA              | https://www.larkhallymcaharriers.org  |
+|         24 | 0:23:35 | 36M    | Rhys Thomson       | M        | U17      |           36 | Larkhall YMCA              | https://www.larkhallymcaharriers.org  |
 |         25 | 0:23:41 | 2F     | Eve Starritt       | F        | U17      |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/    |
 |         26 | 0:23:49 | 10F    | Katie Burns        | F        | U17      |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/    |
 |         27 | 0:23:56 | 30F    | Evie Harrison      | F        | U17      |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/ |

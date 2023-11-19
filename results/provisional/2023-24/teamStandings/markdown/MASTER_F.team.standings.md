@@ -1,11 +1,13 @@
 |   1 |   Total | Club name                  | Website                                    |
 |----:|--------:|:---------------------------|:-------------------------------------------|
-|  13 |      13 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
-|  36 |      36 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
-|  37 |      37 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
-|  39 |      39 | Law & District AAC         | http://www.lawaac.co.uk/                   |
-|  57 |      57 | Helensburgh AAC            | https://www.helensburghaac.com/            |
-|  60 |      60 | East Kilbride AC           | http://www.ekac.org.uk/                    |
-|  63 |      63 | Newton Road Runners        | https://www.newton-roadrunners.com/        |
-|  69 |      69 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
-|  70 |      70 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
+|  15 |      15 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
+|  43 |      43 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
+|  43 |      43 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
+|  43 |      43 | Law & District AAC         | http://www.lawaac.co.uk/                   |
+|  45 |      45 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
+|  65 |      65 | Helensburgh AAC            | https://www.helensburghaac.com/            |
+|  68 |      68 | East Kilbride AC           | http://www.ekac.org.uk/                    |
+|  71 |      71 | Larkhall YMCA              | https://www.larkhallymcaharriers.org       |
+|  73 |      73 | Newton Road Runners        | https://www.newton-roadrunners.com/        |
+|  79 |      79 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
+|  81 |      81 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
