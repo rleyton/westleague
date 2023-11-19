@@ -1,0 +1,13 @@
+|   position | Club name            |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                              |
+|-----------:|:---------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------|
+|          1 | East Kilbride AC     |      1 | M        | 1,2,3               |            6 |               0 |             6 |                5 | http://www.ekac.org.uk/              |
+|          2 | Kilbarchan AAC       |     34 | M        | 7,8                 |           15 |              29 |            44 |                2 | https://kilbarchanaac.org.uk/        |
+|          3 | Helensburgh AAC      |     32 | M        | 12,15               |           27 |              29 |            56 |                2 | https://www.helensburghaac.com/      |
+|          4 | Ayr Seaforth AC      |     14 | M        | 13,16               |           29 |              29 |            58 |                2 | https://www.ayrseaforth.co.uk/       |
+|          5 | Cambuslang Harriers  |      6 | M        | 4                   |            4 |              58 |            62 |                1 | https://cambuslangharriers.org/      |
+|          6 | VP-Glasgow           |     54 | M        | 5                   |            5 |              58 |            63 |                1 | https://www.vp-glasgow.com           |
+|          7 | Shettleston Harriers |     10 | M        | 18,19               |           37 |              29 |            66 |                2 | http://shettlestonharriers.org.uk/   |
+|          8 | Kilmarnock H&AC      |      2 | M        | 9                   |            9 |              58 |            67 |                1 | http://www.kilmarnockharriers.com/   |
+|          9 | Law & District AAC   |     37 | M        | 10                  |           10 |              58 |            68 |                1 | http://www.lawaac.co.uk/             |
+|         10 | Giffnock North AC    |      7 | M        | 11                  |           11 |              58 |            69 |                1 | https://www.giffnocknorth.co.uk/     |
+|         11 | Larkhall YMCA        |     36 | M        | 14                  |           14 |              58 |            72 |                1 | https://www.larkhallymcaharriers.org |

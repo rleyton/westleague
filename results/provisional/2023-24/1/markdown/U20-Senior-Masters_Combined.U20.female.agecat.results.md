@@ -1,0 +1,5 @@
+|   position | times   | team   | Name            | gender   | AgeCat   |   clubnumber | Club name            | Website                            |   finishPosition |
+|-----------:|:--------|:-------|:----------------|:---------|:---------|-------------:|:---------------------|:-----------------------------------|-----------------:|
+|          1 | 0:33:20 | 10F    | Gemma Griffiths | F        | U20      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/ |               54 |
+|          2 | 0:34:11 | 1F     | MILLIE AITKEN   | F        | U20      |            1 | East Kilbride AC     | http://www.ekac.org.uk/            |               66 |
+|          3 | 0:38:40 | 2F     | Izzy Caufield   | F        | U20      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/ |              116 |

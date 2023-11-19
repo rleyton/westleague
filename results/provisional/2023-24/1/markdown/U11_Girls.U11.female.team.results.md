@@ -1,0 +1,20 @@
+|   position | Club name             |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                               |
+|-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:--------------------------------------|
+|          1 | Law & District AAC    |     37 | F        | 1,9,12              |           22 |               0 |            22 |                4 | http://www.lawaac.co.uk/              |
+|          2 | Giffnock North AC     |      7 | F        | 2,18,20             |           40 |               0 |            40 |                6 | https://www.giffnocknorth.co.uk/      |
+|          3 | Airdrie Harriers      |     11 | F        | 3,22,31             |           56 |               0 |            56 |                6 | http://airdrieharriers.org/           |
+|          4 | Inverclyde AC         |      4 | F        | 7,24,27             |           58 |               0 |            58 |                7 | https://www.inverclydeac.org/         |
+|          5 | Shettleston Harriers  |     10 | F        | 5,26,29             |           60 |               0 |            60 |                5 | http://shettlestonharriers.org.uk/    |
+|          6 | North Ayrshire AAC    |     44 | F        | 8,16,39             |           63 |               0 |            63 |                5 | https://naathletics.co.uk/            |
+|          7 | VP-Glasgow            |     54 | F        | 4,23,41             |           68 |               0 |            68 |                4 | https://www.vp-glasgow.com            |
+|          8 | East Kilbride AC      |      1 | F        | 10,30,34            |           74 |               0 |            74 |                6 | http://www.ekac.org.uk/               |
+|          9 | Kilbarchan AAC        |     34 | F        | 13,17,50            |           80 |               0 |            80 |                3 | https://kilbarchanaac.org.uk/         |
+|         10 | Ayr Seaforth AC       |     14 | F        | 19,43               |           62 |              68 |           130 |                2 | https://www.ayrseaforth.co.uk/        |
+|         11 | Calderglen Harriers   |     17 | F        | 6                   |            6 |             136 |           142 |                1 | http://www.calderglenharriers.org.uk/ |
+|         12 | Motherwell AC         |     40 | F        | 11                  |           11 |             136 |           147 |                1 | https://motherwellac.com/             |
+|         13 | Cambuslang Harriers   |      6 | F        | 35,45               |           80 |              68 |           148 |                2 | https://cambuslangharriers.org/       |
+|         14 | Strathclyde Police AC |     51 | F        | 14                  |           14 |             136 |           150 |                1 | nan                                   |
+|         15 | Kilmarnock H&AC       |      2 | F        | 15                  |           15 |             136 |           151 |                1 | http://www.kilmarnockharriers.com/    |
+|         16 | Larkhall YMCA         |     36 | F        | 21                  |           21 |             136 |           157 |                1 | https://www.larkhallymcaharriers.org  |
+|         17 | Springburn Harriers   |     48 | F        | 25                  |           25 |             136 |           161 |                1 | https://www.springburnharriers.co.uk/ |
+|         18 | Whitemoss AAC         |     57 | F        | 47,55               |          102 |              68 |           170 |                2 | https://whitemossaac.co.uk/           |

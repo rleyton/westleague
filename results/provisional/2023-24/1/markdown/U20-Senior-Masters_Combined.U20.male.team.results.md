@@ -1,0 +1,5 @@
+|   position | Club name           |   team | gender   |   finisherPositions |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                            |
+|-----------:|:--------------------|-------:|:---------|--------------------:|-------------:|----------------:|--------------:|-----------------:|:-----------------------------------|
+|          1 | Kilmarnock H&AC     |      2 | M        |                   1 |            1 |              26 |            27 |                1 | http://www.kilmarnockharriers.com/ |
+|          2 | Law & District AAC  |     37 | M        |                   2 |            2 |              26 |            28 |                1 | http://www.lawaac.co.uk/           |
+|          3 | Cambuslang Harriers |      6 | M        |                   3 |            3 |              26 |            29 |                1 | https://cambuslangharriers.org/    |

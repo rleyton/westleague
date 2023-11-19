@@ -1,0 +1,27 @@
+|   position | times   | team   | Name                 | gender   | AgeCat   |   clubnumber | Club name                  | Website                                    |   finishPosition |
+|-----------:|:--------|:-------|:---------------------|:---------|:---------|-------------:|:---------------------------|:-------------------------------------------|-----------------:|
+|          1 | 0:26:37 | 40M    | JONATHAN MOORE (1ST) | M        | SENIOR   |           40 | Motherwell AC              | https://motherwellac.com/                  |                2 |
+|          2 | 0:26:39 | 1M     | JOHN FERGUSSON       | M        | SENIOR   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |                3 |
+|          3 | 0:27:26 | 2M     | Craig Ferguson       | M        | SENIOR   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |                5 |
+|          4 | 0:27:26 | 10M    | Andrew Taylor        | M        | SENIOR   |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |                6 |
+|          5 | 0:28:36 | 6M     | Steven Fitzpatrick   | M        | SENIOR   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |               11 |
+|          6 | 0:28:51 | 1M     | LUKE KIRWAN          | M        | SENIOR   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |               12 |
+|          7 | 0:29:00 | 37M    | Allan Neil           | M        | SENIOR   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               14 |
+|          8 | 0:29:38 | 37M    | Jordon Morrison      | M        | SENIOR   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               21 |
+|          9 | 0:29:52 | 2M     | Owen Walpole         | M        | SENIOR   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |               24 |
+|         10 | 0:30:03 | 3M     | Alan Moss            | M        | SENIOR   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |               26 |
+|         11 | 0:30:07 | 2M     | Graeme Quinn         | M        | SENIOR   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |               27 |
+|         12 | 0:30:24 | 10M    | Callum Butterworth   | M        | SENIOR   |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |               28 |
+|         13 | 0:30:30 | 14M    | Ben Forrest          | M        | SENIOR   |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |               29 |
+|         14 | 0:32:51 | 6M     | Lewis Anderson       | M        | SENIOR   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |               45 |
+|         15 | 0:33:07 | 37M    | Bobby Hill           | M        | SENIOR   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               49 |
+|         16 | 0:33:09 | 1M     | DAVID GORMAN         | M        | SENIOR   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |               50 |
+|         17 | 0:33:40 | 30M    | William Taylor       | M        | SENIOR   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |               60 |
+|         18 | 0:34:10 | 2M     | Nick Carter          | M        | SENIOR   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |               65 |
+|         19 | 0:34:37 | 42M    | Peter Alexander      | M        | SENIOR   |           42 | Newton Road Runners        | https://www.newton-roadrunners.com/        |               71 |
+|         20 | 0:35:35 | 42M    | Corey Craig          | M        | SENIOR   |           42 | Newton Road Runners        | https://www.newton-roadrunners.com/        |               81 |
+|         21 | 0:35:47 | 42M    | Jason Wood           | M        | SENIOR   |           42 | Newton Road Runners        | https://www.newton-roadrunners.com/        |               82 |
+|         22 | 0:36:49 | 10M    | Stephen Clarke       | M        | SENIOR   |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |               93 |
+|         23 | 0:37:10 | 37M    | Finn Milliagn        | M        | SENIOR   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               98 |
+|         24 | 0:37:19 | 2M     | Gary Martin          | M        | SENIOR   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |              100 |
+|         25 | 0:37:21 | 3M     | Andrew McCulloch     | M        | SENIOR   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |              101 |

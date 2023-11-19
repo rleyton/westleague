@@ -1,0 +1,22 @@
+|   position | Club name                  |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                    |
+|-----------:|:---------------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
+|          1 | Cambuslang Harriers        |      6 | F        | 6,9,10,17           |           42 |               0 |            42 |                5 | https://cambuslangharriers.org/            |
+|          2 | Bellahouston Harriers      |      8 | F        | 7,16,24,33          |           80 |               0 |            80 |                6 | http://www.bellahoustonharriers.co.uk/     |
+|          3 | Law & District AAC         |     37 | F        | 14,19,25            |           58 |              58 |           116 |                3 | http://www.lawaac.co.uk/                   |
+|          4 | Inverclyde AC              |      4 | F        | 5,34,36,42          |          117 |               0 |           117 |                4 | https://www.inverclydeac.org/              |
+|          5 | Springburn Harriers        |     48 | F        | 3,12                |           15 |             116 |           131 |                2 | https://www.springburnharriers.co.uk/      |
+|          6 | East Kilbride AC           |      1 | F        | 11,13               |           24 |             116 |           140 |                2 | http://www.ekac.org.uk/                    |
+|          7 | Ayr Seaforth AC            |     14 | F        | 4,41,43             |           88 |              58 |           146 |                3 | https://www.ayrseaforth.co.uk/             |
+|          8 | Kilmarnock H&AC            |      2 | F        | 23,28,38            |           89 |              58 |           147 |                3 | http://www.kilmarnockharriers.com/         |
+|          9 | Giffnock North AC          |      7 | F        | 1,37                |           38 |             116 |           154 |                2 | https://www.giffnocknorth.co.uk/           |
+|         10 | Greenock Glenpark Harriers |     30 | F        | 30,35,44,47         |          156 |               0 |           156 |                5 | https://greenockglenparkharriers.com/      |
+|         11 | Bellahouston RR            |      3 | F        | 31,32,46            |          109 |              58 |           167 |                3 | https://www.bellahoustonroadrunners.co.uk/ |
+|         12 | Troon Tortoises            |     53 | F        | 18,40               |           58 |             116 |           174 |                2 | http://troontortoises.co.uk                |
+|         13 | Helensburgh AAC            |     32 | F        | 2                   |            2 |             174 |           176 |                1 | https://www.helensburghaac.com/            |
+|         14 | Shettleston Harriers       |     10 | F        | 8                   |            8 |             174 |           182 |                1 | http://shettlestonharriers.org.uk/         |
+|         15 | West End RR                |     56 | F        | 15                  |           15 |             174 |           189 |                1 | https://www.westendroadrunners.co.uk/      |
+|         16 | Larkhall YMCA              |     36 | F        | 20                  |           20 |             174 |           194 |                1 | https://www.larkhallymcaharriers.org       |
+|         17 | Whitemoss AAC              |     57 | F        | 21                  |           21 |             174 |           195 |                1 | https://whitemossaac.co.uk/                |
+|         18 | Royal Mail Run GMC         |     46 | F        | 22                  |           22 |             174 |           196 |                1 | https://www.facebook.com/royalmailrungmc/  |
+|         19 | Airdrie Harriers           |     11 | F        | 26                  |           26 |             174 |           200 |                1 | http://airdrieharriers.org/                |
+|         20 | Newton Road Runners        |     42 | F        | 27                  |           27 |             174 |           201 |                1 | https://www.newton-roadrunners.com/        |

@@ -19,6 +19,10 @@ def adjust_times(times, adjustments):
                     theTime = times["times"][recordNum]
                     times.loc[refrecord] = (refrecord, theTime)
                     logging.info(f"Added new time record at {recordNum}")
+                elif row['adjustment']=='remove':
+                    logging.debug(f"Removing row {row['refrecord']}")
+                    times = times.drop(int(row['refrecord']))
+                    
                 else:
                     logging.debug(f"Adjustment of {row['adjustment']} ignored")
 

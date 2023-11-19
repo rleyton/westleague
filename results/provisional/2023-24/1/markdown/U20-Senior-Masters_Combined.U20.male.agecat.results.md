@@ -1,0 +1,5 @@
+|   position | times   | team   | Name            | gender   | AgeCat   |   clubnumber | Club name           | Website                            |   finishPosition |
+|-----------:|:--------|:-------|:----------------|:---------|:---------|-------------:|:--------------------|:-----------------------------------|-----------------:|
+|          1 | 0:26:34 | 2M     | Jonathon Downey | M        | U20      |            2 | Kilmarnock H&AC     | http://www.kilmarnockharriers.com/ |                1 |
+|          2 | 0:29:38 | 37M    | Logan Whitton   | M        | U20      |           37 | Law & District AAC  | http://www.lawaac.co.uk/           |               20 |
+|          3 | 0:33:38 | 6M     | Ross Noble      | M        | U20      |            6 | Cambuslang Harriers | https://cambuslangharriers.org/    |               57 |
