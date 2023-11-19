@@ -102,6 +102,6 @@
 |        100 | 0:41:17 | 56M    | nan                   | M        | nan      |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |              137 |
 |        101 | 0:41:26 | 56M    | nan                   | M        | nan      |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |              138 |
 |        102 | 0:42:47 | 57M    | nan                   | M        | nan      |           57 | Whitemoss AAC              | https://whitemossaac.co.uk/                |              143 |
-|        103 | 0:43:04 | 36M    | nan                   | M        | nan      |           36 | Larkhall YMCA              | https://www.larkhallymcaharriers.org       |              145 |
+|        103 | 0:43:04 | 36M    | William Thomson       | M        | MASTER   |           36 | Larkhall YMCA              | https://www.larkhallymcaharriers.org       |              145 |
 |        104 | 0:43:25 | 8M     | David Gemmell         | M        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |              146 |
 |        105 | 0:44:41 | 11M    | nan                   | M        | nan      |           11 | Airdrie Harriers           | http://airdrieharriers.org/                |              148 |

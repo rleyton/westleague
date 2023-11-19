@@ -94,7 +94,7 @@
 |         92 | 0:36:43 | 3M     | James Shepherd        | M        | MASTER   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
 |         93 | 0:36:49 | 10M    | Stephen Clarke        | M        | SENIOR   |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |
 |         94 | 0:36:49 | 1M     | ARTHUR MULHOLLAND     | M        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
-|         95 | 0:36:51 | 36F    | nan                   | F        | nan      |           36 | Larkhall YMCA              | https://www.larkhallymcaharriers.org       |
+|         95 | 0:36:51 | 36F    | Julie Hill            | F        | MASTER   |           36 | Larkhall YMCA              | https://www.larkhallymcaharriers.org       |
 |         96 | 0:36:55 | 3M     | Tom Ferris            | M        | MASTER   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
 |         97 | 0:36:59 | 57F    | nan                   | F        | nan      |           57 | Whitemoss AAC              | https://whitemossaac.co.uk/                |
 |         98 | 0:37:10 | 37M    | Finn Milliagn         | M        | SENIOR   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |
@@ -144,7 +144,7 @@
 |        142 | 0:41:53 | 14F    | Vikki Stewart         | F        | MASTER   |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
 |        143 | 0:42:47 | 57M    | nan                   | M        | nan      |           57 | Whitemoss AAC              | https://whitemossaac.co.uk/                |
 |        144 | 0:43:01 | 4F     | nan                   | F        | nan      |            4 | Inverclyde AC              | https://www.inverclydeac.org/              |
-|        145 | 0:43:04 | 36M    | nan                   | M        | nan      |           36 | Larkhall YMCA              | https://www.larkhallymcaharriers.org       |
+|        145 | 0:43:04 | 36M    | William Thomson       | M        | MASTER   |           36 | Larkhall YMCA              | https://www.larkhallymcaharriers.org       |
 |        146 | 0:43:25 | 8M     | David Gemmell         | M        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
 |        147 | 0:44:14 | 14F    | Lucy Cameron          | F        | SENIOR   |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
 |        148 | 0:44:41 | 11M    | nan                   | M        | nan      |           11 | Airdrie Harriers           | http://airdrieharriers.org/                |

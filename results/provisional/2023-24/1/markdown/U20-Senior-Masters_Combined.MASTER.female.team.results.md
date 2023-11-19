@@ -1,12 +1,13 @@
 |   position | Club name                  |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                    |
 |-----------:|:---------------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
-|          1 | Cambuslang Harriers        |      6 | F        | 2,3,9               |           14 |               0 |            14 |                3 | https://cambuslangharriers.org/            |
-|          2 | Greenock Glenpark Harriers |     30 | F        | 10,13,17            |           40 |               0 |            40 |                5 | https://greenockglenparkharriers.com/      |
-|          3 | Bellahouston Harriers      |      8 | F        | 7,15,18             |           40 |               0 |            40 |                3 | http://www.bellahoustonharriers.co.uk/     |
-|          4 | Law & District AAC         |     37 | F        | 5,6                 |           11 |              31 |            42 |                2 | http://www.lawaac.co.uk/                   |
-|          5 | Bellahouston RR            |      3 | F        | 11,12,19            |           42 |               0 |            42 |                3 | https://www.bellahoustonroadrunners.co.uk/ |
-|          6 | Helensburgh AAC            |     32 | F        | 1                   |            1 |              62 |            63 |                1 | https://www.helensburghaac.com/            |
-|          7 | East Kilbride AC           |      1 | F        | 4                   |            4 |              62 |            66 |                1 | http://www.ekac.org.uk/                    |
-|          8 | Newton Road Runners        |     42 | F        | 8                   |            8 |              62 |            70 |                1 | https://www.newton-roadrunners.com/        |
-|          9 | Kilmarnock H&AC            |      2 | F        | 14                  |           14 |              62 |            76 |                1 | http://www.kilmarnockharriers.com/         |
-|         10 | Ayr Seaforth AC            |     14 | F        | 16                  |           16 |              62 |            78 |                1 | https://www.ayrseaforth.co.uk/             |
+|          1 | Cambuslang Harriers        |      6 | F        | 2,3,10              |           15 |               0 |            15 |                3 | https://cambuslangharriers.org/            |
+|          2 | Law & District AAC         |     37 | F        | 5,6                 |           11 |              32 |            43 |                2 | http://www.lawaac.co.uk/                   |
+|          3 | Greenock Glenpark Harriers |     30 | F        | 11,14,18            |           43 |               0 |            43 |                5 | https://greenockglenparkharriers.com/      |
+|          4 | Bellahouston Harriers      |      8 | F        | 8,16,19             |           43 |               0 |            43 |                3 | http://www.bellahoustonharriers.co.uk/     |
+|          5 | Bellahouston RR            |      3 | F        | 12,13,20            |           45 |               0 |            45 |                3 | https://www.bellahoustonroadrunners.co.uk/ |
+|          6 | Helensburgh AAC            |     32 | F        | 1                   |            1 |              64 |            65 |                1 | https://www.helensburghaac.com/            |
+|          7 | East Kilbride AC           |      1 | F        | 4                   |            4 |              64 |            68 |                1 | http://www.ekac.org.uk/                    |
+|          8 | Larkhall YMCA              |     36 | F        | 7                   |            7 |              64 |            71 |                1 | https://www.larkhallymcaharriers.org       |
+|          9 | Newton Road Runners        |     42 | F        | 9                   |            9 |              64 |            73 |                1 | https://www.newton-roadrunners.com/        |
+|         10 | Kilmarnock H&AC            |      2 | F        | 15                  |           15 |              64 |            79 |                1 | http://www.kilmarnockharriers.com/         |
+|         11 | Ayr Seaforth AC            |     14 | F        | 17                  |           17 |              64 |            81 |                1 | https://www.ayrseaforth.co.uk/             |

@@ -20,4 +20,4 @@
 |         18 | 0:21:54 | 17M    | nan                | M        | U17      |           17 | Calderglen Harriers  | http://www.calderglenharriers.org.uk/ |               19 |
 |         19 | 0:22:08 | 2M     | Callum Riddell     | M        | U17      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/    |               21 |
 |         20 | 0:22:52 | 11M    | nan                | M        | U17      |           11 | Airdrie Harriers     | http://airdrieharriers.org/           |               22 |
-|         21 | 0:23:35 | 36M    | nan                | M        | U17      |           36 | Larkhall YMCA        | https://www.larkhallymcaharriers.org  |               24 |
+|         21 | 0:23:35 | 36M    | Rhys Thomson       | M        | U17      |           36 | Larkhall YMCA        | https://www.larkhallymcaharriers.org  |               24 |

@@ -6,10 +6,11 @@
 |          4 | Bellahouston RR            |      3 | M        | 7,17,24             |           48 |               0 |            48 |                5 | https://www.bellahoustonroadrunners.co.uk/ |
 |          5 | Bellahouston Harriers      |      8 | M        | 5,23,28             |           56 |               0 |            56 |                6 | http://www.bellahoustonharriers.co.uk/     |
 |          6 | North Ayrshire AAC         |     44 | M        | 10,11,38            |           59 |               0 |            59 |                3 | https://naathletics.co.uk/                 |
-|          7 | Ayr Seaforth AC            |     14 | M        | 3,8                 |           11 |              52 |            63 |                2 | https://www.ayrseaforth.co.uk/             |
+|          7 | Ayr Seaforth AC            |     14 | M        | 3,8                 |           11 |              53 |            64 |                2 | https://www.ayrseaforth.co.uk/             |
 |          8 | Greenock Glenpark Harriers |     30 | M        | 13,21,37            |           71 |               0 |            71 |                4 | https://greenockglenparkharriers.com/      |
 |          9 | Law & District AAC         |     37 | M        | 20,27,34            |           81 |               0 |            81 |                3 | http://www.lawaac.co.uk/                   |
-|         10 | Motherwell AC              |     40 | M        | 15,31               |           46 |              52 |            98 |                2 | https://motherwellac.com/                  |
-|         11 | Kilmarnock H&AC            |      2 | M        | 18,33               |           51 |              52 |           103 |                2 | http://www.kilmarnockharriers.com/         |
-|         12 | Helensburgh AAC            |     32 | M        | 6                   |            6 |             104 |           110 |                1 | https://www.helensburghaac.com/            |
-|         13 | Newton Road Runners        |     42 | M        | 19,41               |           60 |              52 |           112 |                2 | https://www.newton-roadrunners.com/        |
+|         10 | Motherwell AC              |     40 | M        | 15,31               |           46 |              53 |            99 |                2 | https://motherwellac.com/                  |
+|         11 | Kilmarnock H&AC            |      2 | M        | 18,33               |           51 |              53 |           104 |                2 | http://www.kilmarnockharriers.com/         |
+|         12 | Helensburgh AAC            |     32 | M        | 6                   |            6 |             106 |           112 |                1 | https://www.helensburghaac.com/            |
+|         13 | Newton Road Runners        |     42 | M        | 19,41               |           60 |              53 |           113 |                2 | https://www.newton-roadrunners.com/        |
+|         14 | Larkhall YMCA              |     36 | M        | 42                  |           42 |             106 |           148 |                1 | https://www.larkhallymcaharriers.org       |

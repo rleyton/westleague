@@ -19,7 +19,7 @@
 |         17 | 0:36:32 | 6F     | Marie Kane         | F        | SENIOR   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |               89 |
 |         18 | 0:36:38 | 53F    | nan                | F        | nan      |           53 | Troon Tortoises            | http://troontortoises.co.uk                |               90 |
 |         19 | 0:36:40 | 37F    | Lesley Graham      | F        | MASTER   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               91 |
-|         20 | 0:36:51 | 36F    | nan                | F        | nan      |           36 | Larkhall YMCA              | https://www.larkhallymcaharriers.org       |               95 |
+|         20 | 0:36:51 | 36F    | Julie Hill         | F        | MASTER   |           36 | Larkhall YMCA              | https://www.larkhallymcaharriers.org       |               95 |
 |         21 | 0:36:59 | 57F    | nan                | F        | nan      |           57 | Whitemoss AAC              | https://whitemossaac.co.uk/                |               97 |
 |         22 | 0:37:30 | 46F    | nan                | F        | nan      |           46 | Royal Mail Run GMC         | https://www.facebook.com/royalmailrungmc/  |              103 |
 |         23 | 0:37:38 | 2F     | Amanda Bryden      | F        | SENIOR   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |              105 |
