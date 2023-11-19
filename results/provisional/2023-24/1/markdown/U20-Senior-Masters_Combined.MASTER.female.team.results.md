@@ -1,0 +1,11 @@
+|   position | Club name                  |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                    |
+|-----------:|:---------------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
+|          1 | Cambuslang Harriers        |      6 | F        | 2,3,8               |           13 |               0 |            13 |                3 | https://cambuslangharriers.org/            |
+|          2 | Greenock Glenpark Harriers |     30 | F        | 9,12,15             |           36 |               0 |            36 |                5 | https://greenockglenparkharriers.com/      |
+|          3 | Bellahouston RR            |      3 | F        | 10,11,16            |           37 |               0 |            37 |                3 | https://www.bellahoustonroadrunners.co.uk/ |
+|          4 | Law & District AAC         |     37 | F        | 5,6                 |           11 |              28 |            39 |                2 | http://www.lawaac.co.uk/                   |
+|          5 | Helensburgh AAC            |     32 | F        | 1                   |            1 |              56 |            57 |                1 | https://www.helensburghaac.com/            |
+|          6 | East Kilbride AC           |      1 | F        | 4                   |            4 |              56 |            60 |                1 | http://www.ekac.org.uk/                    |
+|          7 | Newton Road Runners        |     42 | F        | 7                   |            7 |              56 |            63 |                1 | https://www.newton-roadrunners.com/        |
+|          8 | Kilmarnock H&AC            |      2 | F        | 13                  |           13 |              56 |            69 |                1 | http://www.kilmarnockharriers.com/         |
+|          9 | Ayr Seaforth AC            |     14 | F        | 14                  |           14 |              56 |            70 |                1 | https://www.ayrseaforth.co.uk/             |

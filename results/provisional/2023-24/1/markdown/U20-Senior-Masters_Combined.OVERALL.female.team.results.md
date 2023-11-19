@@ -12,7 +12,7 @@
 |         10 | Greenock Glenpark Harriers |     30 | F        | 30,35,44,47         |          156 |               0 |           156 |                5 | https://greenockglenparkharriers.com/      |
 |         11 | Bellahouston RR            |      3 | F        | 31,32,46            |          109 |              58 |           167 |                3 | https://www.bellahoustonroadrunners.co.uk/ |
 |         12 | Troon Tortoises            |     53 | F        | 18,40               |           58 |             116 |           174 |                2 | http://troontortoises.co.uk                |
-|         13 | Helensburgh AAC            |     32 | F        | 2                   |            2 |             174 |           176 |                1 | nan                                        |
+|         13 | Helensburgh AAC            |     32 | F        | 2                   |            2 |             174 |           176 |                1 | https://www.helensburghaac.com/            |
 |         14 | Shettleston Harriers       |     10 | F        | 8                   |            8 |             174 |           182 |                1 | http://shettlestonharriers.org.uk/         |
 |         15 | West End RR                |     56 | F        | 15                  |           15 |             174 |           189 |                1 | https://www.westendroadrunners.co.uk/      |
 |         16 | Larkhall YMCA              |     36 | F        | 20                  |           20 |             174 |           194 |                1 | https://www.larkhallymcaharriers.org       |

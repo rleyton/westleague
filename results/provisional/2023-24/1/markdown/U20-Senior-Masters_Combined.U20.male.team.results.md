@@ -1,27 +1,5 @@
-|   position | Club name                  |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                    |
-|-----------:|:---------------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
-|          1 | East Kilbride AC           |      1 | M        | 3,4,12              |           19 |               0 |            19 |                7 | http://www.ekac.org.uk/                    |
-|          2 | Kilmarnock H&AC            |      2 | M        | 1,5,23              |           29 |               0 |            29 |                8 | http://www.kilmarnockharriers.com/         |
-|          3 | Shettleston Harriers       |     10 | M        | 6,7,27              |           40 |               0 |            40 |                7 | http://shettlestonharriers.org.uk/         |
-|          4 | Westerlands CCC            |      5 | M        | 9,15,18             |           42 |               0 |            42 |                9 | https://westerlandsccc.co.uk/              |
-|          5 | Law & District AAC         |     37 | M        | 14,20,21            |           55 |               0 |            55 |                8 | http://www.lawaac.co.uk/                   |
-|          6 | Bellahouston Harriers      |      8 | M        | 10,24,33            |           67 |               0 |            67 |                8 | http://www.bellahoustonharriers.co.uk/     |
-|          7 | Cambuslang Harriers        |      6 | M        | 11,17,41            |           69 |               0 |            69 |                7 | https://cambuslangharriers.org/            |
-|          8 | Ayr Seaforth AC            |     14 | M        | 8,28,37             |           73 |               0 |            73 |                3 | https://www.ayrseaforth.co.uk/             |
-|          9 | Bellahouston RR            |      3 | M        | 25,30,60            |          115 |               0 |           115 |                7 | https://www.bellahoustonroadrunners.co.uk/ |
-|         10 | Glasgow FrontRunners       |     27 | M        | 13,42,63            |          118 |               0 |           118 |                5 | nan                                        |
-|         11 | Motherwell AC              |     40 | M        | 2,56,86             |          144 |               0 |           144 |                3 | https://motherwellac.com/                  |
-|         12 | Inverclyde AC              |      4 | M        | 19,32               |           51 |             115 |           166 |                2 | https://www.inverclydeac.org/              |
-|         13 | Greenock Glenpark Harriers |     30 | M        | 51,52,70            |          173 |               0 |           173 |                5 | https://greenockglenparkharriers.com/      |
-|         14 | Newton Road Runners        |     42 | M        | 57,65,66            |          188 |               0 |           188 |                5 | https://www.newton-roadrunners.com/        |
-|         15 | Irvine RC                  |     33 | M        | 31,43               |           74 |             115 |           189 |                2 | https://www.irvinerunningclub.co.uk/       |
-|         16 | North Ayrshire AAC         |     44 | M        | 46,49,95            |          190 |               0 |           190 |                3 | https://naathletics.co.uk/                 |
-|         17 | Troon Tortoises            |     53 | M        | 39,58               |           97 |             115 |           212 |                2 | http://troontortoises.co.uk                |
-|         18 | West End RR                |     56 | M        | 55,85,100           |          240 |               0 |           240 |                4 | https://www.westendroadrunners.co.uk/      |
-|         19 | Kilbarchan AAC             |     34 | M        | 16                  |           16 |             230 |           246 |                1 | https://kilbarchanaac.org.uk/              |
-|         20 | Whitemoss AAC              |     57 | M        | 61,87,102           |          250 |               0 |           250 |                3 | https://whitemossaac.co.uk/                |
-|         21 | Helensburgh AAC            |     32 | M        | 29                  |           29 |             230 |           259 |                1 | nan                                        |
-|         22 | Giffnock North AC          |      7 | M        | 36                  |           36 |             230 |           266 |                1 | https://www.giffnocknorth.co.uk/           |
-|         23 | Calderglen Harriers        |     17 | M        | 38                  |           38 |             230 |           268 |                1 | http://www.calderglenharriers.org.uk/      |
-|         24 | Airdrie Harriers           |     11 | M        | 82,105              |          187 |             115 |           302 |                2 | http://airdrieharriers.org/                |
-|         25 | Larkhall YMCA              |     36 | M        | 103                 |          103 |             230 |           333 |                1 | https://www.larkhallymcaharriers.org       |
+|   position | Club name           |   team | gender   |   finisherPositions |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                            |
+|-----------:|:--------------------|-------:|:---------|--------------------:|-------------:|----------------:|--------------:|-----------------:|:-----------------------------------|
+|          1 | Kilmarnock H&AC     |      2 | M        |                   1 |            1 |              26 |            27 |                1 | http://www.kilmarnockharriers.com/ |
+|          2 | Law & District AAC  |     37 | M        |                   2 |            2 |              26 |            28 |                1 | http://www.lawaac.co.uk/           |
+|          3 | Cambuslang Harriers |      6 | M        |                   3 |            3 |              26 |            29 |                1 | https://cambuslangharriers.org/    |

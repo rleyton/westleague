@@ -7,7 +7,7 @@
 |          5 | Law & District AAC         |     37 | M        | 14,20,21,44         |           99 |               0 |            99 |                8 | http://www.lawaac.co.uk/                   |
 |          6 | Cambuslang Harriers        |      6 | M        | 11,17,41,48         |          117 |               0 |           117 |                7 | https://cambuslangharriers.org/            |
 |          7 | Bellahouston Harriers      |      8 | M        | 10,24,33,72         |          139 |               0 |           139 |                8 | http://www.bellahoustonharriers.co.uk/     |
-|          8 | Glasgow FrontRunners       |     27 | M        | 13,42,63,64         |          182 |               0 |           182 |                5 | nan                                        |
+|          8 | Glasgow FrontRunners       |     27 | M        | 13,42,63,64         |          182 |               0 |           182 |                5 | https://www.glasgowfrontrunners.org/       |
 |          9 | Bellahouston RR            |      3 | M        | 25,30,60,73         |          188 |               0 |           188 |                7 | https://www.bellahoustonroadrunners.co.uk/ |
 |         10 | Ayr Seaforth AC            |     14 | M        | 8,28,37             |           73 |             115 |           188 |                3 | https://www.ayrseaforth.co.uk/             |
 |         11 | Newton Road Runners        |     42 | M        | 57,65,66,67         |          255 |               0 |           255 |                5 | https://www.newton-roadrunners.com/        |
@@ -20,7 +20,7 @@
 |         18 | West End RR                |     56 | M        | 55,85,100,101       |          341 |               0 |           341 |                4 | https://www.westendroadrunners.co.uk/      |
 |         19 | Kilbarchan AAC             |     34 | M        | 16                  |           16 |             345 |           361 |                1 | https://kilbarchanaac.org.uk/              |
 |         20 | Whitemoss AAC              |     57 | M        | 61,87,102           |          250 |             115 |           365 |                3 | https://whitemossaac.co.uk/                |
-|         21 | Helensburgh AAC            |     32 | M        | 29                  |           29 |             345 |           374 |                1 | nan                                        |
+|         21 | Helensburgh AAC            |     32 | M        | 29                  |           29 |             345 |           374 |                1 | https://www.helensburghaac.com/            |
 |         22 | Giffnock North AC          |      7 | M        | 36                  |           36 |             345 |           381 |                1 | https://www.giffnocknorth.co.uk/           |
 |         23 | Calderglen Harriers        |     17 | M        | 38                  |           38 |             345 |           383 |                1 | http://www.calderglenharriers.org.uk/      |
 |         24 | Airdrie Harriers           |     11 | M        | 82,105              |          187 |             230 |           417 |                2 | http://airdrieharriers.org/                |

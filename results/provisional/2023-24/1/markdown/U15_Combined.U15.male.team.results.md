@@ -2,7 +2,7 @@
 |-----------:|:---------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------|
 |          1 | East Kilbride AC     |      1 | M        | 1,2,3               |            6 |               0 |             6 |                5 | http://www.ekac.org.uk/              |
 |          2 | Kilbarchan AAC       |     34 | M        | 7,8                 |           15 |              29 |            44 |                2 | https://kilbarchanaac.org.uk/        |
-|          3 | Helensburgh AAC      |     32 | M        | 12,15               |           27 |              29 |            56 |                2 | nan                                  |
+|          3 | Helensburgh AAC      |     32 | M        | 12,15               |           27 |              29 |            56 |                2 | https://www.helensburghaac.com/      |
 |          4 | Ayr Seaforth AC      |     14 | M        | 13,16               |           29 |              29 |            58 |                2 | https://www.ayrseaforth.co.uk/       |
 |          5 | Cambuslang Harriers  |      6 | M        | 4                   |            4 |              58 |            62 |                1 | https://cambuslangharriers.org/      |
 |          6 | VP-Glasgow           |     54 | M        | 5                   |            5 |              58 |            63 |                1 | https://www.vp-glasgow.com           |

@@ -10,6 +10,6 @@
 |          8 | East Kilbride AC    |      1 | M        | 9,24                |           33 |              44 |            77 |                2 | http://www.ekac.org.uk/               |
 |          9 | Springburn Harriers |     48 | M        | 1                   |            1 |              88 |            89 |                1 | https://www.springburnharriers.co.uk/ |
 |         10 | North Ayrshire AAC  |     44 | M        | 16                  |           16 |              88 |           104 |                1 | https://naathletics.co.uk/            |
-|         11 | Helensburgh AAC     |     32 | M        | 20                  |           20 |              88 |           108 |                1 | nan                                   |
+|         11 | Helensburgh AAC     |     32 | M        | 20                  |           20 |              88 |           108 |                1 | https://www.helensburghaac.com/       |
 |         12 | Larkhall YMCA       |     36 | M        | 32,34               |           66 |              44 |           110 |                2 | https://www.larkhallymcaharriers.org  |
 |         13 | Calderglen Harriers |     17 | M        | 30                  |           30 |              88 |           118 |                1 | http://www.calderglenharriers.org.uk/ |

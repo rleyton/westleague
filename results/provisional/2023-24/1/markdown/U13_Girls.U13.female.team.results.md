@@ -12,7 +12,7 @@
 |         10 | Shettleston Harriers       |     10 | F        | 35,43,50            |          128 |               0 |           128 |                3 | http://shettlestonharriers.org.uk/    |
 |         11 | Larkhall YMCA              |     36 | F        | 30,31               |           61 |              67 |           128 |                2 | https://www.larkhallymcaharriers.org  |
 |         12 | Kilbarchan AAC             |     34 | F        | 1                   |            1 |             134 |           135 |                1 | https://kilbarchanaac.org.uk/         |
-|         13 | Helensburgh AAC            |     32 | F        | 8                   |            8 |             134 |           142 |                1 | nan                                   |
+|         13 | Helensburgh AAC            |     32 | F        | 8                   |            8 |             134 |           142 |                1 | https://www.helensburghaac.com/       |
 |         14 | VP-Glasgow                 |     54 | F        | 45,51               |           96 |              67 |           163 |                2 | https://www.vp-glasgow.com            |
 |         15 | Ayr Seaforth AC            |     14 | F        | 29                  |           29 |             134 |           163 |                1 | https://www.ayrseaforth.co.uk/        |
 |         16 | Motherwell AC              |     40 | F        | 33                  |           33 |             134 |           167 |                1 | https://motherwellac.com/             |
