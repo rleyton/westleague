@@ -1,11 +1,12 @@
 position,Club name,team,gender,finisherPositions,teamPoints,penaltyPoints,totalPoints,totalFinishers,Website
-1,Kilmarnock H&AC,2,M,"3,9,11,18",41,0,41,5,http://www.kilmarnockharriers.com/
-2,Law & District AAC,37,M,"7,8,15,23",53,0,53,4,http://www.lawaac.co.uk/
-3,East Kilbride AC,1,M,"2,6,16",24,35,59,3,http://www.ekac.org.uk/
-4,Shettleston Harriers,10,M,"4,12,22",38,35,73,3,http://shettlestonharriers.org.uk/
-5,Cambuslang Harriers,6,M,"5,14",19,70,89,2,https://cambuslangharriers.org/
-6,Newton Road Runners,42,M,"19,20,21",60,35,95,3,https://www.newton-roadrunners.com/
-7,Bellahouston RR,3,M,"10,25",35,70,105,2,https://www.bellahoustonroadrunners.co.uk/
-8,Motherwell AC,40,M,1,1,105,106,1,https://motherwellac.com/
-9,Ayr Seaforth AC,14,M,13,13,105,118,1,https://www.ayrseaforth.co.uk/
-10,Greenock Glenpark Harriers,30,M,17,17,105,122,1,https://greenockglenparkharriers.com/
+1,Kilmarnock H&AC,2,M,"3,10,12,20",45,0,45,5,http://www.kilmarnockharriers.com/
+2,Law & District AAC,37,M,"8,9,17,25",59,0,59,4,http://www.lawaac.co.uk/
+3,East Kilbride AC,1,M,"2,7,18",27,37,64,3,http://www.ekac.org.uk/
+4,Shettleston Harriers,10,M,"4,13,24",41,37,78,3,http://shettlestonharriers.org.uk/
+5,Bellahouston Harriers,8,M,"5,15",20,74,94,2,http://www.bellahoustonharriers.co.uk/
+6,Cambuslang Harriers,6,M,"6,16",22,74,96,2,https://cambuslangharriers.org/
+7,Newton Road Runners,42,M,"21,22,23",66,37,103,3,https://www.newton-roadrunners.com/
+8,Motherwell AC,40,M,1,1,111,112,1,https://motherwellac.com/
+9,Bellahouston RR,3,M,"11,27",38,74,112,2,https://www.bellahoustonroadrunners.co.uk/
+10,Ayr Seaforth AC,14,M,14,14,111,125,1,https://www.ayrseaforth.co.uk/
+11,Greenock Glenpark Harriers,30,M,19,19,111,130,1,https://greenockglenparkharriers.com/

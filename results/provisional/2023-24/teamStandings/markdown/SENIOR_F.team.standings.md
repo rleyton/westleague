@@ -1,6 +1,7 @@
-|   1 |   Total | Club name           | Website                            |
-|----:|--------:|:--------------------|:-----------------------------------|
-|  37 |      37 | Cambuslang Harriers | https://cambuslangharriers.org/    |
-|  39 |      39 | Ayr Seaforth AC     | https://www.ayrseaforth.co.uk/     |
-|  52 |      52 | Kilmarnock H&AC     | http://www.kilmarnockharriers.com/ |
-|  53 |      53 | Law & District AAC  | http://www.lawaac.co.uk/           |
+|   1 |   Total | Club name             | Website                                |
+|----:|--------:|:----------------------|:---------------------------------------|
+|  34 |      34 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
+|  45 |      45 | Cambuslang Harriers   | https://cambuslangharriers.org/        |
+|  48 |      48 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/         |
+|  63 |      63 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |
+|  64 |      64 | Law & District AAC    | http://www.lawaac.co.uk/               |

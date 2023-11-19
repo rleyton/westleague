@@ -1,13 +1,14 @@
 position,Club name,team,gender,finisherPositions,teamPoints,penaltyPoints,totalPoints,totalFinishers,Website
-1,Shettleston Harriers,10,M,"2,8,13",23,0,23,4,http://shettlestonharriers.org.uk/
-2,East Kilbride AC,1,M,"1,11,23",35,0,35,4,http://www.ekac.org.uk/
-3,Cambuslang Harriers,6,M,"4,15,21",40,0,40,4,https://cambuslangharriers.org/
-4,Bellahouston RR,3,M,"6,16,22",44,0,44,5,https://www.bellahoustonroadrunners.co.uk/
-5,North Ayrshire AAC,44,M,"9,10,34",53,0,53,3,https://naathletics.co.uk/
-6,Ayr Seaforth AC,14,M,"3,7",10,46,56,2,https://www.ayrseaforth.co.uk/
-7,Greenock Glenpark Harriers,30,M,"12,20,33",65,0,65,4,https://greenockglenparkharriers.com/
-8,Law & District AAC,37,M,"19,25,31",75,0,75,3,http://www.lawaac.co.uk/
-9,Motherwell AC,40,M,"14,28",42,46,88,2,https://motherwellac.com/
-10,Kilmarnock H&AC,2,M,"17,30",47,46,93,2,http://www.kilmarnockharriers.com/
-11,Helensburgh AAC,32,M,5,5,92,97,1,https://www.helensburghaac.com/
-12,Newton Road Runners,42,M,"18,36",54,46,100,2,https://www.newton-roadrunners.com/
+1,Shettleston Harriers,10,M,"2,9,14",25,0,25,4,http://shettlestonharriers.org.uk/
+2,East Kilbride AC,1,M,"1,12,25",38,0,38,4,http://www.ekac.org.uk/
+3,Cambuslang Harriers,6,M,"4,16,22",42,0,42,4,https://cambuslangharriers.org/
+4,Bellahouston RR,3,M,"7,17,24",48,0,48,5,https://www.bellahoustonroadrunners.co.uk/
+5,Bellahouston Harriers,8,M,"5,23,28",56,0,56,6,http://www.bellahoustonharriers.co.uk/
+6,North Ayrshire AAC,44,M,"10,11,38",59,0,59,3,https://naathletics.co.uk/
+7,Ayr Seaforth AC,14,M,"3,8",11,52,63,2,https://www.ayrseaforth.co.uk/
+8,Greenock Glenpark Harriers,30,M,"13,21,37",71,0,71,4,https://greenockglenparkharriers.com/
+9,Law & District AAC,37,M,"20,27,34",81,0,81,3,http://www.lawaac.co.uk/
+10,Motherwell AC,40,M,"15,31",46,52,98,2,https://motherwellac.com/
+11,Kilmarnock H&AC,2,M,"18,33",51,52,103,2,http://www.kilmarnockharriers.com/
+12,Helensburgh AAC,32,M,6,6,104,110,1,https://www.helensburghaac.com/
+13,Newton Road Runners,42,M,"19,41",60,52,112,2,https://www.newton-roadrunners.com/
