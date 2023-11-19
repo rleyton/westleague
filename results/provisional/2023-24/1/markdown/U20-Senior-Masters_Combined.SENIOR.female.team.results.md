@@ -1,8 +1,10 @@
 |   position | Club name             |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                |
 |-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:---------------------------------------|
-|          1 | Bellahouston Harriers |      8 | F        | 4,5,9               |           18 |              20 |            38 |                3 | http://www.bellahoustonharriers.co.uk/ |
-|          2 | Cambuslang Harriers   |      6 | F        | 3,6                 |            9 |              40 |            49 |                2 | https://cambuslangharriers.org/        |
-|          3 | Ayr Seaforth AC       |     14 | F        | 2,10                |           12 |              40 |            52 |                2 | https://www.ayrseaforth.co.uk/         |
-|          4 | Springburn Harriers   |     48 | F        | 1                   |            1 |              60 |            61 |                1 | https://www.springburnharriers.co.uk/  |
-|          5 | Kilmarnock H&AC       |      2 | F        | 7                   |            7 |              60 |            67 |                1 | http://www.kilmarnockharriers.com/     |
-|          6 | Law & District AAC    |     37 | F        | 8                   |            8 |              60 |            68 |                1 | http://www.lawaac.co.uk/               |
+|          1 | Bellahouston Harriers |      8 | F        | 5,6,11              |           22 |              24 |            46 |                3 | http://www.bellahoustonharriers.co.uk/ |
+|          2 | Inverclyde AC         |      4 | F        | 3,12,13             |           28 |              24 |            52 |                3 | https://www.inverclydeac.org/          |
+|          3 | Cambuslang Harriers   |      6 | F        | 4,7                 |           11 |              48 |            59 |                2 | https://cambuslangharriers.org/        |
+|          4 | Ayr Seaforth AC       |     14 | F        | 2,14                |           16 |              48 |            64 |                2 | https://www.ayrseaforth.co.uk/         |
+|          5 | Springburn Harriers   |     48 | F        | 1                   |            1 |              72 |            73 |                1 | https://www.springburnharriers.co.uk/  |
+|          6 | Whitemoss AAC         |     57 | F        | 8                   |            8 |              72 |            80 |                1 | https://whitemossaac.co.uk/            |
+|          7 | Kilmarnock H&AC       |      2 | F        | 9                   |            9 |              72 |            81 |                1 | http://www.kilmarnockharriers.com/     |
+|          8 | Law & District AAC    |     37 | F        | 10                  |           10 |              72 |            82 |                1 | http://www.lawaac.co.uk/               |

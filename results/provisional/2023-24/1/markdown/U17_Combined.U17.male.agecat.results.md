@@ -14,7 +14,7 @@
 |         12 | 0:19:25 | 1M     | MATTHEW McQUAID    | M        | U17      |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |               12 |
 |         13 | 0:19:34 | 2M     | Gregor Samson      | M        | U17      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/    |               13 |
 |         14 | 0:19:38 | 14M    | Sam McCrorie       | M        | U17      |           14 | Ayr Seaforth AC      | https://www.ayrseaforth.co.uk/        |               14 |
-|         15 | 0:20:24 | 4M     | nan                | M        | U17      |            4 | Inverclyde AC        | https://www.inverclydeac.org/         |               15 |
+|         15 | 0:20:24 | 4M     | Liam Kane          | M        | U17      |            4 | Inverclyde AC        | https://www.inverclydeac.org/         |               15 |
 |         16 | 0:20:59 | 10M    | Joseph Reilly      | M        | U17      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/    |               17 |
 |         17 | 0:21:49 | 37M    | Daniel Simpson     | M        | U17      |           37 | Law & District AAC   | http://www.lawaac.co.uk/              |               18 |
 |         18 | 0:21:54 | 17M    | nan                | M        | U17      |           17 | Calderglen Harriers  | http://www.calderglenharriers.org.uk/ |               19 |

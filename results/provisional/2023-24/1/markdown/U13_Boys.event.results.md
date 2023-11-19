@@ -5,7 +5,7 @@
 |          3 | 0:09:40 | 11M    | nan                   | M        | U13      |           11 | Airdrie Harriers    | http://airdrieharriers.org/           |
 |          4 | 0:09:47 | 37M    | Jamie Mackie          | M        | U13      |           37 | Law & District AAC  | http://www.lawaac.co.uk/              |
 |          5 | 0:09:49 | 34M    | nan                   | M        | U13      |           34 | Kilbarchan AAC      | https://kilbarchanaac.org.uk/         |
-|          6 | 0:09:55 | 4M     | nan                   | M        | U13      |            4 | Inverclyde AC       | https://www.inverclydeac.org/         |
+|          6 | 0:09:55 | 4M     | Charlie Lyne          | M        | U13      |            4 | Inverclyde AC       | https://www.inverclydeac.org/         |
 |          7 | 0:09:56 | 7M     | nan                   | M        | U13      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |
 |          8 | 0:09:57 | 7M     | nan                   | M        | U13      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |
 |          9 | 0:10:01 | 1M     | MATTHEW SWEENEY       | M        | U13      |            1 | East Kilbride AC    | http://www.ekac.org.uk/               |
@@ -20,7 +20,7 @@
 |         18 | 0:10:44 | 2M     | Harris Steven         | M        | U13      |            2 | Kilmarnock H&AC     | http://www.kilmarnockharriers.com/    |
 |         19 | 0:10:45 | 40M    | EOGHAN CONNELLY (2ND) | M        | U13      |           40 | Motherwell AC       | https://motherwellac.com/             |
 |         20 | 0:10:48 | 32M    | William Heasman       | M        | U13      |           32 | Helensburgh AAC     | https://www.helensburghaac.com/       |
-|         21 | 0:10:48 | 4M     | nan                   | M        | U13      |            4 | Inverclyde AC       | https://www.inverclydeac.org/         |
+|         21 | 0:10:48 | 4M     | Sol Currie            | M        | U13      |            4 | Inverclyde AC       | https://www.inverclydeac.org/         |
 |         22 | 0:10:54 | 34M    | nan                   | M        | U13      |           34 | Kilbarchan AAC      | https://kilbarchanaac.org.uk/         |
 |         23 | 0:10:56 | 34M    | nan                   | M        | U13      |           34 | Kilbarchan AAC      | https://kilbarchanaac.org.uk/         |
 |         24 | 0:10:57 | 1M     | HARRIS ROSLING        | M        | U13      |            1 | East Kilbride AC    | http://www.ekac.org.uk/               |
