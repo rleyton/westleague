@@ -6,7 +6,7 @@
 
 ## Provisional results
 
-_Provisional results reflect team submissions received by **19th November, 3:15pm**_ - Please direct queries/issues to contact@westleague.org.uk
+_Provisional results reflect team submissions received by **19th November, 7:45pm**_ - Please direct queries/issues to contact@westleague.org.uk
 
 * [Event #1, Kilmarnock (18th November, 2023)](https://results.westleague.org.uk/results/provisional/2023-24/1/html/)
   * [Provisional Race results](https://results.westleague.org.uk/results/provisional/2023-24/1/html/) - See below for known issues
