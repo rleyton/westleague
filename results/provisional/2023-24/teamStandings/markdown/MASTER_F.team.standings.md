@@ -1,13 +1,16 @@
 |   1 |   Total | Club name                  | Website                                    |
 |----:|--------:|:---------------------------|:-------------------------------------------|
-|  15 |      15 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
-|  43 |      43 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
-|  43 |      43 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
-|  43 |      43 | Law & District AAC         | http://www.lawaac.co.uk/                   |
-|  45 |      45 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
-|  65 |      65 | Helensburgh AAC            | https://www.helensburghaac.com/            |
-|  68 |      68 | East Kilbride AC           | http://www.ekac.org.uk/                    |
-|  71 |      71 | Larkhall YMCA              | https://www.larkhallymcaharriers.org       |
-|  73 |      73 | Newton Road Runners        | https://www.newton-roadrunners.com/        |
-|  79 |      79 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
-|  81 |      81 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
+|  17 |      17 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
+|  50 |      50 | Law & District AAC         | http://www.lawaac.co.uk/                   |
+|  51 |      51 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
+|  51 |      51 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
+|  53 |      53 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
+|  62 |      62 | Troon Tortoises            | http://troontortoises.co.uk                |
+|  73 |      73 | Helensburgh AAC            | https://www.helensburghaac.com/            |
+|  76 |      76 | East Kilbride AC           | http://www.ekac.org.uk/                    |
+|  77 |      77 | Springburn Harriers        | https://www.springburnharriers.co.uk/      |
+|  81 |      81 | Larkhall YMCA              | https://www.larkhallymcaharriers.org       |
+|  83 |      83 | Newton Road Runners        | https://www.newton-roadrunners.com/        |
+|  89 |      89 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
+|  92 |      92 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
+|  93 |      93 | Inverclyde AC              | https://www.inverclydeac.org/              |

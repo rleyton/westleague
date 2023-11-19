@@ -1,11 +1,11 @@
 |   position | times   | team   | Name                  | gender   | AgeCat   |   clubnumber | Club name           | Website                               |   finishPosition |
 |-----------:|:--------|:-------|:----------------------|:---------|:---------|-------------:|:--------------------|:--------------------------------------|-----------------:|
-|          1 | 0:09:25 | 48M    | nan                   | M        | U13      |           48 | Springburn Harriers | https://www.springburnharriers.co.uk/ |                1 |
+|          1 | 0:09:25 | 48M    | Gregor McNaught       | M        | U13      |           48 | Springburn Harriers | https://www.springburnharriers.co.uk/ |                1 |
 |          2 | 0:09:34 | 37M    | Alexander Wotherspoon | M        | U13      |           37 | Law & District AAC  | http://www.lawaac.co.uk/              |                2 |
 |          3 | 0:09:40 | 11M    | nan                   | M        | U13      |           11 | Airdrie Harriers    | http://airdrieharriers.org/           |                3 |
 |          4 | 0:09:47 | 37M    | Jamie Mackie          | M        | U13      |           37 | Law & District AAC  | http://www.lawaac.co.uk/              |                4 |
 |          5 | 0:09:49 | 34M    | nan                   | M        | U13      |           34 | Kilbarchan AAC      | https://kilbarchanaac.org.uk/         |                5 |
-|          6 | 0:09:55 | 4M     | nan                   | M        | U13      |            4 | Inverclyde AC       | https://www.inverclydeac.org/         |                6 |
+|          6 | 0:09:55 | 4M     | Charlie Lyne          | M        | U13      |            4 | Inverclyde AC       | https://www.inverclydeac.org/         |                6 |
 |          7 | 0:09:56 | 7M     | nan                   | M        | U13      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |                7 |
 |          8 | 0:09:57 | 7M     | nan                   | M        | U13      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |                8 |
 |          9 | 0:10:01 | 1M     | MATTHEW SWEENEY       | M        | U13      |            1 | East Kilbride AC    | http://www.ekac.org.uk/               |                9 |
@@ -20,7 +20,7 @@
 |         18 | 0:10:44 | 2M     | Harris Steven         | M        | U13      |            2 | Kilmarnock H&AC     | http://www.kilmarnockharriers.com/    |               18 |
 |         19 | 0:10:45 | 40M    | EOGHAN CONNELLY (2ND) | M        | U13      |           40 | Motherwell AC       | https://motherwellac.com/             |               19 |
 |         20 | 0:10:48 | 32M    | William Heasman       | M        | U13      |           32 | Helensburgh AAC     | https://www.helensburghaac.com/       |               20 |
-|         21 | 0:10:48 | 4M     | nan                   | M        | U13      |            4 | Inverclyde AC       | https://www.inverclydeac.org/         |               21 |
+|         21 | 0:10:48 | 4M     | Sol Currie            | M        | U13      |            4 | Inverclyde AC       | https://www.inverclydeac.org/         |               21 |
 |         22 | 0:10:54 | 34M    | nan                   | M        | U13      |           34 | Kilbarchan AAC      | https://kilbarchanaac.org.uk/         |               22 |
 |         23 | 0:10:56 | 34M    | nan                   | M        | U13      |           34 | Kilbarchan AAC      | https://kilbarchanaac.org.uk/         |               23 |
 |         24 | 0:10:57 | 1M     | HARRIS ROSLING        | M        | U13      |            1 | East Kilbride AC    | http://www.ekac.org.uk/               |               24 |

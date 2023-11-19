@@ -193,66 +193,77 @@
             },
             "SENIOR": {
                   "M": {
-                        "penalty": 37,
-                        "participants": 27,
+                        "penalty": 42,
+                        "participants": 32,
                         "counters": 4,
                         "clubparticipation": {
                               "1": 3,
                               "2": 5,
                               "3": 2,
+                              "4": 1,
                               "6": 2,
                               "8": 2,
                               "10": 3,
                               "14": 1,
+                              "27": 3,
                               "30": 1,
                               "37": 4,
                               "40": 1,
-                              "42": 3
+                              "42": 3,
+                              "57": 1
                         }
                   },
                   "F": {
-                        "penalty": 19,
-                        "participants": 9,
+                        "penalty": 24,
+                        "participants": 14,
                         "counters": 4,
                         "clubparticipation": {
                               "2": 1,
+                              "4": 3,
                               "6": 2,
                               "8": 3,
                               "14": 2,
-                              "37": 1
+                              "37": 1,
+                              "48": 1,
+                              "57": 1
                         }
                   }
             },
             "MASTER": {
                   "M": {
-                        "penalty": 53,
-                        "participants": 43,
+                        "penalty": 60,
+                        "participants": 50,
                         "counters": 3,
                         "clubparticipation": {
                               "1": 4,
                               "2": 2,
                               "3": 5,
+                              "4": 1,
                               "6": 4,
                               "8": 6,
                               "10": 4,
                               "14": 2,
+                              "27": 2,
                               "30": 4,
                               "32": 1,
                               "36": 1,
                               "37": 3,
                               "40": 2,
                               "42": 2,
-                              "44": 3
+                              "44": 3,
+                              "53": 2,
+                              "57": 2
                         }
                   },
                   "F": {
-                        "penalty": 32,
-                        "participants": 22,
+                        "penalty": 36,
+                        "participants": 26,
                         "counters": 3,
                         "clubparticipation": {
                               "1": 1,
                               "2": 1,
                               "3": 3,
+                              "4": 1,
                               "6": 3,
                               "8": 3,
                               "14": 1,
@@ -260,7 +271,9 @@
                               "32": 1,
                               "36": 1,
                               "37": 2,
-                              "42": 1
+                              "42": 1,
+                              "48": 1,
+                              "53": 2
                         }
                   }
             },
@@ -329,8 +342,8 @@
       "attendance": {
             "total": 441,
             "gender": {
-                  "M": 205,
-                  "F": 190
+                  "M": 217,
+                  "F": 199
             }
       }
 }

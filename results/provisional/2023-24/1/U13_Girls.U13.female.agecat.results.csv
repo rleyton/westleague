@@ -11,12 +11,12 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website,finishPositi
 10,0:10:59,2F,Madeline Curley,F,U13,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,10
 11,0:11:07,7F,,F,U13,7,Giffnock North AC,https://www.giffnocknorth.co.uk/,11
 12,0:11:07,6F,Brooke Walker,F,U13,6,Cambuslang Harriers,https://cambuslangharriers.org/,12
-13,0:11:18,4F,,F,U13,4,Inverclyde AC,https://www.inverclydeac.org/,13
+13,0:11:18,4F,Iona Wilson,F,U13,4,Inverclyde AC,https://www.inverclydeac.org/,13
 14,0:11:23,2F,Ellie Alexander,F,U13,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,14
 15,0:11:23,44F,Ella McMillan,F,U13,44,North Ayrshire AAC,https://naathletics.co.uk/,15
 16,0:11:35,44F,Emy Finnigan,F,U13,44,North Ayrshire AAC,https://naathletics.co.uk/,16
 17,0:11:35,1F,LOTTIE SIM,F,U13,1,East Kilbride AC,http://www.ekac.org.uk/,17
-18,0:11:40,48F,,F,U13,48,Springburn Harriers,https://www.springburnharriers.co.uk/,18
+18,0:11:40,48F,Louisa Fraser-Moodie,F,U13,48,Springburn Harriers,https://www.springburnharriers.co.uk/,18
 19,0:11:43,1F,NINA CLARK,F,U13,1,East Kilbride AC,http://www.ekac.org.uk/,19
 20,0:11:48,2F,Megan Haggarty,F,U13,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,20
 21,0:11:50,7F,,F,U13,7,Giffnock North AC,https://www.giffnocknorth.co.uk/,21
@@ -30,7 +30,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website,finishPositi
 29,0:12:10,14F,Isla Milligan,F,U13,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/,29
 30,0:12:10,36F,Sophie Brennan,F,U13,36,Larkhall YMCA,https://www.larkhallymcaharriers.org,30
 31,0:12:10,36F,Laci McNulty,F,U13,36,Larkhall YMCA,https://www.larkhallymcaharriers.org,31
-32,0:12:14,48F,,F,U13,48,Springburn Harriers,https://www.springburnharriers.co.uk/,32
+32,0:12:14,48F,Nina Stevenson,F,U13,48,Springburn Harriers,https://www.springburnharriers.co.uk/,32
 33,0:12:17,40F,MARTHA STEELE,F,U13,40,Motherwell AC,https://motherwellac.com/,33
 34,0:12:18,7F,,F,U13,7,Giffnock North AC,https://www.giffnocknorth.co.uk/,34
 35,0:12:18,10F,Charlotte Reilly,F,U13,10,Shettleston Harriers,http://shettlestonharriers.org.uk/,35
@@ -44,15 +44,15 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website,finishPositi
 43,0:12:50,10F,Alexia Rigg,F,U13,10,Shettleston Harriers,http://shettlestonharriers.org.uk/,43
 44,0:12:51,2F,Lucy Campbell,F,U13,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,44
 45,0:13:04,54F,Pheobe Bonham,F,U13,54,VP-Glasgow,https://www.vp-glasgow.com,45
-46,0:13:11,57F,,F,U13,57,Whitemoss AAC,https://whitemossaac.co.uk/,46
+46,0:13:11,57F,Rosie Paterson,F,U13,57,Whitemoss AAC,https://whitemossaac.co.uk/,46
 47,0:13:14,11F,,F,U13,11,Airdrie Harriers,http://airdrieharriers.org/,47
 48,0:13:14,11F,,F,U13,11,Airdrie Harriers,http://airdrieharriers.org/,48
 49,0:13:17,37F,Eilidh Boyle,F,U13,37,Law & District AAC,http://www.lawaac.co.uk/,49
 50,0:13:22,10F,Leia Connolly,F,U13,10,Shettleston Harriers,http://shettlestonharriers.org.uk/,50
 51,0:13:28,54F,Charlotte Hughes,F,U13,54,VP-Glasgow,https://www.vp-glasgow.com,51
 52,0:13:38,44F,Lacey Dailly,F,U13,44,North Ayrshire AAC,https://naathletics.co.uk/,52
-53,0:13:53,4F,,F,U13,4,Inverclyde AC,https://www.inverclydeac.org/,53
-54,0:13:57,4F,,F,U13,4,Inverclyde AC,https://www.inverclydeac.org/,54
+53,0:13:53,4F,Leah Kane,F,U13,4,Inverclyde AC,https://www.inverclydeac.org/,53
+54,0:13:57,4F,Scarlett Wynn,F,U13,4,Inverclyde AC,https://www.inverclydeac.org/,54
 55,0:14:30,11F,,F,U13,11,Airdrie Harriers,http://airdrieharriers.org/,55
 56,0:14:47,11F,,F,U13,11,Airdrie Harriers,http://airdrieharriers.org/,56
 57,0:15:38,6F,Iona Campbell,F,U13,6,Cambuslang Harriers,https://cambuslangharriers.org/,57

@@ -24,7 +24,7 @@
 |         22 | 0:16:27 | 32M    | Cameron Lock        | M        | U15      |           32 | Helensburgh AAC      | https://www.helensburghaac.com/      |
 |         23 | 0:16:44 | 14M    | Iain Maclean        | M        | U15      |           14 | Ayr Seaforth AC      | https://www.ayrseaforth.co.uk/       |
 |         24 | 0:16:48 | 1M     | CHRISTOPHER PATON   | M        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/              |
-|         25 | 0:16:50 | 4F     | nan                 | F        | U15      |            4 | Inverclyde AC        | https://www.inverclydeac.org/        |
+|         25 | 0:16:50 | 4F     | Kiera Gregory       | F        | U15      |            4 | Inverclyde AC        | https://www.inverclydeac.org/        |
 |         26 | 0:16:51 | 37F    | Olivia Inglis       | F        | U15      |           37 | Law & District AAC   | http://www.lawaac.co.uk/             |
 |         27 | 0:16:55 | 1F     | SKYE CHRISTIE       | F        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/              |
 |         28 | 0:17:07 | 11F    | nan                 | F        | U15      |           11 | Airdrie Harriers     | http://airdrieharriers.org/          |
@@ -37,7 +37,7 @@
 |         35 | 0:17:41 | 10F    | Kate Monaghan       | F        | U15      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/   |
 |         36 | 0:17:56 | 7F     | nan                 | F        | U15      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/     |
 |         37 | 0:18:02 | 10M    | Cameron McArdle     | M        | U15      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/   |
-|         38 | 0:18:16 | 9F     | nan                 | F        | U15      |            9 | Garscube Harriers    | https://www.garscubeharriers.org.uk/ |
+|         38 | 0:18:16 | 9F     | Alexandra Bell      | F        | U15      |            9 | Garscube Harriers    | https://www.garscubeharriers.org.uk/ |
 |         39 | 0:18:18 | 44F    | Leesa Dunwoodie     | F        | U15      |           44 | North Ayrshire AAC   | https://naathletics.co.uk/           |
 |         40 | 0:18:18 | 2F     | Cara Monachello     | F        | U15      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/   |
 |         41 | 0:18:34 | 11F    | nan                 | F        | U15      |           11 | Airdrie Harriers     | http://airdrieharriers.org/          |
@@ -48,5 +48,5 @@
 |         46 | 0:18:55 | 2F     | Charlotte Gebbie    | F        | U15      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/   |
 |         47 | 0:19:28 | 2F     | Iona Stewart        | F        | U15      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/   |
 |         48 | 0:20:07 | 11F    | nan                 | F        | U15      |           11 | Airdrie Harriers     | http://airdrieharriers.org/          |
-|         49 | 0:20:32 | 57F    | nan                 | F        | U15      |           57 | Whitemoss AAC        | https://whitemossaac.co.uk/          |
+|         49 | 0:20:32 | 57F    | Martha Cathie       | F        | U15      |           57 | Whitemoss AAC        | https://whitemossaac.co.uk/          |
 |         50 | 0:21:41 | 2F     | Rebecca McNulty     | F        | U15      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/   |
