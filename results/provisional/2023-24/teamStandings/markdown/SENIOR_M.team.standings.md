@@ -1,16 +1,18 @@
 |   1 |   Total | Club name                  | Website                                    |
 |----:|--------:|:---------------------------|:-------------------------------------------|
-|  52 |      52 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
-|  70 |      70 | Law & District AAC         | http://www.lawaac.co.uk/                   |
-|  72 |      72 | East Kilbride AC           | http://www.ekac.org.uk/                    |
-|  90 |      90 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |
-|  95 |      95 | Glasgow FrontRunners       | https://www.glasgowfrontrunners.org/       |
-| 106 |     106 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
-| 108 |     108 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
-| 121 |     121 | Newton Road Runners        | https://www.newton-roadrunners.com/        |
-| 127 |     127 | Motherwell AC              | https://motherwellac.com/                  |
-| 129 |     129 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
-| 136 |     136 | Inverclyde AC              | https://www.inverclydeac.org/              |
-| 142 |     142 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
-| 148 |     148 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
-| 151 |     151 | Whitemoss AAC              | https://whitemossaac.co.uk/                |
+|  56 |      56 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
+|  75 |      75 | Law & District AAC         | http://www.lawaac.co.uk/                   |
+|  76 |      76 | East Kilbride AC           | http://www.ekac.org.uk/                    |
+|  95 |      95 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |
+| 101 |     101 | Glasgow FrontRunners       | https://www.glasgowfrontrunners.org/       |
+| 112 |     112 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
+| 114 |     114 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
+| 129 |     129 | Newton Road Runners        | https://www.newton-roadrunners.com/        |
+| 133 |     133 | Motherwell AC              | https://motherwellac.com/                  |
+| 136 |     136 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
+| 142 |     142 | Kilbarchan AAC             | https://kilbarchanaac.org.uk/              |
+| 143 |     143 | Inverclyde AC              | https://www.inverclydeac.org/              |
+| 149 |     149 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
+| 150 |     150 | Irvine RC                  | https://www.irvinerunningclub.co.uk/       |
+| 156 |     156 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
+| 159 |     159 | Whitemoss AAC              | https://whitemossaac.co.uk/                |
