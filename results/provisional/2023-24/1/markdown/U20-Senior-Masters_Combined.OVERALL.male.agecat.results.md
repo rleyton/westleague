@@ -15,7 +15,7 @@
 |         13 | 0:28:55 | 27M    | Stuart Miller         | M        | SENIOR   |           27 | Glasgow FrontRunners       | https://www.glasgowfrontrunners.org/       |               13 |
 |         14 | 0:29:00 | 37M    | Allan Neil            | M        | SENIOR   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               14 |
 |         15 | 0:29:15 | 5M     | nan                   | M        | nan      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |               15 |
-|         16 | 0:29:21 | 34M    | nan                   | M        | nan      |           34 | Kilbarchan AAC             | https://kilbarchanaac.org.uk/              |               16 |
+|         16 | 0:29:21 | 34M    | Stuart Kerr           | M        | SENIOR   |           34 | Kilbarchan AAC             | https://kilbarchanaac.org.uk/              |               16 |
 |         17 | 0:29:33 | 6M     | Iain Murphy           | M        | MASTER   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |               17 |
 |         18 | 0:29:36 | 5M     | nan                   | M        | nan      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |               18 |
 |         19 | 0:29:37 | 4M     | Jason Kane            | M        | SENIOR   |            4 | Inverclyde AC              | https://www.inverclydeac.org/              |               19 |
@@ -30,7 +30,7 @@
 |         28 | 0:30:30 | 14M    | Ben Forrest           | M        | SENIOR   |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |               29 |
 |         29 | 0:30:31 | 32M    | Richard O'Grady       | M        | MASTER   |           32 | Helensburgh AAC            | https://www.helensburghaac.com/            |               30 |
 |         30 | 0:30:43 | 3M     | Craig Ross            | M        | MASTER   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |               31 |
-|         31 | 0:30:48 | 33M    | nan                   | M        | nan      |           33 | Irvine RC                  | https://www.irvinerunningclub.co.uk/       |               32 |
+|         31 | 0:30:48 | 33M    | Owen McWilliams       | M        | SENIOR   |           33 | Irvine RC                  | https://www.irvinerunningclub.co.uk/       |               32 |
 |         32 | 0:30:55 | 4M     | Alan Callan           | M        | MASTER   |            4 | Inverclyde AC              | https://www.inverclydeac.org/              |               33 |
 |         33 | 0:31:05 | 8M     | Matthew Brown         | M        | SENIOR   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |               34 |
 |         34 | 0:31:30 | 5M     | nan                   | M        | nan      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |               35 |
@@ -42,7 +42,7 @@
 |         40 | 0:32:49 | 10M    | John Duffy            | M        | MASTER   |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |               44 |
 |         41 | 0:32:51 | 6M     | Lewis Anderson        | M        | SENIOR   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |               45 |
 |         42 | 0:32:58 | 27M    | Ed White              | M        | SENIOR   |           27 | Glasgow FrontRunners       | https://www.glasgowfrontrunners.org/       |               47 |
-|         43 | 0:33:03 | 33M    | nan                   | M        | nan      |           33 | Irvine RC                  | https://www.irvinerunningclub.co.uk/       |               48 |
+|         43 | 0:33:03 | 33M    | Alex Allardyce        | M        | MASTER   |           33 | Irvine RC                  | https://www.irvinerunningclub.co.uk/       |               48 |
 |         44 | 0:33:07 | 37M    | Bobby Hill            | M        | SENIOR   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               49 |
 |         45 | 0:33:09 | 1M     | DAVID GORMAN          | M        | SENIOR   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |               50 |
 |         46 | 0:33:17 | 44M    | Andy Willets          | M        | MASTER   |           44 | North Ayrshire AAC         | https://naathletics.co.uk/                 |               53 |

@@ -1,7 +1,5 @@
 |   team | Club name             | Website                                   |
 |-------:|:----------------------|:------------------------------------------|
-|     33 | Irvine RC             | https://www.irvinerunningclub.co.uk/      |
-|     34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/             |
 |      5 | Westerlands CCC       | https://westerlandsccc.co.uk/             |
 |      7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/          |
 |     11 | Airdrie Harriers      | http://airdrieharriers.org/               |
