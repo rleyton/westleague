@@ -35,7 +35,7 @@
 |         33 | 0:31:05 | 8M     | Matthew Brown         | M        | SENIOR   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |               34 |
 |         34 | 0:31:30 | 5M     | nan                   | M        | nan      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |               35 |
 |         35 | 0:32:07 | 5M     | nan                   | M        | nan      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |               37 |
-|         36 | 0:32:11 | 7M     | nan                   | M        | nan      |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |               38 |
+|         36 | 0:32:11 | 7M     | David Shaw            | M        | MASTER   |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |               38 |
 |         37 | 0:32:15 | 14M    | Alasdair Meldrum      | M        | MASTER   |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |               39 |
 |         38 | 0:32:32 | 17M    | nan                   | M        | nan      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |               41 |
 |         39 | 0:32:36 | 53M    | Matt Pearce           | M        | MASTER   |           53 | Troon Tortoises            | http://troontortoises.co.uk                |               42 |
@@ -54,7 +54,7 @@
 |         52 | 0:33:40 | 30M    | Stephen Harrison      | M        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |               61 |
 |         53 | 0:34:10 | 2M     | Nick Carter           | M        | SENIOR   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |               65 |
 |         54 | 0:34:12 | 10M    | John Oates            | M        | MASTER   |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |               67 |
-|         55 | 0:34:15 | 56M    | nan                   | M        | nan      |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |               68 |
+|         55 | 0:34:15 | 56M    | Graeme Jack           | M        | MASTER   |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |               68 |
 |         56 | 0:34:27 | 40M    | DEREK O'NEILL 2ND)    | M        | MASTER   |           40 | Motherwell AC              | https://motherwellac.com/                  |               70 |
 |         57 | 0:34:37 | 42M    | Peter Alexander       | M        | SENIOR   |           42 | Newton Road Runners        | https://www.newton-roadrunners.com/        |               71 |
 |         58 | 0:34:43 | 53M    | Fraser McPhail        | M        | MASTER   |           53 | Troon Tortoises            | http://troontortoises.co.uk                |               72 |
@@ -84,7 +84,7 @@
 |         82 | 0:37:33 | 11M    | nan                   | M        | nan      |           11 | Airdrie Harriers           | http://airdrieharriers.org/                |              104 |
 |         83 | 0:37:47 | 3M     | Thomas Thorne         | M        | MASTER   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |              107 |
 |         84 | 0:37:53 | 1M     | GORDON COLVIN         | M        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |              108 |
-|         85 | 0:37:57 | 56M    | nan                   | M        | nan      |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |              109 |
+|         85 | 0:37:57 | 56M    | Catriona Campbell     | M        | SENIOR   |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |              109 |
 |         86 | 0:38:02 | 40M    | DAVID HOOLAGHAN (3RD) | M        | MASTER   |           40 | Motherwell AC              | https://motherwellac.com/                  |              111 |
 |         87 | 0:38:26 | 57M    | David Cathie          | M        | MASTER   |           57 | Whitemoss AAC              | https://whitemossaac.co.uk/                |              114 |
 |         88 | 0:38:31 | 6M     | Iain Crawford         | M        | MASTER   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |              115 |
@@ -99,8 +99,8 @@
 |         97 | 0:40:52 | 30M    | Gerry Gallacher       | M        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |              134 |
 |         98 | 0:40:54 | 8M     | Alastair Patience     | M        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |              135 |
 |         99 | 0:41:15 | 42M    | Craig Lawton          | M        | MASTER   |           42 | Newton Road Runners        | https://www.newton-roadrunners.com/        |              136 |
-|        100 | 0:41:17 | 56M    | nan                   | M        | nan      |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |              137 |
-|        101 | 0:41:26 | 56M    | nan                   | M        | nan      |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |              138 |
+|        100 | 0:41:17 | 56M    | Allen Campbell        | M        | MASTER   |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |              137 |
+|        101 | 0:41:26 | 56M    | Trevor Wayman         | M        | MASTER   |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |              138 |
 |        102 | 0:42:47 | 57M    | Hugh Boyle            | M        | MASTER   |           57 | Whitemoss AAC              | https://whitemossaac.co.uk/                |              143 |
 |        103 | 0:43:04 | 36M    | William Thomson       | M        | MASTER   |           36 | Larkhall YMCA              | https://www.larkhallymcaharriers.org       |              145 |
 |        104 | 0:43:25 | 8M     | David Gemmell         | M        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |              146 |

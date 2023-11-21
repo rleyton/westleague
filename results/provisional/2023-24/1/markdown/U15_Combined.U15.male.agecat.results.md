@@ -10,7 +10,7 @@
 |          8 | 0:15:30 | 34M    | Billy McKie         | M        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/        |                9 |
 |          9 | 0:15:32 | 2M     | Nicholas Latto      | M        | U15      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/   |               10 |
 |         10 | 0:15:40 | 37M    | Blair Beverley      | M        | U15      |           37 | Law & District AAC   | http://www.lawaac.co.uk/             |               11 |
-|         11 | 0:15:41 | 7M     | nan                 | M        | U15      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/     |               12 |
+|         11 | 0:15:41 | 7M     | Joseph Mowat        | M        | U15      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/     |               12 |
 |         12 | 0:15:41 | 32M    | James McPherson     | M        | U15      |           32 | Helensburgh AAC      | https://www.helensburghaac.com/      |               13 |
 |         13 | 0:15:43 | 14M    | Lucan Marshall-Watt | M        | U15      |           14 | Ayr Seaforth AC      | https://www.ayrseaforth.co.uk/       |               15 |
 |         14 | 0:16:12 | 36M    | Aaron Scott         | M        | U15      |           36 | Larkhall YMCA        | https://www.larkhallymcaharriers.org |               19 |
