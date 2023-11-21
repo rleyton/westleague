@@ -2,17 +2,18 @@
 |-----------:|:---------------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
 |          1 | Kilmarnock H&AC            |      2 | M        | 3,13,15,25          |           56 |               0 |            56 |                5 | http://www.kilmarnockharriers.com/         |
 |          2 | Law & District AAC         |     37 | M        | 9,12,22,32          |           75 |               0 |            75 |                4 | http://www.lawaac.co.uk/                   |
-|          3 | East Kilbride AC           |      1 | M        | 2,7,23              |           32 |              44 |            76 |                3 | http://www.ekac.org.uk/                    |
-|          4 | Shettleston Harriers       |     10 | M        | 4,16,31             |           51 |              44 |            95 |                3 | http://shettlestonharriers.org.uk/         |
-|          5 | Glasgow FrontRunners       |     27 | M        | 8,21,28             |           57 |              44 |           101 |                3 | https://www.glasgowfrontrunners.org/       |
-|          6 | Bellahouston Harriers      |      8 | M        | 5,19                |           24 |              88 |           112 |                2 | http://www.bellahoustonharriers.co.uk/     |
-|          7 | Cambuslang Harriers        |      6 | M        | 6,20                |           26 |              88 |           114 |                2 | https://cambuslangharriers.org/            |
-|          8 | Newton Road Runners        |     42 | M        | 26,29,30            |           85 |              44 |           129 |                3 | https://www.newton-roadrunners.com/        |
-|          9 | Motherwell AC              |     40 | M        | 1                   |            1 |             132 |           133 |                1 | https://motherwellac.com/                  |
-|         10 | Bellahouston RR            |      3 | M        | 14,34               |           48 |              88 |           136 |                2 | https://www.bellahoustonroadrunners.co.uk/ |
-|         11 | Kilbarchan AAC             |     34 | M        | 10                  |           10 |             132 |           142 |                1 | https://kilbarchanaac.org.uk/              |
-|         12 | Inverclyde AC              |      4 | M        | 11                  |           11 |             132 |           143 |                1 | https://www.inverclydeac.org/              |
-|         13 | Ayr Seaforth AC            |     14 | M        | 17                  |           17 |             132 |           149 |                1 | https://www.ayrseaforth.co.uk/             |
-|         14 | Irvine RC                  |     33 | M        | 18                  |           18 |             132 |           150 |                1 | https://www.irvinerunningclub.co.uk/       |
-|         15 | Greenock Glenpark Harriers |     30 | M        | 24                  |           24 |             132 |           156 |                1 | https://greenockglenparkharriers.com/      |
-|         16 | Whitemoss AAC              |     57 | M        | 27                  |           27 |             132 |           159 |                1 | https://whitemossaac.co.uk/                |
+|          3 | East Kilbride AC           |      1 | M        | 2,7,23              |           32 |              45 |            77 |                3 | http://www.ekac.org.uk/                    |
+|          4 | Shettleston Harriers       |     10 | M        | 4,16,31             |           51 |              45 |            96 |                3 | http://shettlestonharriers.org.uk/         |
+|          5 | Glasgow FrontRunners       |     27 | M        | 8,21,28             |           57 |              45 |           102 |                3 | https://www.glasgowfrontrunners.org/       |
+|          6 | Bellahouston Harriers      |      8 | M        | 5,19                |           24 |              90 |           114 |                2 | http://www.bellahoustonharriers.co.uk/     |
+|          7 | Cambuslang Harriers        |      6 | M        | 6,20                |           26 |              90 |           116 |                2 | https://cambuslangharriers.org/            |
+|          8 | Newton Road Runners        |     42 | M        | 26,29,30            |           85 |              45 |           130 |                3 | https://www.newton-roadrunners.com/        |
+|          9 | Motherwell AC              |     40 | M        | 1                   |            1 |             135 |           136 |                1 | https://motherwellac.com/                  |
+|         10 | Bellahouston RR            |      3 | M        | 14,34               |           48 |              90 |           138 |                2 | https://www.bellahoustonroadrunners.co.uk/ |
+|         11 | Kilbarchan AAC             |     34 | M        | 10                  |           10 |             135 |           145 |                1 | https://kilbarchanaac.org.uk/              |
+|         12 | Inverclyde AC              |      4 | M        | 11                  |           11 |             135 |           146 |                1 | https://www.inverclydeac.org/              |
+|         13 | Ayr Seaforth AC            |     14 | M        | 17                  |           17 |             135 |           152 |                1 | https://www.ayrseaforth.co.uk/             |
+|         14 | Irvine RC                  |     33 | M        | 18                  |           18 |             135 |           153 |                1 | https://www.irvinerunningclub.co.uk/       |
+|         15 | Greenock Glenpark Harriers |     30 | M        | 24                  |           24 |             135 |           159 |                1 | https://greenockglenparkharriers.com/      |
+|         16 | Whitemoss AAC              |     57 | M        | 27                  |           27 |             135 |           162 |                1 | https://whitemossaac.co.uk/                |
+|         17 | West End RR                |     56 | M        | 35                  |           35 |             135 |           170 |                1 | https://www.westendroadrunners.co.uk/      |
