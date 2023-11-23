@@ -6,11 +6,12 @@
 
 ## Provisional results
 
-_Provisional results reflect team submissions received by **21st November, 9:30am**_ - Please direct queries/issues to contact@westleague.org.uk
-
+* _Provisional results reflect team submissions received by **23rd November, 7:30pm**_ - Please direct queries/issues to contact@westleague.org.uk
+* Website write-up will follow this weekend (25/26th) November
+  * Busy work week I'm afraid! ^RL
 * [Event #1, Kilmarnock (18th November, 2023)](https://results.westleague.org.uk/results/provisional/2023-24/1/html/)
   * [Provisional Race results](https://results.westleague.org.uk/results/provisional/2023-24/1/html/) - See below for known issues
-  * **5 Teams still need to submit results** - [List of teams here](https://github.com/rleyton/westleague/blob/main/results/provisional/2023-24/1/markdown/missingTeamSubmissions.md), [please submit via website here](https://westleague.org.uk/results/submission/)
+  * **4 Teams still need to submit results** - [List of teams here](https://github.com/rleyton/westleague/blob/main/results/provisional/2023-24/1/markdown/missingTeamSubmissions.md), [please submit via website here](https://westleague.org.uk/results/submission/)
   * Hosted by [Kilmarnock H&AC](http://www.kilmarnockharriers.com/)
   * [Attendance: 441](./results/provisional/2023-24/1/meta.json)
   * [Thanks to the 20 volunteers](./results/provisional/2023-24/1/html/volunteers.html)
