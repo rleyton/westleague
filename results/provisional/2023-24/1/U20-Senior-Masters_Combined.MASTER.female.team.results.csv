@@ -1,17 +1,18 @@
 position,Club name,team,gender,finisherPositions,teamPoints,penaltyPoints,totalPoints,totalFinishers,Website
-1,Cambuslang Harriers,6,F,"2,3,13",18,0,18,3,https://cambuslangharriers.org/
-2,Law & District AAC,37,F,"6,9",15,38,53,2,http://www.lawaac.co.uk/
-3,Greenock Glenpark Harriers,30,F,"14,17,24",55,0,55,5,https://greenockglenparkharriers.com/
-4,Bellahouston Harriers,8,F,"11,20,25",56,0,56,3,http://www.bellahoustonharriers.co.uk/
-5,Bellahouston RR,3,F,"15,16,26",57,0,57,3,https://www.bellahoustonroadrunners.co.uk/
-6,Troon Tortoises,53,F,"8,21",29,38,67,2,http://troontortoises.co.uk
-7,Helensburgh AAC,32,F,1,1,76,77,1,https://www.helensburghaac.com/
-8,East Kilbride AC,1,F,4,4,76,80,1,http://www.ekac.org.uk/
-9,Springburn Harriers,48,F,5,5,76,81,1,https://www.springburnharriers.co.uk/
-10,West End RR,56,F,7,7,76,83,1,https://www.westendroadrunners.co.uk/
-11,Larkhall YMCA,36,F,10,10,76,86,1,https://www.larkhallymcaharriers.org
-12,Newton Road Runners,42,F,12,12,76,88,1,https://www.newton-roadrunners.com/
-13,Giffnock North AC,7,F,18,18,76,94,1,https://www.giffnocknorth.co.uk/
-14,Kilmarnock H&AC,2,F,19,19,76,95,1,http://www.kilmarnockharriers.com/
-15,Ayr Seaforth AC,14,F,22,22,76,98,1,https://www.ayrseaforth.co.uk/
-16,Inverclyde AC,4,F,23,23,76,99,1,https://www.inverclydeac.org/
+1,Cambuslang Harriers,6,F,"2,3,14",19,0,19,3,https://cambuslangharriers.org/
+2,Law & District AAC,37,F,"6,9",15,39,54,2,http://www.lawaac.co.uk/
+3,Greenock Glenpark Harriers,30,F,"15,18,25",58,0,58,5,https://greenockglenparkharriers.com/
+4,Bellahouston Harriers,8,F,"11,21,26",58,0,58,3,http://www.bellahoustonharriers.co.uk/
+5,Bellahouston RR,3,F,"16,17,27",60,0,60,3,https://www.bellahoustonroadrunners.co.uk/
+6,Troon Tortoises,53,F,"8,22",30,39,69,2,http://troontortoises.co.uk
+7,Helensburgh AAC,32,F,1,1,78,79,1,https://www.helensburghaac.com/
+8,East Kilbride AC,1,F,4,4,78,82,1,http://www.ekac.org.uk/
+9,Springburn Harriers,48,F,5,5,78,83,1,https://www.springburnharriers.co.uk/
+10,West End RR,56,F,7,7,78,85,1,https://www.westendroadrunners.co.uk/
+11,Larkhall YMCA,36,F,10,10,78,88,1,https://www.larkhallymcaharriers.org
+12,Airdrie Harriers,11,F,12,12,78,90,1,http://airdrieharriers.org/
+13,Newton Road Runners,42,F,13,13,78,91,1,https://www.newton-roadrunners.com/
+14,Giffnock North AC,7,F,19,19,78,97,1,https://www.giffnocknorth.co.uk/
+15,Kilmarnock H&AC,2,F,20,20,78,98,1,http://www.kilmarnockharriers.com/
+16,Ayr Seaforth AC,14,F,23,23,78,101,1,https://www.ayrseaforth.co.uk/
+17,Inverclyde AC,4,F,24,24,78,102,1,https://www.inverclydeac.org/
