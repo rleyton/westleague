@@ -19,7 +19,7 @@ _Provisional results reflect team submissions received by **21st November, 9:30a
 
 ### Known results issues
 
-* [9 teams still to submit results, list here](https://github.com/rleyton/westleague/blob/main/results/provisional/2023-24/1/markdown/missingTeamSubmissions.md)
+* [4 teams still to submit results, list here](https://github.com/rleyton/westleague/blob/main/results/provisional/2023-24/1/markdown/missingTeamSubmissions.md)
 * Known time/results mismatch in the following events:
   * U11 Boys 
   * U15 Combined
