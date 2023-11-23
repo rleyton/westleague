@@ -11,20 +11,21 @@
 |          9 | 0:36:40 | 37F    | Lesley Graham      | F        | MASTER   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               91 |
 |         10 | 0:36:51 | 36F    | Julie Hill         | F        | MASTER   |           36 | Larkhall YMCA              | https://www.larkhallymcaharriers.org       |               95 |
 |         11 | 0:37:42 | 8F     | Marianne Wilson    | F        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |              106 |
-|         12 | 0:38:10 | 42F    | Joanne Thorburn    | F        | MASTER   |           42 | Newton Road Runners        | https://www.newton-roadrunners.com/        |              113 |
-|         13 | 0:38:58 | 6F     | Erica Christie     | F        | MASTER   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |              119 |
-|         14 | 0:39:17 | 30F    | Lynne Harrison     | F        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |              122 |
-|         15 | 0:39:37 | 3F     | Anne Campbell      | F        | MASTER   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |              124 |
-|         16 | 0:39:46 | 3F     | Pauline Wright     | F        | MASTER   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |              127 |
-|         17 | 0:40:12 | 30F    | Marianne McKay     | F        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |              130 |
-|         18 | 0:40:50 | 7F     | Gillian Gallagher  | F        | MASTER   |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |              133 |
-|         19 | 0:41:28 | 2F     | Kirsty McNulty     | F        | MASTER   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |              139 |
-|         20 | 0:41:34 | 8F     | Stephanie Rudd     | F        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |              140 |
-|         21 | 0:41:42 | 53F    | Anne Noble         | F        | MASTER   |           53 | Troon Tortoises            | http://troontortoises.co.uk                |              141 |
-|         22 | 0:41:53 | 14F    | Vikki Stewart      | F        | MASTER   |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |              142 |
-|         23 | 0:43:01 | 4F     | Faye Currie        | F        | MASTER   |            4 | Inverclyde AC              | https://www.inverclydeac.org/              |              144 |
-|         24 | 0:44:46 | 30F    | Sarah Jane Whalen  | F        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |              149 |
-|         25 | 0:45:00 | 8F     | Kathryn Burningham | F        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |              150 |
-|         26 | 0:48:22 | 3F     | Terry Nimmo        | F        | MASTER   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |              151 |
-|         27 | 0:53:36 | 30F    | Charlotte McKay    | F        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |              152 |
-|         28 | 0:57:47 | 30F    | Doris Heron        | F        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |              153 |
+|         12 | 0:38:07 | 11F    | Emma Higgins       | F        | MASTER   |           11 | Airdrie Harriers           | http://airdrieharriers.org/                |              112 |
+|         13 | 0:38:10 | 42F    | Joanne Thorburn    | F        | MASTER   |           42 | Newton Road Runners        | https://www.newton-roadrunners.com/        |              113 |
+|         14 | 0:38:58 | 6F     | Erica Christie     | F        | MASTER   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |              119 |
+|         15 | 0:39:17 | 30F    | Lynne Harrison     | F        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |              122 |
+|         16 | 0:39:37 | 3F     | Anne Campbell      | F        | MASTER   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |              124 |
+|         17 | 0:39:46 | 3F     | Pauline Wright     | F        | MASTER   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |              127 |
+|         18 | 0:40:12 | 30F    | Marianne McKay     | F        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |              130 |
+|         19 | 0:40:50 | 7F     | Gillian Gallagher  | F        | MASTER   |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |              133 |
+|         20 | 0:41:28 | 2F     | Kirsty McNulty     | F        | MASTER   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |              139 |
+|         21 | 0:41:34 | 8F     | Stephanie Rudd     | F        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |              140 |
+|         22 | 0:41:42 | 53F    | Anne Noble         | F        | MASTER   |           53 | Troon Tortoises            | http://troontortoises.co.uk                |              141 |
+|         23 | 0:41:53 | 14F    | Vikki Stewart      | F        | MASTER   |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |              142 |
+|         24 | 0:43:01 | 4F     | Faye Currie        | F        | MASTER   |            4 | Inverclyde AC              | https://www.inverclydeac.org/              |              144 |
+|         25 | 0:44:46 | 30F    | Sarah Jane Whalen  | F        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |              149 |
+|         26 | 0:45:00 | 8F     | Kathryn Burningham | F        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |              150 |
+|         27 | 0:48:22 | 3F     | Terry Nimmo        | F        | MASTER   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |              151 |
+|         28 | 0:53:36 | 30F    | Charlotte McKay    | F        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |              152 |
+|         29 | 0:57:47 | 30F    | Doris Heron        | F        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |              153 |

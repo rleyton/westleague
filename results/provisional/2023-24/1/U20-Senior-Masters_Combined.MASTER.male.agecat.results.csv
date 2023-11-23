@@ -34,23 +34,25 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website,finishPositi
 33,0:36:55,3M,Tom Ferris,M,MASTER,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,96
 34,0:37:16,37M,Mark Milligan,M,MASTER,37,Law & District AAC,http://www.lawaac.co.uk/,99
 35,0:37:23,8M,Kenneth Scott,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,102
-36,0:37:47,3M,Thomas Thorne,M,MASTER,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,107
-37,0:37:53,1M,GORDON COLVIN,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/,108
-38,0:38:02,40M,DAVID HOOLAGHAN (3RD),M,MASTER,40,Motherwell AC,https://motherwellac.com/,111
-39,0:38:26,57M,David Cathie,M,MASTER,57,Whitemoss AAC,https://whitemossaac.co.uk/,114
-40,0:38:31,6M,Iain Crawford,M,MASTER,6,Cambuslang Harriers,https://cambuslangharriers.org/,115
-41,0:38:42,2M,Ken Monaghan,M,MASTER,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,117
-42,0:38:51,37M,John O'Leary,M,MASTER,37,Law & District AAC,http://www.lawaac.co.uk/,118
-43,0:39:16,8M,Simon McDougall,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,121
-44,0:39:18,10M,John Tomms,M,MASTER,10,Shettleston Harriers,http://shettlestonharriers.org.uk/,123
-45,0:39:37,30M,Frank McMahon,M,MASTER,30,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/,125
-46,0:39:44,44M,Max Nowakowski,M,MASTER,44,North Ayrshire AAC,https://naathletics.co.uk/,126
-47,0:40:36,27M,Jack Kelly,M,MASTER,27,Glasgow FrontRunners,https://www.glasgowfrontrunners.org/,131
-48,0:40:52,30M,Gerry Gallacher,M,MASTER,30,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/,134
-49,0:40:54,8M,Alastair Patience,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,135
-50,0:41:15,42M,Craig Lawton,M,MASTER,42,Newton Road Runners,https://www.newton-roadrunners.com/,136
-51,0:41:17,56M,Allen Campbell,M,MASTER,56,West End RR,https://www.westendroadrunners.co.uk/,137
-52,0:41:26,56M,Trevor Wayman,M,MASTER,56,West End RR,https://www.westendroadrunners.co.uk/,138
-53,0:42:47,57M,Hugh Boyle,M,MASTER,57,Whitemoss AAC,https://whitemossaac.co.uk/,143
-54,0:43:04,36M,William Thomson,M,MASTER,36,Larkhall YMCA,https://www.larkhallymcaharriers.org,145
-55,0:43:25,8M,David Gemmell,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,146
+36,0:37:33,11M,Brian Wilson,M,MASTER,11,Airdrie Harriers,http://airdrieharriers.org/,104
+37,0:37:47,3M,Thomas Thorne,M,MASTER,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,107
+38,0:37:53,1M,GORDON COLVIN,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/,108
+39,0:38:02,40M,DAVID HOOLAGHAN (3RD),M,MASTER,40,Motherwell AC,https://motherwellac.com/,111
+40,0:38:26,57M,David Cathie,M,MASTER,57,Whitemoss AAC,https://whitemossaac.co.uk/,114
+41,0:38:31,6M,Iain Crawford,M,MASTER,6,Cambuslang Harriers,https://cambuslangharriers.org/,115
+42,0:38:42,2M,Ken Monaghan,M,MASTER,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,117
+43,0:38:51,37M,John O'Leary,M,MASTER,37,Law & District AAC,http://www.lawaac.co.uk/,118
+44,0:39:16,8M,Simon McDougall,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,121
+45,0:39:18,10M,John Tomms,M,MASTER,10,Shettleston Harriers,http://shettlestonharriers.org.uk/,123
+46,0:39:37,30M,Frank McMahon,M,MASTER,30,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/,125
+47,0:39:44,44M,Max Nowakowski,M,MASTER,44,North Ayrshire AAC,https://naathletics.co.uk/,126
+48,0:40:36,27M,Jack Kelly,M,MASTER,27,Glasgow FrontRunners,https://www.glasgowfrontrunners.org/,131
+49,0:40:52,30M,Gerry Gallacher,M,MASTER,30,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/,134
+50,0:40:54,8M,Alastair Patience,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,135
+51,0:41:15,42M,Craig Lawton,M,MASTER,42,Newton Road Runners,https://www.newton-roadrunners.com/,136
+52,0:41:17,56M,Allen Campbell,M,MASTER,56,West End RR,https://www.westendroadrunners.co.uk/,137
+53,0:41:26,56M,Trevor Wayman,M,MASTER,56,West End RR,https://www.westendroadrunners.co.uk/,138
+54,0:42:47,57M,Hugh Boyle,M,MASTER,57,Whitemoss AAC,https://whitemossaac.co.uk/,143
+55,0:43:04,36M,William Thomson,M,MASTER,36,Larkhall YMCA,https://www.larkhallymcaharriers.org,145
+56,0:43:25,8M,David Gemmell,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,146
+57,0:44:41,11M,Alan Burns,M,MASTER,11,Airdrie Harriers,http://airdrieharriers.org/,148

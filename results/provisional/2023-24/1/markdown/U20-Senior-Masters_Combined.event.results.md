@@ -103,7 +103,7 @@
 |        101 | 0:37:21 | 3M     | Andrew McCulloch      | M        | SENIOR   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
 |        102 | 0:37:23 | 8M     | Kenneth Scott         | M        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
 |        103 | 0:37:30 | 46F    | nan                   | F        | nan      |           46 | Royal Mail Run GMC         | https://www.facebook.com/royalmailrungmc/  |
-|        104 | 0:37:33 | 11M    | nan                   | M        | nan      |           11 | Airdrie Harriers           | http://airdrieharriers.org/                |
+|        104 | 0:37:33 | 11M    | Brian Wilson          | M        | MASTER   |           11 | Airdrie Harriers           | http://airdrieharriers.org/                |
 |        105 | 0:37:38 | 2F     | Amanda Bryden         | F        | SENIOR   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
 |        106 | 0:37:42 | 8F     | Marianne Wilson       | F        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
 |        107 | 0:37:47 | 3M     | Thomas Thorne         | M        | MASTER   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
@@ -111,7 +111,7 @@
 |        109 | 0:37:57 | 56M    | Catriona Campbell     | M        | SENIOR   |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |
 |        110 | 0:37:59 | 37F    | Christine Neill       | F        | SENIOR   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |
 |        111 | 0:38:02 | 40M    | DAVID HOOLAGHAN (3RD) | M        | MASTER   |           40 | Motherwell AC              | https://motherwellac.com/                  |
-|        112 | 0:38:07 | 11F    | nan                   | F        | nan      |           11 | Airdrie Harriers           | http://airdrieharriers.org/                |
+|        112 | 0:38:07 | 11F    | Emma Higgins          | F        | MASTER   |           11 | Airdrie Harriers           | http://airdrieharriers.org/                |
 |        113 | 0:38:10 | 42F    | Joanne Thorburn       | F        | MASTER   |           42 | Newton Road Runners        | https://www.newton-roadrunners.com/        |
 |        114 | 0:38:26 | 57M    | David Cathie          | M        | MASTER   |           57 | Whitemoss AAC              | https://whitemossaac.co.uk/                |
 |        115 | 0:38:31 | 6M     | Iain Crawford         | M        | MASTER   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
@@ -147,7 +147,7 @@
 |        145 | 0:43:04 | 36M    | William Thomson       | M        | MASTER   |           36 | Larkhall YMCA              | https://www.larkhallymcaharriers.org       |
 |        146 | 0:43:25 | 8M     | David Gemmell         | M        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
 |        147 | 0:44:14 | 14F    | Lucy Cameron          | F        | SENIOR   |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
-|        148 | 0:44:41 | 11M    | nan                   | M        | nan      |           11 | Airdrie Harriers           | http://airdrieharriers.org/                |
+|        148 | 0:44:41 | 11M    | Alan Burns            | M        | MASTER   |           11 | Airdrie Harriers           | http://airdrieharriers.org/                |
 |        149 | 0:44:46 | 30F    | Sarah Jane Whalen     | F        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
 |        150 | 0:45:00 | 8F     | Kathryn Burningham    | F        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
 |        151 | 0:48:22 | 3F     | Terry Nimmo           | F        | MASTER   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |

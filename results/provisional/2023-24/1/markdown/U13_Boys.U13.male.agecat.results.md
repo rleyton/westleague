@@ -2,7 +2,7 @@
 |-----------:|:--------|:-------|:------------------------|:---------|:---------|-------------:|:--------------------|:--------------------------------------|-----------------:|
 |          1 | 0:09:25 | 48M    | Gregor McNaught         | M        | U13      |           48 | Springburn Harriers | https://www.springburnharriers.co.uk/ |                1 |
 |          2 | 0:09:34 | 37M    | Alexander Wotherspoon   | M        | U13      |           37 | Law & District AAC  | http://www.lawaac.co.uk/              |                2 |
-|          3 | 0:09:40 | 11M    | nan                     | M        | U13      |           11 | Airdrie Harriers    | http://airdrieharriers.org/           |                3 |
+|          3 | 0:09:40 | 11M    | Kevin Winiarz           | M        | U13      |           11 | Airdrie Harriers    | http://airdrieharriers.org/           |                3 |
 |          4 | 0:09:47 | 37M    | Jamie Mackie            | M        | U13      |           37 | Law & District AAC  | http://www.lawaac.co.uk/              |                4 |
 |          5 | 0:09:49 | 34M    | Tyler McMeekin          | M        | U13      |           34 | Kilbarchan AAC      | https://kilbarchanaac.org.uk/         |                5 |
 |          6 | 0:09:55 | 4M     | Charlie Lyne            | M        | U13      |            4 | Inverclyde AC       | https://www.inverclydeac.org/         |                6 |
@@ -14,7 +14,7 @@
 |         12 | 0:10:19 | 2M     | Leis Sinclair           | M        | U13      |            2 | Kilmarnock H&AC     | http://www.kilmarnockharriers.com/    |               12 |
 |         13 | 0:10:20 | 40M    | LUKE GEDDES (1ST)       | M        | U13      |           40 | Motherwell AC       | https://motherwellac.com/             |               13 |
 |         14 | 0:10:23 | 7M     | Ollie Macfarlane        | M        | U13      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |               14 |
-|         15 | 0:10:31 | 11M    | nan                     | M        | U13      |           11 | Airdrie Harriers    | http://airdrieharriers.org/           |               15 |
+|         15 | 0:10:31 | 11M    | Declan Slavin           | M        | U13      |           11 | Airdrie Harriers    | http://airdrieharriers.org/           |               15 |
 |         16 | 0:10:37 | 44M    | Kai Little              | M        | U13      |           44 | North Ayrshire AAC  | https://naathletics.co.uk/            |               16 |
 |         17 | 0:10:43 | 2M     | Callum O'Neil           | M        | U13      |            2 | Kilmarnock H&AC     | http://www.kilmarnockharriers.com/    |               17 |
 |         18 | 0:10:44 | 2M     | Harris Steven           | M        | U13      |            2 | Kilmarnock H&AC     | http://www.kilmarnockharriers.com/    |               18 |
@@ -25,12 +25,12 @@
 |         23 | 0:10:56 | 34M    | Noah Kerr               | M        | U13      |           34 | Kilbarchan AAC      | https://kilbarchanaac.org.uk/         |               23 |
 |         24 | 0:10:57 | 1M     | HARRIS ROSLING          | M        | U13      |            1 | East Kilbride AC    | http://www.ekac.org.uk/               |               24 |
 |         25 | 0:11:00 | 2M     | Logan Peddie            | M        | U13      |            2 | Kilmarnock H&AC     | http://www.kilmarnockharriers.com/    |               25 |
-|         26 | 0:11:30 | 11M    | nan                     | M        | U13      |           11 | Airdrie Harriers    | http://airdrieharriers.org/           |               26 |
+|         26 | 0:11:30 | 11M    | Tommy Higgins           | M        | U13      |           11 | Airdrie Harriers    | http://airdrieharriers.org/           |               26 |
 |         27 | 0:12:03 | 2M     | Shaun McGowne           | M        | U13      |            2 | Kilmarnock H&AC     | http://www.kilmarnockharriers.com/    |               27 |
 |         28 | 0:12:07 | 37M    | James Keenan            | M        | U13      |           37 | Law & District AAC  | http://www.lawaac.co.uk/              |               28 |
 |         29 | 0:12:15 | 7M     | Daniel Forrester-Wright | M        | U13      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |               29 |
 |         30 | 0:12:26 | 17M    | nan                     | M        | U13      |           17 | Calderglen Harriers | http://www.calderglenharriers.org.uk/ |               30 |
-|         31 | 0:12:34 | 11M    | nan                     | M        | U13      |           11 | Airdrie Harriers    | http://airdrieharriers.org/           |               31 |
+|         31 | 0:12:34 | 11M    | Nathan Reynolds         | M        | U13      |           11 | Airdrie Harriers    | http://airdrieharriers.org/           |               31 |
 |         32 | 0:12:55 | 36M    | Gavin Lees              | M        | U13      |           36 | Larkhall YMCA       | https://www.larkhallymcaharriers.org  |               32 |
-|         33 | 0:13:00 | 11M    | nan                     | M        | U13      |           11 | Airdrie Harriers    | http://airdrieharriers.org/           |               33 |
+|         33 | 0:13:00 | 11M    | Callum Cameron          | M        | U13      |           11 | Airdrie Harriers    | http://airdrieharriers.org/           |               33 |
 |         34 | 0:13:36 | 36M    | Sam Thomson             | M        | U13      |           36 | Larkhall YMCA       | https://www.larkhallymcaharriers.org  |               34 |
