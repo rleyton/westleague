@@ -12,7 +12,7 @@ from src.utils_consts import (
     MARKDOWN_DIR,
     PDF_DIR,
 )
-from src.adapter_pdf import generate_pdf, combined_pdf
+from src.adapter_pdf import generate_pdf, combined_pdf, generate_single_pdf
 from src.utils_functions import fetch_events_from_dir, fetch_volunteers_from_dir
 from src.adapter_gender import gender_process
 from src.adapter_team import process_teams, load_team_submissions
@@ -281,22 +281,18 @@ if volunteersFile:
         }
     )
     pdfs.append(
-        generate_pdf(
-            competition="volunteers",
-            gender=None,
-            resultshtml=RESULTS_DIR + HTML_DIR + "/" + get_html(vols),
-            teamhtml=None,
+        generate_single_pdf(
+            html=RESULTS_DIR + HTML_DIR + "/" + get_html(vols),
+            filename="volunteers",
             summary="Volunteers",
         )
     )
 
 pdfs.insert(
     0,
-    generate_pdf(
-        competition="Missing submissions",
-        gender=None,
-        resultshtml=RESULTS_DIR + HTML_DIR + "/" + get_html(missing_teams),
-        teamhtml=None,
+    generate_single_pdf(
+        html=RESULTS_DIR + HTML_DIR + "/" + get_html(missing_teams),
+        filename="missingTeams",
         summary="Team submissions still pending",
     ),
 )
@@ -320,6 +316,10 @@ indexDF.hide(axis="index").to_html(
 
 
 summary = """
+<h1>Summary</h1>
+<p>Combined results PDF. Please see <a href="https://westleague.org.uk">westleague.org.uk</a></p>
+<p>Latest results/status at <a href="https://results.westleague.org.uk">results.westleague.org.uk</a></p>
+<p>Note results are provisional until all team results received.</p>
 <h1>Results</h1>
 <p>Results for all events in following order<p>
 <ul>
@@ -336,7 +336,9 @@ summary = """
 </ul>
 <p>
 """
-combined_pdf(pdf_list=pdfs, target=RESULTS_DIR + PDF_DIR + "/RESULTS.pdf", summary=summary)
+combined_pdf(
+    pdf_list=pdfs, target=RESULTS_DIR + PDF_DIR + "/RESULTS.pdf", summary=summary
+)
 
 
 logging.info("Finished")
