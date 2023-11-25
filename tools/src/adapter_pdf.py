@@ -1,12 +1,13 @@
+import datetime
 import pdfkit
 import tempfile
 from pypdf import PdfMerger
-
 from .utils_config import RESULTS_DIR
-from .utils_consts import PDF_DIR
+from .utils_consts import PDF_DIR, GENDER_COMPETITION_MAP
 
 
 def get_options(header):
+    dt = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
     return {
         "page-size": "A4",
         "margin-top": "0.9in",
@@ -15,6 +16,7 @@ def get_options(header):
         "margin-left": "0.9in",
         "encoding": "UTF-8",
         "header-center": f"{header}",
+        "footer-center": f"updated: {dt}, latest at: results.westleague.org.uk",
         "custom-header": [("Accept-Encoding", "gzip")],
         "no-outline": None,
     }
@@ -29,7 +31,8 @@ def do_html_to_pdf(file, html, summary):
     pdfkit.from_file(html, filename, options=get_options(header=summary))
 
 
-def generate_pdf(competition, gender, resultshtml, teamhtml, summary=None):
+def generate_pdf(competition, gender, resultshtml, teamhtml, prefix=None):
+    gender_full = GENDER_COMPETITION_MAP[gender]
     output_file = RESULTS_DIR + PDF_DIR + f"/{competition}-{gender}.pdf"
     result_file = tempfile.NamedTemporaryFile(
         suffix=".pdf",
@@ -37,14 +40,18 @@ def generate_pdf(competition, gender, resultshtml, teamhtml, summary=None):
     team_file = tempfile.NamedTemporaryFile(
         suffix=".pdf",
     )
+    if prefix is None:
+        prefix = ""
 
     do_html_to_pdf(
         file=result_file,
         html=resultshtml,
-        summary=f"{competition} {gender} - race results",
+        summary=f"{prefix}{competition} {gender_full} - race results",
     )
     do_html_to_pdf(
-        file=team_file, html=teamhtml, summary=f"{competition} {gender} - team results"
+        file=team_file,
+        html=teamhtml,
+        summary=f"{prefix}{competition} {gender_full} - team results",
     )
 
     merger = PdfMerger()

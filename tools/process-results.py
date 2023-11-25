@@ -1,5 +1,6 @@
 #!env python
 import logging
+import datetime
 from src.adapter_sheets import load_volunteers, load_results
 from src.utils_consts import (
     EXT_TIMES,
@@ -30,7 +31,15 @@ from src.adapter_format import export_results, get_html
 from src.adapter_clubs import load_clubs
 import pandas as pd
 import pathlib
-from src.utils_config import DATA_DIR, ADJUSTMENTS_DIR, TEAMS, GENDERS, RESULTS_DIR
+from src.utils_config import (
+    DATA_DIR,
+    ADJUSTMENTS_DIR,
+    TEAMS,
+    GENDERS,
+    RESULTS_DIR,
+    year as event_year,
+    event as event_number,
+)
 
 logging.basicConfig(level=logging.DEBUG)
 
@@ -213,6 +222,7 @@ for event in sorted(fetch_events_from_dir(DATA_DIR)):
                         gender=gender,
                         resultshtml=resultsHTML[gender][competition],
                         teamhtml=RESULTS_DIR + "/html/" + get_html(resultPages),
+                        prefix=f"{event_year}, Event #{event_number} ",
                     )
                 )
 
@@ -314,14 +324,17 @@ indexDF.hide(axis="index").to_html(
     escape=False,
 )
 
+datestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
 
-summary = """
+
+summary = f"""
 <h1>Summary</h1>
 <p>Combined results PDF. Please see <a href="https://westleague.org.uk">westleague.org.uk</a></p>
 <p>Latest results/status at <a href="https://results.westleague.org.uk">results.westleague.org.uk</a></p>
 <p>Note results are provisional until all team results received.</p>
 <h1>Results</h1>
-<p>Results for all events in following order<p>
+<p>Results for all races at Event #{event_number} for season {event_year}.</p>
+<p>The are presented in the following order:<p>
 <ul>
 <li>Still pending team submissions</li>
 <li>U11: Male, Male Teams, Female, Female Teams</li>
@@ -335,6 +348,8 @@ summary = """
 <li>Volunteers
 </ul>
 <p>
+<h1>Last updated</h1>
+<p>This file was last updated at: {datestamp}</p>
 """
 combined_pdf(
     pdf_list=pdfs, target=RESULTS_DIR + PDF_DIR + "/RESULTS.pdf", summary=summary
