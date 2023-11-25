@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pandas = "*"
+pandas = "<2"
 gspread = "*"
 python-dotenv = "*"
 black = "*"
@@ -12,6 +12,9 @@ openpyxl = "*"
 tabulate = "*"
 pretty-html-table = "*"
 jinja2 = "*"
+markdown = "*"
+pdfkit = "*"
+pypdf = "*"
 
 [dev-packages]
 autopep8 = "*"

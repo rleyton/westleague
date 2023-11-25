@@ -123,7 +123,7 @@ for event in sorted(fetch_events_from_dir(DATA_DIR)):
         get_missing_teams(results=results[event], submissions=clubSubmissions)
     )
     if len(eventMissingTeams) > 0:
-        logging.warning(f"Missing event submissions for {event}: {eventMissingTeams}")
+        logging.warning(f"Event submissions for {event}: {eventMissingTeams}")
         missingTeams = missingTeams.union(eventMissingTeams)
 
     # Now we have a results DataFrame, so process the competition results
@@ -297,9 +297,10 @@ pdfs.insert(
         gender=None,
         resultshtml=RESULTS_DIR + HTML_DIR + "/" + get_html(missing_teams),
         teamhtml=None,
-        summary="Missing team submissions",
+        summary="Team submissions still pending",
     ),
 )
+
 # Render a basic HTML index
 
 
@@ -317,7 +318,25 @@ indexDF.hide(axis="index").to_html(
     escape=False,
 )
 
-combined_pdf(pdf_list=pdfs, target=RESULTS_DIR + PDF_DIR + "/RESULTS.pdf")
+
+summary = """
+<h1>Results</h1>
+<p>Results for all events in following order<p>
+<ul>
+<li>Still pending team submissions</li>
+<li>U11: Male, Male Teams, Female, Female Teams</li>
+<li>U13: Male, Male Teams, Female, Female Teams</li>
+<li>U15: Male, Male Teams, Female, Female Teams</li>
+<li>U17: Male, Male Teams, Female, Female Teams</li>
+<li>U20: Male, Male Teams, Female, Female Teams</li>
+<li>Senior: Male, Male Teams, Female, Female Teams</li>
+<li>Master: Male, Male Teams, Female, Female Teams</li>
+<li>Overall: Male, Male Teams, Female, Female Teams</li>
+<li>Volunteers
+</ul>
+<p>
+"""
+combined_pdf(pdf_list=pdfs, target=RESULTS_DIR + PDF_DIR + "/RESULTS.pdf", summary=summary)
 
 
 logging.info("Finished")
