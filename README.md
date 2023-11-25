@@ -8,7 +8,7 @@
 
 * _Provisional results reflect team submissions received by **23rd November, 7:30pm**_ - Please direct queries/issues to contact@westleague.org.uk
 * PDF results generated
-  * A single all-events PDF is [available here](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/1/pdf/RESULTS.pdf)
+  * A single all-events PDF is [available here](https://results.westleague.org.uk/results/provisional/2023-24/1/pdf/RESULTS.pdf)
   * Hopefully this will help make the results a bit more digvetible
 * Website write-up will follow this weekend (25/26th) November
   * Busy week work, and personally, I'm afraid! ^RL
