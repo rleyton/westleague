@@ -52,7 +52,6 @@ the_team_standings = {}
 clubParticipantsColumns = ["club", "participants"]
 totalClubParticipations = None
 for competition in dict(sorted(events[baseEvent].items())):
-
     if competition not in the_team_standings:
         the_team_standings[competition] = {}
 

@@ -63,7 +63,9 @@ def calculate_team_standings(
         if clubParticipations is None:
             clubParticipations = participantMeta
         else:
-            clubParticipations = pd.concat([clubParticipations, participantMeta], axis=0)
+            clubParticipations = pd.concat(
+                [clubParticipations, participantMeta], axis=0
+            )
 
         noParticipantsPenalty = raceMeta["penalty"] * raceMeta["counters"]
         results.iloc[:, race - 1] = (
