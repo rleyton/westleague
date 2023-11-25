@@ -79,3 +79,4 @@ EXT_ADJUSTMENTS = ".adjustments"
 
 HTML_DIR = "/html"
 MARKDOWN_DIR = "/markdown"
+PDF_DIR = "/pdf"

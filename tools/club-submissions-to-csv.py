@@ -18,7 +18,6 @@ clubSubmissions = fetch_clubs_from_dir(process_dir)
 
 clubData = {}
 for club, filename in clubSubmissions:
-
     try:
         sheet = pd.read_excel(
             io=DATA_DIR + "/" + CLUB_SUBMISSIONS + "/" + filename,

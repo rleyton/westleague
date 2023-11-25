@@ -2,7 +2,6 @@ import json
 
 
 def json_write(object=None, filename: str = None):
-
     with open(filename, "w") as fh:
         json.dump(object, fh, indent=6)
 

@@ -125,15 +125,15 @@ def calculate_competition_points(results, teams, event):
     competitionPoints = {}
     # reference = { 'penalty':{}, 'participants':{}, 'counters':{}}
     reference = {}
-    reference["totals"]={}
+    reference["totals"] = {}
     reference["totals"]["participants"] = len(results)
-    reference["totals"]["gender"]={}
+    reference["totals"]["gender"] = {}
     competitionResults = {}
     # for each gender competition
     for gender in GENDER_COMPETITIONS:
         competitionPoints[gender] = {}
         competitionResults[gender] = {}
-        reference["totals"]["gender"][gender]=0
+        reference["totals"]["gender"][gender] = 0
 
         # reference['penalty'][gender] = {}
         # reference['participants'][gender] = {}
@@ -170,7 +170,7 @@ def calculate_competition_points(results, teams, event):
             # build reference structure
             reference[ageCat][gender]["penalty"] = penaltyPoints
             reference[ageCat][gender]["participants"] = totalParticipants
-            reference["totals"]["gender"][gender]+=totalParticipants
+            reference["totals"]["gender"][gender] += totalParticipants
             reference[ageCat][gender]["counters"] = maxCounters
             reference[ageCat][gender]["clubparticipation"] = (
                 ageCatResults.groupby("clubnumber").count()["position"].to_dict()

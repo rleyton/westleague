@@ -1,6 +1,7 @@
 import pandas as pd
 import logging
 
+
 # merge with other adjustment?
 def adjust_times(times, adjustments):
     if times is not None and adjustments is not None:
@@ -19,10 +20,10 @@ def adjust_times(times, adjustments):
                     theTime = times["times"][recordNum]
                     times.loc[refrecord] = (refrecord, theTime)
                     logging.info(f"Added new time record at {recordNum}")
-                elif row['adjustment']=='remove':
+                elif row["adjustment"] == "remove":
                     logging.debug(f"Removing row {row['refrecord']}")
-                    times = times.drop(int(row['refrecord']))
-                    
+                    times = times.drop(int(row["refrecord"]))
+
                 else:
                     logging.debug(f"Adjustment of {row['adjustment']} ignored")
 

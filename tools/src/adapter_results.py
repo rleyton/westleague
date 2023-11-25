@@ -10,7 +10,9 @@ def results_merge(times=None, places=None):
             results = times.join(other=places, lsuffix="times", rsuffix="places")
             return results
         else:
-            raise Exception("Mismatch on number of times and places (check right source spreadsheet?)")
+            raise Exception(
+                "Mismatch on number of times and places (check right source spreadsheet?)"
+            )
 
 
 def get_all_possible_columns(results):
@@ -100,7 +102,6 @@ def normalise_agecat_record(agecat, event):
 
 
 def merge_runners(results=None, clubSubmissions=None, event: str = None):
-
     reset_club_positions()
 
     if results is not None and clubSubmissions is not None and len(clubSubmissions) > 0:

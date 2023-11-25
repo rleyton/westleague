@@ -1,5 +1,4 @@
 #!env python
-
 import logging
 from src.adapter_sheets import load_volunteers, load_results
 from src.utils_consts import (
@@ -11,7 +10,9 @@ from src.utils_consts import (
     GENDER_COMPETITION_MAP,
     HTML_DIR,
     MARKDOWN_DIR,
+    PDF_DIR,
 )
+from src.adapter_pdf import generate_pdf, combined_pdf
 from src.utils_functions import fetch_events_from_dir, fetch_volunteers_from_dir
 from src.adapter_gender import gender_process
 from src.adapter_team import process_teams, load_team_submissions
@@ -24,13 +25,11 @@ from src.adapter_results import (
 from src.adapter_times import adjust_times
 from src.adapter_places import adjust_places, process_final_results
 from src.adapter_points import calculate_competition_points
-from src.adapter_pretty_html import render
 from src.adapter_json import json_write
 from src.adapter_format import export_results, get_html
 from src.adapter_clubs import load_clubs
 import pandas as pd
 import pathlib
-from pretty_html_table import build_table
 from src.utils_config import DATA_DIR, ADJUSTMENTS_DIR, TEAMS, GENDERS, RESULTS_DIR
 
 logging.basicConfig(level=logging.DEBUG)
@@ -41,12 +40,14 @@ SOURCE_DATA = DATA_DIR
 pathlib.Path(RESULTS_DIR).mkdir(parents=True, exist_ok=True)
 pathlib.Path(RESULTS_DIR + MARKDOWN_DIR).mkdir(parents=True, exist_ok=True)
 pathlib.Path(RESULTS_DIR + HTML_DIR).mkdir(parents=True, exist_ok=True)
+pathlib.Path(RESULTS_DIR + PDF_DIR).mkdir(parents=True, exist_ok=True)
 
 
 teams = load_clubs()
 genders = pd.read_csv(GENDERS, index_col="shortcode")
 
 results = {}
+resultsHTML = {}
 leagueResults = {}
 teamResults = {}
 ageCatResults = {}
@@ -55,6 +56,8 @@ eventMeta = {}
 index = []
 eventTotalParticipants = 0
 totalGenderParticipants = {}
+pdfs = []
+
 logging.info(f"Processing: {DATA_DIR}")
 
 # for each event we have files for
@@ -151,6 +154,7 @@ for event in sorted(fetch_events_from_dir(DATA_DIR)):
     # ageCategory specific results
     if ageCatResults[event] is not None:
         for gender in ageCatResults[event]:
+            resultsHTML[gender] = {}
             for competition in ageCatResults[event][gender]:
                 # only write files if any data
                 if len(ageCatResults[event][gender][competition]) > 0:
@@ -162,6 +166,10 @@ for event in sorted(fetch_events_from_dir(DATA_DIR)):
                         base_file_name=baseFileName,
                         suffix=".agecat.results",
                     )
+                    resultsHTML[gender][competition] = (
+                        RESULTS_DIR + "/html/" + get_html(ageCatResultsPage)
+                    )
+
                     index.append(
                         {
                             "event": event,
@@ -176,17 +184,18 @@ for event in sorted(fetch_events_from_dir(DATA_DIR)):
     if teamResults[event] is not None:
         for gender in teamResults[event]:
             if gender not in totalGenderParticipants:
-                totalGenderParticipants[gender]=0
+                totalGenderParticipants[gender] = 0
 
             for competition in teamResults[event][gender]:
-
                 if competition not in eventMeta:
                     eventMeta[competition] = {}
 
                 eventMeta[competition][gender] = racemeta[competition][gender]
 
                 if competition != "OVERALL":
-                    totalGenderParticipants[gender]+=racemeta[competition][gender]["participants"]
+                    totalGenderParticipants[gender] += racemeta[competition][gender][
+                        "participants"
+                    ]
 
                 baseFileName = (
                     event + "." + competition + "." + GENDER_COMPETITION_MAP[gender]
@@ -196,6 +205,15 @@ for event in sorted(fetch_events_from_dir(DATA_DIR)):
                     results=teamResults[event][gender][competition],
                     base_file_name=baseFileName,
                     suffix=".team.results",
+                )
+
+                pdfs.append(
+                    generate_pdf(
+                        competition=competition,
+                        gender=gender,
+                        resultshtml=resultsHTML[gender][competition],
+                        teamhtml=RESULTS_DIR + "/html/" + get_html(resultPages),
+                    )
                 )
 
                 index.append(
@@ -216,7 +234,13 @@ logging.info(f"Finished processing: {DATA_DIR}")
 
 # TODO: This all needs refactoring/tidying up
 json_write(
-    object={"races": eventMeta, "attendance": {"total": eventTotalParticipants,"gender":totalGenderParticipants}},
+    object={
+        "races": eventMeta,
+        "attendance": {
+            "total": eventTotalParticipants,
+            "gender": totalGenderParticipants,
+        },
+    },
     filename=RESULTS_DIR + "/" + "meta.json",
 )
 
@@ -227,7 +251,7 @@ theMissingTeams = missing.join(
     other=teams, on="team", lsuffix="missing", rsuffix="teamDetails"
 )
 
-results = export_results(
+missing_teams = export_results(
     results=theMissingTeams, base_file_name="", suffix="missingTeamSubmissions"
 )
 
@@ -236,7 +260,7 @@ index.append(
         "event": "n/a",
         "competition": "n/a",
         "gender": "n/a",
-        "results": get_html(results),
+        "results": get_html(missing_teams),
     }
 )
 
@@ -256,8 +280,26 @@ if volunteersFile:
             "results": get_html(vols),
         }
     )
+    pdfs.append(
+        generate_pdf(
+            competition="volunteers",
+            gender=None,
+            resultshtml=RESULTS_DIR + HTML_DIR + "/" + get_html(vols),
+            teamhtml=None,
+            summary="Volunteers",
+        )
+    )
 
-
+pdfs.insert(
+    0,
+    generate_pdf(
+        competition="Missing submissions",
+        gender=None,
+        resultshtml=RESULTS_DIR + HTML_DIR + "/" + get_html(missing_teams),
+        teamhtml=None,
+        summary="Missing team submissions",
+    ),
+)
 # Render a basic HTML index
 
 
@@ -274,6 +316,8 @@ indexDF.hide(axis="index").to_html(
     render_links=True,
     escape=False,
 )
+
+combined_pdf(pdf_list=pdfs, target=RESULTS_DIR + PDF_DIR + "/RESULTS.pdf")
 
 
 logging.info("Finished")

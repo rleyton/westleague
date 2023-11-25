@@ -3,11 +3,39 @@ from .utils_config import RESULTS_DIR
 from .utils_consts import MARKDOWN_DIR, HTML_DIR
 from .adapter_pretty_html import render
 import pathlib
+import markdown
+from markdown import Markdown
+from io import StringIO
+
+
+def unmark_element(element, stream=None):
+    if stream is None:
+        stream = StringIO()
+    if element.text:
+        stream.write(element.text)
+    for sub in element:
+        unmark_element(sub, stream)
+    if element.tail:
+        stream.write(element.tail)
+    return stream.getvalue()
+
+
+# patching Markdown
+Markdown.output_formats["plain"] = unmark_element
+__md = Markdown(output_format="plain")
+__md.stripTopLevelTags = False
+
+
+def unmark(text):
+    return __md.convert(text)
 
 
 def check_dirs_exist(dir: str):
     pathlib.Path(dir + MARKDOWN_DIR).mkdir(parents=True, exist_ok=True)
     pathlib.Path(dir + HTML_DIR).mkdir(parents=True, exist_ok=True)
+
+
+# markdown = Markdown()
 
 
 def export_results(
@@ -31,6 +59,7 @@ def export_results(
     }
     results.to_csv(files["csv"], index=index)
     results.to_markdown(files["markdown"], index=index)
+    # markdown.markdownFromFile(input=files["markdown"],output=files["html"],encoding="utf8",extensions=['markdown.extensions.tables'])
     render(df=results, style="blue_light", filename=files["html"])
 
     return files
