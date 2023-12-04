@@ -17,7 +17,7 @@
 |         15 | 0:20:24 | 4M     | Liam Kane          | M        | U17      |            4 | Inverclyde AC        | https://www.inverclydeac.org/         |               15 |
 |         16 | 0:20:59 | 10M    | Joseph Reilly      | M        | U17      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/    |               17 |
 |         17 | 0:21:49 | 37M    | Daniel Simpson     | M        | U17      |           37 | Law & District AAC   | http://www.lawaac.co.uk/              |               18 |
-|         18 | 0:21:54 | 17M    | nan                | M        | U17      |           17 | Calderglen Harriers  | http://www.calderglenharriers.org.uk/ |               19 |
+|         18 | 0:21:54 | 17M    | Kai Wheeler        | M        | U17      |           17 | Calderglen Harriers  | http://www.calderglenharriers.org.uk/ |               19 |
 |         19 | 0:22:08 | 2M     | Callum Riddell     | M        | U17      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/    |               21 |
 |         20 | 0:22:52 | 11M    | Joshua Harmon      | M        | U17      |           11 | Airdrie Harriers     | http://airdrieharriers.org/           |               22 |
 |         21 | 0:23:35 | 36M    | Rhys Thomson       | M        | U17      |           36 | Larkhall YMCA        | https://www.larkhallymcaharriers.org  |               24 |
