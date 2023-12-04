@@ -37,7 +37,7 @@
 |         35 | 0:32:07 | 5M     | nan                   | M        | nan      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |               37 |
 |         36 | 0:32:11 | 7M     | David Shaw            | M        | MASTER   |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |               38 |
 |         37 | 0:32:15 | 14M    | Alasdair Meldrum      | M        | MASTER   |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |               39 |
-|         38 | 0:32:32 | 17M    | nan                   | M        | nan      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |               41 |
+|         38 | 0:32:32 | 17M    | Andrew Buchanan       | M        | MASTER   |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |               41 |
 |         39 | 0:32:36 | 53M    | Matt Pearce           | M        | MASTER   |           53 | Troon Tortoises            | http://troontortoises.co.uk                |               42 |
 |         40 | 0:32:49 | 10M    | John Duffy            | M        | MASTER   |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |               44 |
 |         41 | 0:32:51 | 6M     | Lewis Anderson        | M        | SENIOR   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |               45 |
