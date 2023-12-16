@@ -7,21 +7,21 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 6,0:27:26,10M,Andrew Taylor,M,SENIOR,10,Shettleston Harriers,http://shettlestonharriers.org.uk/
 7,0:27:36,10M,Jethro Lennox,M,MASTER,10,Shettleston Harriers,http://shettlestonharriers.org.uk/
 8,0:27:43,14M,Kenny Neill,M,MASTER,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/
-9,0:28:08,5M,,M,,5,Westerlands CCC,https://westerlandsccc.co.uk/
+9,0:28:08,5M,Rob Hamlin,M,SENIOR,5,Westerlands CCC,https://westerlandsccc.co.uk/
 10,0:28:24,8M,Fraser Armstrong,M,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
 11,0:28:36,6M,Steven Fitzpatrick,M,SENIOR,6,Cambuslang Harriers,https://cambuslangharriers.org/
 12,0:28:51,1M,LUKE KIRWAN,M,SENIOR,1,East Kilbride AC,http://www.ekac.org.uk/
 13,0:28:55,27M,Stuart Miller,M,SENIOR,27,Glasgow FrontRunners,https://www.glasgowfrontrunners.org/
 14,0:29:00,37M,Allan Neil,M,SENIOR,37,Law & District AAC,http://www.lawaac.co.uk/
-15,0:29:15,5M,,M,,5,Westerlands CCC,https://westerlandsccc.co.uk/
+15,0:29:15,5M,Scott Henderson,M,MASTER,5,Westerlands CCC,https://westerlandsccc.co.uk/
 16,0:29:21,34M,Stuart Kerr,M,SENIOR,34,Kilbarchan AAC,https://kilbarchanaac.org.uk/
 17,0:29:33,6M,Iain Murphy,M,MASTER,6,Cambuslang Harriers,https://cambuslangharriers.org/
-18,0:29:36,5M,,M,,5,Westerlands CCC,https://westerlandsccc.co.uk/
+18,0:29:36,5M,Drew Carr,M,SENIOR,5,Westerlands CCC,https://westerlandsccc.co.uk/
 19,0:29:37,4M,Jason Kane,M,SENIOR,4,Inverclyde AC,https://www.inverclydeac.org/
 20,0:29:38,37M,Logan Whitton,M,U20,37,Law & District AAC,http://www.lawaac.co.uk/
 21,0:29:38,37M,Jordon Morrison,M,SENIOR,37,Law & District AAC,http://www.lawaac.co.uk/
 22,0:29:48,7F,Emma Creasey,F,SENIOR,7,Giffnock North AC,https://www.giffnocknorth.co.uk/
-23,0:29:49,5M,,M,,5,Westerlands CCC,https://westerlandsccc.co.uk/
+23,0:29:49,5M,Arran Horne,M,SENIOR,5,Westerlands CCC,https://westerlandsccc.co.uk/
 24,0:29:52,2M,Owen Walpole,M,SENIOR,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
 25,0:29:53,8M,Brent Brodie,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
 26,0:30:03,3M,Alan Moss,M,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
@@ -33,9 +33,9 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 32,0:30:48,33M,Owen McWilliams,M,SENIOR,33,Irvine RC,https://www.irvinerunningclub.co.uk/
 33,0:30:55,4M,Alan Callan,M,MASTER,4,Inverclyde AC,https://www.inverclydeac.org/
 34,0:31:05,8M,Matthew Brown,M,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
-35,0:31:30,5M,,M,,5,Westerlands CCC,https://westerlandsccc.co.uk/
+35,0:31:30,5M,Evan Griffiths,M,SENIOR,5,Westerlands CCC,https://westerlandsccc.co.uk/
 36,0:31:35,32F,Claire Heasman,F,MASTER,32,Helensburgh AAC,https://www.helensburghaac.com/
-37,0:32:07,5M,,M,,5,Westerlands CCC,https://westerlandsccc.co.uk/
+37,0:32:07,5M,Niall McAlinden,M,SENIOR,5,Westerlands CCC,https://westerlandsccc.co.uk/
 38,0:32:11,7M,David Shaw,M,MASTER,7,Giffnock North AC,https://www.giffnocknorth.co.uk/
 39,0:32:15,14M,Alasdair Meldrum,M,MASTER,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/
 40,0:32:30,48F,Cat Gillen,F,SENIOR,48,Springburn Harriers,https://www.springburnharriers.co.uk/
@@ -54,7 +54,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 53,0:33:17,44M,Andy Willets,M,MASTER,44,North Ayrshire AAC,https://naathletics.co.uk/
 54,0:33:20,10F,Gemma Griffiths,F,U20,10,Shettleston Harriers,http://shettlestonharriers.org.uk/
 55,0:33:33,6F,Natalie Brohan,F,MASTER,6,Cambuslang Harriers,https://cambuslangharriers.org/
-56,0:33:38,5M,,M,,5,Westerlands CCC,https://westerlandsccc.co.uk/
+56,0:33:38,5M,David Riach,M,MASTER,5,Westerlands CCC,https://westerlandsccc.co.uk/
 57,0:33:38,6M,Ross Noble,M,U20,6,Cambuslang Harriers,https://cambuslangharriers.org/
 58,0:33:40,44M,Mark Preston,M,MASTER,44,North Ayrshire AAC,https://naathletics.co.uk/
 59,0:33:40,1M,JOHN EDWARDS,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/
@@ -81,7 +81,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 80,0:35:32,42M,John Kelly,M,MASTER,42,Newton Road Runners,https://www.newton-roadrunners.com/
 81,0:35:35,42M,Corey Craig,M,SENIOR,42,Newton Road Runners,https://www.newton-roadrunners.com/
 82,0:35:47,42M,Jason Wood,M,SENIOR,42,Newton Road Runners,https://www.newton-roadrunners.com/
-83,0:35:59,5M,,M,,5,Westerlands CCC,https://westerlandsccc.co.uk/
+83,0:35:59,5M,Chris Furse,M,MASTER,5,Westerlands CCC,https://westerlandsccc.co.uk/
 84,0:36:06,37M,Martin Kay,M,MASTER,37,Law & District AAC,http://www.lawaac.co.uk/
 85,0:36:18,30M,Danny McLaughlin,M,MASTER,30,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/
 86,0:36:19,8F,Katherine Hylands,F,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
@@ -118,7 +118,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 117,0:38:42,2M,Ken Monaghan,M,MASTER,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
 118,0:38:51,37M,John O'Leary,M,MASTER,37,Law & District AAC,http://www.lawaac.co.uk/
 119,0:38:58,6F,Erica Christie,F,MASTER,6,Cambuslang Harriers,https://cambuslangharriers.org/
-120,0:39:09,5M,,M,,5,Westerlands CCC,https://westerlandsccc.co.uk/
+120,0:39:09,5M,David Stakes,M,MASTER,5,Westerlands CCC,https://westerlandsccc.co.uk/
 121,0:39:16,8M,Simon McDougall,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
 122,0:39:17,30F,Lynne Harrison,F,MASTER,30,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/
 123,0:39:18,10M,John Tomms,M,MASTER,10,Shettleston Harriers,http://shettlestonharriers.org.uk/
