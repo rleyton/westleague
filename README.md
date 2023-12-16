@@ -6,15 +6,13 @@
 
 ## Provisional results
 
-* _Provisional results reflect team submissions received by **4th December, 7:00pm**_ - Please direct queries/issues to contact@westleague.org.uk
+* _Provisional results reflect team submissions received by **16th December, 11:00am**_ - Please direct queries/issues to contact@westleague.org.uk
 * PDF results generated
   * A single all-events PDF is [available here](https://results.westleague.org.uk/results/provisional/2023-24/1/pdf/RESULTS.pdf)
   * Hopefully this will help make the results a bit more digvetible
-* Website write-up will follow this weekend (25/26th) November
-  * Busy week work, and personally, I'm afraid! ^RL
 * [Event #1, Kilmarnock (18th November, 2023)](https://results.westleague.org.uk/results/provisional/2023-24/1/html/)
   * [Provisional Race results](https://results.westleague.org.uk/results/provisional/2023-24/1/html/) - See below for known issues
-  * **3 Teams still need to submit results** - [List of teams here](https://github.com/rleyton/westleague/blob/main/results/provisional/2023-24/1/markdown/missingTeamSubmissions.md), [please submit via website here](https://westleague.org.uk/results/submission/)
+  * **2 Teams still need to submit results** - [List of teams here](https://github.com/rleyton/westleague/blob/main/results/provisional/2023-24/1/markdown/missingTeamSubmissions.md), [please submit via website here](https://westleague.org.uk/results/submission/)
   * Hosted by [Kilmarnock H&AC](http://www.kilmarnockharriers.com/)
   * [Attendance: 441](./results/provisional/2023-24/1/meta.json)
   * [Thanks to the 20 volunteers](./results/provisional/2023-24/1/html/volunteers.html)
@@ -23,7 +21,7 @@
 
 ### Known results issues
 
-* [3 teams still to submit results, list here](https://github.com/rleyton/westleague/blob/main/results/provisional/2023-24/1/markdown/missingTeamSubmissions.md)
+* [2 teams still to submit results, list here](https://github.com/rleyton/westleague/blob/main/results/provisional/2023-24/1/markdown/missingTeamSubmissions.md)
 * Known time/results mismatch in the following events:
   * U11 Boys 
   * U15 Combined
