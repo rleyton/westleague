@@ -168,20 +168,22 @@
             },
             "U20": {
                   "M": {
-                        "penalty": 11,
-                        "participants": 1,
+                        "penalty": 13,
+                        "participants": 3,
                         "counters": 3,
                         "clubparticipation": {
+                              "2": 2,
                               "6": 1
                         }
                   }
             },
             "SENIOR": {
                   "M": {
-                        "penalty": 41,
-                        "participants": 31,
+                        "penalty": 44,
+                        "participants": 34,
                         "counters": 4,
                         "clubparticipation": {
+                              "2": 3,
                               "3": 6,
                               "4": 2,
                               "6": 4,
@@ -194,10 +196,11 @@
                         }
                   },
                   "F": {
-                        "penalty": 27,
-                        "participants": 17,
+                        "penalty": 29,
+                        "participants": 19,
                         "counters": 4,
                         "clubparticipation": {
+                              "2": 2,
                               "3": 6,
                               "8": 5,
                               "9": 1,
@@ -209,10 +212,11 @@
             },
             "MASTER": {
                   "M": {
-                        "penalty": 51,
-                        "participants": 41,
+                        "penalty": 56,
+                        "participants": 46,
                         "counters": 3,
                         "clubparticipation": {
+                              "2": 5,
                               "3": 4,
                               "6": 8,
                               "7": 1,
@@ -314,8 +318,8 @@
       "attendance": {
             "total": 414,
             "gender": {
-                  "M": 182,
-                  "F": 183
+                  "M": 192,
+                  "F": 185
             }
       }
 }
