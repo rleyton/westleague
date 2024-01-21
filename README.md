@@ -19,6 +19,7 @@
   * Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/1), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/1/markdown/), [PDF](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/1/pdf/)
 * [Event #2, Bellahouston (20th January, 2024)](https://results.westleague.org.uk/results/provisional/2023-24/2/html/)
   * [Provisional Race results](https://results.westleague.org.uk/results/provisional/2023-24/2/html/) - See below for known issues
+    * Results are available as [single PDF](https://results.westleague.org.uk/results/provisional/2023-24/2/pdf/RESULTS.pdf)
   * **8 Teams still need to submit results** - [List of teams here](https://github.com/rleyton/westleague/blob/main/results/provisional/2023-24/2/markdown/missingTeamSubmissions.md), [please submit via website here](https://westleague.org.uk/results/submission/)
   * Hosted by [Bellahouston Road Runners](https://www.bellahoustonroadrunners.co.uk/)
   * [Attendance: 414](./results/provisional/2023-24/2/meta.json)
