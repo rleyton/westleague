@@ -1,0 +1,15 @@
+|   position | Club name                  |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                    |
+|-----------:|:---------------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
+|          1 | Bellahouston Harriers      |      8 | F        | 9,11,17             |           37 |               0 |            37 |                5 | http://www.bellahoustonharriers.co.uk/     |
+|          2 | Calderglen Harriers        |     17 | F        | 4,10                |           14 |              33 |            47 |                2 | http://www.calderglenharriers.org.uk/      |
+|          3 | Cambuslang Harriers        |      6 | F        | 3,13                |           16 |              33 |            49 |                2 | https://cambuslangharriers.org/            |
+|          4 | Greenock Glenpark Harriers |     30 | F        | 12,19,20            |           51 |               0 |            51 |                4 | https://greenockglenparkharriers.com/      |
+|          5 | Bellahouston RR            |      3 | F        | 7,21                |           28 |              33 |            61 |                2 | https://www.bellahoustonroadrunners.co.uk/ |
+|          6 | Garscube Harriers          |      9 | F        | 1                   |            1 |              66 |            67 |                1 | https://www.garscubeharriers.org.uk/       |
+|          7 | Helensburgh AAC            |     32 | F        | 2                   |            2 |              66 |            68 |                1 | https://www.helensburghaac.com/            |
+|          8 | Troon Tortoises            |     53 | F        | 5                   |            5 |              66 |            71 |                1 | http://troontortoises.co.uk                |
+|          9 | Airdrie Harriers           |     11 | F        | 6                   |            6 |              66 |            72 |                1 | http://airdrieharriers.org/                |
+|         10 | Larkhall YMCA              |     36 | F        | 8                   |            8 |              66 |            74 |                1 | https://www.larkhallymcaharriers.org       |
+|         11 | Inverclyde AC              |      4 | F        | 14                  |           14 |              66 |            80 |                1 | https://www.inverclydeac.org/              |
+|         12 | Giffnock North AC          |      7 | F        | 15                  |           15 |              66 |            81 |                1 | https://www.giffnocknorth.co.uk/           |
+|         13 | Ayr Seaforth AC            |     14 | F        | 16                  |           16 |              66 |            82 |                1 | https://www.ayrseaforth.co.uk/             |

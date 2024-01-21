@@ -1,0 +1,24 @@
+| Name               | Role                  |
+|:-------------------|:----------------------|
+| Alastair Patience  | Marshal               |
+| Claire Wharton     | Course setup          |
+| Colin Huges        | Race Director         |
+| Dave Ferguson      | Course setup          |
+| Dierdre Hoyle      | Marshal               |
+| Elsbeth Forrest    | Place marker / Scribe |
+| Emer Campbell      | Marshal               |
+| Frances Flood      | Timekeeper            |
+| Gerry Gaffney      | Finish marshall       |
+| Gerry Scullion     | Course setup          |
+| Gordon Goldie      | Course setup/marshal  |
+| Hugh Brown         | Marshal               |
+| Iain Morrison      | Marshal               |
+| Jacqueline Glass   | Marshal               |
+| Jane McNeilly      | Course setup          |
+| Jonnie Felton      | Marshal               |
+| Kenny Wharton      | Course setup/marshal  |
+| Murdoch Rodgers    | Course setup          |
+| Patricia Gallacher | Starter               |
+| Rhoda Yarmahmoudie | Marshal               |
+| Richard Leyton     | Results               |
+| Sharon Taylor      | Starter               |

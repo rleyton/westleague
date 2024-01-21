@@ -1,0 +1,9 @@
+|   position | Club name                  |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                |
+|-----------:|:---------------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:---------------------------------------|
+|          1 | Kilmarnock H&AC            |      2 | M        | 1,5,7               |           13 |               0 |            13 |                3 | http://www.kilmarnockharriers.com/     |
+|          2 | Ayr Seaforth AC            |     14 | M        | 4,6,8               |           18 |               0 |            18 |                3 | https://www.ayrseaforth.co.uk/         |
+|          3 | Calderglen Harriers        |     17 | M        | 9,12                |           21 |              22 |            43 |                2 | http://www.calderglenharriers.org.uk/  |
+|          4 | Law & District AAC         |     37 | M        | 2                   |            2 |              44 |            46 |                1 | http://www.lawaac.co.uk/               |
+|          5 | Greenock Glenpark Harriers |     30 | M        | 3                   |            3 |              44 |            47 |                1 | https://greenockglenparkharriers.com/  |
+|          6 | Bellahouston Harriers      |      8 | M        | 10                  |           10 |              44 |            54 |                1 | http://www.bellahoustonharriers.co.uk/ |
+|          7 | Shettleston Harriers       |     10 | M        | 11                  |           11 |              44 |            55 |                1 | http://shettlestonharriers.org.uk/     |
