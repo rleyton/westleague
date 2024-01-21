@@ -42,7 +42,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website,finishPositi
 41,0:31:10,6M,Brian Douglas,M,MASTER,6,Cambuslang Harriers,https://cambuslangharriers.org/,41
 42,0:31:23,44M,Andy Willetts,M,MASTER,44,North Ayrshire AAC,https://naathletics.co.uk/,44
 43,0:31:39,14M,Alasdair Meldrum,M,MASTER,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/,45
-44,0:31:40,27M,,M,,27,Glasgow FrontRunners,https://www.glasgowfrontrunners.org/,46
+44,0:31:40,27M,Gordon Buchanan,M,SENIOR,27,Glasgow FrontRunners,https://www.glasgowfrontrunners.org/,46
 45,0:32:11,3M,6. Mark Young,M,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,48
 46,0:32:14,53M,Matt Pearce,M,MASTER,53,Troon Tortoises,http://troontortoises.co.uk,49
 47,0:32:15,7M,David Shaw,M,MASTER,7,Giffnock North AC,https://www.giffnocknorth.co.uk/,50
@@ -54,16 +54,16 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website,finishPositi
 53,0:32:47,6M,Ross Noble,M,U20,6,Cambuslang Harriers,https://cambuslangharriers.org/,57
 54,0:32:48,3M,8. Alan Chalmers,M,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,59
 55,0:32:49,8M,Alexander Winn,M,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,60
-56,0:32:53,27M,,M,,27,Glasgow FrontRunners,https://www.glasgowfrontrunners.org/,61
+56,0:32:53,27M,Neil Montgomery,M,SENIOR,27,Glasgow FrontRunners,https://www.glasgowfrontrunners.org/,61
 57,0:33:11,2M,Nick Carter,M,SENIOR,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,63
 58,0:33:15,6M,Lewis Anderson,M,SENIOR,6,Cambuslang Harriers,https://cambuslangharriers.org/,64
 59,0:33:29,2M,David Anderson,M,MASTER,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,66
-60,0:33:45,40M,,M,,40,Motherwell AC,https://motherwellac.com/,67
+60,0:33:45,40M,Derek O'neill,M,MASTER,40,Motherwell AC,https://motherwellac.com/,67
 61,0:33:59,37M,,M,,37,Law & District AAC,http://www.lawaac.co.uk/,68
 62,0:34:12,10M,William Bradley,M,SENIOR,10,Shettleston Harriers,http://shettlestonharriers.org.uk/,71
 63,0:34:23,6M,Des Dickson,M,MASTER,6,Cambuslang Harriers,https://cambuslangharriers.org/,73
 64,0:34:34,2M,Murray McDonald,M,SENIOR,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,74
-65,0:34:46,57M,,M,,57,Whitemoss AAC,https://whitemossaac.co.uk/,77
+65,0:34:46,57M,James Cathie,M,SENIOR,57,Whitemoss AAC,https://whitemossaac.co.uk/,77
 66,0:34:49,5M,,M,,5,Westerlands CCC,https://westerlandsccc.co.uk/,78
 67,0:34:52,5M,,M,,5,Westerlands CCC,https://westerlandsccc.co.uk/,79
 68,0:34:56,6M,Gary Miller,M,MASTER,6,Cambuslang Harriers,https://cambuslangharriers.org/,80
@@ -81,7 +81,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website,finishPositi
 80,0:36:39,37M,,M,,37,Law & District AAC,http://www.lawaac.co.uk/,101
 81,0:36:45,10M,Steven Clark,M,SENIOR,10,Shettleston Harriers,http://shettlestonharriers.org.uk/,102
 82,0:37:02,34M,,M,,34,Kilbarchan AAC,https://kilbarchanaac.org.uk/,105
-83,0:37:14,57M,,M,,57,Whitemoss AAC,https://whitemossaac.co.uk/,108
+83,0:37:14,57M,David Cathie,M,MASTER,57,Whitemoss AAC,https://whitemossaac.co.uk/,108
 84,0:37:15,3M,13. Gavin Elliot,M,MASTER,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,109
 85,0:37:38,17M,Jim Mearns,M,MASTER,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,110
 86,0:37:43,11M,Brian Wilson,M,MASTER,11,Airdrie Harriers,http://airdrieharriers.org/,111
@@ -104,6 +104,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website,finishPositi
 103,0:41:13,30M,Gerry Gallacher,M,MASTER,30,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/,143
 104,0:41:37,8M,Simon McDougall,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,144
 105,0:41:40,30M,Stuart Crawford,M,MASTER,30,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/,145
-106,0:45:10,8M,David Gemmell,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,154
-107,0:47:40,36M,David McNulty,M,MASTER,36,Larkhall YMCA,https://www.larkhallymcaharriers.org,156
-108,0:49:55,17M,Russell Couper,M,MASTER,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,159
+106,0:43:28,27A,Alex Blanchard,A,SENIOR,27,Glasgow FrontRunners,https://www.glasgowfrontrunners.org/,149
+107,0:45:10,8M,David Gemmell,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,154
+108,0:47:40,36M,David McNulty,M,MASTER,36,Larkhall YMCA,https://www.larkhallymcaharriers.org,156
+109,0:49:55,17M,Russell Couper,M,MASTER,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,159

@@ -66,9 +66,13 @@ def extract_filtered_results(results=None, ageCat=None, gender=None):
     else:
         ageCatResults = results
 
+
     # extract the matching gender records
     if gender is not None:
-        genderResults = ageCatResults[ageCatResults["gender"] == gender].reset_index()
+        if gender == 'F':
+            genderResults = ageCatResults[ageCatResults["gender"] == gender].reset_index()
+        else:
+            genderResults = ageCatResults[ageCatResults["gender"].isin(['M','A'])].reset_index()
     else:
         genderResults = ageCatResults.reset_index()
 
@@ -171,6 +175,7 @@ def calculate_competition_points(results, teams, event):
             reference[ageCat][gender]["penalty"] = penaltyPoints
             reference[ageCat][gender]["participants"] = totalParticipants
             reference["totals"]["gender"][gender] += totalParticipants
+            reference["totals"]["gender"][NONBINARY] = len(results["gender"][results["gender"]==NONBINARY])
             reference[ageCat][gender]["counters"] = maxCounters
             reference[ageCat][gender]["clubparticipation"] = (
                 ageCatResults.groupby("clubnumber").count()["position"].to_dict()

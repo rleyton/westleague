@@ -3,23 +3,23 @@ position,Club name,team,gender,finisherPositions,teamPoints,penaltyPoints,totalP
 2,Shettleston Harriers,10,M,"5,7,16,24",52,0,52,6,http://shettlestonharriers.org.uk/
 3,Bellahouston RR,3,M,"6,9,21,33",69,0,69,10,https://www.bellahoustonroadrunners.co.uk/
 4,Cambuslang Harriers,6,M,"15,17,18,26",76,0,76,13,https://cambuslangharriers.org/
-5,VP-Glasgow,54,M,"3,4,27",34,118,152,3,https://www.vp-glasgow.com
+5,VP-Glasgow,54,M,"3,4,27",34,119,153,3,https://www.vp-glasgow.com
 6,East Kilbride AC,1,M,"11,34,35,75",155,0,155,6,http://www.ekac.org.uk/
 7,Kilmarnock H&AC,2,M,"2,40,57,59",158,0,158,10,http://www.kilmarnockharriers.com/
 8,Westerlands CCC,5,M,"13,20,66,67",166,0,166,4,https://westerlandsccc.co.uk/
 9,Law & District AAC,37,M,"14,30,61,69",174,0,174,8,http://www.lawaac.co.uk/
 10,Calderglen Harriers,17,M,"36,49,50,85",220,0,220,6,http://www.calderglenharriers.org.uk/
-11,Inverclyde AC,4,M,"1,28",29,236,265,2,https://www.inverclydeac.org/
-12,Helensburgh AAC,32,M,"25,38",63,236,299,2,https://www.helensburghaac.com/
-13,Ayr Seaforth AC,14,M,"37,43",80,236,316,2,https://www.ayrseaforth.co.uk/
-14,North Ayrshire AAC,44,M,"42,48",90,236,326,2,https://naathletics.co.uk/
-15,Giffnock North AC,7,M,"47,52",99,236,335,2,https://www.giffnocknorth.co.uk/
-16,Glasgow FrontRunners,27,M,"44,56",100,236,336,2,https://www.glasgowfrontrunners.org/
-17,Kilbarchan AAC,34,M,"32,82",114,236,350,2,https://kilbarchanaac.org.uk/
-18,Whitemoss AAC,57,M,"65,83",148,236,384,2,https://whitemossaac.co.uk/
-19,Troon Tortoises,53,M,46,46,354,400,1,http://troontortoises.co.uk
-20,Greenock Glenpark Harriers,30,M,"97,99,101,103",400,0,400,5,https://greenockglenparkharriers.com/
-21,Springburn Harriers,48,M,"74,92",166,236,402,2,https://www.springburnharriers.co.uk/
-22,Motherwell AC,40,M,60,60,354,414,1,https://motherwellac.com/
-23,Airdrie Harriers,11,M,86,86,354,440,1,http://airdrieharriers.org/
-24,Larkhall YMCA,36,M,107,107,354,461,1,https://www.larkhallymcaharriers.org
+11,Inverclyde AC,4,M,"1,28",29,238,267,2,https://www.inverclydeac.org/
+12,Helensburgh AAC,32,M,"25,38",63,238,301,2,https://www.helensburghaac.com/
+13,Ayr Seaforth AC,14,M,"37,43",80,238,318,2,https://www.ayrseaforth.co.uk/
+14,Glasgow FrontRunners,27,M,"44,56,106",206,119,325,3,https://www.glasgowfrontrunners.org/
+15,North Ayrshire AAC,44,M,"42,48",90,238,328,2,https://naathletics.co.uk/
+16,Giffnock North AC,7,M,"47,52",99,238,337,2,https://www.giffnocknorth.co.uk/
+17,Kilbarchan AAC,34,M,"32,82",114,238,352,2,https://kilbarchanaac.org.uk/
+18,Whitemoss AAC,57,M,"65,83",148,238,386,2,https://whitemossaac.co.uk/
+19,Greenock Glenpark Harriers,30,M,"97,99,101,103",400,0,400,5,https://greenockglenparkharriers.com/
+20,Troon Tortoises,53,M,46,46,357,403,1,http://troontortoises.co.uk
+21,Springburn Harriers,48,M,"74,92",166,238,404,2,https://www.springburnharriers.co.uk/
+22,Motherwell AC,40,M,60,60,357,417,1,https://motherwellac.com/
+23,Airdrie Harriers,11,M,86,86,357,443,1,http://airdrieharriers.org/
+24,Larkhall YMCA,36,M,108,108,357,465,1,https://www.larkhallymcaharriers.org

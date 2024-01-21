@@ -192,6 +192,7 @@ for event in sorted(fetch_events_from_dir(DATA_DIR)):
     # team results
     if teamResults[event] is not None:
         for gender in teamResults[event]:
+
             if gender not in totalGenderParticipants:
                 totalGenderParticipants[gender] = 0
 
@@ -200,6 +201,9 @@ for event in sorted(fetch_events_from_dir(DATA_DIR)):
                     eventMeta[competition] = {}
 
                 eventMeta[competition][gender] = racemeta[competition][gender]
+                # for n_gender in racemeta["totals"]["gender"]:
+                #     if n_gender in competition[n_gender]:
+                #         eventMeta[competition][n_gender]["breakout"]=racemeta["totals"]["gender"][n_gender]
 
                 if competition != "OVERALL":
                     totalGenderParticipants[gender] += racemeta[competition][gender][

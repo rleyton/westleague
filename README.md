@@ -17,7 +17,7 @@
 * [Event #2, Bellahouston (20th January, 2024)](https://results.westleague.org.uk/results/provisional/2023-24/2/html/)
   * [Provisional Race results](https://results.westleague.org.uk/results/provisional/2023-24/2/html/) - See below for known issues
     * Results are available as [single PDF](https://results.westleague.org.uk/results/provisional/2023-24/2/pdf/RESULTS.pdf)
-  * **7 Teams still need to submit results** - [List of teams here](https://github.com/rleyton/westleague/blob/main/results/provisional/2023-24/2/markdown/missingTeamSubmissions.md), [please submit via website here](https://westleague.org.uk/results/submission/)
+  * **5 Teams still need to submit results** - [List of teams here](https://github.com/rleyton/westleague/blob/main/results/provisional/2023-24/2/markdown/missingTeamSubmissions.md), [please submit via website here](https://westleague.org.uk/results/submission/)
   * Hosted by [Bellahouston Road Runners](https://www.bellahoustonroadrunners.co.uk/)
   * [Attendance: 414](./results/provisional/2023-24/2/meta.json)
   * [Thanks to the 21 volunteers](./results/provisional/2023-24/2/html/volunteers.html)
@@ -57,13 +57,17 @@
 * [Results summary/links for the 2022-23 season can be found here](./README.2022-23.md)
 
 # Results explainer
-  * Results are still a bit 'raw', but filenames should hopefully make sense. 
-    * We hope to have a 'nice' summary generated soon
-  * Filenames generally consist of RACE.AGECAT
-    * Note that RACE is the race itself
-      * eg. `U11_Boys`, `U11_Girls`, ..., `U17_Combined`, `U20-Senior-Masters_Combined`
-    * Age categories taking part in a race are broken out separately, eg. `U20`, `SENIOR`, `MASTER`
-      * `OVERALL` is all participants in the Senior race
+  * Filenames are of the form `RACE`.`AGECAT`.`GENDER`.`TYPE`.results.`FILETYPE`
+  * Where:
+    * `RACE` is the race name 'on the day', eg. `U11_Boys`, `U11_Girls`, ..., `U17_Combined`, `U20-Senior-Masters_Combined`
+    * `AGECAT` is the age category taking part in a race, eg. `U11`, ... `U20`, `SENIOR`, `MASTER`
+      * Note that `OVERALL` is a combined for all participants in the Senior race
+    * `GENDER` is the gender competition the league currently runs: `male` and `female`
+      * Non-binary participants are *currently* included in the `male` competition results
+      * Participants gender is displayed on an individual race result (`M`, `F`, `A`)
+    * `TYPE` is the type of results
+      * One of `agecat`, `team`, `event` (see below)
+    * `FILETYPE` is the file type, eg. `md`, `csv`,`pdf`, `html`
   * Result files:
     * `missingTeamSubmissions`: are a report of any clubs missing any names for a race they took part in.
     * `volunteers`: lists the volunteers who made the event happen on the day

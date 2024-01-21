@@ -8,10 +8,10 @@
 |          6 | 0:08:29 | 4M     | Charlie Lyne            | M        | U13      |            4 | Inverclyde AC        | https://www.inverclydeac.org/         |                6 |
 |          7 | 0:08:30 | 37M    | nan                     | M        | U13      |           37 | Law & District AAC   | http://www.lawaac.co.uk/              |                7 |
 |          8 | 0:08:34 | 2M     | Jamie Walker            | M        | U13      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/    |                8 |
-|          9 | 0:08:40 | 40M    | nan                     | M        | U13      |           40 | Motherwell AC        | https://motherwellac.com/             |                9 |
+|          9 | 0:08:40 | 40M    | LUKE GEDDES (1ST)       | M        | U13      |           40 | Motherwell AC        | https://motherwellac.com/             |                9 |
 |         10 | 0:08:41 | 4M     | Sol Currie              | M        | U13      |            4 | Inverclyde AC        | https://www.inverclydeac.org/         |               10 |
 |         11 | 0:08:42 | 14M    | Caleb Ghosh             | M        | U13      |           14 | Ayr Seaforth AC      | https://www.ayrseaforth.co.uk/        |               11 |
-|         12 | 0:08:43 | 40M    | nan                     | M        | U13      |           40 | Motherwell AC        | https://motherwellac.com/             |               12 |
+|         12 | 0:08:43 | 40M    | Noah Macgregor (2nd)    | M        | U13      |           40 | Motherwell AC        | https://motherwellac.com/             |               12 |
 |         13 | 0:08:47 | 2M     | Callum Fitzgerald       | M        | U13      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/    |               13 |
 |         14 | 0:08:47 | 7M     | Jonathan Crosbie        | M        | U13      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/      |               14 |
 |         15 | 0:08:58 | 44M    | Kai Little              | M        | U13      |           44 | North Ayrshire AAC   | https://naathletics.co.uk/            |               15 |

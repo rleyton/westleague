@@ -9,7 +9,7 @@
 |          7 | 0:13:19 | 1M     | nan                  | M        | U15      |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |
 |          8 | 0:13:24 | 9M     | Archie Loch          | M        | U15      |            9 | Garscube Harriers     | https://www.garscubeharriers.org.uk/   |
 |          9 | 0:13:31 | 34M    | Lucas Watt           | M        | U15      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/          |
-|         10 | 0:13:48 | 40M    | nan                  | M        | U15      |           40 | Motherwell AC         | https://motherwellac.com/              |
+|         10 | 0:13:48 | 40M    | Luke russell         | M        | U15      |           40 | Motherwell AC         | https://motherwellac.com/              |
 |         11 | 0:13:52 | 2M     | Nick Latto           | M        | U15      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |
 |         12 | 0:13:58 | 11M    | Shae McGovern        | M        | U15      |           11 | Airdrie Harriers      | http://airdrieharriers.org/            |
 |         13 | 0:13:59 | 37M    | nan                  | M        | U15      |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |
@@ -30,10 +30,10 @@
 |         28 | 0:16:36 | 14F    | Laurie McAlpine      | F        | U15      |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/         |
 |         29 | 0:16:39 | 37F    | nan                  | F        | U15      |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |
 |         30 | 0:16:49 | 48F    | Niamh Wilson         | F        | U15      |           48 | Springburn Harriers   | https://www.springburnharriers.co.uk/  |
-|         31 | 0:16:53 | 57M    | nan                  | M        | U15      |           57 | Whitemoss AAC         | https://whitemossaac.co.uk/            |
+|         31 | 0:16:53 | 57M    | Cian Quinn           | M        | U15      |           57 | Whitemoss AAC         | https://whitemossaac.co.uk/            |
 |         32 | 0:17:00 | 10M    | Lucas millican       | M        | U15      |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/     |
 |         33 | 0:17:34 | 11F    | Murryn Burns         | F        | U15      |           11 | Airdrie Harriers      | http://airdrieharriers.org/            |
-|         34 | 0:18:12 | 57F    | nan                  | F        | U15      |           57 | Whitemoss AAC         | https://whitemossaac.co.uk/            |
+|         34 | 0:18:12 | 57F    | Martha Cathie        | F        | U15      |           57 | Whitemoss AAC         | https://whitemossaac.co.uk/            |
 |         35 | 0:18:32 | 2F     | Isla Fitzgerald      | F        | U15      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |
 |         36 | 0:19:46 | 2F     | Rebecca McNulty      | F        | U15      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |
 |         37 | 0:19:46 | 8F     | Lexie Speirs         | F        | U15      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
