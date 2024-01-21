@@ -1,0 +1,16 @@
+|   position | Club name            |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                               |
+|-----------:|:---------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:--------------------------------------|
+|          1 | Giffnock North AC    |      7 | M        | 1,5,8               |           14 |               0 |            14 |               13 | https://www.giffnocknorth.co.uk/      |
+|          2 | Kilbarchan AAC       |     34 | M        | 7,10,11             |           28 |               0 |            28 |                6 | https://kilbarchanaac.org.uk/         |
+|          3 | Shettleston Harriers |     10 | M        | 15,18,29            |           62 |               0 |            62 |                4 | http://shettlestonharriers.org.uk/    |
+|          4 | VP-Glasgow           |     54 | M        | 4,22,43             |           69 |               0 |            69 |                3 | https://www.vp-glasgow.com            |
+|          5 | Kilmarnock H&AC      |      2 | M        | 2,33,37             |           72 |               0 |            72 |                3 | http://www.kilmarnockharriers.com/    |
+|          6 | East Kilbride AC     |      1 | M        | 3,28,45             |           76 |               0 |            76 |                3 | http://www.ekac.org.uk/               |
+|          7 | Airdrie Harriers     |     11 | M        | 26,31,42            |           99 |               0 |            99 |                3 | http://airdrieharriers.org/           |
+|          8 | Law & District AAC   |     37 | M        | 12,39               |           51 |              56 |           107 |                2 | http://www.lawaac.co.uk/              |
+|          9 | Helensburgh AAC      |     32 | M        | 27,38,44            |          109 |               0 |           109 |                3 | https://www.helensburghaac.com/       |
+|         10 | Inverclyde AC        |      4 | M        | 6                   |            6 |             112 |           118 |                1 | https://www.inverclydeac.org/         |
+|         11 | Garscube Harriers    |      9 | M        | 24                  |           24 |             112 |           136 |                1 | https://www.garscubeharriers.org.uk/  |
+|         12 | Larkhall YMCA        |     36 | M        | 40,41               |           81 |              56 |           137 |                2 | https://www.larkhallymcaharriers.org  |
+|         13 | Calderglen Harriers  |     17 | M        | 34                  |           34 |             112 |           146 |                1 | http://www.calderglenharriers.org.uk/ |
+|         14 | Motherwell AC        |     40 | M        | 46                  |           46 |             112 |           158 |                1 | https://motherwellac.com/             |

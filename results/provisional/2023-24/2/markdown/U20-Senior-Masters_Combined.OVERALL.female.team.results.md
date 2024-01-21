@@ -1,0 +1,22 @@
+|   position | Club name                  |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                    |
+|-----------:|:---------------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
+|          1 | Bellahouston RR            |      3 | F        | 6,11,16,22          |           55 |               0 |            55 |                8 | https://www.bellahoustonroadrunners.co.uk/ |
+|          2 | Bellahouston Harriers      |      8 | F        | 5,19,20,24          |           68 |               0 |            68 |               10 | http://www.bellahoustonharriers.co.uk/     |
+|          3 | Law & District AAC         |     37 | F        | 9,18,26             |           53 |              63 |           116 |                3 | http://www.lawaac.co.uk/                   |
+|          4 | Garscube Harriers          |      9 | F        | 1,7                 |            8 |             126 |           134 |                2 | https://www.garscubeharriers.org.uk/       |
+|          5 | East Kilbride AC           |      1 | F        | 10,25,36            |           71 |              63 |           134 |                3 | http://www.ekac.org.uk/                    |
+|          6 | Calderglen Harriers        |     17 | F        | 13,27,35            |           75 |              63 |           138 |                3 | http://www.calderglenharriers.org.uk/      |
+|          7 | Shettleston Harriers       |     10 | F        | 3,21                |           24 |             126 |           150 |                2 | http://shettlestonharriers.org.uk/         |
+|          8 | Ayr Seaforth AC            |     14 | F        | 4,41,46             |           91 |              63 |           154 |                3 | https://www.ayrseaforth.co.uk/             |
+|          9 | Cambuslang Harriers        |      6 | F        | 8,34                |           42 |             126 |           168 |                2 | https://cambuslangharriers.org/            |
+|         10 | Greenock Glenpark Harriers |     30 | F        | 32,44,47,51         |          174 |               0 |           174 |                4 | https://greenockglenparkharriers.com/      |
+|         11 | Kilmarnock H&AC            |      2 | F        | 17,33               |           50 |             126 |           176 |                2 | http://www.kilmarnockharriers.com/         |
+|         12 | Helensburgh AAC            |     32 | F        | 2                   |            2 |             189 |           191 |                1 | https://www.helensburghaac.com/            |
+|         13 | West End RR                |     56 | F        | 12                  |           12 |             189 |           201 |                1 | https://www.westendroadrunners.co.uk/      |
+|         14 | Troon Tortoises            |     53 | F        | 14                  |           14 |             189 |           203 |                1 | http://troontortoises.co.uk                |
+|         15 | Airdrie Harriers           |     11 | F        | 15                  |           15 |             189 |           204 |                1 | http://airdrieharriers.org/                |
+|         16 | Glasgow FrontRunners       |     27 | F        | 31,52               |           83 |             126 |           209 |                2 | https://www.glasgowfrontrunners.org/       |
+|         17 | Larkhall YMCA              |     36 | F        | 23                  |           23 |             189 |           212 |                1 | https://www.larkhallymcaharriers.org       |
+|         18 | Westerlands CCC            |      5 | F        | 45,48               |           93 |             126 |           219 |                2 | https://westerlandsccc.co.uk/              |
+|         19 | Inverclyde AC              |      4 | F        | 39                  |           39 |             189 |           228 |                1 | https://www.inverclydeac.org/              |
+|         20 | Giffnock North AC          |      7 | F        | 40                  |           40 |             189 |           229 |                1 | https://www.giffnocknorth.co.uk/           |

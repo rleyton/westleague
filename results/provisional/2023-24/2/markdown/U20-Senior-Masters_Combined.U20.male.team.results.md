@@ -1,0 +1,3 @@
+|   position | Club name           |   team | gender   |   finisherPositions |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                         |
+|-----------:|:--------------------|-------:|:---------|--------------------:|-------------:|----------------:|--------------:|-----------------:|:--------------------------------|
+|          1 | Cambuslang Harriers |      6 | M        |                   1 |            1 |              22 |            23 |                1 | https://cambuslangharriers.org/ |

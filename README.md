@@ -6,7 +6,7 @@
 
 ## Provisional results
 
-* _Provisional results reflect team submissions received by **16th December, 11:00am**_ - Please direct queries/issues to contact@westleague.org.uk
+* _Provisional results reflect team submissions received by **21st January, 1pm**_ - Please direct queries/issues to contact@westleague.org.uk
 * PDF results generated
   * A single all-events PDF is [available here](https://results.westleague.org.uk/results/provisional/2023-24/1/pdf/RESULTS.pdf)
   * Hopefully this will help make the results a bit more digvetible
@@ -17,10 +17,25 @@
   * [Attendance: 441](./results/provisional/2023-24/1/meta.json)
   * [Thanks to the 20 volunteers](./results/provisional/2023-24/1/html/volunteers.html)
   * Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/1), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/1/markdown/), [PDF](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/1/pdf/)
+* [Event #2, Bellahouston (20th January, 2024)](https://results.westleague.org.uk/results/provisional/2023-24/2/html/)
+  * [Provisional Race results](https://results.westleague.org.uk/results/provisional/2023-24/2/html/) - See below for known issues
+  * **8 Teams still need to submit results** - [List of teams here](https://github.com/rleyton/westleague/blob/main/results/provisional/2023-24/2/markdown/missingTeamSubmissions.md), [please submit via website here](https://westleague.org.uk/results/submission/)
+  * Hosted by [Bellahouston Road Runners](https://www.bellahoustonroadrunners.co.uk/)
+  * [Attendance: 414](./results/provisional/2023-24/2/meta.json)
+  * [Thanks to the 21 volunteers](./results/provisional/2023-24/2/html/volunteers.html)
+  * Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/2), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/2/markdown/), [PDF](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/2/pdf/)
 
 
 ### Known results issues
 
+
+## Event #2
+
+* [8 teams still to submit results, list here](https://github.com/rleyton/westleague/blob/main/results/provisional/2023-24/2/markdown/missingTeamSubmissions.md)
+* Please direct queries/issues to contact@westleague.org.uk
+
+
+## Event #1
 * [2 teams still to submit results, list here](https://github.com/rleyton/westleague/blob/main/results/provisional/2023-24/1/markdown/missingTeamSubmissions.md)
 * Known time/results mismatch in the following events:
   * U11 Boys 
