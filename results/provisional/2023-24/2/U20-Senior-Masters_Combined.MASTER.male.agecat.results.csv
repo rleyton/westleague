@@ -25,23 +25,24 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website,finishPositi
 24,0:35:38,48M,Paul Wilson,M,MASTER,48,Springburn Harriers,https://www.springburnharriers.co.uk/,86
 25,0:35:59,8M,Graeme Campbell,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,92
 26,0:36:33,8M,Kenneth Scott,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,100
-27,0:37:15,3M,13. Gavin Elliot,M,MASTER,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,109
-28,0:37:38,17M,Jim Mearns,M,MASTER,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,110
-29,0:37:43,11M,Brian Wilson,M,MASTER,11,Airdrie Harriers,http://airdrieharriers.org/,111
-30,0:37:59,2M,Alasdair Murray,M,MASTER,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,114
-31,0:38:00,3M,14. Tom Ferris,M,MASTER,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,116
-32,0:38:09,8M,Kevin Smith,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,121
-33,0:38:21,48M,Matt Stanley,M,MASTER,48,Springburn Harriers,https://www.springburnharriers.co.uk/,123
-34,0:38:49,2M,Ken Monaghan,M,MASTER,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,126
-35,0:39:26,30M,Frank McMahon,M,MASTER,30,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/,132
-36,0:39:32,2M,Russell Duncan,M,MASTER,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,133
-37,0:39:49,30M,Stephen Harrison,M,MASTER,30,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/,134
-38,0:40:08,17M,Kevin McPhillips,M,MASTER,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,137
-39,0:40:16,30M,Paul Meehan,M,MASTER,30,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/,138
-40,0:41:02,6M,Chris Paton,M,MASTER,6,Cambuslang Harriers,https://cambuslangharriers.org/,142
-41,0:41:13,30M,Gerry Gallacher,M,MASTER,30,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/,143
-42,0:41:37,8M,Simon McDougall,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,144
-43,0:41:40,30M,Stuart Crawford,M,MASTER,30,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/,145
-44,0:45:10,8M,David Gemmell,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,154
-45,0:47:40,36M,David McNulty,M,MASTER,36,Larkhall YMCA,https://www.larkhallymcaharriers.org,156
-46,0:49:55,17M,Russell Couper,M,MASTER,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,159
+27,0:37:14,57M,David Cathie,M,MASTER,57,Whitemoss AAC,https://whitemossaac.co.uk/,108
+28,0:37:15,3M,13. Gavin Elliot,M,MASTER,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,109
+29,0:37:38,17M,Jim Mearns,M,MASTER,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,110
+30,0:37:43,11M,Brian Wilson,M,MASTER,11,Airdrie Harriers,http://airdrieharriers.org/,111
+31,0:37:59,2M,Alasdair Murray,M,MASTER,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,114
+32,0:38:00,3M,14. Tom Ferris,M,MASTER,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,116
+33,0:38:09,8M,Kevin Smith,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,121
+34,0:38:21,48M,Matt Stanley,M,MASTER,48,Springburn Harriers,https://www.springburnharriers.co.uk/,123
+35,0:38:49,2M,Ken Monaghan,M,MASTER,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,126
+36,0:39:26,30M,Frank McMahon,M,MASTER,30,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/,132
+37,0:39:32,2M,Russell Duncan,M,MASTER,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,133
+38,0:39:49,30M,Stephen Harrison,M,MASTER,30,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/,134
+39,0:40:08,17M,Kevin McPhillips,M,MASTER,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,137
+40,0:40:16,30M,Paul Meehan,M,MASTER,30,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/,138
+41,0:41:02,6M,Chris Paton,M,MASTER,6,Cambuslang Harriers,https://cambuslangharriers.org/,142
+42,0:41:13,30M,Gerry Gallacher,M,MASTER,30,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/,143
+43,0:41:37,8M,Simon McDougall,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,144
+44,0:41:40,30M,Stuart Crawford,M,MASTER,30,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/,145
+45,0:45:10,8M,David Gemmell,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,154
+46,0:47:40,36M,David McNulty,M,MASTER,36,Larkhall YMCA,https://www.larkhallymcaharriers.org,156
+47,0:49:55,17M,Russell Couper,M,MASTER,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,159

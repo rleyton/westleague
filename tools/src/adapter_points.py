@@ -66,9 +66,13 @@ def extract_filtered_results(results=None, ageCat=None, gender=None):
     else:
         ageCatResults = results
 
+
     # extract the matching gender records
     if gender is not None:
-        genderResults = ageCatResults[ageCatResults["gender"] == gender].reset_index()
+        if gender == 'F':
+            genderResults = ageCatResults[ageCatResults["gender"] == gender].reset_index()
+        else:
+            genderResults = ageCatResults[ageCatResults["gender"].isin(['M','A'])].reset_index()
     else:
         genderResults = ageCatResults.reset_index()
 

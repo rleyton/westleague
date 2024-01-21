@@ -69,7 +69,13 @@ def set_club_position(clubnum, position):
 def normalise_gender_record(gender):
     if gender is not None:
         if type(gender) is str:
-            return gender[:1].upper()
+            gender_prefix=gender[:1].upper()
+
+            # Non-Binary in team spreadsheets to A
+            if gender_prefix in ['A','N']:
+                gender_prefix='A'
+
+            return gender_prefix
         elif np.isnan(gender) is True:
             return ""
     else:

@@ -30,7 +30,7 @@
 |         28 | 0:38:02 | 3F     | 15. Flora Henry         | F        | SENIOR   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |              117 |
 |         29 | 0:38:02 | 3F     | 16. Joni Lindsay        | F        | SENIOR   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |              118 |
 |         30 | 0:38:07 | 8F     | Kirsty Stewart          | F        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |              119 |
-|         31 | 0:38:08 | 27F    | nan                     | F        | nan      |           27 | Glasgow FrontRunners       | https://www.glasgowfrontrunners.org/       |              120 |
+|         31 | 0:38:08 | 27F    | Eli Lileikyte           | F        | SENIOR   |           27 | Glasgow FrontRunners       | https://www.glasgowfrontrunners.org/       |              120 |
 |         32 | 0:38:31 | 30F    | Lynne Harrison          | F        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |              125 |
 |         33 | 0:38:51 | 2F     | Bethany Ross            | F        | SENIOR   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |              128 |
 |         34 | 0:38:56 | 6F     | Erica Christie          | F        | MASTER   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |              129 |
@@ -51,5 +51,5 @@
 |         49 | 0:48:57 | 3F     | 18. Terry Nimmo         | F        | MASTER   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |              157 |
 |         50 | 0:48:57 | 8F     | June MacLeod            | F        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |              158 |
 |         51 | 0:51:11 | 30F    | Charlotte McKay         | F        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |              160 |
-|         52 | 0:54:54 | 27F    | nan                     | F        | nan      |           27 | Glasgow FrontRunners       | https://www.glasgowfrontrunners.org/       |              161 |
+|         52 | 0:54:54 | 27F    | Meg Todd                | F        | SENIOR   |           27 | Glasgow FrontRunners       | https://www.glasgowfrontrunners.org/       |              161 |
 |         53 | 0:56:04 | 8F     | Jasmine Shields         | F        | SENIOR   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |              162 |
