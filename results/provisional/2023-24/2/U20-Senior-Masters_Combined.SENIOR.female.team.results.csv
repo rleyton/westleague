@@ -1,7 +1,8 @@
 position,Club name,team,gender,finisherPositions,teamPoints,penaltyPoints,totalPoints,totalFinishers,Website
-1,Bellahouston RR,3,F,"4,6,10,11",31,0,31,6,https://www.bellahoustonroadrunners.co.uk/
-2,Bellahouston Harriers,8,F,"3,7,8,14",32,0,32,5,http://www.bellahoustonharriers.co.uk/
-3,Shettleston Harriers,10,F,"1,9",10,54,64,2,http://shettlestonharriers.org.uk/
-4,Ayr Seaforth AC,14,F,"2,16",18,54,72,2,https://www.ayrseaforth.co.uk/
-5,Garscube Harriers,9,F,5,5,81,86,1,https://www.garscubeharriers.org.uk/
-6,Calderglen Harriers,17,F,13,13,81,94,1,http://www.calderglenharriers.org.uk/
+1,Bellahouston RR,3,F,"4,6,11,12",33,0,33,6,https://www.bellahoustonroadrunners.co.uk/
+2,Bellahouston Harriers,8,F,"3,8,9,16",36,0,36,5,http://www.bellahoustonharriers.co.uk/
+3,Shettleston Harriers,10,F,"1,10",11,58,69,2,http://shettlestonharriers.org.uk/
+4,Ayr Seaforth AC,14,F,"2,18",20,58,78,2,https://www.ayrseaforth.co.uk/
+5,Kilmarnock H&AC,2,F,"7,14",21,58,79,2,http://www.kilmarnockharriers.com/
+6,Garscube Harriers,9,F,5,5,87,92,1,https://www.garscubeharriers.org.uk/
+7,Calderglen Harriers,17,F,15,15,87,102,1,http://www.calderglenharriers.org.uk/

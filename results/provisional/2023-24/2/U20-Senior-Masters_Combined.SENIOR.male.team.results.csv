@@ -2,9 +2,10 @@ position,Club name,team,gender,finisherPositions,teamPoints,penaltyPoints,totalP
 1,Shettleston Harriers,10,M,"4,6,11,15",36,0,36,6,http://shettlestonharriers.org.uk/
 2,Bellahouston Harriers,8,M,"7,9,10,13",39,0,39,8,http://www.bellahoustonharriers.co.uk/
 3,Bellahouston RR,3,M,"5,8,19,22",54,0,54,6,https://www.bellahoustonroadrunners.co.uk/
-4,Cambuslang Harriers,6,M,"12,16,27,29",84,0,84,4,https://cambuslangharriers.org/
-5,VP-Glasgow,54,M,"2,3",5,82,87,2,https://www.vp-glasgow.com
-6,Inverclyde AC,4,M,"1,17",18,82,100,2,https://www.inverclydeac.org/
-7,Calderglen Harriers,17,M,20,20,123,143,1,http://www.calderglenharriers.org.uk/
-8,Ayr Seaforth AC,14,M,21,21,123,144,1,https://www.ayrseaforth.co.uk/
-9,Giffnock North AC,7,M,24,24,123,147,1,https://www.giffnocknorth.co.uk/
+4,Cambuslang Harriers,6,M,"12,16,28,31",87,0,87,4,https://cambuslangharriers.org/
+5,VP-Glasgow,54,M,"2,3",5,88,93,2,https://www.vp-glasgow.com
+6,Inverclyde AC,4,M,"1,17",18,88,106,2,https://www.inverclydeac.org/
+7,Kilmarnock H&AC,2,M,"27,30,33",90,44,134,3,http://www.kilmarnockharriers.com/
+8,Calderglen Harriers,17,M,20,20,132,152,1,http://www.calderglenharriers.org.uk/
+9,Ayr Seaforth AC,14,M,21,21,132,153,1,https://www.ayrseaforth.co.uk/
+10,Giffnock North AC,7,M,24,24,132,156,1,https://www.giffnocknorth.co.uk/
