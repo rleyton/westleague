@@ -1,17 +1,18 @@
 position,Club name,team,gender,finisherPositions,teamPoints,penaltyPoints,totalPoints,totalFinishers,Website
 1,Cambuslang Harriers,6,M,"1,2,7",10,0,10,8,https://cambuslangharriers.org/
-2,Bellahouston RR,3,M,"4,18,28",50,0,50,4,https://www.bellahoustonroadrunners.co.uk/
-3,Bellahouston Harriers,8,M,"3,22,25",50,0,50,7,http://www.bellahoustonharriers.co.uk/
-4,Kilmarnock H&AC,2,M,"9,19,31",59,0,59,5,http://www.kilmarnockharriers.com/
-5,Calderglen Harriers,17,M,"16,17,29",62,0,62,5,http://www.calderglenharriers.org.uk/
-6,Helensburgh AAC,32,M,"5,8",13,57,70,2,https://www.helensburghaac.com/
-7,North Ayrshire AAC,44,M,"11,15",26,57,83,2,https://naathletics.co.uk/
-8,Greenock Glenpark Harriers,30,M,"36,38,40",114,0,114,5,https://greenockglenparkharriers.com/
-9,Springburn Harriers,48,M,"24,34",58,57,115,2,https://www.springburnharriers.co.uk/
-10,VP-Glasgow,54,M,6,6,114,120,1,https://www.vp-glasgow.com
-11,Ayr Seaforth AC,14,M,12,12,114,126,1,https://www.ayrseaforth.co.uk/
-12,Troon Tortoises,53,M,13,13,114,127,1,http://troontortoises.co.uk
-13,Giffnock North AC,7,M,14,14,114,128,1,https://www.giffnocknorth.co.uk/
-14,Whitemoss AAC,57,M,27,27,114,141,1,https://whitemossaac.co.uk/
-15,Airdrie Harriers,11,M,30,30,114,144,1,http://airdrieharriers.org/
-16,Larkhall YMCA,36,M,46,46,114,160,1,https://www.larkhallymcaharriers.org
+2,Bellahouston RR,3,M,"4,18,29",51,0,51,4,https://www.bellahoustonroadrunners.co.uk/
+3,Bellahouston Harriers,8,M,"3,23,26",52,0,52,7,http://www.bellahoustonharriers.co.uk/
+4,Kilmarnock H&AC,2,M,"9,19,32",60,0,60,5,http://www.kilmarnockharriers.com/
+5,Calderglen Harriers,17,M,"16,17,30",63,0,63,5,http://www.calderglenharriers.org.uk/
+6,Helensburgh AAC,32,M,"5,8",13,58,71,2,https://www.helensburghaac.com/
+7,North Ayrshire AAC,44,M,"11,15",26,58,84,2,https://naathletics.co.uk/
+8,Greenock Glenpark Harriers,30,M,"37,39,41",117,0,117,5,https://greenockglenparkharriers.com/
+9,Springburn Harriers,48,M,"25,35",60,58,118,2,https://www.springburnharriers.co.uk/
+10,VP-Glasgow,54,M,6,6,116,122,1,https://www.vp-glasgow.com
+11,Ayr Seaforth AC,14,M,12,12,116,128,1,https://www.ayrseaforth.co.uk/
+12,Troon Tortoises,53,M,13,13,116,129,1,http://troontortoises.co.uk
+13,Giffnock North AC,7,M,14,14,116,130,1,https://www.giffnocknorth.co.uk/
+14,Motherwell AC,40,M,20,20,116,136,1,https://motherwellac.com/
+15,Whitemoss AAC,57,M,28,28,116,144,1,https://whitemossaac.co.uk/
+16,Airdrie Harriers,11,M,31,31,116,147,1,http://airdrieharriers.org/
+17,Larkhall YMCA,36,M,47,47,116,163,1,https://www.larkhallymcaharriers.org

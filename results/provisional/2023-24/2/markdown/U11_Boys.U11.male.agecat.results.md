@@ -45,4 +45,4 @@
 |         43 | 0:06:24 | 54M    | James MacLeod        | M        | U11      |           54 | VP-Glasgow           | https://www.vp-glasgow.com            |               43 |
 |         44 | 0:06:36 | 32M    | Alexander McDermid   | M        | U11      |           32 | Helensburgh AAC      | https://www.helensburghaac.com/       |               44 |
 |         45 | 0:07:09 | 1M     | nan                  | M        | U11      |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |               45 |
-|         46 | 0:07:55 | 40M    | nan                  | M        | U11      |           40 | Motherwell AC        | https://motherwellac.com/             |               46 |
+|         46 | 0:07:55 | 40M    | reece craig          | M        | U11      |           40 | Motherwell AC        | https://motherwellac.com/             |               46 |

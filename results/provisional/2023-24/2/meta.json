@@ -215,8 +215,8 @@
             },
             "MASTER": {
                   "M": {
-                        "penalty": 57,
-                        "participants": 47,
+                        "penalty": 58,
+                        "participants": 48,
                         "counters": 3,
                         "clubparticipation": {
                               "2": 5,
@@ -230,6 +230,7 @@
                               "30": 5,
                               "32": 2,
                               "36": 1,
+                              "40": 1,
                               "44": 2,
                               "48": 2,
                               "53": 1,
@@ -322,7 +323,7 @@
       "attendance": {
             "total": 414,
             "gender": {
-                  "M": 197,
+                  "M": 198,
                   "F": 187
             }
       }

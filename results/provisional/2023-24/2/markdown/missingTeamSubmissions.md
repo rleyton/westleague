@@ -4,5 +4,4 @@
 |     34 | Kilbarchan AAC     | https://kilbarchanaac.org.uk/         |
 |     37 | Law & District AAC | http://www.lawaac.co.uk/              |
 |      5 | Westerlands CCC    | https://westerlandsccc.co.uk/         |
-|     40 | Motherwell AC      | https://motherwellac.com/             |
 |     56 | West End RR        | https://www.westendroadrunners.co.uk/ |

@@ -59,7 +59,7 @@
 |         57 | 0:33:11 | 2M     | Nick Carter        | M        | SENIOR   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |               63 |
 |         58 | 0:33:15 | 6M     | Lewis Anderson     | M        | SENIOR   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |               64 |
 |         59 | 0:33:29 | 2M     | David Anderson     | M        | MASTER   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |               66 |
-|         60 | 0:33:45 | 40M    | nan                | M        | nan      |           40 | Motherwell AC              | https://motherwellac.com/                  |               67 |
+|         60 | 0:33:45 | 40M    | Derek O'neill      | M        | MASTER   |           40 | Motherwell AC              | https://motherwellac.com/                  |               67 |
 |         61 | 0:33:59 | 37M    | nan                | M        | nan      |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               68 |
 |         62 | 0:34:12 | 10M    | William Bradley    | M        | SENIOR   |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |               71 |
 |         63 | 0:34:23 | 6M     | Des Dickson        | M        | MASTER   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |               73 |

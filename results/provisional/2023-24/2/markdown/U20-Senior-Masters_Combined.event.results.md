@@ -66,7 +66,7 @@
 |         64 | 0:33:15 | 6M     | Lewis Anderson          | M        | SENIOR   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
 |         65 | 0:33:28 | 9F     | Holly Smith             | F        | SENIOR   |            9 | Garscube Harriers          | https://www.garscubeharriers.org.uk/       |
 |         66 | 0:33:29 | 2M     | David Anderson          | M        | MASTER   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
-|         67 | 0:33:45 | 40M    | nan                     | M        | nan      |           40 | Motherwell AC              | https://motherwellac.com/                  |
+|         67 | 0:33:45 | 40M    | Derek O'neill           | M        | MASTER   |           40 | Motherwell AC              | https://motherwellac.com/                  |
 |         68 | 0:33:59 | 37M    | nan                     | M        | nan      |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |
 |         69 | 0:33:59 | 6F     | Kirsty O'Brien          | F        | MASTER   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
 |         70 | 0:34:06 | 37F    | nan                     | F        | nan      |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |
