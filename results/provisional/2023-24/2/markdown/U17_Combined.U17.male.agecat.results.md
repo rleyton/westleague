@@ -1,7 +1,7 @@
 |   position | times   | team   | Name               | gender   | AgeCat   |   clubnumber | Club name                  | Website                                |   finishPosition |
 |-----------:|:--------|:-------|:-------------------|:---------|:---------|-------------:|:---------------------------|:---------------------------------------|-----------------:|
 |          1 | 0:19:30 | 2M     | Jamie Work         | M        | U17      |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/     |                1 |
-|          2 | 0:20:03 | 37M    | nan                | M        | U17      |           37 | Law & District AAC         | http://www.lawaac.co.uk/               |                2 |
+|          2 | 0:20:03 | 37M    | Ryan Kellock       | M        | U17      |           37 | Law & District AAC         | http://www.lawaac.co.uk/               |                2 |
 |          3 | 0:20:43 | 30M    | Lewis McCrae       | M        | U17      |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/  |                3 |
 |          4 | 0:21:03 | 14M    | Fraser McIntyre    | M        | U17      |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/         |                4 |
 |          5 | 0:21:14 | 2M     | Gregor Samson      | M        | U17      |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/     |                5 |

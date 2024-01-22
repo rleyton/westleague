@@ -11,7 +11,7 @@
 |          9 | 0:15:43 | 10F    | Kate Monaghan    | F        | U15      |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/     |               26 |
 |         10 | 0:16:03 | 2F     | Charlotte Gebbie | F        | U15      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |               27 |
 |         11 | 0:16:36 | 14F    | Laurie McAlpine  | F        | U15      |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/         |               28 |
-|         12 | 0:16:39 | 37F    | nan              | F        | U15      |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |               29 |
+|         12 | 0:16:39 | 37F    | Sophie Nelson    | F        | U15      |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |               29 |
 |         13 | 0:16:49 | 48F    | Niamh Wilson     | F        | U15      |           48 | Springburn Harriers   | https://www.springburnharriers.co.uk/  |               30 |
 |         14 | 0:17:34 | 11F    | Murryn Burns     | F        | U15      |           11 | Airdrie Harriers      | http://airdrieharriers.org/            |               33 |
 |         15 | 0:18:12 | 57F    | Martha Cathie    | F        | U15      |           57 | Whitemoss AAC         | https://whitemossaac.co.uk/            |               34 |
