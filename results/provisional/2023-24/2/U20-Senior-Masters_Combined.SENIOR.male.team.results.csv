@@ -1,13 +1,14 @@
 position,Club name,team,gender,finisherPositions,teamPoints,penaltyPoints,totalPoints,totalFinishers,Website
-1,Shettleston Harriers,10,M,"4,6,11,15",36,0,36,6,http://shettlestonharriers.org.uk/
-2,Bellahouston Harriers,8,M,"7,9,10,13",39,0,39,8,http://www.bellahoustonharriers.co.uk/
-3,Bellahouston RR,3,M,"5,8,19,22",54,0,54,6,https://www.bellahoustonroadrunners.co.uk/
-4,Cambuslang Harriers,6,M,"12,16,30,34",92,0,92,4,https://cambuslangharriers.org/
-5,VP-Glasgow,54,M,"2,3",5,96,101,2,https://www.vp-glasgow.com
-6,Inverclyde AC,4,M,"1,17",18,96,114,2,https://www.inverclydeac.org/
-7,Glasgow FrontRunners,27,M,"23,28,38",89,48,137,3,https://www.glasgowfrontrunners.org/
-8,Kilmarnock H&AC,2,M,"29,32,36",97,48,145,3,http://www.kilmarnockharriers.com/
-9,Calderglen Harriers,17,M,20,20,144,164,1,http://www.calderglenharriers.org.uk/
-10,Ayr Seaforth AC,14,M,21,21,144,165,1,https://www.ayrseaforth.co.uk/
-11,Giffnock North AC,7,M,25,25,144,169,1,https://www.giffnocknorth.co.uk/
-12,Whitemoss AAC,57,M,33,33,144,177,1,https://whitemossaac.co.uk/
+1,Shettleston Harriers,10,M,"4,6,12,16",38,0,38,6,http://shettlestonharriers.org.uk/
+2,Bellahouston Harriers,8,M,"7,9,10,14",40,0,40,8,http://www.bellahoustonharriers.co.uk/
+3,Bellahouston RR,3,M,"5,8,21,24",58,0,58,6,https://www.bellahoustonroadrunners.co.uk/
+4,Cambuslang Harriers,6,M,"13,17,32,37",99,0,99,4,https://cambuslangharriers.org/
+5,VP-Glasgow,54,M,"2,3",5,102,107,2,https://www.vp-glasgow.com
+6,Law & District AAC,37,M,"11,19,36",66,51,117,3,http://www.lawaac.co.uk/
+7,Inverclyde AC,4,M,"1,18",19,102,121,2,https://www.inverclydeac.org/
+8,Glasgow FrontRunners,27,M,"25,30,41",96,51,147,3,https://www.glasgowfrontrunners.org/
+9,Kilmarnock H&AC,2,M,"31,34,39",104,51,155,3,http://www.kilmarnockharriers.com/
+10,Calderglen Harriers,17,M,22,22,153,175,1,http://www.calderglenharriers.org.uk/
+11,Ayr Seaforth AC,14,M,23,23,153,176,1,https://www.ayrseaforth.co.uk/
+12,Giffnock North AC,7,M,27,27,153,180,1,https://www.giffnocknorth.co.uk/
+13,Whitemoss AAC,57,M,35,35,153,188,1,https://whitemossaac.co.uk/

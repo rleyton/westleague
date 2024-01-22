@@ -11,7 +11,7 @@
 |          9 | 0:04:58 | 7M     | callum Wilson        | M        | U11      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/      |                9 |
 |         10 | 0:04:59 | 34M    | Blair Wright         | M        | U11      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/         |               10 |
 |         11 | 0:05:08 | 34M    | Ruaridh Toole        | M        | U11      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/         |               11 |
-|         12 | 0:05:10 | 37M    | nan                  | M        | U11      |           37 | Law & District AAC   | http://www.lawaac.co.uk/              |               12 |
+|         12 | 0:05:10 | 37M    | Christopher Traynor  | M        | U11      |           37 | Law & District AAC   | http://www.lawaac.co.uk/              |               12 |
 |         13 | 0:05:11 | 34M    | Alisdair Murray      | M        | U11      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/         |               13 |
 |         14 | 0:05:18 | 7M     | Euan Boothman        | M        | U11      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/      |               14 |
 |         15 | 0:05:19 | 10M    | Louis Millican       | M        | U11      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/    |               15 |
@@ -38,7 +38,7 @@
 |         36 | 0:05:50 | 7M     | Finlay Rae           | M        | U11      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/      |               36 |
 |         37 | 0:05:52 | 2M     | Neil Parker          | M        | U11      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/    |               37 |
 |         38 | 0:05:52 | 32M    | James Wightwick      | M        | U11      |           32 | Helensburgh AAC      | https://www.helensburghaac.com/       |               38 |
-|         39 | 0:05:53 | 37M    | nan                  | M        | U11      |           37 | Law & District AAC   | http://www.lawaac.co.uk/              |               39 |
+|         39 | 0:05:53 | 37M    | James Bennet         | M        | U11      |           37 | Law & District AAC   | http://www.lawaac.co.uk/              |               39 |
 |         40 | 0:05:54 | 36M    | Drew Reid            | M        | U11      |           36 | Larkhall YMCA        | https://www.larkhallymcaharriers.org  |               40 |
 |         41 | 0:05:57 | 36M    | George Brown         | M        | U11      |           36 | Larkhall YMCA        | https://www.larkhallymcaharriers.org  |               41 |
 |         42 | 0:06:01 | 11M    | Lyle Randall         | M        | U11      |           11 | Airdrie Harriers     | http://airdrieharriers.org/           |               42 |
