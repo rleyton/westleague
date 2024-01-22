@@ -1,7 +1,5 @@
-|   team | Club name          | Website                               |
-|-------:|:-------------------|:--------------------------------------|
-|      1 | East Kilbride AC   | http://www.ekac.org.uk/               |
-|     34 | Kilbarchan AAC     | https://kilbarchanaac.org.uk/         |
-|     37 | Law & District AAC | http://www.lawaac.co.uk/              |
-|      5 | Westerlands CCC    | https://westerlandsccc.co.uk/         |
-|     56 | West End RR        | https://www.westendroadrunners.co.uk/ |
+|   team | Club name        | Website                       |
+|-------:|:-----------------|:------------------------------|
+|      1 | East Kilbride AC | http://www.ekac.org.uk/       |
+|     34 | Kilbarchan AAC   | https://kilbarchanaac.org.uk/ |
+|      5 | Westerlands CCC  | https://westerlandsccc.co.uk/ |

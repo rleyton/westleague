@@ -1,9 +1,10 @@
 position,Club name,team,gender,finisherPositions,teamPoints,penaltyPoints,totalPoints,totalFinishers,Website
-1,Bellahouston RR,3,F,"4,6,11,12",33,0,33,6,https://www.bellahoustonroadrunners.co.uk/
-2,Bellahouston Harriers,8,F,"3,8,9,17",37,0,37,5,http://www.bellahoustonharriers.co.uk/
-3,Shettleston Harriers,10,F,"1,10",11,62,73,2,http://shettlestonharriers.org.uk/
-4,Ayr Seaforth AC,14,F,"2,19",21,62,83,2,https://www.ayrseaforth.co.uk/
-5,Kilmarnock H&AC,2,F,"7,15",22,62,84,2,http://www.kilmarnockharriers.com/
-6,Glasgow FrontRunners,27,F,"14,20",34,62,96,2,https://www.glasgowfrontrunners.org/
-7,Garscube Harriers,9,F,5,5,93,98,1,https://www.garscubeharriers.org.uk/
-8,Calderglen Harriers,17,F,16,16,93,109,1,http://www.calderglenharriers.org.uk/
+1,Bellahouston RR,3,F,"4,6,11,13",34,0,34,6,https://www.bellahoustonroadrunners.co.uk/
+2,Bellahouston Harriers,8,F,"3,8,9,18",38,0,38,5,http://www.bellahoustonharriers.co.uk/
+3,Shettleston Harriers,10,F,"1,10",11,64,75,2,http://shettlestonharriers.org.uk/
+4,Ayr Seaforth AC,14,F,"2,20",22,64,86,2,https://www.ayrseaforth.co.uk/
+5,Kilmarnock H&AC,2,F,"7,16",23,64,87,2,http://www.kilmarnockharriers.com/
+6,Glasgow FrontRunners,27,F,"15,21",36,64,100,2,https://www.glasgowfrontrunners.org/
+7,Garscube Harriers,9,F,5,5,96,101,1,https://www.garscubeharriers.org.uk/
+8,Law & District AAC,37,F,12,12,96,108,1,http://www.lawaac.co.uk/
+9,Calderglen Harriers,17,F,17,17,96,113,1,http://www.calderglenharriers.org.uk/
