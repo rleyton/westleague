@@ -9,7 +9,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website,finishPositi
 8,0:26:58,8M,Greg Templeton,M,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,8
 9,0:27:16,3M,2. Calum Borthwick,M,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,9
 10,0:27:28,8M,Fraser Armstrong,M,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,10
-11,0:27:36,1M,,M,,1,East Kilbride AC,http://www.ekac.org.uk/,11
+11,0:27:36,1M,ANDREW FORTIETH,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/,11
 12,0:27:48,8M,Adam Stark,M,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,12
 13,0:28:04,5M,,M,,5,Westerlands CCC,https://westerlandsccc.co.uk/,13
 14,0:28:04,37M,Allan Neil,M,SENIOR,37,Law & District AAC,http://www.lawaac.co.uk/,14
@@ -32,8 +32,8 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website,finishPositi
 31,0:30:22,8M,Stuart Miller,M,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,31
 32,0:30:23,34M,,M,,34,Kilbarchan AAC,https://kilbarchanaac.org.uk/,32
 33,0:30:39,3M,4. Jethro Browell,M,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,33
-34,0:30:41,1M,,M,,1,East Kilbride AC,http://www.ekac.org.uk/,34
-35,0:30:48,1M,,M,,1,East Kilbride AC,http://www.ekac.org.uk/,35
+34,0:30:41,1M,CHRIS WATTERS,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/,34
+35,0:30:48,1M,GARY CRAIG,M,SENIOR,1,East Kilbride AC,http://www.ekac.org.uk/,35
 36,0:30:53,17M,Jordan Stewart,M,SENIOR,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,36
 37,0:30:55,14M,Ben Forrest,M,SENIOR,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/,37
 38,0:30:56,32M,Michael Sweeney,M,MASTER,32,Helensburgh AAC,https://www.helensburghaac.com/,38
@@ -73,9 +73,9 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website,finishPositi
 72,0:35:22,6M,Dan O'Connell,M,MASTER,6,Cambuslang Harriers,https://cambuslangharriers.org/,84
 73,0:35:35,2M,Izzy Caufield,M,U20,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,85
 74,0:35:38,48M,Paul Wilson,M,MASTER,48,Springburn Harriers,https://www.springburnharriers.co.uk/,86
-75,0:35:41,1M,,M,,1,East Kilbride AC,http://www.ekac.org.uk/,88
+75,0:35:41,1M,GERARD CROSER,M,SENIOR,1,East Kilbride AC,http://www.ekac.org.uk/,88
 76,0:35:59,8M,Graeme Campbell,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,92
-77,0:36:21,1M,,M,,1,East Kilbride AC,http://www.ekac.org.uk/,96
+77,0:36:21,1M,MICHAEL CARLIN,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/,96
 78,0:36:29,37M,Martin Kay,M,MASTER,37,Law & District AAC,http://www.lawaac.co.uk/,99
 79,0:36:33,8M,Kenneth Scott,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,100
 80,0:36:39,37M,Mark Milligan,M,MASTER,37,Law & District AAC,http://www.lawaac.co.uk/,101
@@ -91,7 +91,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website,finishPositi
 90,0:38:09,8M,Kevin Smith,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,121
 91,0:38:15,2M,Gary  Martin,M,SENIOR,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,122
 92,0:38:21,48M,Matt Stanley,M,MASTER,48,Springburn Harriers,https://www.springburnharriers.co.uk/,123
-93,0:38:25,1M,,M,,1,East Kilbride AC,http://www.ekac.org.uk/,124
+93,0:38:25,1M,GORDON COLVIN,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/,124
 94,0:38:49,2M,Ken Monaghan,M,MASTER,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,126
 95,0:38:50,37M,James Scullion,M,MASTER,37,Law & District AAC,http://www.lawaac.co.uk/,127
 96,0:39:25,8M,Derek Elliot-Jones,M,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,131

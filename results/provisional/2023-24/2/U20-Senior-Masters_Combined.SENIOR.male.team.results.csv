@@ -1,14 +1,15 @@
 position,Club name,team,gender,finisherPositions,teamPoints,penaltyPoints,totalPoints,totalFinishers,Website
 1,Shettleston Harriers,10,M,"4,6,12,16",38,0,38,6,http://shettlestonharriers.org.uk/
 2,Bellahouston Harriers,8,M,"7,9,10,14",40,0,40,8,http://www.bellahoustonharriers.co.uk/
-3,Bellahouston RR,3,M,"5,8,21,24",58,0,58,6,https://www.bellahoustonroadrunners.co.uk/
-4,Cambuslang Harriers,6,M,"13,17,32,37",99,0,99,4,https://cambuslangharriers.org/
-5,VP-Glasgow,54,M,"2,3",5,102,107,2,https://www.vp-glasgow.com
-6,Law & District AAC,37,M,"11,19,36",66,51,117,3,http://www.lawaac.co.uk/
-7,Inverclyde AC,4,M,"1,18",19,102,121,2,https://www.inverclydeac.org/
-8,Glasgow FrontRunners,27,M,"25,30,41",96,51,147,3,https://www.glasgowfrontrunners.org/
-9,Kilmarnock H&AC,2,M,"31,34,39",104,51,155,3,http://www.kilmarnockharriers.com/
-10,Calderglen Harriers,17,M,22,22,153,175,1,http://www.calderglenharriers.org.uk/
-11,Ayr Seaforth AC,14,M,23,23,153,176,1,https://www.ayrseaforth.co.uk/
-12,Giffnock North AC,7,M,27,27,153,180,1,https://www.giffnocknorth.co.uk/
-13,Whitemoss AAC,57,M,35,35,153,188,1,https://whitemossaac.co.uk/
+3,Bellahouston RR,3,M,"5,8,21,25",59,0,59,6,https://www.bellahoustonroadrunners.co.uk/
+4,Cambuslang Harriers,6,M,"13,17,33,38",101,0,101,4,https://cambuslangharriers.org/
+5,VP-Glasgow,54,M,"2,3",5,106,111,2,https://www.vp-glasgow.com
+6,Law & District AAC,37,M,"11,19,37",67,53,120,3,http://www.lawaac.co.uk/
+7,Inverclyde AC,4,M,"1,18",19,106,125,2,https://www.inverclydeac.org/
+8,Glasgow FrontRunners,27,M,"26,31,43",100,53,153,3,https://www.glasgowfrontrunners.org/
+9,Kilmarnock H&AC,2,M,"32,35,41",108,53,161,3,http://www.kilmarnockharriers.com/
+10,East Kilbride AC,1,M,"22,39",61,106,167,2,http://www.ekac.org.uk/
+11,Calderglen Harriers,17,M,23,23,159,182,1,http://www.calderglenharriers.org.uk/
+12,Ayr Seaforth AC,14,M,24,24,159,183,1,https://www.ayrseaforth.co.uk/
+13,Giffnock North AC,7,M,28,28,159,187,1,https://www.giffnocknorth.co.uk/
+14,Whitemoss AAC,57,M,36,36,159,195,1,https://whitemossaac.co.uk/

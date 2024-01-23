@@ -1,19 +1,20 @@
 position,Club name,team,gender,finisherPositions,teamPoints,penaltyPoints,totalPoints,totalFinishers,Website
-1,Cambuslang Harriers,6,M,"1,2,7",10,0,10,8,https://cambuslangharriers.org/
-2,Bellahouston RR,3,M,"4,18,32",54,0,54,4,https://www.bellahoustonroadrunners.co.uk/
-3,Bellahouston Harriers,8,M,"3,24,27",54,0,54,7,http://www.bellahoustonharriers.co.uk/
-4,Kilmarnock H&AC,2,M,"9,19,36",64,0,64,5,http://www.kilmarnockharriers.com/
-5,Calderglen Harriers,17,M,"16,17,33",66,0,66,5,http://www.calderglenharriers.org.uk/
-6,Helensburgh AAC,32,M,"5,8",13,63,76,2,https://www.helensburghaac.com/
-7,Law & District AAC,37,M,"21,28,30",79,0,79,5,http://www.lawaac.co.uk/
-8,North Ayrshire AAC,44,M,"11,15",26,63,89,2,https://naathletics.co.uk/
-9,Springburn Harriers,48,M,"26,39",65,63,128,2,https://www.springburnharriers.co.uk/
-10,Greenock Glenpark Harriers,30,M,"42,44,46",132,0,132,5,https://greenockglenparkharriers.com/
-11,VP-Glasgow,54,M,6,6,126,132,1,https://www.vp-glasgow.com
-12,Ayr Seaforth AC,14,M,12,12,126,138,1,https://www.ayrseaforth.co.uk/
-13,Troon Tortoises,53,M,13,13,126,139,1,http://troontortoises.co.uk
-14,Giffnock North AC,7,M,14,14,126,140,1,https://www.giffnocknorth.co.uk/
-15,Motherwell AC,40,M,20,20,126,146,1,https://motherwellac.com/
-16,Whitemoss AAC,57,M,31,31,126,157,1,https://whitemossaac.co.uk/
-17,Airdrie Harriers,11,M,34,34,126,160,1,http://airdrieharriers.org/
-18,Larkhall YMCA,36,M,52,52,126,178,1,https://www.larkhallymcaharriers.org
+1,Cambuslang Harriers,6,M,"2,3,8",13,0,13,8,https://cambuslangharriers.org/
+2,East Kilbride AC,1,M,"1,9,30",40,0,40,4,http://www.ekac.org.uk/
+3,Bellahouston Harriers,8,M,"4,26,29",59,0,59,7,http://www.bellahoustonharriers.co.uk/
+4,Bellahouston RR,3,M,"5,20,35",60,0,60,4,https://www.bellahoustonroadrunners.co.uk/
+5,Kilmarnock H&AC,2,M,"11,21,39",71,0,71,5,http://www.kilmarnockharriers.com/
+6,Calderglen Harriers,17,M,"18,19,36",73,0,73,5,http://www.calderglenharriers.org.uk/
+7,Helensburgh AAC,32,M,"6,10",16,67,83,2,https://www.helensburghaac.com/
+8,Law & District AAC,37,M,"23,31,33",87,0,87,5,http://www.lawaac.co.uk/
+9,North Ayrshire AAC,44,M,"13,17",30,67,97,2,https://naathletics.co.uk/
+10,Springburn Harriers,48,M,"28,42",70,67,137,2,https://www.springburnharriers.co.uk/
+11,VP-Glasgow,54,M,7,7,134,141,1,https://www.vp-glasgow.com
+12,Greenock Glenpark Harriers,30,M,"46,48,50",144,0,144,5,https://greenockglenparkharriers.com/
+13,Ayr Seaforth AC,14,M,14,14,134,148,1,https://www.ayrseaforth.co.uk/
+14,Troon Tortoises,53,M,15,15,134,149,1,http://troontortoises.co.uk
+15,Giffnock North AC,7,M,16,16,134,150,1,https://www.giffnocknorth.co.uk/
+16,Motherwell AC,40,M,22,22,134,156,1,https://motherwellac.com/
+17,Whitemoss AAC,57,M,34,34,134,168,1,https://whitemossaac.co.uk/
+18,Airdrie Harriers,11,M,37,37,134,171,1,http://airdrieharriers.org/
+19,Larkhall YMCA,36,M,56,56,134,190,1,https://www.larkhallymcaharriers.org
