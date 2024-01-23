@@ -14,7 +14,7 @@
 |         12 | 0:09:04 | 7F     | Megan Jackson        | F        | U13      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/      |
 |         13 | 0:09:06 | 7F     | Eilidh Brown         | F        | U13      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/      |
 |         14 | 0:09:07 | 2F     | Madeline Curley      | F        | U13      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/    |
-|         15 | 0:09:12 | 1F     | nan                  | F        | U13      |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |
+|         15 | 0:09:12 | 1F     | ZOE BAILLIE          | F        | U13      |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |
 |         16 | 0:09:16 | 4F     | Nuala `Munro         | F        | U13      |            4 | Inverclyde AC        | https://www.inverclydeac.org/         |
 |         17 | 0:09:20 | 48F    | Willow Smith         | F        | U13      |           48 | Springburn Harriers  | https://www.springburnharriers.co.uk/ |
 |         18 | 0:09:23 | 48F    | Louisa Fraser-Moodie | F        | U13      |           48 | Springburn Harriers  | https://www.springburnharriers.co.uk/ |
@@ -23,7 +23,7 @@
 |         21 | 0:09:35 | 44F    | Emy Finnigan         | F        | U13      |           44 | North Ayrshire AAC   | https://naathletics.co.uk/            |
 |         22 | 0:09:41 | 7F     | Emma Birrell         | F        | U13      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/      |
 |         23 | 0:09:42 | 7F     | Freya Mearns         | F        | U13      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/      |
-|         24 | 0:09:43 | 1F     | nan                  | F        | U13      |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |
+|         24 | 0:09:43 | 1F     | NINA CLARK           | F        | U13      |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |
 |         25 | 0:09:50 | 7F     | Mia Tomb             | F        | U13      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/      |
 |         26 | 0:09:52 | 10F    | Charlotte Reilly     | F        | U13      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/    |
 |         27 | 0:09:54 | 40F    | MARTHA STEELE        | F        | U13      |           40 | Motherwell AC        | https://motherwellac.com/             |
@@ -35,15 +35,15 @@
 |         33 | 0:10:02 | 7F     | Chloe Simpson        | F        | U13      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/      |
 |         34 | 0:10:04 | 54F    | Pheobe Bonham        | F        | U13      |           54 | VP-Glasgow           | https://www.vp-glasgow.com            |
 |         35 | 0:10:04 | 44F    | Isla Preston         | F        | U13      |           44 | North Ayrshire AAC   | https://naathletics.co.uk/            |
-|         36 | 0:10:05 | 1F     | nan                  | F        | U13      |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |
+|         36 | 0:10:05 | 1F     | LOTTIE SIM           | F        | U13      |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |
 |         37 | 0:10:15 | 37F    | Eilidh Boyle         | F        | U13      |           37 | Law & District AAC   | http://www.lawaac.co.uk/              |
 |         38 | 0:10:19 | 2F     | Zoe Barbour          | F        | U13      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/    |
 |         39 | 0:10:24 | 44F    | Tilly Carroll        | F        | U13      |           44 | North Ayrshire AAC   | https://naathletics.co.uk/            |
 |         40 | 0:10:29 | 17F    | Ailsa McDermott      | F        | U13      |           17 | Calderglen Harriers  | http://www.calderglenharriers.org.uk/ |
 |         41 | 0:10:29 | 2F     | Lola Carter          | F        | U13      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/    |
-|         42 | 0:10:33 | 1F     | nan                  | F        | U13      |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |
+|         42 | 0:10:33 | 1F     | AVA HENDRY           | F        | U13      |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |
 |         43 | 0:10:34 | 37F    | Nieve Fitzpatrick    | F        | U13      |           37 | Law & District AAC   | http://www.lawaac.co.uk/              |
-|         44 | 0:10:41 | 1F     | nan                  | F        | U13      |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |
+|         44 | 0:10:41 | 1F     | REEVE STUART         | F        | U13      |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |
 |         45 | 0:10:48 | 54F    | Charlotte Hughes     | F        | U13      |           54 | VP-Glasgow           | https://www.vp-glasgow.com            |
 |         46 | 0:10:49 | 44F    | Lacey Dailly         | F        | U13      |           44 | North Ayrshire AAC   | https://naathletics.co.uk/            |
 |         47 | 0:10:53 | 10F    | Alexia Rigg          | F        | U13      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/    |

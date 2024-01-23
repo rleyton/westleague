@@ -21,23 +21,25 @@
 |         19 | 0:30:21 | 37M    | Grant MacKenzie    | M        | SENIOR   |           37 | Law & District AAC    | http://www.lawaac.co.uk/                   |               30 |
 |         20 | 0:30:22 | 8M     | Stuart Miller      | M        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |               31 |
 |         21 | 0:30:39 | 3M     | 4. Jethro Browell  | M        | SENIOR   |            3 | Bellahouston RR       | https://www.bellahoustonroadrunners.co.uk/ |               33 |
-|         22 | 0:30:53 | 17M    | Jordan Stewart     | M        | SENIOR   |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/      |               36 |
-|         23 | 0:30:55 | 14M    | Ben Forrest        | M        | SENIOR   |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/             |               37 |
-|         24 | 0:30:57 | 3M     | 5. Alan Moss       | M        | SENIOR   |            3 | Bellahouston RR       | https://www.bellahoustonroadrunners.co.uk/ |               39 |
-|         25 | 0:31:40 | 27M    | Gordon Buchanan    | M        | SENIOR   |           27 | Glasgow FrontRunners  | https://www.glasgowfrontrunners.org/       |               46 |
-|         26 | 0:32:11 | 3M     | 6. Mark Young      | M        | SENIOR   |            3 | Bellahouston RR       | https://www.bellahoustonroadrunners.co.uk/ |               48 |
-|         27 | 0:32:44 | 7M     | Rory Matheson      | M        | SENIOR   |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/           |               56 |
-|         28 | 0:32:48 | 3M     | 8. Alan Chalmers   | M        | SENIOR   |            3 | Bellahouston RR       | https://www.bellahoustonroadrunners.co.uk/ |               59 |
-|         29 | 0:32:49 | 8M     | Alexander Winn     | M        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |               60 |
-|         30 | 0:32:53 | 27M    | Neil Montgomery    | M        | SENIOR   |           27 | Glasgow FrontRunners  | https://www.glasgowfrontrunners.org/       |               61 |
-|         31 | 0:33:11 | 2M     | Nick Carter        | M        | SENIOR   |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/         |               63 |
-|         32 | 0:33:15 | 6M     | Lewis Anderson     | M        | SENIOR   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/            |               64 |
-|         33 | 0:34:12 | 10M    | William Bradley    | M        | SENIOR   |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/         |               71 |
-|         34 | 0:34:34 | 2M     | Murray McDonald    | M        | SENIOR   |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/         |               74 |
-|         35 | 0:34:46 | 57M    | James Cathie       | M        | SENIOR   |           57 | Whitemoss AAC         | https://whitemossaac.co.uk/                |               77 |
-|         36 | 0:35:04 | 37M    | Finn Milliagn      | M        | SENIOR   |           37 | Law & District AAC    | http://www.lawaac.co.uk/                   |               81 |
-|         37 | 0:35:14 | 6M     | Kevin Farmer       | M        | SENIOR   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/            |               83 |
-|         38 | 0:36:45 | 10M    | Steven Clark       | M        | SENIOR   |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/         |              102 |
-|         39 | 0:38:15 | 2M     | Gary  Martin       | M        | SENIOR   |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/         |              122 |
-|         40 | 0:39:25 | 8M     | Derek Elliot-Jones | M        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |              131 |
-|         41 | 0:43:28 | 27A    | Alex Blanchard     | A        | SENIOR   |           27 | Glasgow FrontRunners  | https://www.glasgowfrontrunners.org/       |              149 |
+|         22 | 0:30:48 | 1M     | GARY CRAIG         | M        | SENIOR   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                    |               35 |
+|         23 | 0:30:53 | 17M    | Jordan Stewart     | M        | SENIOR   |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/      |               36 |
+|         24 | 0:30:55 | 14M    | Ben Forrest        | M        | SENIOR   |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/             |               37 |
+|         25 | 0:30:57 | 3M     | 5. Alan Moss       | M        | SENIOR   |            3 | Bellahouston RR       | https://www.bellahoustonroadrunners.co.uk/ |               39 |
+|         26 | 0:31:40 | 27M    | Gordon Buchanan    | M        | SENIOR   |           27 | Glasgow FrontRunners  | https://www.glasgowfrontrunners.org/       |               46 |
+|         27 | 0:32:11 | 3M     | 6. Mark Young      | M        | SENIOR   |            3 | Bellahouston RR       | https://www.bellahoustonroadrunners.co.uk/ |               48 |
+|         28 | 0:32:44 | 7M     | Rory Matheson      | M        | SENIOR   |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/           |               56 |
+|         29 | 0:32:48 | 3M     | 8. Alan Chalmers   | M        | SENIOR   |            3 | Bellahouston RR       | https://www.bellahoustonroadrunners.co.uk/ |               59 |
+|         30 | 0:32:49 | 8M     | Alexander Winn     | M        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |               60 |
+|         31 | 0:32:53 | 27M    | Neil Montgomery    | M        | SENIOR   |           27 | Glasgow FrontRunners  | https://www.glasgowfrontrunners.org/       |               61 |
+|         32 | 0:33:11 | 2M     | Nick Carter        | M        | SENIOR   |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/         |               63 |
+|         33 | 0:33:15 | 6M     | Lewis Anderson     | M        | SENIOR   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/            |               64 |
+|         34 | 0:34:12 | 10M    | William Bradley    | M        | SENIOR   |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/         |               71 |
+|         35 | 0:34:34 | 2M     | Murray McDonald    | M        | SENIOR   |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/         |               74 |
+|         36 | 0:34:46 | 57M    | James Cathie       | M        | SENIOR   |           57 | Whitemoss AAC         | https://whitemossaac.co.uk/                |               77 |
+|         37 | 0:35:04 | 37M    | Finn Milliagn      | M        | SENIOR   |           37 | Law & District AAC    | http://www.lawaac.co.uk/                   |               81 |
+|         38 | 0:35:14 | 6M     | Kevin Farmer       | M        | SENIOR   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/            |               83 |
+|         39 | 0:35:41 | 1M     | GERARD CROSER      | M        | SENIOR   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                    |               88 |
+|         40 | 0:36:45 | 10M    | Steven Clark       | M        | SENIOR   |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/         |              102 |
+|         41 | 0:38:15 | 2M     | Gary  Martin       | M        | SENIOR   |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/         |              122 |
+|         42 | 0:39:25 | 8M     | Derek Elliot-Jones | M        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |              131 |
+|         43 | 0:43:28 | 27A    | Alex Blanchard     | A        | SENIOR   |           27 | Glasgow FrontRunners  | https://www.glasgowfrontrunners.org/       |              149 |

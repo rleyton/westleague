@@ -17,7 +17,7 @@
 * [Event #2, Bellahouston (20th January, 2024)](https://results.westleague.org.uk/results/provisional/2023-24/2/html/)
   * [Provisional Race results](https://results.westleague.org.uk/results/provisional/2023-24/2/html/) - See below for known issues
     * Results are available as [single PDF](https://results.westleague.org.uk/results/provisional/2023-24/2/pdf/RESULTS.pdf)
-  * **2 Teams still need to submit results** - [List of teams here](https://github.com/rleyton/westleague/blob/main/results/provisional/2023-24/2/markdown/missingTeamSubmissions.md), [please submit via website here](https://westleague.org.uk/results/submission/)
+  * **1 Teams still need to submit results** - [List of teams here](https://github.com/rleyton/westleague/blob/main/results/provisional/2023-24/2/markdown/missingTeamSubmissions.md), [please submit via website here](https://westleague.org.uk/results/submission/)
   * Hosted by [Bellahouston Road Runners](https://www.bellahoustonroadrunners.co.uk/)
   * [Attendance: 414](./results/provisional/2023-24/2/meta.json)
   * [Thanks to the 21 volunteers](./results/provisional/2023-24/2/html/volunteers.html)
@@ -31,9 +31,10 @@
 
 ## Event #2
 
-* [2 teams still to submit results, list here](https://github.com/rleyton/westleague/blob/main/results/provisional/2023-24/2/markdown/missingTeamSubmissions.md)
+* [1 teams still to submit results, list here](https://github.com/rleyton/westleague/blob/main/results/provisional/2023-24/2/markdown/missingTeamSubmissions.md)
   * Fixed U13 Boys race times
   * Kilbarchan incorrectly flagged as missing (submission has been received)
+  * Some gender competition mismatches due to team results in gender/age grade, rather than finish, order
 * Please direct queries/issues to contact@westleague.org.uk
 
 

@@ -1,5 +1,4 @@
-|   team | Club name        | Website                       |
-|-------:|:-----------------|:------------------------------|
-|      1 | East Kilbride AC | http://www.ekac.org.uk/       |
-|     34 | Kilbarchan AAC   | https://kilbarchanaac.org.uk/ |
-|      5 | Westerlands CCC  | https://westerlandsccc.co.uk/ |
+|   team | Club name       | Website                       |
+|-------:|:----------------|:------------------------------|
+|     34 | Kilbarchan AAC  | https://kilbarchanaac.org.uk/ |
+|      5 | Westerlands CCC | https://westerlandsccc.co.uk/ |

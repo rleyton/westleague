@@ -5,7 +5,7 @@
 |          3 | 0:12:19 | 54M    | Jamie Turner         | M        | U15      |           54 | VP-Glasgow           | https://www.vp-glasgow.com            |                3 |
 |          4 | 0:12:50 | 54M    | Adam Watts           | M        | U15      |           54 | VP-Glasgow           | https://www.vp-glasgow.com            |                4 |
 |          5 | 0:13:09 | 48M    | Finn Smith           | M        | U15      |           48 | Springburn Harriers  | https://www.springburnharriers.co.uk/ |                6 |
-|          6 | 0:13:19 | 1M     | nan                  | M        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |                7 |
+|          6 | 0:13:19 | 1M     | BRIAN HESLOP         | M        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |                7 |
 |          7 | 0:13:24 | 9M     | Archie Loch          | M        | U15      |            9 | Garscube Harriers    | https://www.garscubeharriers.org.uk/  |                8 |
 |          8 | 0:13:31 | 34M    | Lucas Watt           | M        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/         |                9 |
 |          9 | 0:13:48 | 40M    | Luke russell         | M        | U15      |           40 | Motherwell AC        | https://motherwellac.com/             |               10 |
