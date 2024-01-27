@@ -1,3 +1,4 @@
-|   position | Club name        |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                 |
-|-----------:|:-----------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:------------------------|
-|          1 | East Kilbride AC |      1 | F        | 1,2                 |            3 |              12 |            15 |                2 | http://www.ekac.org.uk/ |
+|   position | Club name        |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                            |
+|-----------:|:-----------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-----------------------------------|
+|          1 | East Kilbride AC |      1 | F        | 1,3                 |            4 |              13 |            17 |                2 | http://www.ekac.org.uk/            |
+|          2 | Kilmarnock H&AC  |      2 | F        | 2                   |            2 |              26 |            28 |                1 | http://www.kilmarnockharriers.com/ |

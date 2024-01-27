@@ -10,7 +10,7 @@
 |          8 | 0:26:58 | 8M     | Greg Templeton          | M        | SENIOR   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
 |          9 | 0:27:16 | 3M     | 2. Calum Borthwick      | M        | SENIOR   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
 |         10 | 0:27:28 | 8M     | Fraser Armstrong        | M        | SENIOR   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
-|         11 | 0:27:36 | 1M     | ANDREW FORTIETH         | M        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
+|         11 | 0:27:36 | 1M     | Andrew Forteath         | M        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
 |         12 | 0:27:48 | 8M     | Adam Stark              | M        | SENIOR   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
 |         13 | 0:28:04 | 5M     | nan                     | M        | nan      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
 |         14 | 0:28:04 | 37M    | Allan Neil              | M        | SENIOR   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |
@@ -84,7 +84,7 @@
 |         82 | 0:35:10 | 8M     | James McLaughlin        | M        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
 |         83 | 0:35:14 | 6M     | Kevin Farmer            | M        | SENIOR   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
 |         84 | 0:35:22 | 6M     | Dan O'Connell           | M        | MASTER   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
-|         85 | 0:35:35 | 2M     | Izzy Caufield           | M        | U20      |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
+|         85 | 0:35:35 | 2M     | Mark Henderson          | M        | SENIOR   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
 |         86 | 0:35:38 | 48M    | Paul Wilson             | M        | MASTER   |           48 | Springburn Harriers        | https://www.springburnharriers.co.uk/      |
 |         87 | 0:35:39 | 17F    | Karen Allen             | F        | MASTER   |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |
 |         88 | 0:35:41 | 1M     | GERARD CROSER           | M        | SENIOR   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
@@ -92,7 +92,7 @@
 |         90 | 0:35:55 | 11F    | Emma Higgins            | F        | MASTER   |           11 | Airdrie Harriers           | http://airdrieharriers.org/                |
 |         91 | 0:35:57 | 3F     | 11. Claire Wharton      | F        | MASTER   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
 |         92 | 0:35:59 | 8M     | Graeme Campbell         | M        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
-|         93 | 0:36:03 | 2F     | Mark Henderson          | F        | SENIOR   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
+|         93 | 0:36:03 | 2F     | Izzy Caufield           | F        | U20      |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
 |         94 | 0:36:05 | 37F    | Lesley Graham           | F        | MASTER   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |
 |         95 | 0:36:12 | 8F     | Kathryn Hylands         | F        | SENIOR   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
 |         96 | 0:36:21 | 1M     | MICHAEL CARLIN          | M        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
