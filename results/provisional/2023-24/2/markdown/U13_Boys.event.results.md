@@ -22,7 +22,7 @@
 |         20 | 0:09:09 | 34M    | Noah Kerr               | M        | U13      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/         |
 |         21 | 0:09:11 | 11M    | Tommy Higgins           | M        | U13      |           11 | Airdrie Harriers     | http://airdrieharriers.org/           |
 |         22 | 0:09:14 | 32M    | William Heasman         | M        | U13      |           32 | Helensburgh AAC      | https://www.helensburghaac.com/       |
-|         23 | 0:09:23 | 1M     | nan                     | M        | U13      |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |
+|         23 | 0:09:23 | 1M     | HARRIS ROSLING          | M        | U13      |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |
 |         24 | 0:09:34 | 2M     | Callum O'Neil           | M        | U13      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/    |
 |         25 | 0:09:43 | 10M    | Conor Cunningham        | M        | U13      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/    |
 |         26 | 0:09:57 | 36M    | Gavin Lee               | M        | U13      |           36 | Larkhall YMCA        | https://www.larkhallymcaharriers.org  |
