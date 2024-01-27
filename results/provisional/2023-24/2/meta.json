@@ -168,31 +168,32 @@
             },
             "U20": {
                   "M": {
-                        "penalty": 13,
-                        "participants": 3,
-                        "counters": 3,
-                        "clubparticipation": {
-                              "2": 2,
-                              "6": 1
-                        }
-                  },
-                  "F": {
                         "penalty": 12,
                         "participants": 2,
                         "counters": 3,
                         "clubparticipation": {
-                              "1": 2
+                              "2": 1,
+                              "6": 1
+                        }
+                  },
+                  "F": {
+                        "penalty": 13,
+                        "participants": 3,
+                        "counters": 3,
+                        "clubparticipation": {
+                              "1": 2,
+                              "2": 1
                         }
                   }
             },
             "SENIOR": {
                   "M": {
-                        "penalty": 53,
-                        "participants": 43,
+                        "penalty": 54,
+                        "participants": 44,
                         "counters": 4,
                         "clubparticipation": {
                               "1": 2,
-                              "2": 3,
+                              "2": 4,
                               "3": 6,
                               "4": 2,
                               "6": 4,
@@ -208,11 +209,11 @@
                         }
                   },
                   "F": {
-                        "penalty": 32,
-                        "participants": 22,
+                        "penalty": 31,
+                        "participants": 21,
                         "counters": 4,
                         "clubparticipation": {
-                              "2": 2,
+                              "2": 1,
                               "3": 6,
                               "8": 5,
                               "9": 1,

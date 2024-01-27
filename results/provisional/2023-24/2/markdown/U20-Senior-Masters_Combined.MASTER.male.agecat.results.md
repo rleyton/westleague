@@ -1,6 +1,6 @@
 |   position | times   | team   | Name              | gender   | AgeCat   |   clubnumber | Club name                  | Website                                    |   finishPosition |
 |-----------:|:--------|:-------|:------------------|:---------|:---------|-------------:|:---------------------------|:-------------------------------------------|-----------------:|
-|          1 | 0:27:36 | 1M     | ANDREW FORTIETH   | M        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |               11 |
+|          1 | 0:27:36 | 1M     | Andrew Forteath   | M        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |               11 |
 |          2 | 0:28:36 | 6M     | Justin Carter     | M        | MASTER   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |               15 |
 |          3 | 0:28:43 | 6M     | Jamie Reid        | M        | MASTER   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |               17 |
 |          4 | 0:28:58 | 8M     | Scott Mason       | M        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |               19 |

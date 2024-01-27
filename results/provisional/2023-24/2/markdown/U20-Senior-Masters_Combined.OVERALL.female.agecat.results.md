@@ -16,7 +16,7 @@
 |         14 | 0:35:50 | 53F    | Caroline Millar         | F        | MASTER   |           53 | Troon Tortoises            | http://troontortoises.co.uk                |               89 |
 |         15 | 0:35:55 | 11F    | Emma Higgins            | F        | MASTER   |           11 | Airdrie Harriers           | http://airdrieharriers.org/                |               90 |
 |         16 | 0:35:57 | 3F     | 11. Claire Wharton      | F        | MASTER   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |               91 |
-|         17 | 0:36:03 | 2F     | Mark Henderson          | F        | SENIOR   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |               93 |
+|         17 | 0:36:03 | 2F     | Izzy Caufield           | F        | U20      |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |               93 |
 |         18 | 0:36:05 | 37F    | Lesley Graham           | F        | MASTER   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               94 |
 |         19 | 0:36:12 | 8F     | Kathryn Hylands         | F        | SENIOR   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |               95 |
 |         20 | 0:36:27 | 8F     | Karen McQuarrie         | F        | SENIOR   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |               97 |

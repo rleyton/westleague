@@ -1,4 +1,4 @@
-|   position | Club name           |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                            |
-|-----------:|:--------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-----------------------------------|
-|          1 | Kilmarnock H&AC     |      2 | M        | 1,3                 |            4 |              13 |            17 |                2 | http://www.kilmarnockharriers.com/ |
-|          2 | Cambuslang Harriers |      6 | M        | 2                   |            2 |              26 |            28 |                1 | https://cambuslangharriers.org/    |
+|   position | Club name           |   team | gender   |   finisherPositions |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                            |
+|-----------:|:--------------------|-------:|:---------|--------------------:|-------------:|----------------:|--------------:|-----------------:|:-----------------------------------|
+|          1 | Kilmarnock H&AC     |      2 | M        |                   1 |            1 |              24 |            25 |                1 | http://www.kilmarnockharriers.com/ |
+|          2 | Cambuslang Harriers |      6 | M        |                   2 |            2 |              24 |            26 |                1 | https://cambuslangharriers.org/    |

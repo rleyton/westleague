@@ -1,4 +1,5 @@
-|   position | times   | team   | Name             | gender   | AgeCat   |   clubnumber | Club name        | Website                 |   finishPosition |
-|-----------:|:--------|:-------|:-----------------|:---------|:---------|-------------:|:-----------------|:------------------------|-----------------:|
-|          1 | 0:34:21 | 1F     | MILLIE AITKEN    | F        | U20      |            1 | East Kilbride AC | http://www.ekac.org.uk/ |               72 |
-|          2 | 0:39:58 | 1F     | EMMA LIVINGSTONE | F        | U20      |            1 | East Kilbride AC | http://www.ekac.org.uk/ |              135 |
+|   position | times   | team   | Name             | gender   | AgeCat   |   clubnumber | Club name        | Website                            |   finishPosition |
+|-----------:|:--------|:-------|:-----------------|:---------|:---------|-------------:|:-----------------|:-----------------------------------|-----------------:|
+|          1 | 0:34:21 | 1F     | MILLIE AITKEN    | F        | U20      |            1 | East Kilbride AC | http://www.ekac.org.uk/            |               72 |
+|          2 | 0:36:03 | 2F     | Izzy Caufield    | F        | U20      |            2 | Kilmarnock H&AC  | http://www.kilmarnockharriers.com/ |               93 |
+|          3 | 0:39:58 | 1F     | EMMA LIVINGSTONE | F        | U20      |            1 | East Kilbride AC | http://www.ekac.org.uk/            |              135 |
