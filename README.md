@@ -48,10 +48,8 @@
 
 ## Future events
 
-* Event #2, Bellahouston (20th January, 2024)
-  * Please check back after the event
 * Event #3, Erskine (10th February, 2024)
-  * Please check back after the eventp
+  * Please check back after the event
 
 
 ## 2022-23
