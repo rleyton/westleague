@@ -6,7 +6,7 @@
 
 ## Provisional results
 
-* _Provisional results reflect team submissions received by **23rd January, 7.30pm**_ - Please direct queries/issues to contact@westleague.org.uk
+* _Provisional results reflect team submissions received by **3rd February**_ - Please direct queries/issues to contact@westleague.org.uk
 * [Event #1, Kilmarnock (18th November, 2023)](https://results.westleague.org.uk/results/provisional/2023-24/1/html/)
   * [Provisional Race results](https://results.westleague.org.uk/results/provisional/2023-24/1/html/) - See below for known issues
   * **2 Teams still need to submit results** - [List of teams here](https://github.com/rleyton/westleague/blob/main/results/provisional/2023-24/1/markdown/missingTeamSubmissions.md), [please submit via website here](https://westleague.org.uk/results/submission/)
@@ -23,6 +23,36 @@
   * Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/2), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/2/markdown/), [PDF](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/2/pdf/)
 * [Event #3, Erskine (10th February, 2024)](https://westleague.org.uk/events/erskine)
   * Event details can be found at [westleague.org.uk/events/erskine](https://westleague.org.uk/events/erskine)
+* [League standings, by competition](https://results.westleague.org.uk/results/provisional/2023-24/teamStandings/html)
+  * U11
+    * [Male](https://results.westleague.org.uk/results/provisional/2023-24/teamStandings/html/U11_M.team.standings.html)
+    * [Female](https://results.westleague.org.uk/results/provisional/2023-24/teamStandings/html/U11_F.team.standings.html)
+  * U13
+    * [Male](https://results.westleague.org.uk/results/provisional/2023-24/teamStandings/html/U13_M.team.standings.html)
+    * [Female](https://results.westleague.org.uk/results/provisional/2023-24/teamStandings/html/U13_F.team.standings.html)
+  * U15
+    * [Male](https://results.westleague.org.uk/results/provisional/2023-24/teamStandings/html/U15_M.team.standings.html)
+    * [Female](https://results.westleague.org.uk/results/provisional/2023-24/teamStandings/html/U15_F.team.standings.html)
+  * U17
+    * [Male](https://results.westleague.org.uk/results/provisional/2023-24/teamStandings/html/U17_M.team.standings.html)
+    * [Female](https://results.westleague.org.uk/results/provisional/2023-24/teamStandings/html/U17_F.team.standings.html)
+  * U20
+    * [Male](https://results.westleague.org.uk/results/provisional/2023-24/teamStandings/html/U20_M.team.standings.html)
+    * [Female](https://results.westleague.org.uk/results/provisional/2023-24/teamStandings/html/U20_F.team.standings.html)
+  * Senior
+    * [Male](https://results.westleague.org.uk/results/provisional/2023-24/teamStandings/html/SENIOR_M.team.standings.html)
+    * [Female](https://results.westleague.org.uk/results/provisional/2023-24/teamStandings/html/SENIOR_F.team.standings.html)
+  * Master
+    * [Male](https://results.westleague.org.uk/results/provisional/2023-24/teamStandings/html/MASTER_M.team.standings.html)
+    * [Female](https://results.westleague.org.uk/results/provisional/2023-24/teamStandings/html/MASTER_F.team.standings.html)
+  * Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/teamStandings/), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/teamStandings/markdown/)
+* [League overview](https://results.westleague.org.uk/results/provisional/2023-24/teamStandings/html/club_position_summary.html)
+  * What position a club holds in each of the various competitions
+* Participation counts across the season:
+  * [By club](https://results.westleague.org.uk/results/provisional/2023-24/teamStandings/html/by_club.html)
+  * [By competition](https://results.westleague.org.uk/results/provisional/2023-24/teamStandings/html/by_competition.html)
+  * [By gender](https://results.westleague.org.uk/results/provisional/2023-24/teamStandings/html/by_gender.html)
+  * [By competition and gender](https://results.westleague.org.uk/results/provisional/2023-24/teamStandings/html/by_competition_gender.html)
 
 
 ### Known results issues

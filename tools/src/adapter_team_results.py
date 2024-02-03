@@ -23,7 +23,11 @@ def extract_race_results(
     """Fetch ALL of the relevant races from the structure, return as list"""
     results = {}
     for event in allEvents:
-        results[event] = allEvents[event][requiredCompetition][requiredGender]
+        try:
+            results[event] = allEvents[event][requiredCompetition][requiredGender]
+        except KeyError as e:
+            logging.error(f"No results found for {requiredCompetition}:{requiredGender}")
+            
     return results
 
 
