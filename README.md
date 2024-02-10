@@ -6,14 +6,24 @@
 
 ## Provisional results
 
-* _Provisional results reflect team submissions received by **3rd February**_ - Please direct queries/issues to contact@westleague.org.uk
-* [Event #1, Kilmarnock (18th November, 2023)](https://results.westleague.org.uk/results/provisional/2023-24/1/html/)
-  * [Provisional Race results](https://results.westleague.org.uk/results/provisional/2023-24/1/html/) - See below for known issues
-  * **2 Teams still need to submit results** - [List of teams here](https://github.com/rleyton/westleague/blob/main/results/provisional/2023-24/1/markdown/missingTeamSubmissions.md), [please submit via website here](https://westleague.org.uk/results/submission/)
-  * Hosted by [Kilmarnock H&AC](http://www.kilmarnockharriers.com/)
-  * [Attendance: 441](./results/provisional/2023-24/1/meta.json)
-  * [Thanks to the 20 volunteers](./results/provisional/2023-24/1/html/volunteers.html)
-  * Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/1), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/1/markdown/), [PDF](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/1/pdf/)
+### Processing notes
+
+* Results typically processed on the SUNDAY following the event
+* Until all team submissions received, **team positions/points will change**
+* _Results reflect team submissions received by **10th February, 17:45**_ - Please direct queries/issues to contact@westleague.org.uk
+
+### Event #3, Erskine (10th February, 2024)
+
+* [Event #3, Erskine (10th February, 2024)](https://results.westleague.org.uk/results/provisional/2023-24/3/html/)
+  * [Provisional Race results](https://results.westleague.org.uk/results/provisional/2023-24/3/html/) - See below for known issues
+    * Results are available as [single PDF](https://results.westleague.org.uk/results/provisional/2023-24/3/pdf/RESULTS.pdf)
+  * Hosted by [Kilbarchan AAC](https://kilbarchanaac.org.uk/)
+  * [Attendance: TBC](./results/provisional/2023-24/3/meta.json)
+  * [Thanks to the volunteers](./results/provisional/2023-24/3/html/volunteers.html)
+  * Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/3), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/3/markdown/), [PDF](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/3/pdf/)
+
+### Event #2, Bellahouston (20th January, 2024)
+
 * [Event #2, Bellahouston (20th January, 2024)](https://results.westleague.org.uk/results/provisional/2023-24/2/html/)
   * [Provisional Race results](https://results.westleague.org.uk/results/provisional/2023-24/2/html/) - See below for known issues
     * Results are available as [single PDF](https://results.westleague.org.uk/results/provisional/2023-24/2/pdf/RESULTS.pdf)
@@ -21,8 +31,20 @@
   * [Attendance: 414](./results/provisional/2023-24/2/meta.json)
   * [Thanks to the 21 volunteers](./results/provisional/2023-24/2/html/volunteers.html)
   * Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/2), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/2/markdown/), [PDF](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/2/pdf/)
-* [Event #3, Erskine (10th February, 2024)](https://westleague.org.uk/events/erskine)
-  * Event details can be found at [westleague.org.uk/events/erskine](https://westleague.org.uk/events/erskine)
+
+### Event #1, Kilmarnock (18th November, 2023)
+
+* [Event #1, Kilmarnock (18th November, 2023)](https://results.westleague.org.uk/results/provisional/2023-24/1/html/)
+  * [Provisional Race results](https://results.westleague.org.uk/results/provisional/2023-24/1/html/) - See below for known issues
+  * **2 Teams still need to submit results** - [List of teams here](https://github.com/rleyton/westleague/blob/main/results/provisional/2023-24/1/markdown/missingTeamSubmissions.md), [please submit via website here](https://westleague.org.uk/results/submission/)
+  * Hosted by [Kilmarnock H&AC](http://www.kilmarnockharriers.com/)
+  * [Attendance: 441](./results/provisional/2023-24/1/meta.json)
+  * [Thanks to the 20 volunteers](./results/provisional/2023-24/1/html/volunteers.html)
+  * Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/1), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/1/markdown/), [PDF](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/1/pdf/)
+
+## League standings after 2 events
+* Does not yet include event #3
+* 
 * [League standings, by competition](https://results.westleague.org.uk/results/provisional/2023-24/teamStandings/html)
   * U11
     * [Male](https://results.westleague.org.uk/results/provisional/2023-24/teamStandings/html/U11_M.team.standings.html)

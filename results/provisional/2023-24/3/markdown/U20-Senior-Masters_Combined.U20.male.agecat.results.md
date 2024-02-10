@@ -1,0 +1,3 @@
+|   position | times   | team   | Name         | gender   | AgeCat   |   clubnumber | Club name        | Website                 |   finishPosition |
+|-----------:|:--------|:-------|:-------------|:---------|:---------|-------------:|:-----------------|:------------------------|-----------------:|
+|          1 | 0:26:27 | 1M     | LEWIS THORPE | M        | U20      |            1 | East Kilbride AC | http://www.ekac.org.uk/ |               23 |

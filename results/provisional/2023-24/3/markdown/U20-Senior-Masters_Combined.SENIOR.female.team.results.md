@@ -1,0 +1,4 @@
+|   position | Club name             |   team | gender   |   finisherPositions |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                |
+|-----------:|:----------------------|-------:|:---------|--------------------:|-------------:|----------------:|--------------:|-----------------:|:---------------------------------------|
+|          1 | Cumbernauld AAC       |     20 | F        |                   1 |            1 |              36 |            37 |                1 | nan                                    |
+|          2 | Bellahouston Harriers |      8 | F        |                   2 |            2 |              36 |            38 |                1 | http://www.bellahoustonharriers.co.uk/ |
