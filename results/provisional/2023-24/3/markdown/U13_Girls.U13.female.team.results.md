@@ -1,0 +1,16 @@
+|   position | Club name            |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                               |
+|-----------:|:---------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:--------------------------------------|
+|          1 | Giffnock North AC    |      7 | F        | 1,4,13              |           18 |               0 |            18 |                6 | https://www.giffnocknorth.co.uk/      |
+|          2 | North Ayrshire AAC   |     44 | F        | 3,12,17             |           32 |               0 |            32 |                5 | https://naathletics.co.uk/            |
+|          3 | Springburn Harriers  |     48 | F        | 14,15,23            |           52 |               0 |            52 |                3 | https://www.springburnharriers.co.uk/ |
+|          4 | Shettleston Harriers |     10 | F        | 2,18,33             |           53 |               0 |            53 |                3 | http://shettlestonharriers.org.uk/    |
+|          5 | East Kilbride AC     |      1 | F        | 7,24,27             |           58 |               0 |            58 |                5 | http://www.ekac.org.uk/               |
+|          6 | Law & District AAC   |     37 | F        | 6,26,31             |           63 |               0 |            63 |                5 | http://www.lawaac.co.uk/              |
+|          7 | Kilmarnock H&AC      |      2 | F        | 10,19,39            |           68 |               0 |            68 |                3 | http://www.kilmarnockharriers.com/    |
+|          8 | Inverclyde AC        |      4 | F        | 11,29,34            |           74 |               0 |            74 |                3 | https://www.inverclydeac.org/         |
+|          9 | Airdrie Harriers     |     11 | F        | 9,36,42             |           87 |               0 |            87 |                3 | http://airdrieharriers.org/           |
+|         10 | VP-Glasgow           |     54 | F        | 25,35,38            |           98 |               0 |            98 |                4 | https://www.vp-glasgow.com            |
+|         11 | Cambuslang Harriers  |      6 | F        | 5                   |            5 |             108 |           113 |                1 | https://cambuslangharriers.org/       |
+|         12 | Helensburgh AAC      |     32 | F        | 8                   |            8 |             108 |           116 |                1 | https://www.helensburghaac.com/       |
+|         13 | Ayr Seaforth AC      |     14 | F        | 20                  |           20 |             108 |           128 |                1 | https://www.ayrseaforth.co.uk/        |
+|         14 | Larkhall YMCA        |     36 | F        | 21                  |           21 |             108 |           129 |                1 | https://www.larkhallymcaharriers.org  |

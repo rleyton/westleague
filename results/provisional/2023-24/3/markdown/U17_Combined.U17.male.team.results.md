@@ -1,0 +1,10 @@
+|   position | Club name           |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                               |
+|-----------:|:--------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:--------------------------------------|
+|          1 | Cambuslang Harriers |      6 | M        | 3,7,8               |           18 |               0 |            18 |                3 | https://cambuslangharriers.org/       |
+|          2 | Kilbarchan AAC      |     34 | M        | 4,5,11              |           20 |               0 |            20 |                3 | https://kilbarchanaac.org.uk/         |
+|          3 | Garscube Harriers   |      9 | M        | 2,12                |           14 |              25 |            39 |                2 | https://www.garscubeharriers.org.uk/  |
+|          4 | VP-Glasgow          |     54 | M        | 6,14                |           20 |              25 |            45 |                2 | https://www.vp-glasgow.com            |
+|          5 | East Kilbride AC    |      1 | M        | 10,13               |           23 |              25 |            48 |                2 | http://www.ekac.org.uk/               |
+|          6 | Giffnock North AC   |      7 | M        | 1                   |            1 |              50 |            51 |                1 | https://www.giffnocknorth.co.uk/      |
+|          7 | Kilmarnock H&AC     |      2 | M        | 9                   |            9 |              50 |            59 |                1 | http://www.kilmarnockharriers.com/    |
+|          8 | Calderglen Harriers |     17 | M        | 15                  |           15 |              50 |            65 |                1 | http://www.calderglenharriers.org.uk/ |

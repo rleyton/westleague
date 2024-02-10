@@ -1,0 +1,15 @@
+|   position | Club name            |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                               |
+|-----------:|:---------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:--------------------------------------|
+|          1 | Cambuslang Harriers  |      6 | M        | 1,4,5               |           10 |               0 |            10 |                6 | https://cambuslangharriers.org/       |
+|          2 | East Kilbride AC     |      1 | M        | 6,11,12             |           29 |               0 |            29 |                3 | http://www.ekac.org.uk/               |
+|          3 | Kilbarchan AAC       |     34 | M        | 2,14,15             |           31 |               0 |            31 |                4 | https://kilbarchanaac.org.uk/         |
+|          4 | Helensburgh AAC      |     32 | M        | 9,22,23             |           54 |               0 |            54 |                3 | https://www.helensburghaac.com/       |
+|          5 | VP-Glasgow           |     54 | M        | 10,17               |           27 |              37 |            64 |                2 | https://www.vp-glasgow.com            |
+|          6 | Garscube Harriers    |      9 | M        | 3                   |            3 |              74 |            77 |                1 | https://www.garscubeharriers.org.uk/  |
+|          7 | Ayr Seaforth AC      |     14 | M        | 19,21               |           40 |              37 |            77 |                2 | https://www.ayrseaforth.co.uk/        |
+|          8 | Law & District AAC   |     37 | M        | 8                   |            8 |              74 |            82 |                1 | http://www.lawaac.co.uk/              |
+|          9 | Springburn Harriers  |     48 | M        | 13                  |           13 |              74 |            87 |                1 | https://www.springburnharriers.co.uk/ |
+|         10 | Airdrie Harriers     |     11 | M        | 20                  |           20 |              74 |            94 |                1 | http://airdrieharriers.org/           |
+|         11 | Giffnock North AC    |      7 | M        | 24                  |           24 |              74 |            98 |                1 | https://www.giffnocknorth.co.uk/      |
+|         12 | Shettleston Harriers |     10 | M        | 26                  |           26 |              74 |           100 |                1 | http://shettlestonharriers.org.uk/    |
+|         13 | Whitemoss AAC        |     57 | M        | 27                  |           27 |              74 |           101 |                1 | https://whitemossaac.co.uk/           |

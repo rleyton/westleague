@@ -1,0 +1,3 @@
+|   position | times   | team   | Name          | gender   | AgeCat   |   clubnumber | Club name        | Website                 |   finishPosition |
+|-----------:|:--------|:-------|:--------------|:---------|:---------|-------------:|:-----------------|:------------------------|-----------------:|
+|          1 | 0:29:40 | 1F     | MILLIE AITKEN | F        | U20      |            1 | East Kilbride AC | http://www.ekac.org.uk/ |               50 |

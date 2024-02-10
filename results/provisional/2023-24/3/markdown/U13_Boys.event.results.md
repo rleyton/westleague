@@ -1,0 +1,37 @@
+|   position | times   | team   | Name            | gender   | AgeCat   |   clubnumber | Club name           | Website                               |
+|-----------:|:--------|:-------|:----------------|:---------|:---------|-------------:|:--------------------|:--------------------------------------|
+|          1 | 0:07:58 | 7M     | nan             | M        | U13      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |
+|          2 | 0:08:07 | 37M    | nan             | M        | U13      |           37 | Law & District AAC  | http://www.lawaac.co.uk/              |
+|          3 | 0:08:10 | 48M    | nan             | M        | U13      |           48 | Springburn Harriers | https://www.springburnharriers.co.uk/ |
+|          4 | 0:08:10 | 7M     | nan             | M        | U13      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |
+|          5 | 0:08:34 | 7M     | nan             | M        | U13      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |
+|          6 | 0:08:46 | 2M     | nan             | M        | U13      |            2 | Kilmarnock H&AC     | http://www.kilmarnockharriers.com/    |
+|          7 | 0:08:49 | 34M    | nan             | M        | U13      |           34 | Kilbarchan AAC      | https://kilbarchanaac.org.uk/         |
+|          8 | 0:08:55 | 37M    | nan             | M        | U13      |           37 | Law & District AAC  | http://www.lawaac.co.uk/              |
+|          9 | 0:08:57 | 1M     | MATTHEW SWEENEY | M        | U13      |            1 | East Kilbride AC    | http://www.ekac.org.uk/               |
+|         10 | 0:08:58 | 9M     | nan             | M        | U13      |            9 | Garscube Harriers   | https://www.garscubeharriers.org.uk/  |
+|         11 | 0:09:06 | 40M    | nan             | M        | U13      |           40 | Motherwell AC       | https://motherwellac.com/             |
+|         12 | 0:09:07 | 2M     | nan             | M        | U13      |            2 | Kilmarnock H&AC     | http://www.kilmarnockharriers.com/    |
+|         13 | 0:09:10 | 40M    | nan             | M        | U13      |           40 | Motherwell AC       | https://motherwellac.com/             |
+|         14 | 0:09:13 | 34M    | nan             | M        | U13      |           34 | Kilbarchan AAC      | https://kilbarchanaac.org.uk/         |
+|         15 | 0:09:14 | 40M    | nan             | M        | U13      |           40 | Motherwell AC       | https://motherwellac.com/             |
+|         16 | 0:09:16 | 37M    | nan             | M        | U13      |           37 | Law & District AAC  | http://www.lawaac.co.uk/              |
+|         17 | 0:09:18 | 34M    | nan             | M        | U13      |           34 | Kilbarchan AAC      | https://kilbarchanaac.org.uk/         |
+|         18 | 0:09:22 | 32M    | nan             | M        | U13      |           32 | Helensburgh AAC     | https://www.helensburghaac.com/       |
+|         19 | 0:09:24 | 9M     | nan             | M        | U13      |            9 | Garscube Harriers   | https://www.garscubeharriers.org.uk/  |
+|         20 | 0:09:28 | 34M    | nan             | M        | U13      |           34 | Kilbarchan AAC      | https://kilbarchanaac.org.uk/         |
+|         21 | 0:09:34 | 1M     | HARRIS ROSLING  | M        | U13      |            1 | East Kilbride AC    | http://www.ekac.org.uk/               |
+|         22 | 0:09:52 | 11M    | nan             | M        | U13      |           11 | Airdrie Harriers    | http://airdrieharriers.org/           |
+|         23 | 0:09:54 | 34M    | nan             | M        | U13      |           34 | Kilbarchan AAC      | https://kilbarchanaac.org.uk/         |
+|         24 | 0:10:01 | 32M    | nan             | M        | U13      |           32 | Helensburgh AAC     | https://www.helensburghaac.com/       |
+|         25 | 0:10:05 | 37M    | nan             | M        | U13      |           37 | Law & District AAC  | http://www.lawaac.co.uk/              |
+|         26 | 0:10:11 | 1M     | NEIL ARTHUR     | M        | U13      |            1 | East Kilbride AC    | http://www.ekac.org.uk/               |
+|         27 | 0:10:15 | 6M     | nan             | M        | U13      |            6 | Cambuslang Harriers | https://cambuslangharriers.org/       |
+|         28 | 0:10:29 | 37M    | nan             | M        | U13      |           37 | Law & District AAC  | http://www.lawaac.co.uk/              |
+|         29 | 0:10:30 | 36M    | GAVIN LEE       | M        | U13      |           36 | Larkhall YMCA       | https://www.larkhallymcaharriers.org  |
+|         30 | 0:10:35 | 32M    | nan             | M        | U13      |           32 | Helensburgh AAC     | https://www.helensburghaac.com/       |
+|         31 | 0:10:47 | 32M    | nan             | M        | U13      |           32 | Helensburgh AAC     | https://www.helensburghaac.com/       |
+|         32 | 0:10:50 | 37M    | nan             | M        | U13      |           37 | Law & District AAC  | http://www.lawaac.co.uk/              |
+|         33 | 0:10:56 | 17M    | nan             | M        | U13      |           17 | Calderglen Harriers | http://www.calderglenharriers.org.uk/ |
+|         34 | 0:11:17 | 4M     | Aaron Kirkwood  | M        | U13      |            4 | Inverclyde AC       | https://www.inverclydeac.org/         |
+|         35 | 0:12:04 | 11M    | nan             | M        | U13      |           11 | Airdrie Harriers    | http://airdrieharriers.org/           |

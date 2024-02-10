@@ -1,0 +1,4 @@
+|   position | Club name             |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                |
+|-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:---------------------------------------|
+|          1 | Bellahouston Harriers |      8 | M        | 2,3                 |            5 |              26 |            31 |                2 | http://www.bellahoustonharriers.co.uk/ |
+|          2 | Inverclyde AC         |      4 | M        | 1                   |            1 |              39 |            40 |                1 | https://www.inverclydeac.org/          |

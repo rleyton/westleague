@@ -1,0 +1,5 @@
+|   position | times   | team   | Name           | gender   | AgeCat   |   clubnumber | Club name             | Website                                |   finishPosition |
+|-----------:|:--------|:-------|:---------------|:---------|:---------|-------------:|:----------------------|:---------------------------------------|-----------------:|
+|          1 | 0:31:25 | 8F     | Emma Rogerson  | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               67 |
+|          2 | 0:32:06 | 1F     | VIVIEN THORPE  | F        | MASTER   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               73 |
+|          3 | 0:35:13 | 8F     | Stephanie Rudd | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               89 |

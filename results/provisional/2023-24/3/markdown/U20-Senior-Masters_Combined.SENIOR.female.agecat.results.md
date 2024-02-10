@@ -1,0 +1,4 @@
+|   position | times   | team   | Name           | gender   | AgeCat   |   clubnumber | Club name             | Website                                |   finishPosition |
+|-----------:|:--------|:-------|:---------------|:---------|:---------|-------------:|:----------------------|:---------------------------------------|-----------------:|
+|          1 | 0:27:31 | 20F    | Alicia Paton   | F        | SENIOR   |           20 | Cumbernauld AAC       | nan                                    |               29 |
+|          2 | 0:28:23 | 8F     | Kristina Greig | F        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               36 |
