@@ -28,7 +28,7 @@
 |         26 | 0:10:11 | 1M     | NEIL ARTHUR     | M        | U13      |            1 | East Kilbride AC    | http://www.ekac.org.uk/               |
 |         27 | 0:10:15 | 6M     | nan             | M        | U13      |            6 | Cambuslang Harriers | https://cambuslangharriers.org/       |
 |         28 | 0:10:29 | 37M    | nan             | M        | U13      |           37 | Law & District AAC  | http://www.lawaac.co.uk/              |
-|         29 | 0:10:30 | 36M    | nan             | M        | U13      |           36 | Larkhall YMCA       | https://www.larkhallymcaharriers.org  |
+|         29 | 0:10:30 | 36M    | GAVIN LEE       | M        | U13      |           36 | Larkhall YMCA       | https://www.larkhallymcaharriers.org  |
 |         30 | 0:10:35 | 32M    | nan             | M        | U13      |           32 | Helensburgh AAC     | https://www.helensburghaac.com/       |
 |         31 | 0:10:47 | 32M    | nan             | M        | U13      |           32 | Helensburgh AAC     | https://www.helensburghaac.com/       |
 |         32 | 0:10:50 | 37M    | nan             | M        | U13      |           37 | Law & District AAC  | http://www.lawaac.co.uk/              |

@@ -33,11 +33,11 @@
 |         31 | 0:04:51 | 1M     | CALUM McCORMICK | M        | U11      |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |
 |         32 | 0:04:51 | 10M    | nan             | M        | U11      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/    |
 |         33 | 0:04:51 | 37M    | nan             | M        | U11      |           37 | Law & District AAC   | http://www.lawaac.co.uk/              |
-|         34 | 0:04:51 | 36M    | nan             | M        | U11      |           36 | Larkhall YMCA        | https://www.larkhallymcaharriers.org  |
+|         34 | 0:04:51 | 36M    | GEORGE BROWN    | M        | U11      |           36 | Larkhall YMCA        | https://www.larkhallymcaharriers.org  |
 |         35 | 0:04:51 | 32M    | nan             | M        | U11      |           32 | Helensburgh AAC      | https://www.helensburghaac.com/       |
 |         36 | 0:04:53 | 17M    | nan             | M        | U11      |           17 | Calderglen Harriers  | http://www.calderglenharriers.org.uk/ |
 |         37 | 0:04:53 | 2M     | nan             | M        | U11      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/    |
-|         38 | 0:04:53 | 36M    | nan             | M        | U11      |           36 | Larkhall YMCA        | https://www.larkhallymcaharriers.org  |
+|         38 | 0:04:53 | 36M    | DREW REID       | M        | U11      |           36 | Larkhall YMCA        | https://www.larkhallymcaharriers.org  |
 |         39 | 0:04:53 | 4M     | Dominic Burrows | M        | U11      |            4 | Inverclyde AC        | https://www.inverclydeac.org/         |
 |         40 | 0:04:55 | 10M    | nan             | M        | U11      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/    |
 |         41 | 0:04:59 | 1M     | FINLAY EDWARDS  | M        | U11      |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |

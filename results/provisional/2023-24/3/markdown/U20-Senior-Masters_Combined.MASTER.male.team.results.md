@@ -2,4 +2,5 @@
 |-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:---------------------------------------|
 |          1 | East Kilbride AC      |      1 | M        | 3,4,6               |           13 |               0 |            13 |                3 | http://www.ekac.org.uk/                |
 |          2 | Bellahouston Harriers |      8 | M        | 5,7,8               |           20 |               0 |            20 |                6 | http://www.bellahoustonharriers.co.uk/ |
-|          3 | Inverclyde AC         |      4 | M        | 1,2                 |            3 |              21 |            24 |                2 | https://www.inverclydeac.org/          |
+|          3 | Inverclyde AC         |      4 | M        | 1,2                 |            3 |              22 |            25 |                2 | https://www.inverclydeac.org/          |
+|          4 | Larkhall YMCA         |     36 | M        | 12                  |           12 |              44 |            56 |                1 | https://www.larkhallymcaharriers.org   |

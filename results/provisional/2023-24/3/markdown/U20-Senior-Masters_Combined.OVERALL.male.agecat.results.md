@@ -72,5 +72,5 @@
 |         70 | 0:36:17 | 17M    | nan                | M        | nan      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |               94 |
 |         71 | 0:36:39 | 30M    | nan                | M        | nan      |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |               95 |
 |         72 | 0:40:03 | 8M     | David Gemmell      | M        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |               99 |
-|         73 | 0:40:13 | 36M    | nan                | M        | nan      |           36 | Larkhall YMCA              | https://www.larkhallymcaharriers.org       |              100 |
+|         73 | 0:40:13 | 36M    | DAVID McNULTY      | M        | MASTER   |           36 | Larkhall YMCA              | https://www.larkhallymcaharriers.org       |              100 |
 |         74 | 0:41:54 | 17M    | nan                | M        | nan      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |              101 |

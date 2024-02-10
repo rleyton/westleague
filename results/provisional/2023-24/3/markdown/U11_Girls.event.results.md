@@ -23,7 +23,7 @@
 |         21 | 0:04:59 | 2F     | nan              | F        | U11      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/    |
 |         22 | 0:04:59 | 11F    | nan              | F        | U11      |           11 | Airdrie Harriers     | http://airdrieharriers.org/           |
 |         23 | 0:04:59 | 54F    | nan              | F        | U11      |           54 | VP-Glasgow           | https://www.vp-glasgow.com            |
-|         24 | 0:04:59 | 36F    | nan              | F        | U11      |           36 | Larkhall YMCA        | https://www.larkhallymcaharriers.org  |
+|         24 | 0:04:59 | 36F    | EMMA DOOEY       | F        | U11      |           36 | Larkhall YMCA        | https://www.larkhallymcaharriers.org  |
 |         25 | 0:04:59 | 7F     | nan              | F        | U11      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/      |
 |         26 | 0:04:59 | 1F     | REBECCA PEW      | F        | U11      |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |
 |         27 | 0:05:02 | 11F    | nan              | F        | U11      |           11 | Airdrie Harriers     | http://airdrieharriers.org/           |

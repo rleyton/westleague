@@ -20,7 +20,7 @@
 |         18 | 0:09:58 | 10F    | nan             | F        | U13      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/    |
 |         19 | 0:10:02 | 2F     | nan             | F        | U13      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/    |
 |         20 | 0:10:03 | 14F    | nan             | F        | U13      |           14 | Ayr Seaforth AC      | https://www.ayrseaforth.co.uk/        |
-|         21 | 0:10:06 | 36F    | nan             | F        | U13      |           36 | Larkhall YMCA        | https://www.larkhallymcaharriers.org  |
+|         21 | 0:10:06 | 36F    | LACI McNULTY    | F        | U13      |           36 | Larkhall YMCA        | https://www.larkhallymcaharriers.org  |
 |         22 | 0:10:07 | 7F     | nan             | F        | U13      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/      |
 |         23 | 0:10:07 | 48F    | nan             | F        | U13      |           48 | Springburn Harriers  | https://www.springburnharriers.co.uk/ |
 |         24 | 0:10:27 | 1F     | ELSPETH THORPE  | F        | U13      |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |

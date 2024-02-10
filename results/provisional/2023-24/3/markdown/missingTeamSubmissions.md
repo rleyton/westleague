@@ -14,7 +14,6 @@
 |     32 | Helensburgh AAC            | https://www.helensburghaac.com/            |
 |     33 | Irvine RC                  | https://www.irvinerunningclub.co.uk/       |
 |     34 | Kilbarchan AAC             | https://kilbarchanaac.org.uk/              |
-|     36 | Larkhall YMCA              | https://www.larkhallymcaharriers.org       |
 |     37 | Law & District AAC         | http://www.lawaac.co.uk/                   |
 |     40 | Motherwell AC              | https://motherwellac.com/                  |
 |     48 | Springburn Harriers        | https://www.springburnharriers.co.uk/      |
