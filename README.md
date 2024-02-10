@@ -43,8 +43,7 @@
   * Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/1), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/1/markdown/), [PDF](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/1/pdf/)
 
 ## League standings after 2 events
-* Does not yet include event #3
-* 
+* **Does not yet include results event #3**
 * [League standings, by competition](https://results.westleague.org.uk/results/provisional/2023-24/teamStandings/html)
   * U11
     * [Male](https://results.westleague.org.uk/results/provisional/2023-24/teamStandings/html/U11_M.team.standings.html)
@@ -80,6 +79,11 @@
 ### Known results issues
 
 
+## Event #3
+
+* Results notes/updates
+  * None so far
+  
 ## Event #2
 
 * Result notes/updates
