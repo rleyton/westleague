@@ -3,6 +3,7 @@
 ## Submission of results
 
 * Team managers/club captains, please see the [league website for details on submitting results](https://westleague.org.uk/results/submission/)
+* Timelapse recordings from the finish line available on website, at [westleague.org.uk/results/timelapse-videos/](https://westleague.org.uk/results/timelapse-videos/)
 
 ## Provisional results
 
