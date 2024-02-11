@@ -4,3 +4,5 @@
 |          2 | 0:28:23 | 8F     | Kristina Greig | F        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |               36 |
 |          3 | 0:30:15 | 3F     | Jen Conway     | F        | SENIOR   |            3 | Bellahouston RR       | https://www.bellahoustonroadrunners.co.uk/ |               56 |
 |          4 | 0:30:35 | 6F     | Marie Kane     | F        | SENIOR   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/            |               59 |
+|          5 | 0:31:36 | 2F     | Amanda Bryden  | F        | SENIOR   |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/         |               68 |
+|          6 | 0:33:12 | 2F     | Bethany Ross   | F        | SENIOR   |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/         |               79 |

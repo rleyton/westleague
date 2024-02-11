@@ -1,17 +1,17 @@
 |   position | times   | team   | Name             | gender   | AgeCat   |   clubnumber | Club name           | Website                               |   finishPosition |
 |-----------:|:--------|:-------|:-----------------|:---------|:---------|-------------:|:--------------------|:--------------------------------------|-----------------:|
-|          1 | 0:07:58 | 7M     | nan              | M        | U13      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |                1 |
+|          1 | 0:07:58 | 7M     | Evan Tyler       | M        | U13      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |                1 |
 |          2 | 0:08:07 | 37M    | nan              | M        | U13      |           37 | Law & District AAC  | http://www.lawaac.co.uk/              |                2 |
 |          3 | 0:08:10 | 48M    | nan              | M        | U13      |           48 | Springburn Harriers | https://www.springburnharriers.co.uk/ |                3 |
-|          4 | 0:08:10 | 7M     | nan              | M        | U13      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |                4 |
-|          5 | 0:08:34 | 7M     | nan              | M        | U13      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |                5 |
-|          6 | 0:08:46 | 2M     | nan              | M        | U13      |            2 | Kilmarnock H&AC     | http://www.kilmarnockharriers.com/    |                6 |
+|          4 | 0:08:10 | 7M     | Ewan Kennedy     | M        | U13      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |                4 |
+|          5 | 0:08:34 | 7M     | James Andrew     | M        | U13      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |                5 |
+|          6 | 0:08:46 | 2M     | Jamie Walker     | M        | U13      |            2 | Kilmarnock H&AC     | http://www.kilmarnockharriers.com/    |                6 |
 |          7 | 0:08:49 | 34M    | nan              | M        | U13      |           34 | Kilbarchan AAC      | https://kilbarchanaac.org.uk/         |                7 |
 |          8 | 0:08:55 | 37M    | nan              | M        | U13      |           37 | Law & District AAC  | http://www.lawaac.co.uk/              |                8 |
 |          9 | 0:08:57 | 1M     | MATTHEW SWEENEY  | M        | U13      |            1 | East Kilbride AC    | http://www.ekac.org.uk/               |                9 |
 |         10 | 0:08:58 | 9M     | Maxwell Connolly | M        | U13      |            9 | Garscube Harriers   | https://www.garscubeharriers.org.uk/  |               10 |
 |         11 | 0:09:06 | 40M    | nan              | M        | U13      |           40 | Motherwell AC       | https://motherwellac.com/             |               11 |
-|         12 | 0:09:07 | 2M     | nan              | M        | U13      |            2 | Kilmarnock H&AC     | http://www.kilmarnockharriers.com/    |               12 |
+|         12 | 0:09:07 | 2M     | Calum Fitzgerald | M        | U13      |            2 | Kilmarnock H&AC     | http://www.kilmarnockharriers.com/    |               12 |
 |         13 | 0:09:10 | 40M    | nan              | M        | U13      |           40 | Motherwell AC       | https://motherwellac.com/             |               13 |
 |         14 | 0:09:13 | 34M    | nan              | M        | U13      |           34 | Kilbarchan AAC      | https://kilbarchanaac.org.uk/         |               14 |
 |         15 | 0:09:14 | 40M    | nan              | M        | U13      |           40 | Motherwell AC       | https://motherwellac.com/             |               15 |

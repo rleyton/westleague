@@ -1,6 +1,11 @@
-| Name           | Role          |
-|:---------------|:--------------|
-| nan            | nan           |
-| John Rodger    | Race Director |
-| Richard Leyton | Results       |
-| Sharon Taylor  | Starter       |
+| Name                    | Role               |
+|:------------------------|:-------------------|
+| nan                     | nan                |
+| Jason Pender            | Timing             |
+| John Rodger             | Race Director      |
+| Laurance Baker          | Timing             |
+| Margaret-Ann MacLachlan | Position recording |
+| Mike Belch              | Starter            |
+| Peter Ramsey            | Position recording |
+| Richard Leyton          | Results            |
+| Sharon Taylor           | Starter            |

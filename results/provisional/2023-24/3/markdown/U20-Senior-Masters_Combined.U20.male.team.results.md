@@ -1,5 +1,7 @@
-|   position | Club name         |   team | gender   |   finisherPositions |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                              |
-|-----------:|:------------------|-------:|:---------|--------------------:|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------|
-|          1 | Garscube Harriers |      9 | M        |                   1 |            1 |              26 |            27 |                1 | https://www.garscubeharriers.org.uk/ |
-|          2 | East Kilbride AC  |      1 | M        |                   2 |            2 |              26 |            28 |                1 | http://www.ekac.org.uk/              |
-|          3 | VP-Glasgow        |     54 | M        |                   3 |            3 |              26 |            29 |                1 | https://www.vp-glasgow.com           |
+|   position | Club name         |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                              |
+|-----------:|:------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------|
+|          1 | Kilmarnock H&AC   |      2 | M        | 2,4                 |            6 |              16 |            22 |                2 | http://www.kilmarnockharriers.com/   |
+|          2 | Giffnock North AC |      7 | M        | 1                   |            1 |              32 |            33 |                1 | https://www.giffnocknorth.co.uk/     |
+|          3 | Garscube Harriers |      9 | M        | 3                   |            3 |              32 |            35 |                1 | https://www.garscubeharriers.org.uk/ |
+|          4 | East Kilbride AC  |      1 | M        | 5                   |            5 |              32 |            37 |                1 | http://www.ekac.org.uk/              |
+|          5 | VP-Glasgow        |     54 | M        | 6                   |            6 |              32 |            38 |                1 | https://www.vp-glasgow.com           |

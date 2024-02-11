@@ -18,7 +18,7 @@
 |         16 | 0:12:48 | 34M    | nan                 | M        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/         |
 |         17 | 0:12:56 | 11F    | nan                 | F        | U15      |           11 | Airdrie Harriers     | http://airdrieharriers.org/           |
 |         18 | 0:13:03 | 6M     | Rory Barclay        | M        | U15      |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/       |
-|         19 | 0:13:14 | 7F     | nan                 | F        | U15      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/      |
+|         19 | 0:13:14 | 7F     | Amy Gallagher       | F        | U15      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/      |
 |         20 | 0:13:18 | 34F    | nan                 | F        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/         |
 |         21 | 0:13:20 | 54M    | Gerard Gontor       | M        | U15      |           54 | VP-Glasgow           | https://www.vp-glasgow.com            |
 |         22 | 0:13:20 | 11F    | nan                 | F        | U15      |           11 | Airdrie Harriers     | http://airdrieharriers.org/           |
@@ -27,7 +27,7 @@
 |         25 | 0:13:32 | 14M    | Finn Love           | M        | U15      |           14 | Ayr Seaforth AC      | https://www.ayrseaforth.co.uk/        |
 |         26 | 0:13:34 | 11M    | nan                 | M        | U15      |           11 | Airdrie Harriers     | http://airdrieharriers.org/           |
 |         27 | 0:13:36 | 14M    | Lucan Marshall-Watt | M        | U15      |           14 | Ayr Seaforth AC      | https://www.ayrseaforth.co.uk/        |
-|         28 | 0:13:45 | 7F     | nan                 | F        | U15      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/      |
+|         28 | 0:13:45 | 7F     | Nicole Yates        | F        | U15      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/      |
 |         29 | 0:13:47 | 32M    | James McPherson     | M        | U15      |           32 | Helensburgh AAC      | https://www.helensburghaac.com/       |
 |         30 | 0:13:48 | 37F    | nan                 | F        | U15      |           37 | Law & District AAC   | http://www.lawaac.co.uk/              |
 |         31 | 0:13:58 | 32M    | Ruaraidh Wightwick  | M        | U15      |           32 | Helensburgh AAC      | https://www.helensburghaac.com/       |
@@ -35,19 +35,19 @@
 |         33 | 0:14:10 | 34F    | nan                 | F        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/         |
 |         34 | 0:14:12 | 10F    | nan                 | F        | U15      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/    |
 |         35 | 0:14:14 | 1F     | EVA MORRISON        | F        | U15      |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |
-|         36 | 0:14:36 | 7M     | nan                 | M        | U15      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/      |
+|         36 | 0:14:36 | 7M     | Eve Wilkinson       | M        | U15      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/      |
 |         37 | 0:14:40 | 34M    | nan                 | M        | U15      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/         |
 |         38 | 0:14:45 | 54F    | Eve Morrison        | F        | U15      |           54 | VP-Glasgow           | https://www.vp-glasgow.com            |
 |         39 | 0:14:45 | 10M    | nan                 | M        | U15      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/    |
 |         40 | 0:14:49 | 37F    | nan                 | F        | U15      |           37 | Law & District AAC   | http://www.lawaac.co.uk/              |
 |         41 | 0:14:49 | 11F    | nan                 | F        | U15      |           11 | Airdrie Harriers     | http://airdrieharriers.org/           |
-|         42 | 0:15:18 | 7F     | nan                 | F        | U15      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/      |
+|         42 | 0:15:18 | 7F     | Ruaridh Mostyn.     | F        | U15      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/      |
 |         43 | 0:15:27 | 37F    | nan                 | F        | U15      |           37 | Law & District AAC   | http://www.lawaac.co.uk/              |
-|         44 | 0:15:45 | 2F     | nan                 | F        | U15      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/    |
+|         44 | 0:15:45 | 2F     | Cara Monachello     | F        | U15      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/    |
 |         45 | 0:15:46 | 4F     | Molly Farish        | F        | U15      |            4 | Inverclyde AC        | https://www.inverclydeac.org/         |
 |         46 | 0:15:48 | 14F    | Laurie McAlpine     | F        | U15      |           14 | Ayr Seaforth AC      | https://www.ayrseaforth.co.uk/        |
 |         47 | 0:15:49 | 4F     | Lucy Neilson        | F        | U15      |            4 | Inverclyde AC        | https://www.inverclydeac.org/         |
-|         48 | 0:15:56 | 2F     | nan                 | F        | U15      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/    |
+|         48 | 0:15:56 | 2F     | Charlotte Gebbie    | F        | U15      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/    |
 |         49 | 0:16:01 | 57M    | nan                 | M        | U15      |           57 | Whitemoss AAC        | https://whitemossaac.co.uk/           |
 |         50 | 0:16:11 | 48F    | nan                 | F        | U15      |           48 | Springburn Harriers  | https://www.springburnharriers.co.uk/ |
 |         51 | 0:16:33 | 11F    | nan                 | F        | U15      |           11 | Airdrie Harriers     | http://airdrieharriers.org/           |
