@@ -214,8 +214,8 @@
             },
             "MASTER": {
                   "M": {
-                        "penalty": 34,
-                        "participants": 24,
+                        "penalty": 37,
+                        "participants": 27,
                         "counters": 3,
                         "clubparticipation": {
                               "1": 3,
@@ -225,6 +225,7 @@
                               "8": 6,
                               "9": 2,
                               "14": 1,
+                              "30": 3,
                               "36": 1,
                               "40": 1,
                               "54": 1,
@@ -232,14 +233,15 @@
                         }
                   },
                   "F": {
-                        "penalty": 18,
-                        "participants": 8,
+                        "penalty": 22,
+                        "participants": 12,
                         "counters": 3,
                         "clubparticipation": {
                               "1": 1,
                               "3": 1,
                               "6": 1,
                               "8": 2,
+                              "30": 4,
                               "53": 1,
                               "54": 1,
                               "56": 1
@@ -305,8 +307,8 @@
       "attendance": {
             "total": 368,
             "gender": {
-                  "M": 165,
-                  "F": 154
+                  "M": 168,
+                  "F": 158
             }
       }
 }

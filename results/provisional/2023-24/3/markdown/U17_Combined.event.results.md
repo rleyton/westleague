@@ -24,5 +24,5 @@
 |         22 | 0:20:14 | 7F     | nan               | F        | U17      |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/      |
 |         23 | 0:21:30 | 10F    | nan               | F        | U17      |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/    |
 |         24 | 0:22:07 | 1F     | ERIN CHAPMAN      | F        | U17      |            1 | East Kilbride AC           | http://www.ekac.org.uk/               |
-|         25 | 0:22:15 | 30F    | nan               | F        | U17      |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/ |
+|         25 | 0:22:15 | 30F    | Evie Harrison     | F        | U17      |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/ |
 |         26 | 0:24:19 | 37F    | nan               | F        | U17      |           37 | Law & District AAC         | http://www.lawaac.co.uk/              |

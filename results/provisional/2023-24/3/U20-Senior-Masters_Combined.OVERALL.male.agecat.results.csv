@@ -36,7 +36,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website,finishPositi
 35,0:28:31,40M,Derek O'Neill,M,SENIOR,40,Motherwell AC,https://motherwellac.com/,39
 36,0:28:34,6M,Kevin Farmer,M,SENIOR,6,Cambuslang Harriers,https://cambuslangharriers.org/,40
 37,0:28:36,8M,Anthony Carson,M,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,41
-38,0:28:42,30M,,M,,30,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/,42
+38,0:28:42,30M,Stephen Harrison,M,MASTER,30,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/,42
 39,0:28:44,2M,,M,,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,43
 40,0:28:46,2M,,M,,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,44
 41,0:28:55,3M,Rich Evans,M,MASTER,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,45
@@ -62,14 +62,14 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website,finishPositi
 61,0:33:06,37M,,M,,37,Law & District AAC,http://www.lawaac.co.uk/,78
 62,0:33:22,40M,Peter Gallagher,M,MASTER,40,Motherwell AC,https://motherwellac.com/,80
 63,0:33:37,9M,Anthony McGale,M,MASTER,9,Garscube Harriers,https://www.garscubeharriers.org.uk/,81
-64,0:33:42,30M,,M,,30,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/,82
+64,0:33:42,30M,Frank McMahon,M,MASTER,30,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/,82
 65,0:33:58,37M,,M,,37,Law & District AAC,http://www.lawaac.co.uk/,84
 66,0:34:33,54M,Gregory Gontor,M,U20,54,VP-Glasgow,https://www.vp-glasgow.com,87
 67,0:35:03,8M,Alastair Patience,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,88
 68,0:35:17,17M,,M,,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,90
 69,0:35:31,8M,Simon McDougall,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,91
 70,0:36:17,17M,,M,,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,94
-71,0:36:39,30M,,M,,30,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/,95
+71,0:36:39,30M,Gerry Gallacher,M,MASTER,30,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/,95
 72,0:40:03,8M,David Gemmell,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,99
 73,0:40:13,36M,DAVID McNULTY,M,MASTER,36,Larkhall YMCA,https://www.larkhallymcaharriers.org,100
 74,0:41:54,17M,,M,,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,101

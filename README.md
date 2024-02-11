@@ -11,7 +11,7 @@
 
 * Results typically processed on the **SUNDAY** following the event
 * Until all team submissions received, **team positions/points will change**
-* _Results reflect team submissions received by **11th February, 12:00**_ - Please direct queries/issues to contact@westleague.org.uk
+* _Results reflect team submissions received by **11th February, 12:15**_ - Please direct queries/issues to contact@westleague.org.uk
   * Next planned update: 3pm.
 
 ### Event #3, Erskine (10th February, 2024)

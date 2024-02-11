@@ -41,7 +41,7 @@
 |         39 | 0:28:31 | 40M    | Derek O'Neill        | M        | SENIOR   |           40 | Motherwell AC              | https://motherwellac.com/                  |
 |         40 | 0:28:34 | 6M     | Kevin Farmer         | M        | SENIOR   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
 |         41 | 0:28:36 | 8M     | Anthony Carson       | M        | SENIOR   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
-|         42 | 0:28:42 | 30M    | nan                  | M        | nan      |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
+|         42 | 0:28:42 | 30M    | Stephen Harrison     | M        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
 |         43 | 0:28:44 | 2M     | nan                  | M        | nan      |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
 |         44 | 0:28:46 | 2M     | nan                  | M        | nan      |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
 |         45 | 0:28:55 | 3M     | Rich Evans           | M        | MASTER   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
@@ -81,10 +81,10 @@
 |         79 | 0:33:12 | 2F     | nan                  | F        | nan      |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
 |         80 | 0:33:22 | 40M    | Peter Gallagher      | M        | MASTER   |           40 | Motherwell AC              | https://motherwellac.com/                  |
 |         81 | 0:33:37 | 9M     | Anthony McGale       | M        | MASTER   |            9 | Garscube Harriers          | https://www.garscubeharriers.org.uk/       |
-|         82 | 0:33:42 | 30M    | nan                  | M        | nan      |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
-|         83 | 0:33:42 | 30F    | nan                  | F        | nan      |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
+|         82 | 0:33:42 | 30M    | Frank McMahon        | M        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
+|         83 | 0:33:42 | 30F    | Jill Aitken          | F        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
 |         84 | 0:33:58 | 37M    | nan                  | M        | nan      |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |
-|         85 | 0:34:04 | 30F    | nan                  | F        | nan      |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
+|         85 | 0:34:04 | 30F    | Lynne Harrison       | F        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
 |         86 | 0:34:17 | 7F     | nan                  | F        | nan      |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |
 |         87 | 0:34:33 | 54M    | Gregory Gontor       | M        | U20      |           54 | VP-Glasgow                 | https://www.vp-glasgow.com                 |
 |         88 | 0:35:03 | 8M     | Alastair Patience    | M        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
@@ -94,11 +94,11 @@
 |         92 | 0:35:31 | 56F    | Ray Musleh           | F        | MASTER   |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |
 |         93 | 0:36:10 | 17F    | nan                  | F        | nan      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |
 |         94 | 0:36:17 | 17M    | nan                  | M        | nan      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |
-|         95 | 0:36:39 | 30M    | nan                  | M        | nan      |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
-|         96 | 0:37:51 | 30F    | nan                  | F        | nan      |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
+|         95 | 0:36:39 | 30M    | Gerry Gallacher      | M        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
+|         96 | 0:37:51 | 30F    | Sarah Jane Whalen    | F        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
 |         97 | 0:38:36 | 54F    | Julia Wylie          | F        | MASTER   |           54 | VP-Glasgow                 | https://www.vp-glasgow.com                 |
 |         98 | 0:38:50 | 5F     | nan                  | F        | nan      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
 |         99 | 0:40:03 | 8M     | David Gemmell        | M        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
 |        100 | 0:40:13 | 36M    | DAVID McNULTY        | M        | MASTER   |           36 | Larkhall YMCA              | https://www.larkhallymcaharriers.org       |
 |        101 | 0:41:54 | 17M    | nan                  | M        | nan      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |
-|        102 | 0:47:02 | 30F    | nan                  | F        | nan      |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
+|        102 | 0:47:02 | 30F    | Charlotte McKay      | F        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
