@@ -1,6 +1,12 @@
-|   position | Club name             |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                |
-|-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:---------------------------------------|
-|          1 | East Kilbride AC      |      1 | M        | 3,4,6               |           13 |               0 |            13 |                3 | http://www.ekac.org.uk/                |
-|          2 | Bellahouston Harriers |      8 | M        | 5,7,8               |           20 |               0 |            20 |                6 | http://www.bellahoustonharriers.co.uk/ |
-|          3 | Inverclyde AC         |      4 | M        | 1,2                 |            3 |              22 |            25 |                2 | https://www.inverclydeac.org/          |
-|          4 | Larkhall YMCA         |     36 | M        | 12                  |           12 |              44 |            56 |                1 | https://www.larkhallymcaharriers.org   |
+|   position | Club name             |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                    |
+|-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
+|          1 | Cambuslang Harriers   |      6 | M        | 3,7,10              |           20 |               0 |            20 |                4 | https://cambuslangharriers.org/            |
+|          2 | East Kilbride AC      |      1 | M        | 6,11,14             |           31 |               0 |            31 |                3 | http://www.ekac.org.uk/                    |
+|          3 | Inverclyde AC         |      4 | M        | 1,2                 |            3 |              32 |            35 |                2 | https://www.inverclydeac.org/              |
+|          4 | Bellahouston Harriers |      8 | M        | 13,15,16            |           44 |               0 |            44 |                6 | http://www.bellahoustonharriers.co.uk/     |
+|          5 | Garscube Harriers     |      9 | M        | 9,18                |           27 |              32 |            59 |                2 | https://www.garscubeharriers.org.uk/       |
+|          6 | VP-Glasgow            |     54 | M        | 4                   |            4 |              64 |            68 |                1 | https://www.vp-glasgow.com                 |
+|          7 | Ayr Seaforth AC       |     14 | M        | 5                   |            5 |              64 |            69 |                1 | https://www.ayrseaforth.co.uk/             |
+|          8 | Bellahouston RR       |      3 | M        | 8                   |            8 |              64 |            72 |                1 | https://www.bellahoustonroadrunners.co.uk/ |
+|          9 | Motherwell AC         |     40 | M        | 17                  |           17 |              64 |            81 |                1 | https://motherwellac.com/                  |
+|         10 | Larkhall YMCA         |     36 | M        | 22                  |           22 |              64 |            86 |                1 | https://www.larkhallymcaharriers.org       |

@@ -1,3 +1,7 @@
 position,Club name,team,gender,finisherPositions,teamPoints,penaltyPoints,totalPoints,totalFinishers,Website
-1,Bellahouston Harriers,8,M,"2,3",5,26,31,2,http://www.bellahoustonharriers.co.uk/
-2,Inverclyde AC,4,M,1,1,39,40,1,https://www.inverclydeac.org/
+1,Bellahouston RR,3,M,"4,5,6,7",22,0,22,4,https://www.bellahoustonroadrunners.co.uk/
+2,Cambuslang Harriers,6,M,"1,2,11",14,23,37,3,https://cambuslangharriers.org/
+3,Bellahouston Harriers,8,M,"9,12",21,46,67,2,http://www.bellahoustonharriers.co.uk/
+4,Motherwell AC,40,M,"10,13",23,46,69,2,https://motherwellac.com/
+5,Inverclyde AC,4,M,3,3,69,72,1,https://www.inverclydeac.org/
+6,Ayr Seaforth AC,14,M,8,8,69,77,1,https://www.ayrseaforth.co.uk/

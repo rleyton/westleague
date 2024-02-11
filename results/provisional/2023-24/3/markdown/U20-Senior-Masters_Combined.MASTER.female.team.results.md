@@ -1,4 +1,8 @@
-|   position | Club name             |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                |
-|-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:---------------------------------------|
-|          1 | Bellahouston Harriers |      8 | F        | 1,3                 |            4 |              13 |            17 |                2 | http://www.bellahoustonharriers.co.uk/ |
-|          2 | East Kilbride AC      |      1 | F        | 2                   |            2 |              26 |            28 |                1 | http://www.ekac.org.uk/                |
+|   position | Club name             |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                    |
+|-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
+|          1 | Bellahouston Harriers |      8 | F        | 3,6                 |            9 |              17 |            26 |                2 | http://www.bellahoustonharriers.co.uk/     |
+|          2 | Cambuslang Harriers   |      6 | F        | 1                   |            1 |              34 |            35 |                1 | https://cambuslangharriers.org/            |
+|          3 | Troon Tortoises       |     53 | F        | 2                   |            2 |              34 |            36 |                1 | http://troontortoises.co.uk                |
+|          4 | Bellahouston RR       |      3 | F        | 4                   |            4 |              34 |            38 |                1 | https://www.bellahoustonroadrunners.co.uk/ |
+|          5 | East Kilbride AC      |      1 | F        | 5                   |            5 |              34 |            39 |                1 | http://www.ekac.org.uk/                    |
+|          6 | VP-Glasgow            |     54 | F        | 7                   |            7 |              34 |            41 |                1 | https://www.vp-glasgow.com                 |
