@@ -1,10 +1,12 @@
 |   position | Club name             |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                    |
 |-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
-|          1 | Bellahouston RR       |      3 | M        | 4,7,8,9             |           28 |               0 |            28 |                4 | https://www.bellahoustonroadrunners.co.uk/ |
-|          2 | Cambuslang Harriers   |      6 | M        | 1,2,12              |           15 |              26 |            41 |                3 | https://cambuslangharriers.org/            |
-|          3 | Kilmarnock H&AC       |      2 | M        | 14,15,16            |           45 |              26 |            71 |                3 | http://www.kilmarnockharriers.com/         |
-|          4 | Bellahouston Harriers |      8 | M        | 11,13               |           24 |              52 |            76 |                2 | http://www.bellahoustonharriers.co.uk/     |
-|          5 | Inverclyde AC         |      4 | M        | 3                   |            3 |              78 |            81 |                1 | https://www.inverclydeac.org/              |
-|          6 | Calderglen Harriers   |     17 | M        | 5                   |            5 |              78 |            83 |                1 | http://www.calderglenharriers.org.uk/      |
-|          7 | Giffnock North AC     |      7 | M        | 6                   |            6 |              78 |            84 |                1 | https://www.giffnocknorth.co.uk/           |
-|          8 | Ayr Seaforth AC       |     14 | M        | 10                  |           10 |              78 |            88 |                1 | https://www.ayrseaforth.co.uk/             |
+|          1 | Bellahouston RR       |      3 | M        | 6,9,10,11           |           36 |               0 |            36 |                4 | https://www.bellahoustonroadrunners.co.uk/ |
+|          2 | Shettleston Harriers  |     10 | M        | 2,3,16              |           21 |              32 |            53 |                3 | http://shettlestonharriers.org.uk/         |
+|          3 | Cambuslang Harriers   |      6 | M        | 1,4,17              |           22 |              32 |            54 |                3 | https://cambuslangharriers.org/            |
+|          4 | Law & District AAC    |     37 | M        | 12,15,22            |           49 |              32 |            81 |                3 | http://www.lawaac.co.uk/                   |
+|          5 | Kilmarnock H&AC       |      2 | M        | 19,20,21            |           60 |              32 |            92 |                3 | http://www.kilmarnockharriers.com/         |
+|          6 | Bellahouston Harriers |      8 | M        | 14,18               |           32 |              64 |            96 |                2 | http://www.bellahoustonharriers.co.uk/     |
+|          7 | Inverclyde AC         |      4 | M        | 5                   |            5 |              96 |           101 |                1 | https://www.inverclydeac.org/              |
+|          8 | Calderglen Harriers   |     17 | M        | 7                   |            7 |              96 |           103 |                1 | http://www.calderglenharriers.org.uk/      |
+|          9 | Giffnock North AC     |      7 | M        | 8                   |            8 |              96 |           104 |                1 | https://www.giffnocknorth.co.uk/           |
+|         10 | Ayr Seaforth AC       |     14 | M        | 13                  |           13 |              96 |           109 |                1 | https://www.ayrseaforth.co.uk/             |

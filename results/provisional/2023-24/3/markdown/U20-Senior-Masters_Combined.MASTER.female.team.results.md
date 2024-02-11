@@ -1,12 +1,14 @@
 |   position | Club name                  |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                    |
 |-----------:|:---------------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
-|          1 | Greenock Glenpark Harriers |     30 | F        | 7,8,13              |           28 |               0 |            28 |                4 | https://greenockglenparkharriers.com/      |
-|          2 | Bellahouston Harriers      |      8 | F        | 3,10                |           13 |              25 |            38 |                2 | http://www.bellahoustonharriers.co.uk/     |
-|          3 | Calderglen Harriers        |     17 | F        | 6,12                |           18 |              25 |            43 |                2 | http://www.calderglenharriers.org.uk/      |
-|          4 | Cambuslang Harriers        |      6 | F        | 1                   |            1 |              50 |            51 |                1 | https://cambuslangharriers.org/            |
-|          5 | Troon Tortoises            |     53 | F        | 2                   |            2 |              50 |            52 |                1 | http://troontortoises.co.uk                |
-|          6 | Bellahouston RR            |      3 | F        | 4                   |            4 |              50 |            54 |                1 | https://www.bellahoustonroadrunners.co.uk/ |
-|          7 | East Kilbride AC           |      1 | F        | 5                   |            5 |              50 |            55 |                1 | http://www.ekac.org.uk/                    |
-|          8 | Giffnock North AC          |      7 | F        | 9                   |            9 |              50 |            59 |                1 | https://www.giffnocknorth.co.uk/           |
-|          9 | West End RR                |     56 | F        | 11                  |           11 |              50 |            61 |                1 | https://www.westendroadrunners.co.uk/      |
-|         10 | VP-Glasgow                 |     54 | F        | 14                  |           14 |              50 |            64 |                1 | https://www.vp-glasgow.com                 |
+|          1 | Law & District AAC         |     37 | F        | 2,3                 |            5 |              28 |            33 |                2 | http://www.lawaac.co.uk/                   |
+|          2 | Greenock Glenpark Harriers |     30 | F        | 10,11,16            |           37 |               0 |            37 |                4 | https://greenockglenparkharriers.com/      |
+|          3 | Bellahouston Harriers      |      8 | F        | 6,13                |           19 |              28 |            47 |                2 | http://www.bellahoustonharriers.co.uk/     |
+|          4 | Calderglen Harriers        |     17 | F        | 9,15                |           24 |              28 |            52 |                2 | http://www.calderglenharriers.org.uk/      |
+|          5 | Cambuslang Harriers        |      6 | F        | 1                   |            1 |              56 |            57 |                1 | https://cambuslangharriers.org/            |
+|          6 | Airdrie Harriers           |     11 | F        | 4                   |            4 |              56 |            60 |                1 | http://airdrieharriers.org/                |
+|          7 | Troon Tortoises            |     53 | F        | 5                   |            5 |              56 |            61 |                1 | http://troontortoises.co.uk                |
+|          8 | Bellahouston RR            |      3 | F        | 7                   |            7 |              56 |            63 |                1 | https://www.bellahoustonroadrunners.co.uk/ |
+|          9 | East Kilbride AC           |      1 | F        | 8                   |            8 |              56 |            64 |                1 | http://www.ekac.org.uk/                    |
+|         10 | Giffnock North AC          |      7 | F        | 12                  |           12 |              56 |            68 |                1 | https://www.giffnocknorth.co.uk/           |
+|         11 | West End RR                |     56 | F        | 14                  |           14 |              56 |            70 |                1 | https://www.westendroadrunners.co.uk/      |
+|         12 | VP-Glasgow                 |     54 | F        | 17                  |           17 |              56 |            73 |                1 | https://www.vp-glasgow.com                 |
