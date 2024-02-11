@@ -190,8 +190,8 @@
             },
             "SENIOR": {
                   "M": {
-                        "penalty": 25,
-                        "participants": 15,
+                        "penalty": 26,
+                        "participants": 16,
                         "counters": 4,
                         "clubparticipation": {
                               "2": 3,
@@ -200,7 +200,8 @@
                               "6": 3,
                               "7": 1,
                               "8": 2,
-                              "14": 1
+                              "14": 1,
+                              "17": 1
                         }
                   },
                   "F": {
@@ -218,8 +219,8 @@
             },
             "MASTER": {
                   "M": {
-                        "penalty": 41,
-                        "participants": 31,
+                        "penalty": 45,
+                        "participants": 35,
                         "counters": 3,
                         "clubparticipation": {
                               "1": 3,
@@ -231,6 +232,7 @@
                               "8": 6,
                               "9": 2,
                               "14": 1,
+                              "17": 4,
                               "30": 3,
                               "36": 1,
                               "40": 3,
@@ -239,8 +241,8 @@
                         }
                   },
                   "F": {
-                        "penalty": 23,
-                        "participants": 13,
+                        "penalty": 25,
+                        "participants": 15,
                         "counters": 3,
                         "clubparticipation": {
                               "1": 1,
@@ -248,6 +250,7 @@
                               "6": 1,
                               "7": 1,
                               "8": 2,
+                              "17": 2,
                               "30": 4,
                               "53": 1,
                               "54": 1,
@@ -314,8 +317,8 @@
       "attendance": {
             "total": 368,
             "gender": {
-                  "M": 177,
-                  "F": 161
+                  "M": 182,
+                  "F": 163
             }
       }
 }

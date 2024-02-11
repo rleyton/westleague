@@ -16,14 +16,14 @@
 |         14 | 0:31:36 | 2F     | Amanda Bryden     | F        | SENIOR   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |               68 |
 |         15 | 0:31:41 | 3F     | Claire Wharton    | F        | MASTER   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |               69 |
 |         16 | 0:32:06 | 1F     | VIVIEN THORPE     | F        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |               73 |
-|         17 | 0:32:59 | 17F    | nan               | F        | nan      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |               76 |
+|         17 | 0:32:59 | 17F    | Alison Lessells   | F        | MASTER   |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |               76 |
 |         18 | 0:33:12 | 2F     | Bethany Ross      | F        | SENIOR   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |               79 |
 |         19 | 0:33:42 | 30F    | Jill Aitken       | F        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |               83 |
 |         20 | 0:34:04 | 30F    | Lynne Harrison    | F        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |               85 |
 |         21 | 0:34:17 | 7F     | Gillian Gallagher | F        | MASTER   |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |               86 |
 |         22 | 0:35:13 | 8F     | Stephanie Rudd    | F        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |               89 |
 |         23 | 0:35:31 | 56F    | Ray Musleh        | F        | MASTER   |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |               92 |
-|         24 | 0:36:10 | 17F    | nan               | F        | nan      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |               93 |
+|         24 | 0:36:10 | 17F    | Francis Ferguson  | F        | MASTER   |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |               93 |
 |         25 | 0:37:51 | 30F    | Sarah Jane Whalen | F        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |               96 |
 |         26 | 0:38:36 | 54F    | Julia Wylie       | F        | MASTER   |           54 | VP-Glasgow                 | https://www.vp-glasgow.com                 |               97 |
 |         27 | 0:38:50 | 5F     | nan               | F        | nan      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |               98 |

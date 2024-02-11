@@ -8,5 +8,4 @@
 |     10 | Shettleston Harriers | http://shettlestonharriers.org.uk/    |
 |     11 | Airdrie Harriers     | http://airdrieharriers.org/           |
 |     48 | Springburn Harriers  | https://www.springburnharriers.co.uk/ |
-|     17 | Calderglen Harriers  | http://www.calderglenharriers.org.uk/ |
 |     57 | Whitemoss AAC        | https://whitemossaac.co.uk/           |

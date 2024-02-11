@@ -17,7 +17,7 @@
 |         15 | 0:17:39 | 10F    | nan               | F        | U17      |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/    |
 |         16 | 0:18:47 | 1F     | AMY ANDREWS       | F        | U17      |            1 | East Kilbride AC           | http://www.ekac.org.uk/               |
 |         17 | 0:18:59 | 54M    | Lewis Boal        | M        | U17      |           54 | VP-Glasgow                 | https://www.vp-glasgow.com            |
-|         18 | 0:19:24 | 17M    | nan               | M        | U17      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/ |
+|         18 | 0:19:24 | 17M    | Kai Wheeler       | M        | U17      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/ |
 |         19 | 0:19:35 | 11F    | nan               | F        | U17      |           11 | Airdrie Harriers           | http://airdrieharriers.org/           |
 |         20 | 0:19:50 | 37F    | nan               | F        | U17      |           37 | Law & District AAC         | http://www.lawaac.co.uk/              |
 |         21 | 0:20:10 | 10F    | nan               | F        | U17      |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/    |
