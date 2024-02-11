@@ -1,3 +1,4 @@
-|   position | Club name        |   team | gender   |   finisherPositions |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                 |
-|-----------:|:-----------------|-------:|:---------|--------------------:|-------------:|----------------:|--------------:|-----------------:|:------------------------|
-|          1 | East Kilbride AC |      1 | F        |                   1 |            1 |              22 |            23 |                1 | http://www.ekac.org.uk/ |
+|   position | Club name            |   team | gender   |   finisherPositions |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                            |
+|-----------:|:---------------------|-------:|:---------|--------------------:|-------------:|----------------:|--------------:|-----------------:|:-----------------------------------|
+|          1 | Shettleston Harriers |     10 | F        |                   1 |            1 |              24 |            25 |                1 | http://shettlestonharriers.org.uk/ |
+|          2 | East Kilbride AC     |      1 | F        |                   2 |            2 |              24 |            26 |                1 | http://www.ekac.org.uk/            |

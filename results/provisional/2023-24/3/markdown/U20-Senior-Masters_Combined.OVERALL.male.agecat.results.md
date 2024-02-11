@@ -4,8 +4,8 @@
 |          2 | 0:22:21 | 7M     | Cameron Green        | M        | U20      |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |                2 |
 |          3 | 0:22:32 | 2M     | Jonathon Downey      | M        | U20      |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |                3 |
 |          4 | 0:22:43 | 4M     | Mark Doherty         | M        | MASTER   |            4 | Inverclyde AC              | https://www.inverclydeac.org/              |                4 |
-|          5 | 0:22:48 | 10M    | nan                  | M        | nan      |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |                5 |
-|          6 | 0:23:15 | 10M    | nan                  | M        | nan      |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |                6 |
+|          5 | 0:22:48 | 10M    | Sam Lesley           | M        | SENIOR   |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |                5 |
+|          6 | 0:23:15 | 10M    | Andrew Taylor        | M        | SENIOR   |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |                6 |
 |          7 | 0:23:34 | 33M    | nan                  | M        | nan      |           33 | Irvine RC                  | https://www.irvinerunningclub.co.uk/       |                7 |
 |          8 | 0:23:50 | 6M     | Callum Matthews      | M        | SENIOR   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |                8 |
 |          9 | 0:24:32 | 5M     | nan                  | M        | nan      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |                9 |
@@ -25,15 +25,15 @@
 |         23 | 0:26:27 | 1M     | LEWIS THORPE         | M        | U20      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |               23 |
 |         24 | 0:26:30 | 54M    | Allan Cameron        | M        | MASTER   |           54 | VP-Glasgow                 | https://www.vp-glasgow.com                 |               24 |
 |         25 | 0:26:41 | 3M     | Stephen McQuade      | M        | SENIOR   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |               25 |
-|         26 | 0:26:45 | 37M    | nan                  | M        | nan      |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               26 |
+|         26 | 0:26:45 | 37M    | Ross Hill            | M        | SENIOR   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               26 |
 |         27 | 0:26:48 | 14M    | Ben Forrest          | M        | SENIOR   |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |               27 |
 |         28 | 0:27:23 | 7M     | David Shaw           | M        | MASTER   |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |               28 |
 |         29 | 0:27:37 | 14M    | Alasdair Meldrum     | M        | MASTER   |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |               30 |
 |         30 | 0:27:48 | 8M     | Alexander Winn       | M        | SENIOR   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |               31 |
 |         31 | 0:27:53 | 1M     | KEITH CHARTERS       | M        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |               32 |
 |         32 | 0:28:05 | 6M     | Gary Lyon            | M        | MASTER   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |               33 |
-|         33 | 0:28:13 | 37M    | nan                  | M        | nan      |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               34 |
-|         34 | 0:28:31 | 10M    | nan                  | M        | nan      |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |               38 |
+|         33 | 0:28:13 | 37M    | Ben Fountain         | M        | SENIOR   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               34 |
+|         34 | 0:28:31 | 10M    | William Bradley      | M        | SENIOR   |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |               38 |
 |         35 | 0:28:31 | 40M    | Derek O'Neill        | M        | MASTER   |           40 | Motherwell AC              | https://motherwellac.com/                  |               39 |
 |         36 | 0:28:34 | 6M     | Kevin Farmer         | M        | SENIOR   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |               40 |
 |         37 | 0:28:36 | 8M     | Anthony Carson       | M        | SENIOR   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |               41 |
@@ -42,7 +42,7 @@
 |         40 | 0:28:46 | 2M     | Nick Carter          | M        | SENIOR   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |               44 |
 |         41 | 0:28:55 | 3M     | Rich Evans           | M        | MASTER   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |               45 |
 |         42 | 0:29:02 | 9M     | John Murray          | M        | MASTER   |            9 | Garscube Harriers          | https://www.garscubeharriers.org.uk/       |               46 |
-|         43 | 0:29:05 | 10M    | nan                  | M        | nan      |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |               47 |
+|         43 | 0:29:05 | 10M    | John Oates           | M        | MASTER   |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |               47 |
 |         44 | 0:29:17 | 40M    | Marcus Whyte         | M        | MASTER   |           40 | Motherwell AC              | https://motherwellac.com/                  |               48 |
 |         45 | 0:29:33 | 6M     | Dan O'Connell        | M        | MASTER   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |               49 |
 |         46 | 0:29:42 | 2M     | Murray McDonald      | M        | SENIOR   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |               51 |
@@ -51,7 +51,7 @@
 |         49 | 0:30:18 | 48M    | nan                  | M        | nan      |           48 | Springburn Harriers        | https://www.springburnharriers.co.uk/      |               57 |
 |         50 | 0:30:52 | 6M     | Iain Wallace         | M        | MASTER   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |               60 |
 |         51 | 0:31:02 | 2M     | Gary Martin          | M        | SENIOR   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |               61 |
-|         52 | 0:31:09 | 37M    | nan                  | M        | nan      |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               62 |
+|         52 | 0:31:09 | 37M    | Martin Kay           | M        | MASTER   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               62 |
 |         53 | 0:31:12 | 8M     | Graeme Campbell      | M        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |               63 |
 |         54 | 0:31:21 | 56M    | Allen Campbell       | M        | MASTER   |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |               65 |
 |         55 | 0:31:43 | 1M     | ARTHUR MULHOLLAND    | M        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |               70 |
@@ -60,11 +60,11 @@
 |         58 | 0:32:26 | 8M     | Simon Parkinson      | M        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |               74 |
 |         59 | 0:32:49 | 8M     | Derek Elliot-Jones   | M        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |               75 |
 |         60 | 0:33:01 | 56M    | Paul Toland          | M        | MASTER   |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |               77 |
-|         61 | 0:33:06 | 37M    | nan                  | M        | nan      |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               78 |
+|         61 | 0:33:06 | 37M    | John O'Leary         | M        | MASTER   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               78 |
 |         62 | 0:33:22 | 40M    | Peter Gallagher      | M        | MASTER   |           40 | Motherwell AC              | https://motherwellac.com/                  |               80 |
 |         63 | 0:33:37 | 9M     | Anthony McGale       | M        | MASTER   |            9 | Garscube Harriers          | https://www.garscubeharriers.org.uk/       |               81 |
 |         64 | 0:33:42 | 30M    | Frank McMahon        | M        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |               82 |
-|         65 | 0:33:58 | 37M    | nan                  | M        | nan      |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               84 |
+|         65 | 0:33:58 | 37M    | Bobby Hill           | M        | SENIOR   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               84 |
 |         66 | 0:34:33 | 54M    | Gregory Gontor       | M        | U20      |           54 | VP-Glasgow                 | https://www.vp-glasgow.com                 |               87 |
 |         67 | 0:35:03 | 8M     | Alastair Patience    | M        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |               88 |
 |         68 | 0:35:17 | 17M    | George Ferguson      | M        | MASTER   |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |               90 |
