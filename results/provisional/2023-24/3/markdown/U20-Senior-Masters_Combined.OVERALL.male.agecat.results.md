@@ -17,7 +17,7 @@
 |         15 | 0:25:48 | 34M    | nan                  | M        | nan      |           34 | Kilbarchan AAC             | https://kilbarchanaac.org.uk/              |               15 |
 |         16 | 0:25:51 | 5M     | nan                  | M        | nan      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |               16 |
 |         17 | 0:25:55 | 3M     | Jethro Browell       | M        | SENIOR   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |               17 |
-|         18 | 0:25:58 | 17M    | nan                  | M        | nan      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |               18 |
+|         18 | 0:25:58 | 17M    | Jordan Stewart       | M        | SENIOR   |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |               18 |
 |         19 | 0:26:10 | 7M     | Nick Boyle           | M        | SENIOR   |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |               19 |
 |         20 | 0:26:12 | 3M     | Adam Souter          | M        | SENIOR   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |               20 |
 |         21 | 0:26:14 | 3M     | Alan Moss            | M        | SENIOR   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |               21 |
@@ -47,7 +47,7 @@
 |         45 | 0:29:33 | 6M     | Dan O'Connell        | M        | MASTER   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |               49 |
 |         46 | 0:29:42 | 2M     | Murray McDonald      | M        | SENIOR   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |               51 |
 |         47 | 0:29:52 | 1M     | JOHN EDWARDS         | M        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |               52 |
-|         48 | 0:30:10 | 17M    | nan                  | M        | nan      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |               54 |
+|         48 | 0:30:10 | 17M    | Stephen Phimister    | M        | MASTER   |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |               54 |
 |         49 | 0:30:18 | 48M    | nan                  | M        | nan      |           48 | Springburn Harriers        | https://www.springburnharriers.co.uk/      |               57 |
 |         50 | 0:30:52 | 6M     | Iain Wallace         | M        | MASTER   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |               60 |
 |         51 | 0:31:02 | 2M     | Gary Martin          | M        | SENIOR   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |               61 |
@@ -67,10 +67,10 @@
 |         65 | 0:33:58 | 37M    | nan                  | M        | nan      |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               84 |
 |         66 | 0:34:33 | 54M    | Gregory Gontor       | M        | U20      |           54 | VP-Glasgow                 | https://www.vp-glasgow.com                 |               87 |
 |         67 | 0:35:03 | 8M     | Alastair Patience    | M        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |               88 |
-|         68 | 0:35:17 | 17M    | nan                  | M        | nan      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |               90 |
+|         68 | 0:35:17 | 17M    | George Ferguson      | M        | MASTER   |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |               90 |
 |         69 | 0:35:31 | 8M     | Simon McDougall      | M        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |               91 |
-|         70 | 0:36:17 | 17M    | nan                  | M        | nan      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |               94 |
+|         70 | 0:36:17 | 17M    | Gordon McInally      | M        | MASTER   |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |               94 |
 |         71 | 0:36:39 | 30M    | Gerry Gallacher      | M        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |               95 |
 |         72 | 0:40:03 | 8M     | David Gemmell        | M        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |               99 |
 |         73 | 0:40:13 | 36M    | DAVID McNULTY        | M        | MASTER   |           36 | Larkhall YMCA              | https://www.larkhallymcaharriers.org       |              100 |
-|         74 | 0:41:54 | 17M    | nan                  | M        | nan      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |              101 |
+|         74 | 0:41:54 | 17M    | Russell Couper       | M        | MASTER   |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |              101 |
