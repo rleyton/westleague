@@ -4,12 +4,14 @@
 |          2 | 0:23:50 | 6M     | Callum Matthews      | M        | SENIOR   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/            |                8 |
 |          3 | 0:25:45 | 4M     | Sean Gaffney         | M        | SENIOR   |            4 | Inverclyde AC         | https://www.inverclydeac.org/              |               14 |
 |          4 | 0:25:55 | 3M     | Jethro Browell       | M        | SENIOR   |            3 | Bellahouston RR       | https://www.bellahoustonroadrunners.co.uk/ |               17 |
-|          5 | 0:26:12 | 3M     | Adam Souter          | M        | SENIOR   |            3 | Bellahouston RR       | https://www.bellahoustonroadrunners.co.uk/ |               20 |
-|          6 | 0:26:14 | 3M     | Alan Moss            | M        | SENIOR   |            3 | Bellahouston RR       | https://www.bellahoustonroadrunners.co.uk/ |               21 |
-|          7 | 0:26:41 | 3M     | Stephen McQuade      | M        | SENIOR   |            3 | Bellahouston RR       | https://www.bellahoustonroadrunners.co.uk/ |               25 |
-|          8 | 0:26:48 | 14M    | Ben Forrest          | M        | SENIOR   |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/             |               27 |
-|          9 | 0:27:48 | 8M     | Alexander Winn       | M        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |               31 |
-|         10 | 0:28:31 | 40M    | Derek O'Neill        | M        | SENIOR   |           40 | Motherwell AC         | https://motherwellac.com/                  |               39 |
+|          5 | 0:26:10 | 7M     | Nick Boyle           | M        | SENIOR   |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/           |               19 |
+|          6 | 0:26:12 | 3M     | Adam Souter          | M        | SENIOR   |            3 | Bellahouston RR       | https://www.bellahoustonroadrunners.co.uk/ |               20 |
+|          7 | 0:26:14 | 3M     | Alan Moss            | M        | SENIOR   |            3 | Bellahouston RR       | https://www.bellahoustonroadrunners.co.uk/ |               21 |
+|          8 | 0:26:41 | 3M     | Stephen McQuade      | M        | SENIOR   |            3 | Bellahouston RR       | https://www.bellahoustonroadrunners.co.uk/ |               25 |
+|          9 | 0:26:48 | 14M    | Ben Forrest          | M        | SENIOR   |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/             |               27 |
+|         10 | 0:27:48 | 8M     | Alexander Winn       | M        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |               31 |
 |         11 | 0:28:34 | 6M     | Kevin Farmer         | M        | SENIOR   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/            |               40 |
 |         12 | 0:28:36 | 8M     | Anthony Carson       | M        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |               41 |
-|         13 | 0:29:17 | 40M    | Marcus Whyte         | M        | SENIOR   |           40 | Motherwell AC         | https://motherwellac.com/                  |               48 |
+|         13 | 0:28:46 | 2M     | Nick Carter          | M        | SENIOR   |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/         |               44 |
+|         14 | 0:29:42 | 2M     | Murray McDonald      | M        | SENIOR   |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/         |               51 |
+|         15 | 0:31:02 | 2M     | Gary Martin          | M        | SENIOR   |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/         |               61 |

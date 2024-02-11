@@ -7,8 +7,9 @@
 |          5 | 0:32:06 | 1F     | VIVIEN THORPE     | F        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |               73 |
 |          6 | 0:33:42 | 30F    | Jill Aitken       | F        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |               83 |
 |          7 | 0:34:04 | 30F    | Lynne Harrison    | F        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |               85 |
-|          8 | 0:35:13 | 8F     | Stephanie Rudd    | F        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |               89 |
-|          9 | 0:35:31 | 56F    | Ray Musleh        | F        | MASTER   |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |               92 |
-|         10 | 0:37:51 | 30F    | Sarah Jane Whalen | F        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |               96 |
-|         11 | 0:38:36 | 54F    | Julia Wylie       | F        | MASTER   |           54 | VP-Glasgow                 | https://www.vp-glasgow.com                 |               97 |
-|         12 | 0:47:02 | 30F    | Charlotte McKay   | F        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |              102 |
+|          8 | 0:34:17 | 7F     | Gillian Gallagher | F        | MASTER   |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |               86 |
+|          9 | 0:35:13 | 8F     | Stephanie Rudd    | F        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |               89 |
+|         10 | 0:35:31 | 56F    | Ray Musleh        | F        | MASTER   |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |               92 |
+|         11 | 0:37:51 | 30F    | Sarah Jane Whalen | F        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |               96 |
+|         12 | 0:38:36 | 54F    | Julia Wylie       | F        | MASTER   |           54 | VP-Glasgow                 | https://www.vp-glasgow.com                 |               97 |
+|         13 | 0:47:02 | 30F    | Charlotte McKay   | F        | MASTER   |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |              102 |

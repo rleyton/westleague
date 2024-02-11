@@ -1,14 +1,16 @@
 |   position | Club name                  |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                    |
 |-----------:|:---------------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
-|          1 | Cambuslang Harriers        |      6 | M        | 3,7,11              |           21 |               0 |            21 |                4 | https://cambuslangharriers.org/            |
-|          2 | East Kilbride AC           |      1 | M        | 6,12,16             |           34 |               0 |            34 |                3 | http://www.ekac.org.uk/                    |
-|          3 | Inverclyde AC              |      4 | M        | 1,2                 |            3 |              37 |            40 |                2 | https://www.inverclydeac.org/              |
-|          4 | Bellahouston Harriers      |      8 | M        | 14,17,18            |           49 |               0 |            49 |                6 | http://www.bellahoustonharriers.co.uk/     |
-|          5 | Greenock Glenpark Harriers |     30 | M        | 8,22,25             |           55 |               0 |            55 |                3 | https://greenockglenparkharriers.com/      |
-|          6 | Garscube Harriers          |      9 | M        | 10,21               |           31 |              37 |            68 |                2 | https://www.garscubeharriers.org.uk/       |
-|          7 | West End RR                |     56 | M        | 15,19               |           34 |              37 |            71 |                2 | https://www.westendroadrunners.co.uk/      |
-|          8 | VP-Glasgow                 |     54 | M        | 4                   |            4 |              74 |            78 |                1 | https://www.vp-glasgow.com                 |
-|          9 | Ayr Seaforth AC            |     14 | M        | 5                   |            5 |              74 |            79 |                1 | https://www.ayrseaforth.co.uk/             |
-|         10 | Bellahouston RR            |      3 | M        | 9                   |            9 |              74 |            83 |                1 | https://www.bellahoustonroadrunners.co.uk/ |
-|         11 | Motherwell AC              |     40 | M        | 20                  |           20 |              74 |            94 |                1 | https://motherwellac.com/                  |
-|         12 | Larkhall YMCA              |     36 | M        | 27                  |           27 |              74 |           101 |                1 | https://www.larkhallymcaharriers.org       |
+|          1 | Cambuslang Harriers        |      6 | M        | 3,8,15              |           26 |               0 |            26 |                4 | https://cambuslangharriers.org/            |
+|          2 | East Kilbride AC           |      1 | M        | 7,16,20             |           43 |               0 |            43 |                3 | http://www.ekac.org.uk/                    |
+|          3 | Inverclyde AC              |      4 | M        | 1,2                 |            3 |              41 |            44 |                2 | https://www.inverclydeac.org/              |
+|          4 | Motherwell AC              |     40 | M        | 9,14,24             |           47 |               0 |            47 |                3 | https://motherwellac.com/                  |
+|          5 | Bellahouston Harriers      |      8 | M        | 18,21,22            |           61 |               0 |            61 |                6 | http://www.bellahoustonharriers.co.uk/     |
+|          6 | Greenock Glenpark Harriers |     30 | M        | 10,26,29            |           65 |               0 |            65 |                3 | https://greenockglenparkharriers.com/      |
+|          7 | Garscube Harriers          |      9 | M        | 13,25               |           38 |              41 |            79 |                2 | https://www.garscubeharriers.org.uk/       |
+|          8 | West End RR                |     56 | M        | 19,23               |           42 |              41 |            83 |                2 | https://www.westendroadrunners.co.uk/      |
+|          9 | VP-Glasgow                 |     54 | M        | 4                   |            4 |              82 |            86 |                1 | https://www.vp-glasgow.com                 |
+|         10 | Giffnock North AC          |      7 | M        | 5                   |            5 |              82 |            87 |                1 | https://www.giffnocknorth.co.uk/           |
+|         11 | Ayr Seaforth AC            |     14 | M        | 6                   |            6 |              82 |            88 |                1 | https://www.ayrseaforth.co.uk/             |
+|         12 | Kilmarnock H&AC            |      2 | M        | 11                  |           11 |              82 |            93 |                1 | http://www.kilmarnockharriers.com/         |
+|         13 | Bellahouston RR            |      3 | M        | 12                  |           12 |              82 |            94 |                1 | https://www.bellahoustonroadrunners.co.uk/ |
+|         14 | Larkhall YMCA              |     36 | M        | 31                  |           31 |              82 |           113 |                1 | https://www.larkhallymcaharriers.org       |

@@ -1,5 +1,8 @@
-|   position | times   | team   | Name           | gender   | AgeCat   |   clubnumber | Club name         | Website                              |   finishPosition |
-|-----------:|:--------|:-------|:---------------|:---------|:---------|-------------:|:------------------|:-------------------------------------|-----------------:|
-|          1 | 0:25:15 | 9M     | Crawford Smith | M        | U20      |            9 | Garscube Harriers | https://www.garscubeharriers.org.uk/ |               11 |
-|          2 | 0:26:27 | 1M     | LEWIS THORPE   | M        | U20      |            1 | East Kilbride AC  | http://www.ekac.org.uk/              |               23 |
-|          3 | 0:34:33 | 54M    | Gregory Gontor | M        | U20      |           54 | VP-Glasgow        | https://www.vp-glasgow.com           |               87 |
+|   position | times   | team   | Name            | gender   | AgeCat   |   clubnumber | Club name         | Website                              |   finishPosition |
+|-----------:|:--------|:-------|:----------------|:---------|:---------|-------------:|:------------------|:-------------------------------------|-----------------:|
+|          1 | 0:22:21 | 7M     | Cameron Green   | M        | U20      |            7 | Giffnock North AC | https://www.giffnocknorth.co.uk/     |                2 |
+|          2 | 0:22:32 | 2M     | Jonathon Downey | M        | U20      |            2 | Kilmarnock H&AC   | http://www.kilmarnockharriers.com/   |                3 |
+|          3 | 0:25:15 | 9M     | Crawford Smith  | M        | U20      |            9 | Garscube Harriers | https://www.garscubeharriers.org.uk/ |               11 |
+|          4 | 0:25:17 | 2M     | Connor Scobie   | M        | U20      |            2 | Kilmarnock H&AC   | http://www.kilmarnockharriers.com/   |               12 |
+|          5 | 0:26:27 | 1M     | LEWIS THORPE    | M        | U20      |            1 | East Kilbride AC  | http://www.ekac.org.uk/              |               23 |
+|          6 | 0:34:33 | 54M    | Gregory Gontor  | M        | U20      |           54 | VP-Glasgow        | https://www.vp-glasgow.com           |               87 |
