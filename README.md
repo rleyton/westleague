@@ -12,14 +12,16 @@
 * Results typically processed on the **SUNDAY** following the event
 * Until all team submissions received, **team positions/points will change**
 * _Results reflect team submissions received by **11th February, 12:00**_ - Please direct queries/issues to contact@westleague.org.uk
+  * Next planned update: 3pm.
 
 ### Event #3, Erskine (10th February, 2024)
 
 * [Event #3, Erskine (10th February, 2024)](https://results.westleague.org.uk/results/provisional/2023-24/3/html/)
+  * **Awaiting multiple team results** - [List of teams here](https://github.com/rleyton/westleague/blob/main/results/provisional/2023-24/3/markdown/missingTeamSubmissions.md), [please submit via website here](https://westleague.org.uk/results/submission/)
   * [Provisional Race results](https://results.westleague.org.uk/results/provisional/2023-24/3/html/) - See below for known issues
     * Results are available as [single PDF](https://results.westleague.org.uk/results/provisional/2023-24/3/pdf/RESULTS.pdf)
   * Hosted by [Kilbarchan AAC](https://kilbarchanaac.org.uk/)
-  * [Attendance: TBC](./results/provisional/2023-24/3/meta.json)
+  * [Attendance: 368](./results/provisional/2023-24/3/meta.json)
   * [Thanks to the volunteers](./results/provisional/2023-24/3/html/volunteers.html)
   * Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/3), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/3/markdown/), [PDF](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/3/pdf/)
 
