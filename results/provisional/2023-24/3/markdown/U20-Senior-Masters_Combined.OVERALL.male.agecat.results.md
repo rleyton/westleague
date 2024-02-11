@@ -53,13 +53,13 @@
 |         51 | 0:31:02 | 2M     | nan                  | M        | nan      |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |               61 |
 |         52 | 0:31:09 | 37M    | nan                  | M        | nan      |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               62 |
 |         53 | 0:31:12 | 8M     | Graeme Campbell      | M        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |               63 |
-|         54 | 0:31:21 | 56M    | nan                  | M        | nan      |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |               65 |
+|         54 | 0:31:21 | 56M    | Allen Campbell       | M        | MASTER   |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |               65 |
 |         55 | 0:31:43 | 1M     | ARTHUR MULHOLLAND    | M        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |               70 |
 |         56 | 0:31:45 | 5M     | nan                  | M        | nan      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |               71 |
 |         57 | 0:31:49 | 57M    | nan                  | M        | nan      |           57 | Whitemoss AAC              | https://whitemossaac.co.uk/                |               72 |
 |         58 | 0:32:26 | 8M     | Simon Parkinson      | M        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |               74 |
 |         59 | 0:32:49 | 8M     | Derek Elliot-Jones   | M        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |               75 |
-|         60 | 0:33:01 | 56M    | nan                  | M        | nan      |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |               77 |
+|         60 | 0:33:01 | 56M    | Paul Toland          | M        | MASTER   |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |               77 |
 |         61 | 0:33:06 | 37M    | nan                  | M        | nan      |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               78 |
 |         62 | 0:33:22 | 40M    | Peter Gallagher      | M        | MASTER   |           40 | Motherwell AC              | https://motherwellac.com/                  |               80 |
 |         63 | 0:33:37 | 9M     | Anthony McGale       | M        | MASTER   |            9 | Garscube Harriers          | https://www.garscubeharriers.org.uk/       |               81 |

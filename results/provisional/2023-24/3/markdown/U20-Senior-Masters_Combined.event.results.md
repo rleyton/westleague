@@ -64,7 +64,7 @@
 |         62 | 0:31:09 | 37M    | nan                  | M        | nan      |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |
 |         63 | 0:31:12 | 8M     | Graeme Campbell      | M        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
 |         64 | 0:31:17 | 11F    | nan                  | F        | nan      |           11 | Airdrie Harriers           | http://airdrieharriers.org/                |
-|         65 | 0:31:21 | 56M    | nan                  | M        | nan      |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |
+|         65 | 0:31:21 | 56M    | Allen Campbell       | M        | MASTER   |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |
 |         66 | 0:31:23 | 53F    | Caroline Millar      | F        | MASTER   |           53 | Troon Tortoises            | http://troontortoises.co.uk                |
 |         67 | 0:31:25 | 8F     | Emma Rogerson        | F        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
 |         68 | 0:31:36 | 2F     | nan                  | F        | nan      |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
@@ -76,7 +76,7 @@
 |         74 | 0:32:26 | 8M     | Simon Parkinson      | M        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
 |         75 | 0:32:49 | 8M     | Derek Elliot-Jones   | M        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
 |         76 | 0:32:59 | 17F    | nan                  | F        | nan      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |
-|         77 | 0:33:01 | 56M    | nan                  | M        | nan      |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |
+|         77 | 0:33:01 | 56M    | Paul Toland          | M        | MASTER   |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |
 |         78 | 0:33:06 | 37M    | nan                  | M        | nan      |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |
 |         79 | 0:33:12 | 2F     | nan                  | F        | nan      |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
 |         80 | 0:33:22 | 40M    | Peter Gallagher      | M        | MASTER   |           40 | Motherwell AC              | https://motherwellac.com/                  |
@@ -91,7 +91,7 @@
 |         89 | 0:35:13 | 8F     | Stephanie Rudd       | F        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
 |         90 | 0:35:17 | 17M    | nan                  | M        | nan      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |
 |         91 | 0:35:31 | 8M     | Simon McDougall      | M        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
-|         92 | 0:35:31 | 56F    | nan                  | F        | nan      |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |
+|         92 | 0:35:31 | 56F    | Ray Musleh           | F        | MASTER   |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |
 |         93 | 0:36:10 | 17F    | nan                  | F        | nan      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |
 |         94 | 0:36:17 | 17M    | nan                  | M        | nan      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |
 |         95 | 0:36:39 | 30M    | nan                  | M        | nan      |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |

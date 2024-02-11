@@ -12,5 +12,4 @@
 |     37 | Law & District AAC         | http://www.lawaac.co.uk/              |
 |     40 | Motherwell AC              | https://motherwellac.com/             |
 |     48 | Springburn Harriers        | https://www.springburnharriers.co.uk/ |
-|     56 | West End RR                | https://www.westendroadrunners.co.uk/ |
 |     57 | Whitemoss AAC              | https://whitemossaac.co.uk/           |

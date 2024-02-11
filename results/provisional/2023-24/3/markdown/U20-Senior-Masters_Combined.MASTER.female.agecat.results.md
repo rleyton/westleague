@@ -6,4 +6,5 @@
 |          4 | 0:31:41 | 3F     | Claire Wharton  | F        | MASTER   |            3 | Bellahouston RR       | https://www.bellahoustonroadrunners.co.uk/ |               69 |
 |          5 | 0:32:06 | 1F     | VIVIEN THORPE   | F        | MASTER   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                    |               73 |
 |          6 | 0:35:13 | 8F     | Stephanie Rudd  | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |               89 |
-|          7 | 0:38:36 | 54F    | Julia Wylie     | F        | MASTER   |           54 | VP-Glasgow            | https://www.vp-glasgow.com                 |               97 |
+|          7 | 0:35:31 | 56F    | Ray Musleh      | F        | MASTER   |           56 | West End RR           | https://www.westendroadrunners.co.uk/      |               92 |
+|          8 | 0:38:36 | 54F    | Julia Wylie     | F        | MASTER   |           54 | VP-Glasgow            | https://www.vp-glasgow.com                 |               97 |
