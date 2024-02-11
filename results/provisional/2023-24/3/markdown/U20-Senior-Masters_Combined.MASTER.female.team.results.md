@@ -1,9 +1,10 @@
-|   position | Club name             |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                    |
-|-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
-|          1 | Bellahouston Harriers |      8 | F        | 3,6                 |            9 |              18 |            27 |                2 | http://www.bellahoustonharriers.co.uk/     |
-|          2 | Cambuslang Harriers   |      6 | F        | 1                   |            1 |              36 |            37 |                1 | https://cambuslangharriers.org/            |
-|          3 | Troon Tortoises       |     53 | F        | 2                   |            2 |              36 |            38 |                1 | http://troontortoises.co.uk                |
-|          4 | Bellahouston RR       |      3 | F        | 4                   |            4 |              36 |            40 |                1 | https://www.bellahoustonroadrunners.co.uk/ |
-|          5 | East Kilbride AC      |      1 | F        | 5                   |            5 |              36 |            41 |                1 | http://www.ekac.org.uk/                    |
-|          6 | West End RR           |     56 | F        | 7                   |            7 |              36 |            43 |                1 | https://www.westendroadrunners.co.uk/      |
-|          7 | VP-Glasgow            |     54 | F        | 8                   |            8 |              36 |            44 |                1 | https://www.vp-glasgow.com                 |
+|   position | Club name                  |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                    |
+|-----------:|:---------------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
+|          1 | Greenock Glenpark Harriers |     30 | F        | 6,7,10              |           23 |               0 |            23 |                4 | https://greenockglenparkharriers.com/      |
+|          2 | Bellahouston Harriers      |      8 | F        | 3,8                 |           11 |              22 |            33 |                2 | http://www.bellahoustonharriers.co.uk/     |
+|          3 | Cambuslang Harriers        |      6 | F        | 1                   |            1 |              44 |            45 |                1 | https://cambuslangharriers.org/            |
+|          4 | Troon Tortoises            |     53 | F        | 2                   |            2 |              44 |            46 |                1 | http://troontortoises.co.uk                |
+|          5 | Bellahouston RR            |      3 | F        | 4                   |            4 |              44 |            48 |                1 | https://www.bellahoustonroadrunners.co.uk/ |
+|          6 | East Kilbride AC           |      1 | F        | 5                   |            5 |              44 |            49 |                1 | http://www.ekac.org.uk/                    |
+|          7 | West End RR                |     56 | F        | 9                   |            9 |              44 |            53 |                1 | https://www.westendroadrunners.co.uk/      |
+|          8 | VP-Glasgow                 |     54 | F        | 11                  |           11 |              44 |            55 |                1 | https://www.vp-glasgow.com                 |

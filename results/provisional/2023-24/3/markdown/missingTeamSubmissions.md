@@ -1,15 +1,14 @@
-|   team | Club name                  | Website                               |
-|-------:|:---------------------------|:--------------------------------------|
-|      2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/    |
-|      5 | Westerlands CCC            | https://westerlandsccc.co.uk/         |
-|      7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/      |
-|     10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/    |
-|     11 | Airdrie Harriers           | http://airdrieharriers.org/           |
-|     17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/ |
-|     30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/ |
-|     33 | Irvine RC                  | https://www.irvinerunningclub.co.uk/  |
-|     34 | Kilbarchan AAC             | https://kilbarchanaac.org.uk/         |
-|     37 | Law & District AAC         | http://www.lawaac.co.uk/              |
-|     40 | Motherwell AC              | https://motherwellac.com/             |
-|     48 | Springburn Harriers        | https://www.springburnharriers.co.uk/ |
-|     57 | Whitemoss AAC              | https://whitemossaac.co.uk/           |
+|   team | Club name            | Website                               |
+|-------:|:---------------------|:--------------------------------------|
+|      2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/    |
+|      5 | Westerlands CCC      | https://westerlandsccc.co.uk/         |
+|      7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/      |
+|     10 | Shettleston Harriers | http://shettlestonharriers.org.uk/    |
+|     11 | Airdrie Harriers     | http://airdrieharriers.org/           |
+|     17 | Calderglen Harriers  | http://www.calderglenharriers.org.uk/ |
+|     33 | Irvine RC            | https://www.irvinerunningclub.co.uk/  |
+|     34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/         |
+|     37 | Law & District AAC   | http://www.lawaac.co.uk/              |
+|     40 | Motherwell AC        | https://motherwellac.com/             |
+|     48 | Springburn Harriers  | https://www.springburnharriers.co.uk/ |
+|     57 | Whitemoss AAC        | https://whitemossaac.co.uk/           |
