@@ -11,7 +11,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 10,0:12:15,54M,Jamie Turner,M,U15,54,VP-Glasgow,https://www.vp-glasgow.com
 11,0:12:17,1M,EUAN THORPE,M,U15,1,East Kilbride AC,http://www.ekac.org.uk/
 12,0:12:34,1M,BRIAN HESLOP,M,U15,1,East Kilbride AC,http://www.ekac.org.uk/
-13,0:12:38,48M,,M,U15,48,Springburn Harriers,https://www.springburnharriers.co.uk/
+13,0:12:38,48M,Finn Smith,M,U15,48,Springburn Harriers,https://www.springburnharriers.co.uk/
 14,0:12:39,34M,,M,U15,34,Kilbarchan AAC,https://kilbarchanaac.org.uk/
 15,0:12:41,1F,MATILDA FREW,F,U15,1,East Kilbride AC,http://www.ekac.org.uk/
 16,0:12:48,34M,,M,U15,34,Kilbarchan AAC,https://kilbarchanaac.org.uk/
@@ -30,7 +30,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 29,0:13:47,32M,James McPherson,M,U15,32,Helensburgh AAC,https://www.helensburghaac.com/
 30,0:13:48,37F,Olivia Inglis,F,U15,37,Law & District AAC,http://www.lawaac.co.uk/
 31,0:13:58,32M,Ruaraidh Wightwick,M,U15,32,Helensburgh AAC,https://www.helensburghaac.com/
-32,0:14:03,48F,,F,U15,48,Springburn Harriers,https://www.springburnharriers.co.uk/
+32,0:14:03,48F,Skye Smith,F,U15,48,Springburn Harriers,https://www.springburnharriers.co.uk/
 33,0:14:10,34F,,F,U15,34,Kilbarchan AAC,https://kilbarchanaac.org.uk/
 34,0:14:12,10F,Mairi Stephens,F,U15,10,Shettleston Harriers,http://shettlestonharriers.org.uk/
 35,0:14:14,1F,EVA MORRISON,F,U15,1,East Kilbride AC,http://www.ekac.org.uk/
@@ -48,7 +48,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 47,0:15:49,4F,Lucy Neilson,F,U15,4,Inverclyde AC,https://www.inverclydeac.org/
 48,0:15:56,2F,Charlotte Gebbie,F,U15,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
 49,0:16:01,57M,,M,U15,57,Whitemoss AAC,https://whitemossaac.co.uk/
-50,0:16:11,48F,,F,U15,48,Springburn Harriers,https://www.springburnharriers.co.uk/
+50,0:16:11,48F,Niamh Wilson,F,U15,48,Springburn Harriers,https://www.springburnharriers.co.uk/
 51,0:16:33,11F,Murryn Burns,F,U15,11,Airdrie Harriers,http://airdrieharriers.org/
 52,0:16:41,37F,Sarah Chambers,F,U15,37,Law & District AAC,http://www.lawaac.co.uk/
 53,0:16:55,57F,,F,U15,57,Whitemoss AAC,https://whitemossaac.co.uk/
