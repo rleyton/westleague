@@ -11,10 +11,9 @@
 
 * Results typically processed on the **SUNDAY** following the event
 * Until all team submissions received, **team positions/points will change**
-* _Results reflect team submissions received by **11th February, 22:00**_ - Please direct queries/issues to contact@westleague.org.uk
-  * Next planned update: Monday.
+* _Results reflect team submissions received by **12th February, 19:00**_ - Please direct queries/issues to contact@westleague.org.uk
+  * Next planned update: Tuesday.
   * Issues identified:
-    * U11 Girls needs to be reviewed.
     * Kilmarnock + Bellahouston events have some minor issues flagged.
 
 ### Event #3, Erskine (10th February, 2024)
@@ -88,7 +87,7 @@
 ## Event #3
 
 * Results notes/updates
-  * U11 Girls placing recording issue.
+  * U11 Girls placing recording issue. Additional time+place inserted after video check.
   
 ## Event #2
 

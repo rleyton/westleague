@@ -1,11 +1,12 @@
 position,Club name,team,gender,finisherPositions,teamPoints,penaltyPoints,totalPoints,totalFinishers,Website
-1,Bellahouston RR,3,M,"6,9,10,11",36,0,36,4,https://www.bellahoustonroadrunners.co.uk/
-2,Shettleston Harriers,10,M,"2,3,16",21,32,53,3,http://shettlestonharriers.org.uk/
-3,Cambuslang Harriers,6,M,"1,4,17",22,32,54,3,https://cambuslangharriers.org/
-4,Law & District AAC,37,M,"12,15,22",49,32,81,3,http://www.lawaac.co.uk/
-5,Kilmarnock H&AC,2,M,"19,20,21",60,32,92,3,http://www.kilmarnockharriers.com/
-6,Bellahouston Harriers,8,M,"14,18",32,64,96,2,http://www.bellahoustonharriers.co.uk/
-7,Inverclyde AC,4,M,5,5,96,101,1,https://www.inverclydeac.org/
-8,Calderglen Harriers,17,M,7,7,96,103,1,http://www.calderglenharriers.org.uk/
-9,Giffnock North AC,7,M,8,8,96,104,1,https://www.giffnocknorth.co.uk/
-10,Ayr Seaforth AC,14,M,13,13,96,109,1,https://www.ayrseaforth.co.uk/
+1,Bellahouston RR,3,M,"7,10,11,12",40,0,40,4,https://www.bellahoustonroadrunners.co.uk/
+2,Shettleston Harriers,10,M,"2,3,17",22,33,55,3,http://shettlestonharriers.org.uk/
+3,Cambuslang Harriers,6,M,"1,5,18",24,33,57,3,https://cambuslangharriers.org/
+4,Law & District AAC,37,M,"13,16,23",52,33,85,3,http://www.lawaac.co.uk/
+5,Kilmarnock H&AC,2,M,"20,21,22",63,33,96,3,http://www.kilmarnockharriers.com/
+6,Bellahouston Harriers,8,M,"15,19",34,66,100,2,http://www.bellahoustonharriers.co.uk/
+7,Irvine RC,33,M,4,4,99,103,1,https://www.irvinerunningclub.co.uk/
+8,Inverclyde AC,4,M,6,6,99,105,1,https://www.inverclydeac.org/
+9,Calderglen Harriers,17,M,8,8,99,107,1,http://www.calderglenharriers.org.uk/
+10,Giffnock North AC,7,M,9,9,99,108,1,https://www.giffnocknorth.co.uk/
+11,Ayr Seaforth AC,14,M,14,14,99,113,1,https://www.ayrseaforth.co.uk/

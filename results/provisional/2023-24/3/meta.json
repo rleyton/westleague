@@ -26,8 +26,8 @@
                         }
                   },
                   "F": {
-                        "penalty": 70,
-                        "participants": 60,
+                        "penalty": 71,
+                        "participants": 61,
                         "counters": 3,
                         "clubparticipation": {
                               "1": 4,
@@ -36,7 +36,7 @@
                               "6": 1,
                               "7": 5,
                               "9": 2,
-                              "10": 3,
+                              "10": 4,
                               "11": 10,
                               "14": 3,
                               "17": 3,
@@ -191,8 +191,8 @@
             },
             "SENIOR": {
                   "M": {
-                        "penalty": 32,
-                        "participants": 22,
+                        "penalty": 33,
+                        "participants": 23,
                         "counters": 4,
                         "clubparticipation": {
                               "2": 3,
@@ -204,6 +204,7 @@
                               "10": 3,
                               "14": 1,
                               "17": 1,
+                              "33": 1,
                               "37": 3
                         }
                   },
@@ -222,8 +223,8 @@
             },
             "MASTER": {
                   "M": {
-                        "penalty": 48,
-                        "participants": 38,
+                        "penalty": 49,
+                        "participants": 39,
                         "counters": 3,
                         "clubparticipation": {
                               "1": 3,
@@ -241,6 +242,7 @@
                               "36": 1,
                               "37": 2,
                               "40": 3,
+                              "48": 1,
                               "54": 1,
                               "56": 2
                         }
@@ -322,10 +324,10 @@
             }
       },
       "attendance": {
-            "total": 368,
+            "total": 369,
             "gender": {
-                  "M": 191,
-                  "F": 167
+                  "M": 193,
+                  "F": 168
             }
       }
 }
