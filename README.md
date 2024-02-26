@@ -18,8 +18,7 @@
 
 * Results typically processed on the **SUNDAY** following the event
 * Until all team submissions received, **team positions/points will change**
-* _Results reflect team submissions received by **12th February, 19:00**_ - Please direct queries/issues to contact@westleague.org.uk
-  * Next planned update: Tuesday.
+* _Results reflect team submissions received by **26th February, 17:00**_ - Please direct queries/issues to contact@westleague.org.uk
   * Issues identified:
     * Kilmarnock + Bellahouston events have some minor issues flagged.
 
