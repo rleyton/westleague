@@ -1,20 +1,20 @@
-1,2,Total,Club name,Website
-10,11,21,Giffnock North AC,https://www.giffnocknorth.co.uk/
-38,48,86,North Ayrshire AAC,https://naathletics.co.uk/
-44,71,115,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
-45,75,120,East Kilbride AC,http://www.ekac.org.uk/
-91,69,160,Law & District AAC,http://www.lawaac.co.uk/
-101,74,175,Airdrie Harriers,http://airdrieharriers.org/
-117,65,182,Springburn Harriers,https://www.springburnharriers.co.uk/
-96,126,222,Cambuslang Harriers,https://cambuslangharriers.org/
-120,132,252,Inverclyde AC,https://www.inverclydeac.org/
-135,118,253,Kilbarchan AAC,https://kilbarchanaac.org.uk/
-128,131,259,Shettleston Harriers,http://shettlestonharriers.org.uk/
-163,98,261,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/
-142,125,267,Helensburgh AAC,https://www.helensburghaac.com/
-128,147,275,Larkhall YMCA,https://www.larkhallymcaharriers.org
-163,137,300,VP-Glasgow,https://www.vp-glasgow.com
-167,143,310,Motherwell AC,https://motherwellac.com/
-174,174,348,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/
-180,174,354,Whitemoss AAC,https://whitemossaac.co.uk/
-201,156,357,Calderglen Harriers,http://www.calderglenharriers.org.uk/
+1,2,3,Total,Club name,Website
+10,11,18,39,Giffnock North AC,https://www.giffnocknorth.co.uk/
+38,48,32,118,North Ayrshire AAC,https://naathletics.co.uk/
+45,75,58,178,East Kilbride AC,http://www.ekac.org.uk/
+44,71,68,183,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
+91,69,63,223,Law & District AAC,http://www.lawaac.co.uk/
+117,65,52,234,Springburn Harriers,https://www.springburnharriers.co.uk/
+101,74,87,262,Airdrie Harriers,http://airdrieharriers.org/
+128,131,53,312,Shettleston Harriers,http://shettlestonharriers.org.uk/
+120,132,74,326,Inverclyde AC,https://www.inverclydeac.org/
+96,126,113,335,Cambuslang Harriers,https://cambuslangharriers.org/
+142,125,116,383,Helensburgh AAC,https://www.helensburghaac.com/
+163,98,128,389,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/
+163,137,98,398,VP-Glasgow,https://www.vp-glasgow.com
+128,147,129,404,Larkhall YMCA,https://www.larkhallymcaharriers.org
+135,118,162,415,Kilbarchan AAC,https://kilbarchanaac.org.uk/
+167,143,162,472,Motherwell AC,https://motherwellac.com/
+174,174,162,510,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/
+180,174,162,516,Whitemoss AAC,https://whitemossaac.co.uk/
+201,156,162,519,Calderglen Harriers,http://www.calderglenharriers.org.uk/

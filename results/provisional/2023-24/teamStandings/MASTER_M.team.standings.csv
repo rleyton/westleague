@@ -1,27 +1,28 @@
-1,2,Total,Club name,Website
-63,13,76,Cambuslang Harriers,https://cambuslangharriers.org/
-56,40,96,East Kilbride AC,http://www.ekac.org.uk/
-69,60,129,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
-79,59,138,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
-86,97,183,North Ayrshire AAC,https://naathletics.co.uk/
-116,87,203,Law & District AAC,http://www.lawaac.co.uk/
-145,71,216,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
-156,73,229,Calderglen Harriers,http://www.calderglenharriers.org.uk/
-86,148,234,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/
-151,83,234,Helensburgh AAC,https://www.helensburghaac.com/
-37,201,238,Shettleston Harriers,http://shettlestonharriers.org.uk/
-103,144,247,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/
-51,201,252,Westerlands CCC,https://westerlandsccc.co.uk/
-109,149,258,Troon Tortoises,http://troontortoises.co.uk
-138,156,294,Motherwell AC,https://motherwellac.com/
-154,150,304,Giffnock North AC,https://www.giffnocknorth.co.uk/
-137,201,338,West End RR,https://www.westendroadrunners.co.uk/
-175,168,343,Whitemoss AAC,https://whitemossaac.co.uk/
-174,171,345,Airdrie Harriers,http://airdrieharriers.org/
-216,137,353,Springburn Harriers,https://www.springburnharriers.co.uk/
-153,201,354,Glasgow FrontRunners,https://www.glasgowfrontrunners.org/
-153,201,354,Inverclyde AC,https://www.inverclydeac.org/
-216,141,357,VP-Glasgow,https://www.vp-glasgow.com
-157,201,358,Newton Road Runners,https://www.newton-roadrunners.com/
-159,201,360,Irvine RC,https://www.irvinerunningclub.co.uk/
-204,190,394,Larkhall YMCA,https://www.larkhallymcaharriers.org
+1,2,3,Total,Club name,Website
+63,13,27,103,Cambuslang Harriers,https://cambuslangharriers.org/
+56,40,48,144,East Kilbride AC,http://www.ekac.org.uk/
+79,59,73,211,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
+69,60,110,239,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+116,87,98,301,Law & District AAC,http://www.lawaac.co.uk/
+156,73,86,315,Calderglen Harriers,http://www.calderglenharriers.org.uk/
+103,144,77,324,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/
+145,71,109,325,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
+86,97,147,330,North Ayrshire AAC,https://naathletics.co.uk/
+86,148,104,338,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/
+138,156,53,347,Motherwell AC,https://motherwellac.com/
+37,201,112,350,Shettleston Harriers,http://shettlestonharriers.org.uk/
+151,83,147,381,Helensburgh AAC,https://www.helensburghaac.com/
+51,201,147,399,Westerlands CCC,https://westerlandsccc.co.uk/
+109,149,147,405,Troon Tortoises,http://troontortoises.co.uk
+153,201,52,406,Inverclyde AC,https://www.inverclydeac.org/
+154,150,103,407,Giffnock North AC,https://www.giffnocknorth.co.uk/
+137,201,99,437,West End RR,https://www.westendroadrunners.co.uk/
+216,141,102,459,VP-Glasgow,https://www.vp-glasgow.com
+216,137,117,470,Springburn Harriers,https://www.springburnharriers.co.uk/
+175,168,147,490,Whitemoss AAC,https://whitemossaac.co.uk/
+174,171,147,492,Airdrie Harriers,http://airdrieharriers.org/
+153,201,147,501,Glasgow FrontRunners,https://www.glasgowfrontrunners.org/
+157,201,147,505,Newton Road Runners,https://www.newton-roadrunners.com/
+159,201,147,507,Irvine RC,https://www.irvinerunningclub.co.uk/
+216,201,92,509,Garscube Harriers,https://www.garscubeharriers.org.uk/
+204,190,136,530,Larkhall YMCA,https://www.larkhallymcaharriers.org
