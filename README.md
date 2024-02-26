@@ -7,6 +7,13 @@
 
 ## Provisional results
 
+### Initial team standings for 2023/24
+
+* These are now available, see below for links.
+* Apologies for delay in getting these together. 
+  * There are a couple of minor issues still to review from earlier events I've (RL) not had a chance to investigate
+  * Once that's done (hopefully w/c 26 Feb) will write up and publish.
+
 ### Processing notes
 
 * Results typically processed on the **SUNDAY** following the event
@@ -47,8 +54,8 @@
   * [Thanks to the 20 volunteers](./results/provisional/2023-24/1/html/volunteers.html)
   * Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/1), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/1/markdown/), [PDF](https://github.com/rleyton/westleague/tree/main/results/provisional/2023-24/1/pdf/)
 
-## League standings after 2 events
-* **Does not yet include results event #3**
+## League standings after 3 events
+* **Pending some reviews of minor issues flagged in Events #1 and #2**
 * [League standings, by competition](https://results.westleague.org.uk/results/provisional/2023-24/teamStandings/html)
   * U11
     * [Male](https://results.westleague.org.uk/results/provisional/2023-24/teamStandings/html/U11_M.team.standings.html)
