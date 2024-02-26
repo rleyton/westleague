@@ -14,7 +14,7 @@
 |         12 | 0:25:17 | 2M     | Connor Scobie        | M        | U20      |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |               12 |
 |         13 | 0:25:38 | 4M     | Pete Tucker          | M        | MASTER   |            4 | Inverclyde AC              | https://www.inverclydeac.org/              |               13 |
 |         14 | 0:25:45 | 4M     | Sean Gaffney         | M        | SENIOR   |            4 | Inverclyde AC              | https://www.inverclydeac.org/              |               14 |
-|         15 | 0:25:48 | 34M    | nan                  | M        | nan      |           34 | Kilbarchan AAC             | https://kilbarchanaac.org.uk/              |               15 |
+|         15 | 0:25:48 | 34M    | Stuart Miller        | M        | SENIOR   |           34 | Kilbarchan AAC             | https://kilbarchanaac.org.uk/              |               15 |
 |         16 | 0:25:51 | 5M     | nan                  | M        | nan      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |               16 |
 |         17 | 0:25:55 | 3M     | Jethro Browell       | M        | SENIOR   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |               17 |
 |         18 | 0:25:58 | 17M    | Jordan Stewart       | M        | SENIOR   |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |               18 |
