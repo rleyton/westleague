@@ -98,8 +98,8 @@
             },
             "U15": {
                   "M": {
-                        "penalty": 29,
-                        "participants": 19,
+                        "penalty": 28,
+                        "participants": 18,
                         "counters": 3,
                         "clubparticipation": {
                               "1": 1,
@@ -111,7 +111,6 @@
                               "32": 3,
                               "34": 1,
                               "36": 1,
-                              "37": 1,
                               "40": 1,
                               "48": 2,
                               "54": 2,
@@ -119,8 +118,8 @@
                         }
                   },
                   "F": {
-                        "penalty": 28,
-                        "participants": 18,
+                        "penalty": 29,
+                        "participants": 19,
                         "counters": 3,
                         "clubparticipation": {
                               "1": 1,
@@ -131,7 +130,7 @@
                               "10": 1,
                               "11": 1,
                               "14": 1,
-                              "37": 1,
+                              "37": 2,
                               "48": 2,
                               "54": 1,
                               "57": 1
@@ -340,8 +339,8 @@
       "attendance": {
             "total": 414,
             "gender": {
-                  "M": 212,
-                  "F": 194
+                  "M": 211,
+                  "F": 195
             }
       }
 }
