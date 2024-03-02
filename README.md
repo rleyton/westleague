@@ -7,21 +7,19 @@
 
 ## Provisional results
 
-### Initial team standings for 2023/24
+### Team standings for 2023/24
 
 * These are now available, see below for links.
-* Apologies for delay in getting these together. 
-  * There are a couple of minor issues still to review from earlier events I've (RL) not had a chance to investigate
-  * Once that's done (hopefully w/c 26 Feb) will write up and publish.
+* A [summary of the 2023-24 league is available on the league's website news page, here.](https://westleague.org.uk/2024/03/02/2023-24-season-wrapup-results/)
+* Apologies for delay in getting these final standings and summaries together. 
+* Provisionally, evening of March 11th (TBC, see [news page](https://westleague.org.uk/2024/03/02/2023-24-season-wrapup-results/)) for league wrapup, finances.
 
 ### Processing notes
 
 * Results typically processed on the **SUNDAY** following the event
 * Until all team submissions received, **team positions/points will change**
-* _Results reflect team submissions received by **26th February, 17:00**_ - Please direct queries/issues to contact@westleague.org.uk
-  * Issues identified:
-    * Kilmarnock + Bellahouston events have some minor issues flagged.
-
+* _Results reflect team submissions received by **2nd March**_ - Please direct queries/issues to contact@westleague.org.uk
+  
 ### Event #3, Erskine (10th February, 2024)
 
 * [Event #3, Erskine (10th February, 2024)](https://results.westleague.org.uk/results/provisional/2023-24/3/html/)
