@@ -1,0 +1,4 @@
+|   position | times   | team   | Name               | gender   | AgeCat   |   clubnumber | Club name       | Website                            |   finishPosition |
+|-----------:|:--------|:-------|:-------------------|:---------|:---------|-------------:|:----------------|:-----------------------------------|-----------------:|
+|          1 | 0:25:41 | 54F    | Arianna Carmichael | F        | U20      |           54 | VP-Glasgow      | https://www.vp-glasgow.com         |               71 |
+|          2 | 0:28:48 | 2F     | Izzy Caufield      | F        | U20      |            2 | Kilmarnock H&AC | http://www.kilmarnockharriers.com/ |              120 |

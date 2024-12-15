@@ -1,0 +1,4 @@
+|   position | times   | team   | Name            | gender   | AgeCat   |   clubnumber | Club name       | Website                            |   finishPosition |
+|-----------:|:--------|:-------|:----------------|:---------|:---------|-------------:|:----------------|:-----------------------------------|-----------------:|
+|          1 | 0:19:12 | 2M     | Jonathon Downey | M        | U20      |            2 | Kilmarnock H&AC | http://www.kilmarnockharriers.com/ |                2 |
+|          2 | 0:30:33 | 54M    | Gregory Gontor  | M        | U20      |           54 | VP-Glasgow      | https://www.vp-glasgow.com         |              138 |

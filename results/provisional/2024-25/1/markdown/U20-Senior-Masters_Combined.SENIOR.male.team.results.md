@@ -1,0 +1,10 @@
+|   position | Club name             |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                |
+|-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:---------------------------------------|
+|          1 | Shettleston Harriers  |     10 | M        | 2,3,4,7             |           16 |               0 |            16 |                5 | http://shettlestonharriers.org.uk/     |
+|          2 | Bellahouston Harriers |      8 | M        | 5,6,11,12           |           34 |               0 |            34 |                7 | http://www.bellahoustonharriers.co.uk/ |
+|          3 | East Kilbride AC      |      1 | M        | 8,14                |           22 |              60 |            82 |                2 | http://www.ekac.org.uk/                |
+|          4 | Kilmarnock H&AC       |      2 | M        | 9,15                |           24 |              60 |            84 |                2 | http://www.kilmarnockharriers.com/     |
+|          5 | Motherwell AC         |     40 | M        | 1                   |            1 |              90 |            91 |                1 | https://motherwellac.com/              |
+|          6 | Ayr Seaforth AC       |     14 | M        | 10                  |           10 |              90 |           100 |                1 | https://www.ayrseaforth.co.uk/         |
+|          7 | VP-Glasgow            |     54 | M        | 13                  |           13 |              90 |           103 |                1 | https://www.vp-glasgow.com             |
+|          8 | Whitemoss AAC         |     57 | M        | 20                  |           20 |              90 |           110 |                1 | https://whitemossaac.co.uk/            |

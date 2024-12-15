@@ -16,8 +16,15 @@
 
 #### Event #1, Linn Park (14th December, 2024)
 
-- Pending
 - Team manages/club captains, [please submit your results](https://westleague.org.uk/results/submission/)
+- [Event #1, Linn Park (14th December, 2024)](https://results.westleague.org.uk/results/provisional/2024-25/1/html/)
+  - **Awaiting multiple team results** - [List of teams here](https://github.com/rleyton/westleague/blob/main/results/provisional/2024-25/1/markdown/missingTeamSubmissions.md), [please submit via website here](https://westleague.org.uk/results/submission/)
+  - [Race results](https://results.westleague.org.uk/results/provisional/2024-25/1/html/) - See below for known issues
+    - Results are available as [single PDF](https://results.westleague.org.uk/results/provisional/2024-25/1/pdf/RESULTS.pdf)
+  - Hosted by [Kilbarchan AAC](https://kilbarchanaac.org.uk/)
+  - [Attendance: 368](./results/provisional/2024-25/1/meta.json)
+  - [Thanks to the volunteers](./results/provisional/2024-25/1/html/volunteers.html)
+  - Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2024-25/1), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2024-25/1/markdown/), [PDF](https://github.com/rleyton/westleague/tree/main/results/provisional/2024-25/1/pdf/)
 
 #### Event #2, Strathaven (25th January, 2025)
 

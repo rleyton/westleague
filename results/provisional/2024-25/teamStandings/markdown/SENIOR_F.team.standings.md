@@ -1,0 +1,7 @@
+|   1 |   Total | Club name             | Website                                |
+|----:|--------:|:----------------------|:---------------------------------------|
+|  17 |      17 | Shettleston Harriers  | http://shettlestonharriers.org.uk/     |
+|  27 |      27 | VP-Glasgow            | https://www.vp-glasgow.com             |
+|  71 |      71 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
+|  73 |      73 | Inverclyde AC         | https://www.inverclydeac.org/          |
+|  78 |      78 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |

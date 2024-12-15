@@ -1,0 +1,13 @@
+|   position | Club name             |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                |
+|-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:---------------------------------------|
+|          1 | Giffnock North AC     |      7 | M        | 1,7,11              |           19 |               0 |            19 |                5 | https://www.giffnocknorth.co.uk/       |
+|          2 | Kilbarchan AAC        |     34 | M        | 2,5,14              |           21 |               0 |            21 |                4 | https://kilbarchanaac.org.uk/          |
+|          3 | East Kilbride AC      |      1 | M        | 3,13,20             |           36 |               0 |            36 |                4 | http://www.ekac.org.uk/                |
+|          4 | Cambuslang Harriers   |      6 | M        | 6,18,22             |           46 |               0 |            46 |                5 | https://cambuslangharriers.org/        |
+|          5 | Calderglen Harriers   |     17 | M        | 4,17                |           21 |              38 |            59 |                2 | http://www.calderglenharriers.org.uk/  |
+|          6 | Shettleston Harriers  |     10 | M        | 9,15                |           24 |              38 |            62 |                2 | http://shettlestonharriers.org.uk/     |
+|          7 | Airdrie Harriers      |     11 | M        | 10,25               |           35 |              38 |            73 |                2 | http://airdrieharriers.org/            |
+|          8 | Kilmarnock H&AC       |      2 | M        | 8                   |            8 |              76 |            84 |                1 | http://www.kilmarnockharriers.com/     |
+|          9 | North Ayrshire AAC    |     44 | M        | 12                  |           12 |              76 |            88 |                1 | https://naathletics.co.uk/             |
+|         10 | Bellahouston Harriers |      8 | M        | 23                  |           23 |              76 |            99 |                1 | http://www.bellahoustonharriers.co.uk/ |
+|         11 | Law & District AAC    |     37 | M        | 28                  |           28 |              76 |           104 |                1 | http://www.lawaac.co.uk/               |
