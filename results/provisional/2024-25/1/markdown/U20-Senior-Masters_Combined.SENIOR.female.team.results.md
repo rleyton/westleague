@@ -1,7 +1,9 @@
 |   position | Club name             |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                |
 |-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:---------------------------------------|
-|          1 | Shettleston Harriers  |     10 | F        | 1,2,3,11            |           17 |               0 |            17 |                4 | http://shettlestonharriers.org.uk/     |
-|          2 | VP-Glasgow            |     54 | F        | 4,6,8,9             |           27 |               0 |            27 |                5 | https://www.vp-glasgow.com             |
-|          3 | Bellahouston Harriers |      8 | F        | 5                   |            5 |              66 |            71 |                1 | http://www.bellahoustonharriers.co.uk/ |
-|          4 | Inverclyde AC         |      4 | F        | 7                   |            7 |              66 |            73 |                1 | https://www.inverclydeac.org/          |
-|          5 | Kilmarnock H&AC       |      2 | F        | 12                  |           12 |              66 |            78 |                1 | http://www.kilmarnockharriers.com/     |
+|          1 | Shettleston Harriers  |     10 | F        | 2,3,4,13            |           22 |               0 |            22 |                4 | http://shettlestonharriers.org.uk/     |
+|          2 | VP-Glasgow            |     54 | F        | 5,8,10,11           |           34 |               0 |            34 |                5 | https://www.vp-glasgow.com             |
+|          3 | Springburn Harriers   |     48 | F        | 1                   |            1 |              72 |            73 |                1 | https://www.springburnharriers.co.uk/  |
+|          4 | Bellahouston Harriers |      8 | F        | 6                   |            6 |              72 |            78 |                1 | http://www.bellahoustonharriers.co.uk/ |
+|          5 | Glasgow FrontRunners  |     27 | F        | 7                   |            7 |              72 |            79 |                1 | https://www.glasgowfrontrunners.org/   |
+|          6 | Inverclyde AC         |      4 | F        | 9                   |            9 |              72 |            81 |                1 | https://www.inverclydeac.org/          |
+|          7 | Kilmarnock H&AC       |      2 | F        | 14                  |           14 |              72 |            86 |                1 | http://www.kilmarnockharriers.com/     |

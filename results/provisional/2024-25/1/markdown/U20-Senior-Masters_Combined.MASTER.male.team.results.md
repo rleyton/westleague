@@ -2,13 +2,15 @@
 |-----------:|:---------------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:---------------------------------------|
 |          1 | Inverclyde AC              |      4 | M        | 3,5,7               |           15 |               0 |            15 |                3 | https://www.inverclydeac.org/          |
 |          2 | Shettleston Harriers       |     10 | M        | 1,2,13              |           16 |               0 |            16 |                6 | http://shettlestonharriers.org.uk/     |
-|          3 | Greenock Glenpark Harriers |     30 | M        | 9,12,29             |           50 |               0 |            50 |                3 | https://greenockglenparkharriers.com/  |
-|          4 | Motherwell AC              |     40 | M        | 18,20,24            |           62 |               0 |            62 |                3 | https://motherwellac.com/              |
-|          5 | East Kilbride AC           |      1 | M        | 10,15               |           25 |              39 |            64 |                2 | http://www.ekac.org.uk/                |
-|          6 | Kilmarnock H&AC            |      2 | M        | 11,14               |           25 |              39 |            64 |                2 | http://www.kilmarnockharriers.com/     |
-|          7 | Bellahouston Harriers      |      8 | M        | 17,22,25            |           64 |               0 |            64 |                5 | http://www.bellahoustonharriers.co.uk/ |
-|          8 | Ayr Seaforth AC            |     14 | M        | 4                   |            4 |              78 |            82 |                1 | https://www.ayrseaforth.co.uk/         |
-|          9 | Helensburgh AAC            |     32 | M        | 6                   |            6 |              78 |            84 |                1 | https://www.helensburghaac.com/        |
-|         10 | Hamilton Harriers          |     31 | M        | 8                   |            8 |              78 |            86 |                1 | nan                                    |
-|         11 | Airdrie Harriers           |     11 | M        | 19                  |           19 |              78 |            97 |                1 | http://airdrieharriers.org/            |
-|         12 | Whitemoss AAC              |     57 | M        | 21                  |           21 |              78 |            99 |                1 | https://whitemossaac.co.uk/            |
+|          3 | Greenock Glenpark Harriers |     30 | M        | 9,12,32             |           53 |               0 |            53 |                3 | https://greenockglenparkharriers.com/  |
+|          4 | Motherwell AC              |     40 | M        | 19,21,26            |           66 |               0 |            66 |                3 | https://motherwellac.com/              |
+|          5 | East Kilbride AC           |      1 | M        | 10,15               |           25 |              42 |            67 |                2 | http://www.ekac.org.uk/                |
+|          6 | Kilmarnock H&AC            |      2 | M        | 11,14               |           25 |              42 |            67 |                2 | http://www.kilmarnockharriers.com/     |
+|          7 | Bellahouston Harriers      |      8 | M        | 18,24,27            |           69 |               0 |            69 |                5 | http://www.bellahoustonharriers.co.uk/ |
+|          8 | Ayr Seaforth AC            |     14 | M        | 4                   |            4 |              84 |            88 |                1 | https://www.ayrseaforth.co.uk/         |
+|          9 | Helensburgh AAC            |     32 | M        | 6                   |            6 |              84 |            90 |                1 | https://www.helensburghaac.com/        |
+|         10 | Springburn Harriers        |     48 | M        | 22,28               |           50 |              42 |            92 |                2 | https://www.springburnharriers.co.uk/  |
+|         11 | Hamilton Harriers          |     31 | M        | 8                   |            8 |              84 |            92 |                1 | nan                                    |
+|         12 | Glasgow FrontRunners       |     27 | M        | 17                  |           17 |              84 |           101 |                1 | https://www.glasgowfrontrunners.org/   |
+|         13 | Airdrie Harriers           |     11 | M        | 20                  |           20 |              84 |           104 |                1 | http://airdrieharriers.org/            |
+|         14 | Whitemoss AAC              |     57 | M        | 23                  |           23 |              84 |           107 |                1 | https://whitemossaac.co.uk/            |

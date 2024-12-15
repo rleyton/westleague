@@ -32,7 +32,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 31,0:22:22,14M,Ben Forrest,M,SENIOR,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/
 32,0:22:24,5M,,M,,5,Westerlands CCC,https://westerlandsccc.co.uk/
 33,0:22:33,32M,Richard O'Grady,M,MASTER,32,Helensburgh AAC,https://www.helensburghaac.com/
-34,0:22:41,48F,,F,,48,Springburn Harriers,https://www.springburnharriers.co.uk/
+34,0:22:41,48F,Cat Gillen,F,SENIOR,48,Springburn Harriers,https://www.springburnharriers.co.uk/
 35,0:22:45,8M,Darren McQuade,M,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
 36,0:22:46,7M,,M,,7,Giffnock North AC,https://www.giffnocknorth.co.uk/
 37,0:23:02,6M,,M,,6,Cambuslang Harriers,https://cambuslangharriers.org/
@@ -40,7 +40,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 39,0:23:14,37M,,M,,37,Law & District AAC,http://www.lawaac.co.uk/
 40,0:23:20,34M,,M,,34,Kilbarchan AAC,https://kilbarchanaac.org.uk/
 41,0:23:22,8M,Matthew Brown,M,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
-42,0:23:25,27M,,M,,27,Glasgow FrontRunners,https://www.glasgowfrontrunners.org/
+42,0:23:25,27M,Stuart Miller,M,SENIOR,27,Glasgow FrontRunners,https://www.glasgowfrontrunners.org/
 43,0:23:36,4M,Alan Callan,M,MASTER,4,Inverclyde AC,https://www.inverclydeac.org/
 44,0:23:38,6M,,M,,6,Cambuslang Harriers,https://cambuslangharriers.org/
 45,0:23:50,54M,Noel Slevin,M,SENIOR,54,VP-Glasgow,https://www.vp-glasgow.com
@@ -52,7 +52,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 51,0:24:18,2M,Ross McNaught,M,SENIOR,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
 52,0:24:22,53M,,M,,53,Troon Tortoises,http://troontortoises.co.uk
 53,0:24:22,5M,,M,,5,Westerlands CCC,https://westerlandsccc.co.uk/
-54,0:24:27,48F,,F,,48,Springburn Harriers,https://www.springburnharriers.co.uk/
+54,0:24:27,48F,Ruth Fraser-Moodie,F,MASTER,48,Springburn Harriers,https://www.springburnharriers.co.uk/
 55,0:24:30,17M,,M,,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/
 56,0:24:36,8M,Calum Ferguson,M,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
 57,0:24:38,10F,Ruth Joss,F,SENIOR,10,Shettleston Harriers,http://shettlestonharriers.org.uk/
@@ -64,7 +64,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 63,0:24:49,17M,,M,,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/
 64,0:24:52,10M,Toby Hession,M,SENIOR,10,Shettleston Harriers,http://shettlestonharriers.org.uk/
 65,0:25:08,5M,,M,,5,Westerlands CCC,https://westerlandsccc.co.uk/
-66,0:25:15,48M,,M,,48,Springburn Harriers,https://www.springburnharriers.co.uk/
+66,0:25:15,48M,Cal Haddow-McKitterick,M,SENIOR,48,Springburn Harriers,https://www.springburnharriers.co.uk/
 67,0:25:17,30M,William Taylor,M,MASTER,30,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/
 68,0:25:23,1M,ARTHUR MULHOLLAND,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/
 69,0:25:27,2M,Mark Alexander,M,MASTER,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
@@ -82,14 +82,14 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 81,0:26:08,56F,,F,,56,West End RR,https://www.westendroadrunners.co.uk/
 82,0:26:10,2M,Nick Carter,M,MASTER,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
 83,0:26:12,1F,KELLY BAILLIE,F,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/
-84,0:26:34,27M,,M,,27,Glasgow FrontRunners,https://www.glasgowfrontrunners.org/
+84,0:26:34,27M,Ed White,M,SENIOR,27,Glasgow FrontRunners,https://www.glasgowfrontrunners.org/
 85,0:26:37,7F,,F,,7,Giffnock North AC,https://www.giffnocknorth.co.uk/
 86,0:26:45,1M,ANDREW CHAPMAN,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/
 87,0:26:48,8F,Katherine Hylands,F,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
 88,0:26:48,10M,John Oates,M,MASTER,10,Shettleston Harriers,http://shettlestonharriers.org.uk/
 89,0:26:48,8M,Alexander Winn,M,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
-90,0:26:48,27F,,F,,27,Glasgow FrontRunners,https://www.glasgowfrontrunners.org/
-91,0:26:48,27M,,M,,27,Glasgow FrontRunners,https://www.glasgowfrontrunners.org/
+90,0:26:48,27F,Lauren Astley,F,SENIOR,27,Glasgow FrontRunners,https://www.glasgowfrontrunners.org/
+91,0:26:48,27M,Scott McLeod,M,MASTER,27,Glasgow FrontRunners,https://www.glasgowfrontrunners.org/
 92,0:26:48,54F,Christine Mackie,F,SENIOR,54,VP-Glasgow,https://www.vp-glasgow.com
 93,0:27:00,17M,,M,,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/
 94,0:27:16,5M,,M,,5,Westerlands CCC,https://westerlandsccc.co.uk/
@@ -114,9 +114,9 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 113,0:27:59,6M,,M,,6,Cambuslang Harriers,https://cambuslangharriers.org/
 114,0:28:01,56M,,M,,56,West End RR,https://www.westendroadrunners.co.uk/
 115,0:28:06,10F,Lily Miller,F,SENIOR,10,Shettleston Harriers,http://shettlestonharriers.org.uk/
-116,0:28:06,27M,,M,,27,Glasgow FrontRunners,https://www.glasgowfrontrunners.org/
+116,0:28:06,27M,Iain Newman,M,SENIOR,27,Glasgow FrontRunners,https://www.glasgowfrontrunners.org/
 117,0:28:12,2F,Bethany Ross,F,SENIOR,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
-118,0:28:20,48M,,M,,48,Springburn Harriers,https://www.springburnharriers.co.uk/
+118,0:28:20,48M,Matt Stanley,M,MASTER,48,Springburn Harriers,https://www.springburnharriers.co.uk/
 119,0:28:33,17M,,M,,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/
 120,0:28:48,2F,Izzy Caufield,F,U20,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
 121,0:28:51,3F,,F,,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
@@ -132,7 +132,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 131,0:29:40,6F,,F,,6,Cambuslang Harriers,https://cambuslangharriers.org/
 132,0:29:57,8M,Simon Parkinson,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
 133,0:29:58,56F,,F,,56,West End RR,https://www.westendroadrunners.co.uk/
-134,0:30:02,48M,,M,,48,Springburn Harriers,https://www.springburnharriers.co.uk/
+134,0:30:02,48M,Paul Wilson,M,MASTER,48,Springburn Harriers,https://www.springburnharriers.co.uk/
 135,0:30:03,17F,,F,,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/
 136,0:30:08,8F,Laura Ritchie,F,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
 137,0:30:12,17M,,M,,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/
@@ -142,7 +142,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 141,0:30:52,8M,Simon McDougall,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
 142,0:31:06,30F,Lynne Harrison,F,MASTER,30,Greenock Glenpark Harriers,https://greenockglenparkharriers.com/
 143,0:31:14,8F,Pauline Henderson,F,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
-144,0:31:35,27M,,M,,27,Glasgow FrontRunners,https://www.glasgowfrontrunners.org/
+144,0:31:35,27M,Neil Montgomery,M,SENIOR,27,Glasgow FrontRunners,https://www.glasgowfrontrunners.org/
 145,0:31:51,53F,,F,,53,Troon Tortoises,http://troontortoises.co.uk
 146,0:31:53,10M,Graeme Brown,M,MASTER,10,Shettleston Harriers,http://shettlestonharriers.org.uk/
 147,0:32:00,8F,Vicki Fraser-Hopewell,F,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/

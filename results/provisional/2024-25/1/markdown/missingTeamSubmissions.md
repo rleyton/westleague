@@ -7,11 +7,9 @@
 |      8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |
 |      9 | Garscube Harriers     | https://www.garscubeharriers.org.uk/       |
 |     17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/      |
-|     27 | Glasgow FrontRunners  | https://www.glasgowfrontrunners.org/       |
 |     34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/              |
 |     37 | Law & District AAC    | http://www.lawaac.co.uk/                   |
 |     44 | North Ayrshire AAC    | https://naathletics.co.uk/                 |
-|     48 | Springburn Harriers   | https://www.springburnharriers.co.uk/      |
 |     49 | Stewartry AC          | https://stewartryac.wordpress.com/         |
 |     53 | Troon Tortoises       | http://troontortoises.co.uk                |
 |     56 | West End RR           | https://www.westendroadrunners.co.uk/      |

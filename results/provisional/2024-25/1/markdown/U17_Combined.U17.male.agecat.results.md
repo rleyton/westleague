@@ -1,9 +1,9 @@
 |   position | times   | team   | Name                | gender   | AgeCat   |   clubnumber | Club name             | Website                                |   finishPosition |
 |-----------:|:--------|:-------|:--------------------|:---------|:---------|-------------:|:----------------------|:---------------------------------------|-----------------:|
 |          1 | 0:12:15 | 6M     | nan                 | M        | U17      |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |                1 |
-|          2 | 0:12:42 | 48M    | nan                 | M        | U17      |           48 | Springburn Harriers   | https://www.springburnharriers.co.uk/  |                2 |
+|          2 | 0:12:42 | 48M    | Angus Fraser-Moodie | M        | U17      |           48 | Springburn Harriers   | https://www.springburnharriers.co.uk/  |                2 |
 |          3 | 0:13:22 | 7M     | nan                 | M        | U17      |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |                3 |
-|          4 | 0:13:34 | 48M    | nan                 | M        | U17      |           48 | Springburn Harriers   | https://www.springburnharriers.co.uk/  |                4 |
+|          4 | 0:13:34 | 48M    | Archie Watters      | M        | U17      |           48 | Springburn Harriers   | https://www.springburnharriers.co.uk/  |                4 |
 |          5 | 0:13:45 | 10M    | Aedan McGonigle     | M        | U17      |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/     |                5 |
 |          6 | 0:14:06 | 6M     | nan                 | M        | U17      |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |                6 |
 |          7 | 0:14:25 | 44M    | nan                 | M        | U17      |           44 | North Ayrshire AAC    | https://naathletics.co.uk/             |                7 |

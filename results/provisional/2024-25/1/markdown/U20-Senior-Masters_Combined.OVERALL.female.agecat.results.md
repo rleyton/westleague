@@ -1,8 +1,8 @@
 |   position | times   | team   | Name                  | gender   | AgeCat   |   clubnumber | Club name                  | Website                                    |   finishPosition |
 |-----------:|:--------|:-------|:----------------------|:---------|:---------|-------------:|:---------------------------|:-------------------------------------------|-----------------:|
-|          1 | 0:22:41 | 48F    | nan                   | F        | nan      |           48 | Springburn Harriers        | https://www.springburnharriers.co.uk/      |               34 |
+|          1 | 0:22:41 | 48F    | Cat Gillen            | F        | SENIOR   |           48 | Springburn Harriers        | https://www.springburnharriers.co.uk/      |               34 |
 |          2 | 0:24:14 | 10F    | Charlene McCallum     | F        | SENIOR   |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |               48 |
-|          3 | 0:24:27 | 48F    | nan                   | F        | nan      |           48 | Springburn Harriers        | https://www.springburnharriers.co.uk/      |               54 |
+|          3 | 0:24:27 | 48F    | Ruth Fraser-Moodie    | F        | MASTER   |           48 | Springburn Harriers        | https://www.springburnharriers.co.uk/      |               54 |
 |          4 | 0:24:38 | 10F    | Ruth Joss             | F        | SENIOR   |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |               57 |
 |          5 | 0:24:44 | 5F     | nan                   | F        | nan      |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |               61 |
 |          6 | 0:25:37 | 10F    | Gemma Griffiths       | F        | SENIOR   |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |               70 |
@@ -15,7 +15,7 @@
 |         13 | 0:26:12 | 1F     | KELLY BAILLIE         | F        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |               83 |
 |         14 | 0:26:37 | 7F     | nan                   | F        | nan      |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |               85 |
 |         15 | 0:26:48 | 8F     | Katherine Hylands     | F        | SENIOR   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |               87 |
-|         16 | 0:26:48 | 27F    | nan                   | F        | nan      |           27 | Glasgow FrontRunners       | https://www.glasgowfrontrunners.org/       |               90 |
+|         16 | 0:26:48 | 27F    | Lauren Astley         | F        | SENIOR   |           27 | Glasgow FrontRunners       | https://www.glasgowfrontrunners.org/       |               90 |
 |         17 | 0:26:48 | 54F    | Christine Mackie      | F        | SENIOR   |           54 | VP-Glasgow                 | https://www.vp-glasgow.com                 |               92 |
 |         18 | 0:27:21 | 56F    | nan                   | F        | nan      |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |               95 |
 |         19 | 0:27:24 | 17F    | nan                   | F        | nan      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |               96 |

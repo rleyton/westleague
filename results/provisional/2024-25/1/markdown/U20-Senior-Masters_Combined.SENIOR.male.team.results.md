@@ -2,9 +2,11 @@
 |-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:---------------------------------------|
 |          1 | Shettleston Harriers  |     10 | M        | 2,3,4,7             |           16 |               0 |            16 |                5 | http://shettlestonharriers.org.uk/     |
 |          2 | Bellahouston Harriers |      8 | M        | 5,6,11,12           |           34 |               0 |            34 |                7 | http://www.bellahoustonharriers.co.uk/ |
-|          3 | East Kilbride AC      |      1 | M        | 8,14                |           22 |              60 |            82 |                2 | http://www.ekac.org.uk/                |
-|          4 | Kilmarnock H&AC       |      2 | M        | 9,15                |           24 |              60 |            84 |                2 | http://www.kilmarnockharriers.com/     |
-|          5 | Motherwell AC         |     40 | M        | 1                   |            1 |              90 |            91 |                1 | https://motherwellac.com/              |
-|          6 | Ayr Seaforth AC       |     14 | M        | 10                  |           10 |              90 |           100 |                1 | https://www.ayrseaforth.co.uk/         |
-|          7 | VP-Glasgow            |     54 | M        | 13                  |           13 |              90 |           103 |                1 | https://www.vp-glasgow.com             |
-|          8 | Whitemoss AAC         |     57 | M        | 20                  |           20 |              90 |           110 |                1 | https://whitemossaac.co.uk/            |
+|          3 | Glasgow FrontRunners  |     27 | M        | 13,21,24,25         |           83 |               0 |            83 |                4 | https://www.glasgowfrontrunners.org/   |
+|          4 | East Kilbride AC      |      1 | M        | 8,15                |           23 |              70 |            93 |                2 | http://www.ekac.org.uk/                |
+|          5 | Kilmarnock H&AC       |      2 | M        | 9,16                |           25 |              70 |            95 |                2 | http://www.kilmarnockharriers.com/     |
+|          6 | Motherwell AC         |     40 | M        | 1                   |            1 |             105 |           106 |                1 | https://motherwellac.com/              |
+|          7 | Ayr Seaforth AC       |     14 | M        | 10                  |           10 |             105 |           115 |                1 | https://www.ayrseaforth.co.uk/         |
+|          8 | VP-Glasgow            |     54 | M        | 14                  |           14 |             105 |           119 |                1 | https://www.vp-glasgow.com             |
+|          9 | Springburn Harriers   |     48 | M        | 19                  |           19 |             105 |           124 |                1 | https://www.springburnharriers.co.uk/  |
+|         10 | Whitemoss AAC         |     57 | M        | 23                  |           23 |             105 |           128 |                1 | https://whitemossaac.co.uk/            |
