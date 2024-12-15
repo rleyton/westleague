@@ -1,0 +1,4 @@
+|   position | Club name       |   team | gender   |   finisherPositions |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                            |
+|-----------:|:----------------|-------:|:---------|--------------------:|-------------:|----------------:|--------------:|-----------------:|:-----------------------------------|
+|          1 | Kilmarnock H&AC |      2 | M        |                   1 |            1 |              24 |            25 |                1 | http://www.kilmarnockharriers.com/ |
+|          2 | VP-Glasgow      |     54 | M        |                   2 |            2 |              24 |            26 |                1 | https://www.vp-glasgow.com         |

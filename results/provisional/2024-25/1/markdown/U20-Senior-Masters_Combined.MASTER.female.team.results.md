@@ -1,0 +1,5 @@
+|   position | Club name                  |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                |
+|-----------:|:---------------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:---------------------------------------|
+|          1 | Bellahouston Harriers      |      8 | F        | 2,4,5               |           11 |               0 |            11 |                9 | http://www.bellahoustonharriers.co.uk/ |
+|          2 | East Kilbride AC           |      1 | F        | 1,3,13              |           17 |               0 |            17 |                3 | http://www.ekac.org.uk/                |
+|          3 | Greenock Glenpark Harriers |     30 | F        | 8,14,15             |           37 |               0 |            37 |                3 | https://greenockglenparkharriers.com/  |

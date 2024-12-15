@@ -1,0 +1,7 @@
+|   position | Club name             |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                |
+|-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:---------------------------------------|
+|          1 | Shettleston Harriers  |     10 | F        | 1,2,3,11            |           17 |               0 |            17 |                4 | http://shettlestonharriers.org.uk/     |
+|          2 | VP-Glasgow            |     54 | F        | 4,6,8,9             |           27 |               0 |            27 |                5 | https://www.vp-glasgow.com             |
+|          3 | Bellahouston Harriers |      8 | F        | 5                   |            5 |              66 |            71 |                1 | http://www.bellahoustonharriers.co.uk/ |
+|          4 | Inverclyde AC         |      4 | F        | 7                   |            7 |              66 |            73 |                1 | https://www.inverclydeac.org/          |
+|          5 | Kilmarnock H&AC       |      2 | F        | 12                  |           12 |              66 |            78 |                1 | http://www.kilmarnockharriers.com/     |
