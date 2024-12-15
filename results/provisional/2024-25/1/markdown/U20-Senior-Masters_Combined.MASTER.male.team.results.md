@@ -2,12 +2,13 @@
 |-----------:|:---------------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:---------------------------------------|
 |          1 | Inverclyde AC              |      4 | M        | 3,5,7               |           15 |               0 |            15 |                3 | https://www.inverclydeac.org/          |
 |          2 | Shettleston Harriers       |     10 | M        | 1,2,13              |           16 |               0 |            16 |                6 | http://shettlestonharriers.org.uk/     |
-|          3 | Greenock Glenpark Harriers |     30 | M        | 9,12,28             |           49 |               0 |            49 |                3 | https://greenockglenparkharriers.com/  |
-|          4 | Motherwell AC              |     40 | M        | 18,19,23            |           60 |               0 |            60 |                3 | https://motherwellac.com/              |
-|          5 | Bellahouston Harriers      |      8 | M        | 17,21,24            |           62 |               0 |            62 |                5 | http://www.bellahoustonharriers.co.uk/ |
-|          6 | East Kilbride AC           |      1 | M        | 10,15               |           25 |              38 |            63 |                2 | http://www.ekac.org.uk/                |
-|          7 | Kilmarnock H&AC            |      2 | M        | 11,14               |           25 |              38 |            63 |                2 | http://www.kilmarnockharriers.com/     |
-|          8 | Ayr Seaforth AC            |     14 | M        | 4                   |            4 |              76 |            80 |                1 | https://www.ayrseaforth.co.uk/         |
-|          9 | Helensburgh AAC            |     32 | M        | 6                   |            6 |              76 |            82 |                1 | https://www.helensburghaac.com/        |
-|         10 | Hamilton Harriers          |     31 | M        | 8                   |            8 |              76 |            84 |                1 | nan                                    |
-|         11 | Whitemoss AAC              |     57 | M        | 20                  |           20 |              76 |            96 |                1 | https://whitemossaac.co.uk/            |
+|          3 | Greenock Glenpark Harriers |     30 | M        | 9,12,29             |           50 |               0 |            50 |                3 | https://greenockglenparkharriers.com/  |
+|          4 | Motherwell AC              |     40 | M        | 18,20,24            |           62 |               0 |            62 |                3 | https://motherwellac.com/              |
+|          5 | East Kilbride AC           |      1 | M        | 10,15               |           25 |              39 |            64 |                2 | http://www.ekac.org.uk/                |
+|          6 | Kilmarnock H&AC            |      2 | M        | 11,14               |           25 |              39 |            64 |                2 | http://www.kilmarnockharriers.com/     |
+|          7 | Bellahouston Harriers      |      8 | M        | 17,22,25            |           64 |               0 |            64 |                5 | http://www.bellahoustonharriers.co.uk/ |
+|          8 | Ayr Seaforth AC            |     14 | M        | 4                   |            4 |              78 |            82 |                1 | https://www.ayrseaforth.co.uk/         |
+|          9 | Helensburgh AAC            |     32 | M        | 6                   |            6 |              78 |            84 |                1 | https://www.helensburghaac.com/        |
+|         10 | Hamilton Harriers          |     31 | M        | 8                   |            8 |              78 |            86 |                1 | nan                                    |
+|         11 | Airdrie Harriers           |     11 | M        | 19                  |           19 |              78 |            97 |                1 | http://airdrieharriers.org/            |
+|         12 | Whitemoss AAC              |     57 | M        | 21                  |           21 |              78 |            99 |                1 | https://whitemossaac.co.uk/            |

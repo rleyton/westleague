@@ -9,7 +9,7 @@
 |          7 | 0:07:42 | 7M     | nan                | M        | U13      |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |                7 |
 |          8 | 0:07:45 | 2M     | Calum Fitzgerald   | M        | U13      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |                8 |
 |          9 | 0:07:45 | 10M    | Euan Grant-Pantrey | M        | U13      |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/     |                9 |
-|         10 | 0:07:50 | 11M    | nan                | M        | U13      |           11 | Airdrie Harriers      | http://airdrieharriers.org/            |               10 |
+|         10 | 0:07:50 | 11M    | Declan Slavin      | M        | U13      |           11 | Airdrie Harriers      | http://airdrieharriers.org/            |               10 |
 |         11 | 0:07:51 | 7M     | nan                | M        | U13      |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |               11 |
 |         12 | 0:07:55 | 44M    | nan                | M        | U13      |           44 | North Ayrshire AAC    | https://naathletics.co.uk/             |               12 |
 |         13 | 0:08:00 | 1M     | OWEN PALMER        | M        | U13      |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               13 |
@@ -24,7 +24,7 @@
 |         22 | 0:09:12 | 6M     | nan                | M        | U13      |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               22 |
 |         23 | 0:09:14 | 8M     | Andrew Wilson      | M        | U13      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               23 |
 |         24 | 0:09:17 | 6M     | nan                | M        | U13      |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               24 |
-|         25 | 0:09:18 | 11M    | nan                | M        | U13      |           11 | Airdrie Harriers      | http://airdrieharriers.org/            |               25 |
+|         25 | 0:09:18 | 11M    | Kaelin McCabe      | M        | U13      |           11 | Airdrie Harriers      | http://airdrieharriers.org/            |               25 |
 |         26 | 0:09:22 | 1M     | FINLAY EDWARDS     | M        | U13      |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               26 |
 |         27 | 0:09:30 | 6M     | nan                | M        | U13      |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               27 |
 |         28 | 0:11:21 | 37M    | nan                | M        | U13      |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |               28 |

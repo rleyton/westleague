@@ -80,7 +80,7 @@
 |         78 | 0:27:27 | 8M     | Jamie McLaughlin     | M        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |               97 |
 |         79 | 0:27:33 | 37M    | nan                  | M        | nan      |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               99 |
 |         80 | 0:27:35 | 40M    | Shane Simple         | M        | MASTER   |           40 | Motherwell AC              | https://motherwellac.com/                  |              101 |
-|         81 | 0:27:44 | 11M    | nan                  | M        | nan      |           11 | Airdrie Harriers           | http://airdrieharriers.org/                |              103 |
+|         81 | 0:27:44 | 11M    | Brian Wilson         | M        | MASTER   |           11 | Airdrie Harriers           | http://airdrieharriers.org/                |              103 |
 |         82 | 0:27:45 | 40M    | Robert Pattinson     | M        | MASTER   |           40 | Motherwell AC              | https://motherwellac.com/                  |              104 |
 |         83 | 0:27:48 | 44M    | nan                  | M        | nan      |           44 | North Ayrshire AAC         | https://naathletics.co.uk/                 |              105 |
 |         84 | 0:27:52 | 6M     | nan                  | M        | nan      |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |              109 |

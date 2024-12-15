@@ -13,5 +13,5 @@
 |         11 | 0:15:20 | 54M    | Jamie Turner        | M        | U17      |           54 | VP-Glasgow            | https://www.vp-glasgow.com             |
 |         12 | 0:15:22 | 14M    | Lucan Marshall-Watt | M        | U17      |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/         |
 |         13 | 0:15:26 | 34M    | nan                 | M        | U17      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/          |
-|         14 | 0:15:36 | 11F    | nan                 | F        | U17      |           11 | Airdrie Harriers      | http://airdrieharriers.org/            |
-|         15 | 0:22:20 | 11F    | nan                 | F        | U17      |           11 | Airdrie Harriers      | http://airdrieharriers.org/            |
+|         14 | 0:15:36 | 11F    | Millie Gairn        | F        | U17      |           11 | Airdrie Harriers      | http://airdrieharriers.org/            |
+|         15 | 0:22:20 | 11F    | Murryn Burns        | F        | U17      |           11 | Airdrie Harriers      | http://airdrieharriers.org/            |

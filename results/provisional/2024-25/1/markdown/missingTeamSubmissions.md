@@ -6,7 +6,6 @@
 |      7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/           |
 |      8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |
 |      9 | Garscube Harriers     | https://www.garscubeharriers.org.uk/       |
-|     11 | Airdrie Harriers      | http://airdrieharriers.org/                |
 |     17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/      |
 |     27 | Glasgow FrontRunners  | https://www.glasgowfrontrunners.org/       |
 |     34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/              |
