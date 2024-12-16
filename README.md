@@ -17,6 +17,7 @@
 #### Event #1, Linn Park (14th December, 2024)
 
 - Team manages/club captains, [please submit your results](https://westleague.org.uk/results/submission/)
+  - Submissions received to 16th December @ 6pm have been applied
 - [Event #1, Linn Park (14th December, 2024)](https://results.westleague.org.uk/results/provisional/2024-25/1/html/)
   - **Awaiting multiple team results** - [List of teams here](https://github.com/rleyton/westleague/blob/main/results/provisional/2024-25/1/markdown/missingTeamSubmissions.md), [please submit via website here](https://westleague.org.uk/results/submission/)
   - [Race results](https://results.westleague.org.uk/results/provisional/2024-25/1/html/) - See below for known issues
