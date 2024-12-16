@@ -1,6 +1,8 @@
 |   1 |   Total | Club name                  | Website                                |
 |----:|--------:|:---------------------------|:---------------------------------------|
-|  14 |      14 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/ |
-|  20 |      20 | East Kilbride AC           | http://www.ekac.org.uk/                |
-|  40 |      40 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/  |
-|  53 |      53 | Springburn Harriers        | https://www.springburnharriers.co.uk/  |
+|  20 |      20 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/ |
+|  27 |      27 | East Kilbride AC           | http://www.ekac.org.uk/                |
+|  40 |      40 | Cambuslang Harriers        | https://cambuslangharriers.org/        |
+|  49 |      49 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/  |
+|  59 |      59 | Springburn Harriers        | https://www.springburnharriers.co.uk/  |
+|  61 |      61 | West End RR                | https://www.westendroadrunners.co.uk/  |

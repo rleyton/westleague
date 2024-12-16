@@ -1,15 +1,18 @@
 position,Club name,team,gender,finisherPositions,teamPoints,penaltyPoints,totalPoints,totalFinishers,Website
 1,Inverclyde AC,4,M,"3,5,7",15,0,15,3,https://www.inverclydeac.org/
-2,Shettleston Harriers,10,M,"1,2,13",16,0,16,6,http://shettlestonharriers.org.uk/
-3,Greenock Glenpark Harriers,30,M,"9,12,32",53,0,53,3,https://greenockglenparkharriers.com/
-4,Motherwell AC,40,M,"19,21,26",66,0,66,3,https://motherwellac.com/
-5,East Kilbride AC,1,M,"10,15",25,42,67,2,http://www.ekac.org.uk/
-6,Kilmarnock H&AC,2,M,"11,14",25,42,67,2,http://www.kilmarnockharriers.com/
-7,Bellahouston Harriers,8,M,"18,24,27",69,0,69,5,http://www.bellahoustonharriers.co.uk/
-8,Ayr Seaforth AC,14,M,4,4,84,88,1,https://www.ayrseaforth.co.uk/
-9,Helensburgh AAC,32,M,6,6,84,90,1,https://www.helensburghaac.com/
-10,Springburn Harriers,48,M,"22,28",50,42,92,2,https://www.springburnharriers.co.uk/
-11,Hamilton Harriers,31,M,8,8,84,92,1,
-12,Glasgow FrontRunners,27,M,17,17,84,101,1,https://www.glasgowfrontrunners.org/
-13,Airdrie Harriers,11,M,20,20,84,104,1,http://airdrieharriers.org/
-14,Whitemoss AAC,57,M,23,23,84,107,1,https://whitemossaac.co.uk/
+2,Shettleston Harriers,10,M,"1,2,14",17,0,17,6,http://shettlestonharriers.org.uk/
+3,Cambuslang Harriers,6,M,"8,24,25",57,0,57,4,https://cambuslangharriers.org/
+4,Greenock Glenpark Harriers,30,M,"10,13,38",61,0,61,3,https://greenockglenparkharriers.com/
+5,East Kilbride AC,1,M,"11,16",27,48,75,2,http://www.ekac.org.uk/
+6,Kilmarnock H&AC,2,M,"12,15",27,48,75,2,http://www.kilmarnockharriers.com/
+7,Motherwell AC,40,M,"21,23,32",76,0,76,3,https://motherwellac.com/
+8,Bellahouston Harriers,8,M,"19,29,33",81,0,81,5,http://www.bellahoustonharriers.co.uk/
+9,Ayr Seaforth AC,14,M,4,4,96,100,1,https://www.ayrseaforth.co.uk/
+10,Helensburgh AAC,32,M,6,6,96,102,1,https://www.helensburghaac.com/
+11,Hamilton Harriers,31,M,9,9,96,105,1,
+12,Springburn Harriers,48,M,"27,34",61,48,109,2,https://www.springburnharriers.co.uk/
+13,Glasgow FrontRunners,27,M,18,18,96,114,1,https://www.glasgowfrontrunners.org/
+14,Law & District AAC,37,M,20,20,96,116,1,http://www.lawaac.co.uk/
+15,Airdrie Harriers,11,M,22,22,96,118,1,http://airdrieharriers.org/
+16,West End RR,56,M,26,26,96,122,1,https://www.westendroadrunners.co.uk/
+17,Whitemoss AAC,57,M,28,28,96,124,1,https://whitemossaac.co.uk/

@@ -8,16 +8,16 @@
 |          6 | 0:25:37 | 10F    | Gemma Griffiths       | F        | SENIOR   |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |               70 |
 |          7 | 0:25:41 | 54F    | Arianna Carmichael    | F        | U20      |           54 | VP-Glasgow                 | https://www.vp-glasgow.com                 |               71 |
 |          8 | 0:25:53 | 54F    | Emma Thomson          | F        | SENIOR   |           54 | VP-Glasgow                 | https://www.vp-glasgow.com                 |               75 |
-|          9 | 0:25:56 | 37F    | nan                   | F        | nan      |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               76 |
-|         10 | 0:26:05 | 37F    | nan                   | F        | nan      |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               78 |
-|         11 | 0:26:06 | 6F     | nan                   | F        | nan      |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |               80 |
-|         12 | 0:26:08 | 56F    | nan                   | F        | nan      |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |               81 |
+|          9 | 0:25:56 | 37F    | Elaine Boyle          | F        | SENIOR   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               76 |
+|         10 | 0:26:05 | 37F    | Christine Neill       | F        | SENIOR   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |               78 |
+|         11 | 0:26:06 | 6F     | Kirsty O'Brien        | F        | MASTER   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |               80 |
+|         12 | 0:26:08 | 56F    | Karen Patel           | F        | MASTER   |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |               81 |
 |         13 | 0:26:12 | 1F     | KELLY BAILLIE         | F        | MASTER   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |               83 |
 |         14 | 0:26:37 | 7F     | nan                   | F        | nan      |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |               85 |
 |         15 | 0:26:48 | 8F     | Katherine Hylands     | F        | SENIOR   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |               87 |
 |         16 | 0:26:48 | 27F    | Lauren Astley         | F        | SENIOR   |           27 | Glasgow FrontRunners       | https://www.glasgowfrontrunners.org/       |               90 |
 |         17 | 0:26:48 | 54F    | Christine Mackie      | F        | SENIOR   |           54 | VP-Glasgow                 | https://www.vp-glasgow.com                 |               92 |
-|         18 | 0:27:21 | 56F    | nan                   | F        | nan      |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |               95 |
+|         18 | 0:27:21 | 56F    | Becky Price           | F        | SENIOR   |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |               95 |
 |         19 | 0:27:24 | 17F    | nan                   | F        | nan      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |               96 |
 |         20 | 0:27:28 | 4F     | Kay Greg              | F        | SENIOR   |            4 | Inverclyde AC              | https://www.inverclydeac.org/              |               98 |
 |         21 | 0:27:34 | 8F     | Marianne Wilson       | F        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |              100 |
@@ -32,8 +32,8 @@
 |         30 | 0:28:51 | 3F     | nan                   | F        | nan      |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |              121 |
 |         31 | 0:29:05 | 3F     | nan                   | F        | nan      |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |              123 |
 |         32 | 0:29:20 | 8F     | Jennifer Walker       | F        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |              126 |
-|         33 | 0:29:40 | 6F     | nan                   | F        | nan      |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |              131 |
-|         34 | 0:29:58 | 56F    | nan                   | F        | nan      |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |              133 |
+|         33 | 0:29:40 | 6F     | Bernie O'Neil         | F        | MASTER   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |              131 |
+|         34 | 0:29:58 | 56F    | Alice Marks           | F        | SENIOR   |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |              133 |
 |         35 | 0:30:03 | 17F    | nan                   | F        | nan      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |              135 |
 |         36 | 0:30:08 | 8F     | Laura Ritchie         | F        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |              136 |
 |         37 | 0:30:46 | 8F     | Li Wang               | F        | MASTER   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |              140 |
