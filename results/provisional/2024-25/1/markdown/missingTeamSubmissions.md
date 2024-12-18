@@ -1,12 +1,6 @@
-|   team | Club name             | Website                                    |
-|-------:|:----------------------|:-------------------------------------------|
-|     34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/              |
-|      3 | Bellahouston RR       | https://www.bellahoustonroadrunners.co.uk/ |
-|      5 | Westerlands CCC       | https://westerlandsccc.co.uk/              |
-|      7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/           |
-|      8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |
-|      9 | Garscube Harriers     | https://www.garscubeharriers.org.uk/       |
-|     44 | North Ayrshire AAC    | https://naathletics.co.uk/                 |
-|     17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/      |
-|     49 | Stewartry AC          | https://stewartryac.wordpress.com/         |
-|     53 | Troon Tortoises       | http://troontortoises.co.uk                |
+|   team | Club name             | Website                                |
+|-------:|:----------------------|:---------------------------------------|
+|     17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |
+|     53 | Troon Tortoises       | http://troontortoises.co.uk            |
+|      8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
+|      9 | Garscube Harriers     | https://www.garscubeharriers.org.uk/   |

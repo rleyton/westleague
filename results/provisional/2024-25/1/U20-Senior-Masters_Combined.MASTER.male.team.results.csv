@@ -1,18 +1,23 @@
 position,Club name,team,gender,finisherPositions,teamPoints,penaltyPoints,totalPoints,totalFinishers,Website
-1,Inverclyde AC,4,M,"3,5,7",15,0,15,3,https://www.inverclydeac.org/
-2,Shettleston Harriers,10,M,"1,2,14",17,0,17,6,http://shettlestonharriers.org.uk/
-3,Cambuslang Harriers,6,M,"8,24,25",57,0,57,4,https://cambuslangharriers.org/
-4,Greenock Glenpark Harriers,30,M,"10,13,38",61,0,61,3,https://greenockglenparkharriers.com/
-5,East Kilbride AC,1,M,"11,16",27,48,75,2,http://www.ekac.org.uk/
-6,Kilmarnock H&AC,2,M,"12,15",27,48,75,2,http://www.kilmarnockharriers.com/
-7,Motherwell AC,40,M,"21,23,32",76,0,76,3,https://motherwellac.com/
-8,Bellahouston Harriers,8,M,"19,29,33",81,0,81,5,http://www.bellahoustonharriers.co.uk/
-9,Ayr Seaforth AC,14,M,4,4,96,100,1,https://www.ayrseaforth.co.uk/
-10,Helensburgh AAC,32,M,6,6,96,102,1,https://www.helensburghaac.com/
-11,Hamilton Harriers,31,M,9,9,96,105,1,
-12,Springburn Harriers,48,M,"27,34",61,48,109,2,https://www.springburnharriers.co.uk/
-13,Glasgow FrontRunners,27,M,18,18,96,114,1,https://www.glasgowfrontrunners.org/
-14,Law & District AAC,37,M,20,20,96,116,1,http://www.lawaac.co.uk/
-15,Airdrie Harriers,11,M,22,22,96,118,1,http://airdrieharriers.org/
-16,West End RR,56,M,26,26,96,122,1,https://www.westendroadrunners.co.uk/
-17,Whitemoss AAC,57,M,28,28,96,124,1,https://whitemossaac.co.uk/
+1,Inverclyde AC,4,M,"4,7,11",22,0,22,3,https://www.inverclydeac.org/
+2,Shettleston Harriers,10,M,"2,3,21",26,0,26,6,http://shettlestonharriers.org.uk/
+3,Westerlands CCC,5,M,"9,15,16",40,0,40,4,https://westerlandsccc.co.uk/
+4,Giffnock North AC,7,M,"6,8",14,57,71,2,https://www.giffnocknorth.co.uk/
+5,Cambuslang Harriers,6,M,"12,33,34",79,0,79,4,https://cambuslangharriers.org/
+6,Greenock Glenpark Harriers,30,M,"17,20,47",84,0,84,3,https://greenockglenparkharriers.com/
+7,East Kilbride AC,1,M,"18,23",41,57,98,2,http://www.ekac.org.uk/
+8,Kilmarnock H&AC,2,M,"19,22",41,57,98,2,http://www.kilmarnockharriers.com/
+9,Motherwell AC,40,M,"29,31,41",101,0,101,3,https://motherwellac.com/
+10,Bellahouston Harriers,8,M,"27,38,42",107,0,107,5,http://www.bellahoustonharriers.co.uk/
+11,Bellahouston RR,3,M,1,1,114,115,1,https://www.bellahoustonroadrunners.co.uk/
+12,Ayr Seaforth AC,14,M,5,5,114,119,1,https://www.ayrseaforth.co.uk/
+13,Helensburgh AAC,32,M,10,10,114,124,1,https://www.helensburghaac.com/
+14,Stewartry AC,49,M,13,13,114,127,1,https://stewartryac.wordpress.com/
+15,Hamilton Harriers,31,M,14,14,114,128,1,
+16,Springburn Harriers,48,M,"36,43",79,57,136,2,https://www.springburnharriers.co.uk/
+17,Glasgow FrontRunners,27,M,25,25,114,139,1,https://www.glasgowfrontrunners.org/
+18,Law & District AAC,37,M,28,28,114,142,1,http://www.lawaac.co.uk/
+19,Airdrie Harriers,11,M,30,30,114,144,1,http://airdrieharriers.org/
+20,North Ayrshire AAC,44,M,32,32,114,146,1,https://naathletics.co.uk/
+21,West End RR,56,M,35,35,114,149,1,https://www.westendroadrunners.co.uk/
+22,Whitemoss AAC,57,M,37,37,114,151,1,https://whitemossaac.co.uk/

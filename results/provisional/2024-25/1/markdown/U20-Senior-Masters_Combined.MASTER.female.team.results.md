@@ -1,8 +1,11 @@
-|   position | Club name                  |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                |
-|-----------:|:---------------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:---------------------------------------|
-|          1 | Bellahouston Harriers      |      8 | F        | 5,7,8               |           20 |               0 |            20 |                9 | http://www.bellahoustonharriers.co.uk/ |
-|          2 | East Kilbride AC           |      1 | F        | 4,6,17              |           27 |               0 |            27 |                3 | http://www.ekac.org.uk/                |
-|          3 | Cambuslang Harriers        |      6 | F        | 2,9                 |           11 |              29 |            40 |                2 | https://cambuslangharriers.org/        |
-|          4 | Greenock Glenpark Harriers |     30 | F        | 12,18,19            |           49 |               0 |            49 |                3 | https://greenockglenparkharriers.com/  |
-|          5 | Springburn Harriers        |     48 | F        | 1                   |            1 |              58 |            59 |                1 | https://www.springburnharriers.co.uk/  |
-|          6 | West End RR                |     56 | F        | 3                   |            3 |              58 |            61 |                1 | https://www.westendroadrunners.co.uk/  |
+|   position | Club name                  |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                    |
+|-----------:|:---------------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
+|          1 | Bellahouston Harriers      |      8 | F        | 6,8,10              |           24 |               0 |            24 |                9 | http://www.bellahoustonharriers.co.uk/     |
+|          2 | East Kilbride AC           |      1 | F        | 5,7,19              |           31 |               0 |            31 |                3 | http://www.ekac.org.uk/                    |
+|          3 | Cambuslang Harriers        |      6 | F        | 3,11                |           14 |              32 |            46 |                2 | https://cambuslangharriers.org/            |
+|          4 | Greenock Glenpark Harriers |     30 | F        | 14,21,22            |           57 |               0 |            57 |                3 | https://greenockglenparkharriers.com/      |
+|          5 | Springburn Harriers        |     48 | F        | 1                   |            1 |              64 |            65 |                1 | https://www.springburnharriers.co.uk/      |
+|          6 | Law & District AAC         |     37 | F        | 2                   |            2 |              64 |            66 |                1 | http://www.lawaac.co.uk/                   |
+|          7 | West End RR                |     56 | F        | 4                   |            4 |              64 |            68 |                1 | https://www.westendroadrunners.co.uk/      |
+|          8 | Bellahouston RR            |      3 | F        | 9                   |            9 |              64 |            73 |                1 | https://www.bellahoustonroadrunners.co.uk/ |
+|          9 | Westerlands CCC            |      5 | F        | 20                  |           20 |              64 |            84 |                1 | https://westerlandsccc.co.uk/              |
