@@ -11,9 +11,9 @@
 |          9 | 0:20:19 | 10M    | Cameron Muir               | M        | SENIOR   |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |
 |         10 | 0:20:32 | 8M     | Adam Stark                 | M        | SENIOR   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
 |         11 | 0:20:35 | 8M     | Fraser Armstrong           | M        | SENIOR   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
-|         12 | 0:20:44 | 7M     | Cameron Green              | M        | U20      |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |
+|         12 | 0:20:44 | 7M     | Conor Drummond             | M        | SENIOR   |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |
 |         13 | 0:20:49 | 3M     | Calum Borthwick            | M        | SENIOR   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
-|         14 | 0:20:53 | 7M     | Nick Boyle                 | M        | SENIOR   |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |
+|         14 | 0:20:53 | 7M     | Ally Stables               | M        | SENIOR   |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |
 |         15 | 0:20:55 | 5M     | Robert Hamlin              | M        | SENIOR   |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
 |         16 | 0:20:56 | 37M    | Ryan Kellock               | M        | U20      |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |
 |         17 | 0:21:04 | 37M    | Allan Neill                | M        | SENIOR   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |
@@ -23,10 +23,10 @@
 |         21 | 0:21:32 | 4M     | Rob Paterson               | M        | MASTER   |            4 | Inverclyde AC              | https://www.inverclydeac.org/              |
 |         22 | 0:21:34 | 10M    | Andrew Shields             | M        | SENIOR   |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |
 |         23 | 0:21:41 | 14M    | Kenneth Neill              | M        | MASTER   |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
-|         24 | 0:21:47 | 7M     | David Shaw                 | M        | MASTER   |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |
+|         24 | 0:21:47 | 7M     | Alastair Gray              | M        | SENIOR   |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |
 |         25 | 0:21:47 | 4M     | David Tamburini            | M        | MASTER   |            4 | Inverclyde AC              | https://www.inverclydeac.org/              |
 |         26 | 0:21:53 | 1M     | KENNY SCOTT                | M        | SENIOR   |            1 | East Kilbride AC           | http://www.ekac.org.uk/                    |
-|         27 | 0:21:55 | 7M     | Gillian Gallagher          | M        | MASTER   |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |
+|         27 | 0:21:55 | 7M     | Andy Campbell              | M        | MASTER   |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |
 |         28 | 0:21:58 | 2M     | Tom Flood                  | M        | SENIOR   |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
 |         29 | 0:22:02 | 3M     | iain Murphy                | M        | SENIOR   |            3 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
 |         30 | 0:22:21 | 56M    | Connor Smith               | M        | SENIOR   |           56 | West End RR                | https://www.westendroadrunners.co.uk/      |
@@ -35,7 +35,7 @@
 |         33 | 0:22:33 | 32M    | Richard O'Grady            | M        | MASTER   |           32 | Helensburgh AAC            | https://www.helensburghaac.com/            |
 |         34 | 0:22:41 | 48F    | Cat Gillen                 | F        | SENIOR   |           48 | Springburn Harriers        | https://www.springburnharriers.co.uk/      |
 |         35 | 0:22:45 | 8M     | Darren McQuade             | M        | SENIOR   |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
-|         36 | 0:22:46 | 7M     | Unknown: Giffnock North AC | M        | nan      |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |
+|         36 | 0:22:46 | 7M     | Hilary Carswell            | M        | MASTER   |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |
 |         37 | 0:23:02 | 6M     | Tom Adams                  | M        | SENIOR   |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
 |         38 | 0:23:08 | 5M     | Evan Griffiths             | M        | SENIOR   |            5 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
 |         39 | 0:23:14 | 37M    | Grant MacKenzie            | M        | SENIOR   |           37 | Law & District AAC         | http://www.lawaac.co.uk/                   |

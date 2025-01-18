@@ -1,9 +1,9 @@
 |   1 |   Total | Club name                  | Website                                    |
 |----:|--------:|:---------------------------|:-------------------------------------------|
-|  22 |      22 | Inverclyde AC              | https://www.inverclydeac.org/              |
+|  21 |      21 | Inverclyde AC              | https://www.inverclydeac.org/              |
 |  26 |      26 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |
-|  40 |      40 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
-|  71 |      71 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |
+|  39 |      39 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
+|  74 |      74 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |
 |  79 |      79 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
 |  84 |      84 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
 |  98 |      98 | East Kilbride AC           | http://www.ekac.org.uk/                    |
@@ -12,7 +12,7 @@
 | 107 |     107 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
 | 115 |     115 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
 | 119 |     119 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
-| 124 |     124 | Helensburgh AAC            | https://www.helensburghaac.com/            |
+| 123 |     123 | Helensburgh AAC            | https://www.helensburghaac.com/            |
 | 127 |     127 | Stewartry AC               | https://stewartryac.wordpress.com/         |
 | 128 |     128 | Hamilton Harriers          | nan                                        |
 | 136 |     136 | Springburn Harriers        | https://www.springburnharriers.co.uk/      |
