@@ -1,8 +1,8 @@
 position,Club name,team,gender,finisherPositions,teamPoints,penaltyPoints,totalPoints,totalFinishers,Website
-1,Inverclyde AC,4,M,"4,7,11",22,0,22,3,https://www.inverclydeac.org/
+1,Inverclyde AC,4,M,"4,6,11",21,0,21,3,https://www.inverclydeac.org/
 2,Shettleston Harriers,10,M,"2,3,21",26,0,26,6,http://shettlestonharriers.org.uk/
-3,Westerlands CCC,5,M,"9,15,16",40,0,40,4,https://westerlandsccc.co.uk/
-4,Giffnock North AC,7,M,"6,8",14,57,71,2,https://www.giffnocknorth.co.uk/
+3,Westerlands CCC,5,M,"8,15,16",39,0,39,4,https://westerlandsccc.co.uk/
+4,Giffnock North AC,7,M,"7,10",17,57,74,2,https://www.giffnocknorth.co.uk/
 5,Cambuslang Harriers,6,M,"12,33,34",79,0,79,4,https://cambuslangharriers.org/
 6,Greenock Glenpark Harriers,30,M,"17,20,47",84,0,84,3,https://greenockglenparkharriers.com/
 7,East Kilbride AC,1,M,"18,23",41,57,98,2,http://www.ekac.org.uk/
@@ -11,7 +11,7 @@ position,Club name,team,gender,finisherPositions,teamPoints,penaltyPoints,totalP
 10,Bellahouston Harriers,8,M,"27,38,42",107,0,107,5,http://www.bellahoustonharriers.co.uk/
 11,Bellahouston RR,3,M,1,1,114,115,1,https://www.bellahoustonroadrunners.co.uk/
 12,Ayr Seaforth AC,14,M,5,5,114,119,1,https://www.ayrseaforth.co.uk/
-13,Helensburgh AAC,32,M,10,10,114,124,1,https://www.helensburghaac.com/
+13,Helensburgh AAC,32,M,9,9,114,123,1,https://www.helensburghaac.com/
 14,Stewartry AC,49,M,13,13,114,127,1,https://stewartryac.wordpress.com/
 15,Hamilton Harriers,31,M,14,14,114,128,1,
 16,Springburn Harriers,48,M,"36,43",79,57,136,2,https://www.springburnharriers.co.uk/
