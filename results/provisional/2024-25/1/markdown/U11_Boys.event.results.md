@@ -23,14 +23,14 @@
 |         21 | 0:04:02 | 7M     | Jacob Prentice       | M        | U11      |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/       |
 |         22 | 0:04:02 | 6M     | Logan Jones          | M        | U11      |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/        |
 |         23 | 0:04:03 | 11M    | Anthony Mc Acinich   | M        | U11      |           11 | Airdrie Harriers           | http://airdrieharriers.org/            |
-|         24 | 0:04:04 | 17M    | nan                  | M        | U11      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/  |
+|         24 | 0:04:04 | 17M    | Jack Stewart         | M        | U11      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/  |
 |         25 | 0:04:05 | 6M     | Fionn Blaney         | M        | U11      |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/        |
 |         26 | 0:04:06 | 6M     | Adam Ramage          | M        | U11      |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/        |
 |         27 | 0:04:07 | 7M     | Carter McLaws        | M        | U11      |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/       |
 |         28 | 0:04:07 | 14M    | Caelan Fulton        | M        | U11      |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/         |
 |         29 | 0:04:08 | 34M    | Dylin Condie         | M        | U11      |           34 | Kilbarchan AAC             | https://kilbarchanaac.org.uk/          |
 |         30 | 0:04:08 | 14M    | Lewis Watson         | M        | U11      |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/         |
-|         31 | 0:04:09 | 17M    | nan                  | M        | U11      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/  |
+|         31 | 0:04:09 | 17M    | Innes McMonegal      | M        | U11      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/  |
 |         32 | 0:04:14 | 7M     | Jamie Laskey         | M        | U11      |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/       |
 |         33 | 0:04:17 | 37M    | James Bennet         | M        | U11      |           37 | Law & District AAC         | http://www.lawaac.co.uk/               |
 |         34 | 0:04:17 | 7M     | Josh Reid            | M        | U11      |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/       |
@@ -40,7 +40,7 @@
 |         38 | 0:04:23 | 10M    | Henoch Woldeselassie | M        | U11      |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/     |
 |         39 | 0:04:23 | 6M     | Alfie Tugwell        | M        | U11      |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/        |
 |         40 | 0:04:23 | 6M     | Christopher Patrick  | M        | U11      |            6 | Cambuslang Harriers        | https://cambuslangharriers.org/        |
-|         41 | 0:04:23 | 17M    | nan                  | M        | U11      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/  |
+|         41 | 0:04:23 | 17M    | Archie Steel         | M        | U11      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/  |
 |         42 | 0:04:33 | 32M    | William Sharp        | M        | U11      |           32 | Helensburgh AAC            | https://www.helensburghaac.com/        |
 |         43 | 0:04:34 | 1M     | LUKE McCORMICK       | M        | U11      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                |
 |         44 | 0:04:36 | 11M    | Zane Murray          | M        | U11      |           11 | Airdrie Harriers           | http://airdrieharriers.org/            |

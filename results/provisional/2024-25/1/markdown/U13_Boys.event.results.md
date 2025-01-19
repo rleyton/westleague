@@ -3,7 +3,7 @@
 |          1 | 0:07:25 | 7M     | Christopher Cameron | M        | U13      |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |
 |          2 | 0:07:26 | 34M    | Rory Jinks          | M        | U13      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/          |
 |          3 | 0:07:27 | 1M     | JACK McMILAN        | M        | U13      |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |
-|          4 | 0:07:28 | 17M    | nan                 | M        | U13      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |
+|          4 | 0:07:28 | 17M    | Hamish Anderson     | M        | U13      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |
 |          5 | 0:07:37 | 34M    | Tyler McMeekin      | M        | U13      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/          |
 |          6 | 0:07:38 | 6M     | Carlo Brown         | M        | U13      |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |
 |          7 | 0:07:42 | 7M     | Ewan Kennedy        | M        | U13      |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |
@@ -16,7 +16,7 @@
 |         14 | 0:08:01 | 34M    | Amgus Farley        | M        | U13      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/          |
 |         15 | 0:08:05 | 10M    | Ciaran Curley       | M        | U13      |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/     |
 |         16 | 0:08:22 | 7M     | Harry Tosh          | M        | U13      |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |
-|         17 | 0:08:28 | 17M    | nan                 | M        | U13      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |
+|         17 | 0:08:28 | 17M    | Harry Bell          | M        | U13      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |
 |         18 | 0:08:29 | 6M     | Douglas Gallie      | M        | U13      |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |
 |         19 | 0:08:32 | 34M    | Noah Kerr           | M        | U13      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/          |
 |         20 | 0:08:49 | 1M     | CALUM McCORMICK     | M        | U13      |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |

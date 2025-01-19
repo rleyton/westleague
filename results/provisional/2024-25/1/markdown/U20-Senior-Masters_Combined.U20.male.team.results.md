@@ -1,7 +1,8 @@
-|   position | Club name           |   team | gender   |   finisherPositions |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                            |
-|-----------:|:--------------------|-------:|:---------|--------------------:|-------------:|----------------:|--------------:|-----------------:|:-----------------------------------|
-|          1 | Kilmarnock H&AC     |      2 | M        |                   1 |            1 |              30 |            31 |                1 | http://www.kilmarnockharriers.com/ |
-|          2 | Cambuslang Harriers |      6 | M        |                   2 |            2 |              30 |            32 |                1 | https://cambuslangharriers.org/    |
-|          3 | Law & District AAC  |     37 | M        |                   3 |            3 |              30 |            33 |                1 | http://www.lawaac.co.uk/           |
-|          4 | Kilbarchan AAC      |     34 | M        |                   4 |            4 |              30 |            34 |                1 | https://kilbarchanaac.org.uk/      |
-|          5 | VP-Glasgow          |     54 | M        |                   5 |            5 |              30 |            35 |                1 | https://www.vp-glasgow.com         |
+|   position | Club name           |   team | gender   |   finisherPositions |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                               |
+|-----------:|:--------------------|-------:|:---------|--------------------:|-------------:|----------------:|--------------:|-----------------:|:--------------------------------------|
+|          1 | Kilmarnock H&AC     |      2 | M        |                   1 |            1 |              32 |            33 |                1 | http://www.kilmarnockharriers.com/    |
+|          2 | Cambuslang Harriers |      6 | M        |                   2 |            2 |              32 |            34 |                1 | https://cambuslangharriers.org/       |
+|          3 | Law & District AAC  |     37 | M        |                   3 |            3 |              32 |            35 |                1 | http://www.lawaac.co.uk/              |
+|          4 | Kilbarchan AAC      |     34 | M        |                   4 |            4 |              32 |            36 |                1 | https://kilbarchanaac.org.uk/         |
+|          5 | Calderglen Harriers |     17 | M        |                   5 |            5 |              32 |            37 |                1 | http://www.calderglenharriers.org.uk/ |
+|          6 | VP-Glasgow          |     54 | M        |                   6 |            6 |              32 |            38 |                1 | https://www.vp-glasgow.com            |
