@@ -14,7 +14,7 @@
 |         12 | 0:11:39 | 8M     | Callum Walker    | M        | U15      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               15 |
 |         13 | 0:11:39 | 7M     | Patrick McGovern | M        | U15      |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |               16 |
 |         14 | 0:11:40 | 37M    | Jamie Mackie     | M        | U15      |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |               17 |
-|         15 | 0:11:41 | 17M    | nan              | M        | U15      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |               19 |
+|         15 | 0:11:41 | 17M    | Finlay McMonegal | M        | U15      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |               19 |
 |         16 | 0:11:46 | 34M    | Jay Jenkins      | M        | U15      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/          |               21 |
 |         17 | 0:12:07 | 7M     | Joseph Mowat     | M        | U15      |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |               24 |
 |         18 | 0:12:20 | 11M    | Shae McGovern    | M        | U15      |           11 | Airdrie Harriers      | http://airdrieharriers.org/            |               26 |

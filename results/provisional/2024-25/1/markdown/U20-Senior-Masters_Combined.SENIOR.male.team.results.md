@@ -4,16 +4,17 @@
 |          2 | Bellahouston Harriers |      8 | M        | 7,8,22,26           |           63 |               0 |            63 |                7 | http://www.bellahoustonharriers.co.uk/     |
 |          3 | Westerlands CCC       |      5 | M        | 12,14,24,33         |           83 |               0 |            83 |                5 | https://westerlandsccc.co.uk/              |
 |          4 | Cambuslang Harriers   |      6 | M        | 1,23,31,35          |           90 |               0 |            90 |                4 | https://cambuslangharriers.org/            |
-|          5 | Giffnock North AC     |      7 | M        | 9,11,16             |           36 |              54 |            90 |                3 | https://www.giffnocknorth.co.uk/           |
-|          6 | Bellahouston RR       |      3 | M        | 10,19               |           29 |             108 |           137 |                2 | https://www.bellahoustonroadrunners.co.uk/ |
-|          7 | Law & District AAC    |     37 | M        | 13,25               |           38 |             108 |           146 |                2 | http://www.lawaac.co.uk/                   |
-|          8 | East Kilbride AC      |      1 | M        | 17,29               |           46 |             108 |           154 |                2 | http://www.ekac.org.uk/                    |
-|          9 | Glasgow FrontRunners  |     27 | M        | 27,40,43,44         |          154 |               0 |           154 |                4 | https://www.glasgowfrontrunners.org/       |
-|         10 | Kilmarnock H&AC       |      2 | M        | 18,32               |           50 |             108 |           158 |                2 | http://www.kilmarnockharriers.com/         |
-|         11 | West End RR           |     56 | M        | 20,30               |           50 |             108 |           158 |                2 | https://www.westendroadrunners.co.uk/      |
-|         12 | Motherwell AC         |     40 | M        | 2                   |            2 |             162 |           164 |                1 | https://motherwellac.com/                  |
-|         13 | Kilbarchan AAC        |     34 | M        | 4                   |            4 |             162 |           166 |                1 | https://kilbarchanaac.org.uk/              |
-|         14 | Ayr Seaforth AC       |     14 | M        | 21                  |           21 |             162 |           183 |                1 | https://www.ayrseaforth.co.uk/             |
-|         15 | VP-Glasgow            |     54 | M        | 28                  |           28 |             162 |           190 |                1 | https://www.vp-glasgow.com                 |
-|         16 | Springburn Harriers   |     48 | M        | 37                  |           37 |             162 |           199 |                1 | https://www.springburnharriers.co.uk/      |
-|         17 | Whitemoss AAC         |     57 | M        | 42                  |           42 |             162 |           204 |                1 | https://whitemossaac.co.uk/                |
+|          5 | Giffnock North AC     |      7 | M        | 9,11,16             |           36 |              55 |            91 |                3 | https://www.giffnocknorth.co.uk/           |
+|          6 | Bellahouston RR       |      3 | M        | 10,19               |           29 |             110 |           139 |                2 | https://www.bellahoustonroadrunners.co.uk/ |
+|          7 | Law & District AAC    |     37 | M        | 13,25               |           38 |             110 |           148 |                2 | http://www.lawaac.co.uk/                   |
+|          8 | Glasgow FrontRunners  |     27 | M        | 27,40,43,45         |          155 |               0 |           155 |                4 | https://www.glasgowfrontrunners.org/       |
+|          9 | East Kilbride AC      |      1 | M        | 17,29               |           46 |             110 |           156 |                2 | http://www.ekac.org.uk/                    |
+|         10 | Kilmarnock H&AC       |      2 | M        | 18,32               |           50 |             110 |           160 |                2 | http://www.kilmarnockharriers.com/         |
+|         11 | West End RR           |     56 | M        | 20,30               |           50 |             110 |           160 |                2 | https://www.westendroadrunners.co.uk/      |
+|         12 | Motherwell AC         |     40 | M        | 2                   |            2 |             165 |           167 |                1 | https://motherwellac.com/                  |
+|         13 | Kilbarchan AAC        |     34 | M        | 4                   |            4 |             165 |           169 |                1 | https://kilbarchanaac.org.uk/              |
+|         14 | Ayr Seaforth AC       |     14 | M        | 21                  |           21 |             165 |           186 |                1 | https://www.ayrseaforth.co.uk/             |
+|         15 | VP-Glasgow            |     54 | M        | 28                  |           28 |             165 |           193 |                1 | https://www.vp-glasgow.com                 |
+|         16 | Springburn Harriers   |     48 | M        | 37                  |           37 |             165 |           202 |                1 | https://www.springburnharriers.co.uk/      |
+|         17 | Whitemoss AAC         |     57 | M        | 42                  |           42 |             165 |           207 |                1 | https://whitemossaac.co.uk/                |
+|         18 | Calderglen Harriers   |     17 | M        | 44                  |           44 |             165 |           209 |                1 | http://www.calderglenharriers.org.uk/      |

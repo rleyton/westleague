@@ -11,6 +11,7 @@
 ### 2024/25
 
 - **Results will be slower to process on 15 December, due to personal circumstances**
+
 - There are only two events this season
   - Clubs interesting in hosting **future** league events, please get in touch via contact@westleague.org.uk
 

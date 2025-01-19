@@ -18,7 +18,7 @@
 |         16 | 0:11:39 | 7M     | Patrick McGovern     | M        | U15      |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |
 |         17 | 0:11:40 | 37M    | Jamie Mackie         | M        | U15      |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |
 |         18 | 0:11:40 | 7F     | Eve Cameron          | F        | U15      |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |
-|         19 | 0:11:41 | 17M    | nan                  | M        | U15      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |
+|         19 | 0:11:41 | 17M    | Finlay McMonegal     | M        | U15      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |
 |         20 | 0:11:45 | 44F    | Lola Finnigan        | F        | U15      |           44 | North Ayrshire AAC    | https://naathletics.co.uk/             |
 |         21 | 0:11:46 | 34M    | Jay Jenkins          | M        | U15      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/          |
 |         22 | 0:11:54 | 14F    | Willow Challis       | F        | U15      |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/         |
@@ -54,4 +54,4 @@
 |         52 | 0:15:53 | 48F    | Grace Humphris       | F        | U15      |           48 | Springburn Harriers   | https://www.springburnharriers.co.uk/  |
 |         53 | 0:16:15 | 11F    | Leah Patterson       | F        | U15      |           11 | Airdrie Harriers      | http://airdrieharriers.org/            |
 |         54 | 0:16:22 | 11M    | Nathan Reynolds      | M        | U15      |           11 | Airdrie Harriers      | http://airdrieharriers.org/            |
-|         55 | 0:17:26 | 17F    | nan                  | F        | U15      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |
+|         55 | 0:17:26 | 17F    | Aimee Creasey        | F        | U15      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |
