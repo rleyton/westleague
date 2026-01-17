@@ -1,0 +1,19 @@
+|   position | Club name                  |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                    |
+|-----------:|:---------------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
+|          1 | Shettleston Harriers       |     10 | F        | 2,4,6,27            |           39 |               0 |            39 |                4 | http://shettlestonharriers.org.uk/         |
+|          2 | VP-Glasgow                 |     54 | F        | 7,8,17,22           |           54 |               0 |            54 |                6 | https://www.vp-glasgow.com                 |
+|          3 | Bellahouston Harriers      |      8 | F        | 15,21,26,32         |           94 |               0 |            94 |               10 | http://www.bellahoustonharriers.co.uk/     |
+|          4 | Springburn Harriers        |     48 | F        | 1,3                 |            4 |             116 |           120 |                2 | https://www.springburnharriers.co.uk/      |
+|          5 | West End RR                |     56 | F        | 12,18,34            |           64 |              58 |           122 |                3 | https://www.westendroadrunners.co.uk/      |
+|          6 | Law & District AAC         |     37 | F        | 9,10                |           19 |             116 |           135 |                2 | http://www.lawaac.co.uk/                   |
+|          7 | East Kilbride AC           |      1 | F        | 13,25,44            |           82 |              58 |           140 |                3 | http://www.ekac.org.uk/                    |
+|          8 | Calderglen Harriers        |     17 | F        | 19,35,47            |          101 |              58 |           159 |                3 | http://www.calderglenharriers.org.uk/      |
+|          9 | Cambuslang Harriers        |      6 | F        | 11,33               |           44 |             116 |           160 |                2 | https://cambuslangharriers.org/            |
+|         10 | Westerlands CCC            |      5 | F        | 5,45                |           50 |             116 |           166 |                2 | https://westerlandsccc.co.uk/              |
+|         11 | Kilmarnock H&AC            |      2 | F        | 28,29               |           57 |             116 |           173 |                2 | http://www.kilmarnockharriers.com/         |
+|         12 | Bellahouston RR            |      3 | F        | 30,31               |           61 |             116 |           177 |                2 | https://www.bellahoustonroadrunners.co.uk/ |
+|         13 | Giffnock North AC          |      7 | F        | 14                  |           14 |             174 |           188 |                1 | https://www.giffnocknorth.co.uk/           |
+|         14 | Greenock Glenpark Harriers |     30 | F        | 38,46,48            |          132 |              58 |           190 |                3 | https://greenockglenparkharriers.com/      |
+|         15 | Glasgow FrontRunners       |     27 | F        | 16                  |           16 |             174 |           190 |                1 | https://www.glasgowfrontrunners.org/       |
+|         16 | Inverclyde AC              |      4 | F        | 20                  |           20 |             174 |           194 |                1 | https://www.inverclydeac.org/              |
+|         17 | Troon Tortoises            |     53 | F        | 40                  |           40 |             174 |           214 |                1 | http://troontortoises.co.uk                |

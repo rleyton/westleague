@@ -1,0 +1,14 @@
+|   position | Club name             |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                |
+|-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:---------------------------------------|
+|          1 | Law & District AAC    |     37 | M        | 3,5,14              |           22 |               0 |            22 |                4 | http://www.lawaac.co.uk/               |
+|          2 | Cambuslang Harriers   |      6 | M        | 4,10,11             |           25 |               0 |            25 |                3 | https://cambuslangharriers.org/        |
+|          3 | Giffnock North AC     |      7 | M        | 1,13,17             |           31 |               0 |            31 |                4 | https://www.giffnocknorth.co.uk/       |
+|          4 | East Kilbride AC      |      1 | M        | 6,9                 |           15 |              34 |            49 |                2 | http://www.ekac.org.uk/                |
+|          5 | Motherwell AC         |     40 | M        | 7,22                |           29 |              34 |            63 |                2 | https://motherwellac.com/              |
+|          6 | Garscube Harriers     |      9 | M        | 2                   |            2 |              68 |            70 |                1 | https://www.garscubeharriers.org.uk/   |
+|          7 | Kilmarnock H&AC       |      2 | M        | 19,21               |           40 |              34 |            74 |                2 | http://www.kilmarnockharriers.com/     |
+|          8 | Airdrie Harriers      |     11 | M        | 18,24               |           42 |              34 |            76 |                2 | http://airdrieharriers.org/            |
+|          9 | Ayr Seaforth AC       |     14 | M        | 8                   |            8 |              68 |            76 |                1 | https://www.ayrseaforth.co.uk/         |
+|         10 | Bellahouston Harriers |      8 | M        | 12                  |           12 |              68 |            80 |                1 | http://www.bellahoustonharriers.co.uk/ |
+|         11 | Calderglen Harriers   |     17 | M        | 15                  |           15 |              68 |            83 |                1 | http://www.calderglenharriers.org.uk/  |
+|         12 | Kilbarchan AAC        |     34 | M        | 16                  |           16 |              68 |            84 |                1 | https://kilbarchanaac.org.uk/          |

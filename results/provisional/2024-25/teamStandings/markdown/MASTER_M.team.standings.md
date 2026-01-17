@@ -1,0 +1,25 @@
+|   1 |   Total | Club name                  | Website                                    |
+|----:|--------:|:---------------------------|:-------------------------------------------|
+|  21 |      21 | Inverclyde AC              | https://www.inverclydeac.org/              |
+|  28 |      28 | Shettleston Harriers       | http://shettlestonharriers.org.uk/         |
+|  42 |      42 | Westerlands CCC            | https://westerlandsccc.co.uk/              |
+|  59 |      59 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/      |
+|  82 |      82 | Giffnock North AC          | https://www.giffnocknorth.co.uk/           |
+|  86 |      86 | Cambuslang Harriers        | https://cambuslangharriers.org/            |
+|  95 |      95 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/      |
+| 110 |     110 | East Kilbride AC           | http://www.ekac.org.uk/                    |
+| 110 |     110 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/         |
+| 112 |     112 | Motherwell AC              | https://motherwellac.com/                  |
+| 120 |     120 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/     |
+| 131 |     131 | Bellahouston RR            | https://www.bellahoustonroadrunners.co.uk/ |
+| 135 |     135 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/             |
+| 139 |     139 | Helensburgh AAC            | https://www.helensburghaac.com/            |
+| 143 |     143 | Stewartry AC               | https://stewartryac.wordpress.com/         |
+| 145 |     145 | Hamilton Harriers          | nan                                        |
+| 153 |     153 | Springburn Harriers        | https://www.springburnharriers.co.uk/      |
+| 157 |     157 | Glasgow FrontRunners       | https://www.glasgowfrontrunners.org/       |
+| 161 |     161 | Law & District AAC         | http://www.lawaac.co.uk/                   |
+| 163 |     163 | Airdrie Harriers           | http://airdrieharriers.org/                |
+| 165 |     165 | North Ayrshire AAC         | https://naathletics.co.uk/                 |
+| 169 |     169 | West End RR                | https://www.westendroadrunners.co.uk/      |
+| 172 |     172 | Whitemoss AAC              | https://whitemossaac.co.uk/                |
