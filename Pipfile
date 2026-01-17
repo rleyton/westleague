@@ -18,6 +18,9 @@ pypdf = "*"
 
 [dev-packages]
 autopep8 = "*"
+pytest = "*"
+pytest-cov = "*"
+pytest-mock = "*"
 
 [requires]
 python_version = "3.9"
