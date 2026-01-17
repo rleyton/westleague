@@ -402,13 +402,13 @@ class TestMergeRunners:
     """Tests for merge_runners function"""
 
     def test_returns_none_when_results_is_none(self):
-        """Should handle None results"""
+        """Should raise AttributeError when results is None"""
         from tools.src.adapter_results import merge_runners
 
-        result = merge_runners(results=None, clubSubmissions={}, event="U11_Boys")
-
-        # Function may modify results in place or return None
-        assert result is None or result is not None
+        # Function is not designed to handle None results
+        # It will fail with AttributeError when accessing results.columns
+        with pytest.raises(AttributeError):
+            merge_runners(results=None, clubSubmissions={}, event="U11_Boys")
 
     def test_returns_results_when_club_submissions_empty(self):
         """Should return original results when club submissions is empty"""
