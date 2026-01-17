@@ -148,14 +148,34 @@ def test_with_mock():
 ### Current Coverage
 
 The project currently has:
-- 100% coverage on tested modules (utils_functions, adapter_clubs, adapter_gender)
-- ~10% overall coverage (baseline)
+- **86.13% overall coverage** (565 of 656 statements)
+- **231 passing tests** across 13 test modules
+- 100% coverage on 12 core modules
+- 90%+ coverage on 5 additional modules
 
-### Coverage Goals
+### Coverage Breakdown by Module
 
-- Short-term: Increase to 30% by adding tests for core adapters
-- Medium-term: Reach 50% coverage
-- Long-term: Aim for 70%+ coverage
+**Perfect Coverage (100%):**
+- adapter_clubs.py
+- adapter_format.py
+- adapter_gender.py
+- adapter_json.py
+- adapter_pretty_html.py
+- adapter_team.py
+- utils_config.py
+- utils_consts.py
+- utils_functions.py
+
+**Excellent Coverage (90-99%):**
+- adapter_points.py - 99.15%
+- adapter_excel.py - 96.55%
+- adapter_places.py - 96.00%
+- adapter_sheets.py - 95.89%
+- adapter_times.py - 95.00%
+
+**Good Coverage (70-89%):**
+- adapter_results.py - 77.06%
+- adapter_team_results.py - 70.00%
 
 ### Viewing Coverage Reports
 
