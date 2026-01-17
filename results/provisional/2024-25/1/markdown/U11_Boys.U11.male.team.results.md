@@ -1,0 +1,21 @@
+|   position | Club name                  |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                |
+|-----------:|:---------------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:---------------------------------------|
+|          1 | Kilbarchan AAC             |     34 | M        | 1,10,11             |           22 |               0 |            22 |                5 | https://kilbarchanaac.org.uk/          |
+|          2 | Giffnock North AC          |      7 | M        | 6,13,14             |           33 |               0 |            33 |               12 | https://www.giffnocknorth.co.uk/       |
+|          3 | Shettleston Harriers       |     10 | M        | 12,16,17            |           45 |               0 |            45 |                5 | http://shettlestonharriers.org.uk/     |
+|          4 | Law & District AAC         |     37 | M        | 8,19,33             |           60 |               0 |            60 |                6 | http://www.lawaac.co.uk/               |
+|          5 | Cambuslang Harriers        |      6 | M        | 22,25,26            |           73 |               0 |            73 |                5 | https://cambuslangharriers.org/        |
+|          6 | Calderglen Harriers        |     17 | M        | 24,31,41            |           96 |               0 |            96 |                3 | http://www.calderglenharriers.org.uk/  |
+|          7 | Inverclyde AC              |      4 | M        | 7,36,54             |           97 |               0 |            97 |                3 | https://www.inverclydeac.org/          |
+|          8 | Ayr Seaforth AC            |     14 | M        | 28,30,47            |          105 |               0 |           105 |                5 | https://www.ayrseaforth.co.uk/         |
+|          9 | Airdrie Harriers           |     11 | M        | 23,44,51            |          118 |               0 |           118 |                4 | http://airdrieharriers.org/            |
+|         10 | East Kilbride AC           |      1 | M        | 43,49,52            |          144 |               0 |           144 |                3 | http://www.ekac.org.uk/                |
+|         11 | Springburn Harriers        |     48 | M        | 2                   |            2 |             142 |           144 |                1 | https://www.springburnharriers.co.uk/  |
+|         12 | North Ayrshire AAC         |     44 | M        | 3                   |            3 |             142 |           145 |                1 | https://naathletics.co.uk/             |
+|         13 | VP-Glasgow                 |     54 | M        | 4                   |            4 |             142 |           146 |                1 | https://www.vp-glasgow.com             |
+|         14 | Kilmarnock H&AC            |      2 | M        | 5                   |            5 |             142 |           147 |                1 | http://www.kilmarnockharriers.com/     |
+|         15 | Whitemoss AAC              |     57 | M        | 9                   |            9 |             142 |           151 |                1 | https://whitemossaac.co.uk/            |
+|         16 | Greenock Glenpark Harriers |     30 | M        | 15                  |           15 |             142 |           157 |                1 | https://greenockglenparkharriers.com/  |
+|         17 | Helensburgh AAC            |     32 | M        | 42,56               |           98 |              71 |           169 |                2 | https://www.helensburghaac.com/        |
+|         18 | Motherwell AC              |     40 | M        | 59                  |           59 |             142 |           201 |                1 | https://motherwellac.com/              |
+|         19 | Bellahouston Harriers      |      8 | M        | 61                  |           61 |             142 |           203 |                1 | http://www.bellahoustonharriers.co.uk/ |
