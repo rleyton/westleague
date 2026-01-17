@@ -1,0 +1,38 @@
+[run]
+# Coverage configuration for West League XC Results project
+
+source = tools/src
+omit =
+    */tests/*
+    */test_*
+    */__init__.py
+    */conftest.py
+    .venv/*
+    venv/*
+    */site-packages/*
+
+[report]
+# Reporting options
+precision = 2
+show_missing = True
+skip_covered = False
+
+exclude_lines =
+    # Default excludes
+    pragma: no cover
+    def __repr__
+    def __str__
+    raise AssertionError
+    raise NotImplementedError
+    if __name__ == .__main__.:
+    if TYPE_CHECKING:
+    @abstractmethod
+    @abc.abstractmethod
+
+[html]
+# HTML report directory
+directory = htmlcov
+
+[xml]
+# XML output for CI systems
+output = coverage.xml

@@ -4,6 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+numpy = "<2"
 pandas = "<2"
 gspread = "*"
 python-dotenv = "*"
@@ -18,6 +19,9 @@ pypdf = "*"
 
 [dev-packages]
 autopep8 = "*"
+pytest = "*"
+pytest-cov = "*"
+pytest-mock = "*"
 
 [requires]
 python_version = "3.9"

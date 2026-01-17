@@ -3,50 +3,24 @@
 ## Submission of results
 
 - Team managers/club captains, please see the [league website for details on submitting results](https://westleague.org.uk/results/submission/)
-- Timelapse recordings from the finish line may be available via the website, at [westleague.org.uk/results/timelapse-videos/](https://westleague.org.uk/results/timelapse-videos/)
-  - Note that this is event/weather/volunteer dependent.
+  - Note that this is event/weather/volunteer dependent. Please follow social media/news for cancellation notes.
 
 ## Provisional results
 
-### 2024/25
+### 2025-26
 
-- **Results will be slower to process on 15 December, due to personal circumstances**
+- **Results for Event #1 (Strathaven), 17th Jan 2026 will be processed on 18th January 2026**. See above for team managers/clubs.
 
-- There are only two events this season
-  - Clubs interesting in hosting **future** league events, please get in touch via contact@westleague.org.uk
-
-#### Event #1, Linn Park (14th December, 2024)
-
-- Team manages/club captains, [please submit your results](https://westleague.org.uk/results/submission/)
-  - Submissions received to 16th December @ 6pm have been applied
-- [Event #1, Linn Park (14th December, 2024)](https://results.westleague.org.uk/results/provisional/2024-25/1/html/)
-  - **Awaiting multiple team results** - [List of teams here](https://github.com/rleyton/westleague/blob/main/results/provisional/2024-25/1/markdown/missingTeamSubmissions.md), [please submit via website here](https://westleague.org.uk/results/submission/)
-  - [Race results](https://results.westleague.org.uk/results/provisional/2024-25/1/html/) - See below for known issues
-    - Results are available as [single PDF](https://results.westleague.org.uk/results/provisional/2024-25/1/pdf/RESULTS.pdf)
-  - Hosted by [Giffnock North AC](https://www.giffnocknorth.co.uk/)
-  - [Attendance: 408](./results/provisional/2024-25/1/meta.json)
-  - [Thanks to the volunteers](./results/provisional/2024-25/1/html/volunteers.html)
-  - Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2024-25/1), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2024-25/1/markdown/), [PDF](https://github.com/rleyton/westleague/tree/main/results/provisional/2024-25/1/pdf/)
-
-#### Event #2, Strathaven (25th January, 2025)
-
-- Pending
 
 ### Processing notes
 
 - Results typically processed on the **SUNDAY** following the event
 - Until all team submissions received, **team positions/points will change**
-- _Results reflect team submissions received by **2nd March**_ - Please direct queries/issues to contact@westleague.org.uk
+- Please direct queries/issues to contact@westleague.org.uk
 
 ## Previous seasons
 
-### 2023-24
-
-- [Results summary/links for the 2023-24 season can be found here](./README.2023-24.md)
-
-### 2022-23
-
-- [Results summary/links for the 2022-23 season can be found here](./README.2022-23.md)
+- [See previous seasons results here](./PREVIOUS_SEASONS.md)
 
 # Results explainer
 
