@@ -12,6 +12,7 @@
 * Processing steps:
   * Check/review top-level [.env](../.env)
   * Load Google Sheets transcripts: Run: `tools/sheets-to-csv.py`
+    * Note needs to be shared with service account: `west-district-xc-league@west-district-league.iam.gserviceaccount.com`
   * If staged club results available, run: `tools/club-submissions-to-csv.py`
   * Run: `tools/process-results.py` and review initial output
     * Add adjustments if required
