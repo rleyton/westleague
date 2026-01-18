@@ -3,12 +3,13 @@
 |          1 | Shettleston Harriers  |     10 | M        | 2,4,5               |           11 |               0 |            11 |                4 | http://shettlestonharriers.org.uk/     |
 |          2 | East Kilbride AC      |      1 | M        | 1,11,13             |           25 |               0 |            25 |                5 | http://www.ekac.org.uk/                |
 |          3 | Bellahouston Harriers |      8 | M        | 6,8,12              |           26 |               0 |            26 |                5 | http://www.bellahoustonharriers.co.uk/ |
-|          4 | Kilmarnock H&AC       |      2 | M        | 7,14,17             |           38 |               0 |            38 |                3 | http://www.kilmarnockharriers.com/     |
-|          5 | Cambuslang Harriers   |      6 | M        | 3,18,25             |           46 |               0 |            46 |                4 | https://cambuslangharriers.org/        |
-|          6 | Calderglen Harriers   |     17 | M        | 19,22,26            |           67 |               0 |            67 |                5 | http://www.calderglenharriers.org.uk/  |
-|          7 | North Ayrshire AAC    |     44 | M        | 16,29               |           45 |              43 |            88 |                2 | https://naathletics.co.uk/             |
-|          8 | Helensburgh AAC       |     32 | M        | 9                   |            9 |              86 |            95 |                1 | https://www.helensburghaac.com/        |
-|          9 | Hamilton Harriers     |     31 | M        | 10                  |           10 |              86 |            96 |                1 | nan                                    |
-|         10 | Westerlands CCC       |      5 | M        | 21                  |           21 |              86 |           107 |                1 | https://westerlandsccc.co.uk/          |
-|         11 | Whitemoss AAC         |     57 | M        | 24                  |           24 |              86 |           110 |                1 | https://whitemossaac.co.uk/            |
-|         12 | Larkhall YMCA         |     36 | M        | 31                  |           31 |              86 |           117 |                1 | https://www.larkhallymcaharriers.org   |
+|          4 | Kilmarnock H&AC       |      2 | M        | 7,14,18             |           39 |               0 |            39 |                3 | http://www.kilmarnockharriers.com/     |
+|          5 | Cambuslang Harriers   |      6 | M        | 3,19,26             |           48 |               0 |            48 |                4 | https://cambuslangharriers.org/        |
+|          6 | Calderglen Harriers   |     17 | M        | 20,23,27            |           70 |               0 |            70 |                5 | http://www.calderglenharriers.org.uk/  |
+|          7 | North Ayrshire AAC    |     44 | M        | 17,30               |           47 |              44 |            91 |                2 | https://naathletics.co.uk/             |
+|          8 | Helensburgh AAC       |     32 | M        | 9                   |            9 |              88 |            97 |                1 | https://www.helensburghaac.com/        |
+|          9 | Hamilton Harriers     |     31 | M        | 10                  |           10 |              88 |            98 |                1 | nan                                    |
+|         10 | Troon Tortoises       |     53 | M        | 16                  |           16 |              88 |           104 |                1 | http://troontortoises.co.uk            |
+|         11 | Westerlands CCC       |      5 | M        | 22                  |           22 |              88 |           110 |                1 | https://westerlandsccc.co.uk/          |
+|         12 | Whitemoss AAC         |     57 | M        | 25                  |           25 |              88 |           113 |                1 | https://whitemossaac.co.uk/            |
+|         13 | Larkhall YMCA         |     36 | M        | 32                  |           32 |              88 |           120 |                1 | https://www.larkhallymcaharriers.org   |

@@ -2,7 +2,8 @@
 |-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:---------------------------------------|
 |          1 | Cambuslang Harriers   |      6 | F        | 1,3,4               |            8 |               0 |             8 |                4 | https://cambuslangharriers.org/        |
 |          2 | Bellahouston Harriers |      8 | F        | 5,6,8               |           19 |               0 |            19 |                7 | http://www.bellahoustonharriers.co.uk/ |
-|          3 | Calderglen Harriers   |     17 | F        | 10,13,18            |           41 |               0 |            41 |                3 | http://www.calderglenharriers.org.uk/  |
-|          4 | East Kilbride AC      |      1 | F        | 2,14                |           16 |              28 |            44 |                2 | http://www.ekac.org.uk/                |
-|          5 | Larkhall YMCA         |     36 | F        | 7                   |            7 |              56 |            63 |                1 | https://www.larkhallymcaharriers.org   |
-|          6 | Westerlands CCC       |      5 | F        | 15                  |           15 |              56 |            71 |                1 | https://westerlandsccc.co.uk/          |
+|          3 | Calderglen Harriers   |     17 | F        | 11,14,19            |           44 |               0 |            44 |                3 | http://www.calderglenharriers.org.uk/  |
+|          4 | East Kilbride AC      |      1 | F        | 2,15                |           17 |              29 |            46 |                2 | http://www.ekac.org.uk/                |
+|          5 | Larkhall YMCA         |     36 | F        | 7                   |            7 |              58 |            65 |                1 | https://www.larkhallymcaharriers.org   |
+|          6 | Troon Tortoises       |     53 | F        | 9                   |            9 |              58 |            67 |                1 | http://troontortoises.co.uk            |
+|          7 | Westerlands CCC       |      5 | F        | 16                  |           16 |              58 |            74 |                1 | https://westerlandsccc.co.uk/          |

@@ -14,21 +14,22 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website,finishPositi
 13,0:25:43,1M,KEITH CHARTERS,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/,49
 14,0:25:54,2M,Greig Glendinning,M,MASTER,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,50
 15,0:26:02,10M,John Duffy,M,MASTER,10,Shettleston Harriers,http://shettlestonharriers.org.uk/,54
-16,0:26:26,44M,Craig Dailly,M,MASTER,44,North Ayrshire AAC,https://naathletics.co.uk/,63
-17,0:26:26,2M,Gary Martin,M,MASTER,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,64
-18,0:26:35,6M,Iain Wallace,M,MASTER,6,Cambuslang Harriers,https://cambuslangharriers.org/,67
-19,0:26:49,17M,Iain MacLean,M,MASTER,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,71
-20,0:27:11,8M,Barry Mitchell,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,77
-21,0:27:14,5M,David Riach,M,MASTER,5,Westerlands CCC,https://westerlandsccc.co.uk/,78
-22,0:27:16,17M,Jason Grant,M,MASTER,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,81
-23,0:27:34,8M,Kenneth Scott,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,84
-24,0:27:34,57M,David Cathie,M,MASTER,57,Whitemoss AAC,https://whitemossaac.co.uk/,85
-25,0:28:04,6M,Des Dickson,M,MASTER,6,Cambuslang Harriers,https://cambuslangharriers.org/,90
-26,0:28:08,17M,Andrew Buchanan,M,MASTER,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,91
-27,0:29:38,1M,MICHAEL CARLIN,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/,100
-28,0:30:28,6M,Iain Crawford,M,MASTER,6,Cambuslang Harriers,https://cambuslangharriers.org/,105
-29,0:30:43,44M,Gary Kilpatrick,M,MASTER,44,North Ayrshire AAC,https://naathletics.co.uk/,108
-30,0:31:10,1M,ADAM McCORMICK,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/,112
-31,0:31:14,36M,William Thomson,M,MASTER,36,Larkhall YMCA,https://www.larkhallymcaharriers.org,113
-32,0:32:11,17M,Richard Lawton,M,MASTER,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,118
-33,0:39:33,17M,Russell Couper,M,MASTER,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,127
+16,0:26:12,53M,Matt Pearce,M,MASTER,53,Troon Tortoises,http://troontortoises.co.uk,61
+17,0:26:26,44M,Craig Dailly,M,MASTER,44,North Ayrshire AAC,https://naathletics.co.uk/,63
+18,0:26:26,2M,Gary Martin,M,MASTER,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,64
+19,0:26:35,6M,Iain Wallace,M,MASTER,6,Cambuslang Harriers,https://cambuslangharriers.org/,67
+20,0:26:49,17M,Iain MacLean,M,MASTER,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,71
+21,0:27:11,8M,Barry Mitchell,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,77
+22,0:27:14,5M,David Riach,M,MASTER,5,Westerlands CCC,https://westerlandsccc.co.uk/,78
+23,0:27:16,17M,Jason Grant,M,MASTER,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,81
+24,0:27:34,8M,Kenneth Scott,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,84
+25,0:27:34,57M,David Cathie,M,MASTER,57,Whitemoss AAC,https://whitemossaac.co.uk/,85
+26,0:28:04,6M,Des Dickson,M,MASTER,6,Cambuslang Harriers,https://cambuslangharriers.org/,90
+27,0:28:08,17M,Andrew Buchanan,M,MASTER,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,91
+28,0:29:38,1M,MICHAEL CARLIN,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/,100
+29,0:30:28,6M,Iain Crawford,M,MASTER,6,Cambuslang Harriers,https://cambuslangharriers.org/,105
+30,0:30:43,44M,Gary Kilpatrick,M,MASTER,44,North Ayrshire AAC,https://naathletics.co.uk/,108
+31,0:31:10,1M,ADAM McCORMICK,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/,112
+32,0:31:14,36M,William Thomson,M,MASTER,36,Larkhall YMCA,https://www.larkhallymcaharriers.org,113
+33,0:32:11,17M,Richard Lawton,M,MASTER,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,118
+34,0:39:33,17M,Russell Couper,M,MASTER,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,127
