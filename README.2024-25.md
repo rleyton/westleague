@@ -6,13 +6,13 @@
 
 ### Event #1, Linn Park (14th December, 2024)
 
-- [Event #1, Linn Park (14th December, 2024)](https://results.westleague.org.uk/results/provisional/2024-25/1/html/)
-  - [Race results](https://results.westleague.org.uk/results/provisional/2024-25/1/html/)
-    - Results are available as [single PDF](https://results.westleague.org.uk/results/provisional/2024-25/1/pdf/RESULTS.pdf)
+- [Event #1, Linn Park (14th December, 2024)](https://results.westleague.org.uk/results/confirmed/2024-25/1/html/)
+  - [Race results](https://results.westleague.org.uk/results/confirmed/2024-25/1/html/)
+    - Results are available as [single PDF](https://results.westleague.org.uk/results/confirmed/2024-25/1/pdf/RESULTS.pdf)
   - Hosted by [Giffnock North AC](https://www.giffnocknorth.co.uk/)
-  - [Attendance: 408](./results/provisional/2024-25/1/meta.json)
-  - [Thanks to the volunteers](./results/provisional/2024-25/1/html/volunteers.html)
-  - Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2024-25/1), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2024-25/1/markdown/), [PDF](https://github.com/rleyton/westleague/tree/main/results/provisional/2024-25/1/pdf/)
+  - [Attendance: 408](./results/confirmed/2024-25/1/meta.json)
+  - [Thanks to the volunteers](./results/confirmed/2024-25/1/html/volunteers.html)
+  - Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/confirmed/2024-25/1), [markdown](https://github.com/rleyton/westleague/tree/main/results/confirmed/2024-25/1/markdown/), [PDF](https://github.com/rleyton/westleague/tree/main/results/confirmed/2024-25/1/pdf/)
 
 ### Event #2, Strathaven (25th January, 2025)
 
