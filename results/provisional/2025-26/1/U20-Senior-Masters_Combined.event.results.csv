@@ -46,11 +46,11 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 45,0:25:24,37M,,M,,37,Law & District AAC,http://www.lawaac.co.uk/
 46,0:25:30,6M,Ross Noble,M,SENIOR,6,Cambuslang Harriers,https://cambuslangharriers.org/
 47,0:25:32,8M,Chris Morris,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
-48,0:25:40,17M,,M,,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/
+48,0:25:40,17M,Kai Wheeler,M,U20,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/
 49,0:25:43,1M,KEITH CHARTERS,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/
 50,0:25:54,2M,Greig Glendinning,M,MASTER,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
 51,0:25:56,40M,O'Neill Derek,M,SENIOR,40,Motherwell AC,https://motherwellac.com/
-52,0:25:56,17M,,M,,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/
+52,0:25:56,17M,Martin MacDonald,M,SENIOR,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/
 53,0:25:59,1F,AMY ANDREW,F,U20,1,East Kilbride AC,http://www.ekac.org.uk/
 54,0:26:02,10M,John Duffy,M,MASTER,10,Shettleston Harriers,http://shettlestonharriers.org.uk/
 55,0:26:02,37F,,F,,37,Law & District AAC,http://www.lawaac.co.uk/
@@ -69,7 +69,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 68,0:26:40,37F,,F,,37,Law & District AAC,http://www.lawaac.co.uk/
 69,0:26:43,1F,KELLY BAILLIE,F,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/
 70,0:26:49,6F,Emma Morris,F,MASTER,6,Cambuslang Harriers,https://cambuslangharriers.org/
-71,0:26:49,17M,,M,,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/
+71,0:26:49,17M,Iain MacLean,M,MASTER,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/
 72,0:26:53,57M,James Cathie,M,SENIOR,57,Whitemoss AAC,https://whitemossaac.co.uk/
 73,0:26:58,50M,,M,,50,Strathaven Striders,
 74,0:26:59,11F,,F,,11,Airdrie Harriers,http://airdrieharriers.org/
@@ -79,7 +79,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 78,0:27:14,5M,David Riach,M,MASTER,5,Westerlands CCC,https://westerlandsccc.co.uk/
 79,0:27:16,2F,Morgan McBurnie,F,SENIOR,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
 80,0:27:16,10F,Molly Quinn,F,SENIOR,10,Shettleston Harriers,http://shettlestonharriers.org.uk/
-81,0:27:16,17M,,M,,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/
+81,0:27:16,17M,Jason Grant,M,MASTER,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/
 82,0:27:18,8F,Marianne Wilson,F,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
 83,0:27:24,8F,Katherine Hylands,F,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
 84,0:27:34,8M,Kenneth Scott,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
@@ -89,8 +89,8 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 88,0:27:42,11M,,M,,11,Airdrie Harriers,http://airdrieharriers.org/
 89,0:27:44,8F,Jennifer Walker,F,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
 90,0:28:04,6M,Des Dickson,M,MASTER,6,Cambuslang Harriers,https://cambuslangharriers.org/
-91,0:28:08,17M,,M,,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/
-92,0:28:14,17M,,M,,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/
+91,0:28:08,17M,Andrew Buchanan,M,MASTER,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/
+92,0:28:14,17M,Andrew Higgins,M,SENIOR,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/
 93,0:28:42,5F,Alice Gamble,F,SENIOR,5,Westerlands CCC,https://westerlandsccc.co.uk/
 94,0:28:55,36F,Julie Hill,F,MASTER,36,Larkhall YMCA,https://www.larkhallymcaharriers.org
 95,0:28:59,40M,Kane Darren,M,SENIOR,40,Motherwell AC,https://motherwellac.com/
@@ -108,7 +108,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 107,0:30:38,8M,David Carson,M,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
 108,0:30:43,44M,Gary Kilpatrick,M,MASTER,44,North Ayrshire AAC,https://naathletics.co.uk/
 109,0:30:45,8F,Lauren Mackay,F,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
-110,0:30:52,17F,,F,,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/
+110,0:30:52,17F,Alison Lessells,F,MASTER,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/
 111,0:31:01,50M,,M,,50,Strathaven Striders,
 112,0:31:10,1M,ADAM McCORMICK,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/
 113,0:31:14,36M,William Thomson,M,MASTER,36,Larkhall YMCA,https://www.larkhallymcaharriers.org
@@ -116,14 +116,14 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 115,0:31:40,54M,,M,,54,VP-Glasgow,https://www.vp-glasgow.com
 116,0:31:42,8F,Stephanie Rudd,F,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
 117,0:31:46,40F,McKean Julie,F,SENIOR,40,Motherwell AC,https://motherwellac.com/
-118,0:32:11,17M,,M,,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/
+118,0:32:11,17M,Richard Lawton,M,MASTER,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/
 119,0:33:01,54F,,F,,54,VP-Glasgow,https://www.vp-glasgow.com
-120,0:34:01,17F,,F,,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/
+120,0:34:01,17F,Jacqueline Balmer,F,MASTER,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/
 121,0:34:25,1F,TRACEY YATES,F,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/
 122,0:35:01,35M,,M,,35,Kirkintilloch Olympians,https://kirkintillocholympians.co.uk/
 123,0:35:16,4F,,F,,4,Inverclyde AC,https://www.inverclydeac.org/
 124,0:35:27,5F,Wiebke Lammers,F,MASTER,5,Westerlands CCC,https://westerlandsccc.co.uk/
 125,0:38:41,8F,Helen Stevenson,F,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
 126,0:38:55,8F,June MacLeod,F,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
-127,0:39:33,17M,,M,,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/
-128,0:40:19,17F,,F,,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/
+127,0:39:33,17M,Russell Couper,M,MASTER,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/
+128,0:40:19,17F,Lorraine Buchanan,F,MASTER,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/
