@@ -1,6 +1,7 @@
-|   1 |   Total | Club name           | Website                              |
-|----:|--------:|:--------------------|:-------------------------------------|
-|   8 |       8 | Cambuslang Harriers | https://cambuslangharriers.org/      |
-|  27 |      27 | East Kilbride AC    | http://www.ekac.org.uk/              |
-|  41 |      41 | Larkhall YMCA       | https://www.larkhallymcaharriers.org |
-|  44 |      44 | Westerlands CCC     | https://westerlandsccc.co.uk/        |
+|   1 |   Total | Club name             | Website                                |
+|----:|--------:|:----------------------|:---------------------------------------|
+|   8 |       8 | Cambuslang Harriers   | https://cambuslangharriers.org/        |
+|  19 |      19 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
+|  39 |      39 | East Kilbride AC      | http://www.ekac.org.uk/                |
+|  57 |      57 | Larkhall YMCA         | https://www.larkhallymcaharriers.org   |
+|  63 |      63 | Westerlands CCC       | https://westerlandsccc.co.uk/          |

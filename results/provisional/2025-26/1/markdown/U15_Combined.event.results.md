@@ -7,7 +7,7 @@
 |          5 | 0:12:00 | 37M    | nan                        | M        | U15      |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |
 |          6 | 0:12:10 | 2M     | Lewis Sinclair             | M        | U15      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |
 |          7 | 0:12:17 | 1F     | NINA CLARK                 | F        | U15      |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |
-|          8 | 0:12:20 | 8M     | nan                        | M        | U15      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
+|          8 | 0:12:20 | 8M     | Callum Walker              | M        | U15      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
 |          9 | 0:12:23 | 44F    | Lola Finnigan              | F        | U15      |           44 | North Ayrshire AAC    | https://naathletics.co.uk/             |
 |         10 | 0:12:28 | 40M    | Geddes Luke                | M        | U15      |           40 | Motherwell AC         | https://motherwellac.com/              |
 |         11 | 0:12:33 | 7F     | Emma Nicholson             | F        | U15      |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |
@@ -49,7 +49,7 @@
 |         47 | 0:15:48 | 36M    | Gavin Lee                  | M        | U15      |           36 | Larkhall YMCA         | https://www.larkhallymcaharriers.org   |
 |         48 | 0:16:14 | 36M    | Sam Thomson                | M        | U15      |           36 | Larkhall YMCA         | https://www.larkhallymcaharriers.org   |
 |         49 | 0:16:33 | 6F     | Lucy Gray                  | F        | U15      |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |
-|         50 | 0:17:02 | 8F     | nan                        | F        | U15      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
+|         50 | 0:17:02 | 8F     | Arran Bryers Clark         | F        | U15      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
 |         51 | 0:18:24 | 7F     | Isla Mostyn                | F        | U15      |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |
-|         52 | 0:18:55 | 8F     | nan                        | F        | U15      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
+|         52 | 0:18:55 | 8F     | Abbey Stevenson            | F        | U15      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
 |         53 | 0:19:02 | 6F     | Poppy McKnight Livingstone | F        | U15      |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |

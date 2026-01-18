@@ -11,8 +11,9 @@
 
 
 * [Event #1, Strathaven](https://results.westleague.org.uk/results/provisional/2025-26/1/html/)
-  * [PROVISIONAL Race results](https://results.westleague.org.uk/results/provisional/2025-26/1/html/) - Processed to team submissions received to 3pm, 18th Jan 2025.
-    * **Still need 12 team results for this event** - [See list of teams missing](./results/provisional/2025-26/1/missingTeamSubmissions.csv)
+  * [PROVISIONAL Race results](https://results.westleague.org.uk/results/provisional/2025-26/1/html/) - Processed to team submissions received to 5.30pm, 18th Jan 2025.
+    * **Still need 11 team results for this event** - [See list of teams missing](./results/provisional/2025-26/1/missingTeamSubmissions.csv)
+    * Giffnock North - missing Seniors
   * Hosted by [East Kilbride AC](http://www.ekac.org.uk/)
   * [Attendance: 409](./results/provisional/2025-26/1/meta.json)
   * [Thanks to the volunteers](./results/provisional/2025-26/1/html/volunteers.html)

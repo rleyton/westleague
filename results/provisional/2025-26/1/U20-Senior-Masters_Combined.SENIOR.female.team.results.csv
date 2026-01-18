@@ -1,7 +1,8 @@
 position,Club name,team,gender,finisherPositions,teamPoints,penaltyPoints,totalPoints,totalFinishers,Website
-1,Cambuslang Harriers,6,F,"2,4",6,40,46,2,https://cambuslangharriers.org/
-2,Motherwell AC,40,F,"8,9,10",27,20,47,3,https://motherwellac.com/
-3,Shettleston Harriers,10,F,"3,6",9,40,49,2,http://shettlestonharriers.org.uk/
-4,Springburn Harriers,48,F,1,1,60,61,1,https://www.springburnharriers.co.uk/
-5,Kilmarnock H&AC,2,F,5,5,60,65,1,http://www.kilmarnockharriers.com/
-6,Westerlands CCC,5,F,7,7,60,67,1,https://westerlandsccc.co.uk/
+1,Bellahouston Harriers,8,F,"2,6,9,10",27,0,27,4,http://www.bellahoustonharriers.co.uk/
+2,Cambuslang Harriers,6,F,"3,5",8,48,56,2,https://cambuslangharriers.org/
+3,Shettleston Harriers,10,F,"4,8",12,48,60,2,http://shettlestonharriers.org.uk/
+4,Motherwell AC,40,F,"12,13,14",39,24,63,3,https://motherwellac.com/
+5,Springburn Harriers,48,F,1,1,72,73,1,https://www.springburnharriers.co.uk/
+6,Kilmarnock H&AC,2,F,7,7,72,79,1,http://www.kilmarnockharriers.com/
+7,Westerlands CCC,5,F,11,11,72,83,1,https://westerlandsccc.co.uk/

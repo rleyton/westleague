@@ -1,7 +1,7 @@
 |   position | times   | team   | Name                      | gender   | AgeCat   |   clubnumber | Club name                  | Website                                |
 |-----------:|:--------|:-------|:--------------------------|:---------|:---------|-------------:|:---------------------------|:---------------------------------------|
 |          1 | 0:04:08 | 37M    | nan                       | M        | U11      |           37 | Law & District AAC         | http://www.lawaac.co.uk/               |
-|          2 | 0:04:09 | 8M     | nan                       | M        | U11      |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/ |
+|          2 | 0:04:09 | 8M     | Morris Mitchell           | M        | U11      |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/ |
 |          3 | 0:04:10 | 7M     | Murray McKerracher        | M        | U11      |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/       |
 |          4 | 0:04:18 | 30M    | Eilijah Taylor            | M        | U11      |           30 | Greenock Glenpark Harriers | https://greenockglenparkharriers.com/  |
 |          5 | 0:04:20 | 7M     | Kyle Hartley              | M        | U11      |            7 | Giffnock North AC          | https://www.giffnocknorth.co.uk/       |
@@ -19,7 +19,7 @@
 |         17 | 0:04:34 | 1M     | GEORGE JAMES              | M        | U11      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                |
 |         18 | 0:04:34 | 1M     | LUKE McCORMICK            | M        | U11      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                |
 |         19 | 0:04:34 | 40M    | Crane Oscar               | M        | U11      |           40 | Motherwell AC              | https://motherwellac.com/              |
-|         20 | 0:04:34 | 8M     | nan                       | M        | U11      |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/ |
+|         20 | 0:04:34 | 8M     | Jonah Bryers Clark        | M        | U11      |            8 | Bellahouston Harriers      | http://www.bellahoustonharriers.co.uk/ |
 |         21 | 0:04:38 | 2M     | Nicholas Sharpe           | M        | U11      |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/     |
 |         22 | 0:04:40 | 48M    | Finn McNulty              | M        | U11      |           48 | Springburn Harriers        | https://www.springburnharriers.co.uk/  |
 |         23 | 0:04:40 | 37M    | nan                       | M        | U11      |           37 | Law & District AAC         | http://www.lawaac.co.uk/               |

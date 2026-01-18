@@ -8,5 +8,5 @@
 |          6 | 0:20:21 | 57F    | Martha Cathie   | F        | U17      |           57 | Whitemoss AAC         | https://whitemossaac.co.uk/            |               22 |
 |          7 | 0:22:04 | 37F    | nan             | F        | U17      |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |               24 |
 |          8 | 0:22:13 | 37F    | nan             | F        | U17      |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |               25 |
-|          9 | 0:24:46 | 8F     | nan             | F        | U17      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               26 |
+|          9 | 0:24:46 | 8F     | Lexie Speirs    | F        | U17      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               26 |
 |         10 | 0:27:16 | 2F     | Rebecca McNulty | F        | U17      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |               27 |

@@ -22,32 +22,32 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website,finishPositi
 21,0:23:02,1M,JONATHAN HUNTER,M,U20,1,East Kilbride AC,http://www.ekac.org.uk/,22
 22,0:23:06,7M,,M,,7,Giffnock North AC,https://www.giffnocknorth.co.uk/,23
 23,0:23:07,37M,,M,,37,Law & District AAC,http://www.lawaac.co.uk/,24
-24,0:23:13,8M,,M,,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,25
+24,0:23:13,8M,Matthew Brown,M,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,25
 25,0:23:15,10M,Paul Sorrie,M,MASTER,10,Shettleston Harriers,http://shettlestonharriers.org.uk/,26
 26,0:23:38,14M,,M,,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/,27
-27,0:23:52,8M,,M,,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,28
+27,0:23:52,8M,Donald MacLaren,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,28
 28,0:23:59,3M,,M,,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,29
-29,0:23:59,8M,,M,,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,30
-30,0:24:05,8M,,M,,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,31
+29,0:23:59,8M,Jamie Slater,M,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,30
+30,0:24:05,8M,Alistair Munro,M,U20,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,31
 31,0:24:05,2M,John Speirs,M,MASTER,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,32
 32,0:24:12,35M,,M,,35,Kirkintilloch Olympians,https://kirkintillocholympians.co.uk/,33
 33,0:24:29,6M,Gabriel Murphy,M,U20,6,Cambuslang Harriers,https://cambuslangharriers.org/,34
 34,0:24:50,7M,,M,,7,Giffnock North AC,https://www.giffnocknorth.co.uk/,37
-35,0:25:08,8M,,M,,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,39
-36,0:25:10,8M,,M,,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,40
+35,0:25:08,8M,Anthony Carson,M,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,39
+36,0:25:10,8M,Gareth Walker,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,40
 37,0:25:14,32M,Dougie Laird,M,MASTER,32,Helensburgh AAC,https://www.helensburghaac.com/,41
 38,0:25:18,31M,mark wheeler,M,MASTER,31,Hamilton Harriers,,43
 39,0:25:21,1M,JOHN EDWARDS,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/,44
 40,0:25:24,37M,,M,,37,Law & District AAC,http://www.lawaac.co.uk/,45
 41,0:25:30,6M,Ross Noble,M,SENIOR,6,Cambuslang Harriers,https://cambuslangharriers.org/,46
-42,0:25:32,8M,,M,,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,47
+42,0:25:32,8M,Chris Morris,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,47
 43,0:25:40,17M,,M,,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,48
 44,0:25:43,1M,KEITH CHARTERS,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/,49
 45,0:25:54,2M,Greig Glendinning,M,MASTER,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,50
 46,0:25:56,40M,O'Neill Derek,M,SENIOR,40,Motherwell AC,https://motherwellac.com/,51
 47,0:25:56,17M,,M,,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,52
 48,0:26:02,10M,John Duffy,M,MASTER,10,Shettleston Harriers,http://shettlestonharriers.org.uk/,54
-49,0:26:10,8M,,M,,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,59
+49,0:26:10,8M,Mark Webster,M,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,59
 50,0:26:10,40M,Whyte Marcus,M,SENIOR,40,Motherwell AC,https://motherwellac.com/,60
 51,0:26:12,53M,,M,,53,Troon Tortoises,http://troontortoises.co.uk,61
 52,0:26:26,44M,Craig Dailly,M,MASTER,44,North Ayrshire AAC,https://naathletics.co.uk/,63
@@ -59,10 +59,10 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website,finishPositi
 58,0:26:53,57M,James Cathie,M,SENIOR,57,Whitemoss AAC,https://whitemossaac.co.uk/,72
 59,0:26:58,50M,,M,,50,Strathaven Striders,,73
 60,0:27:04,37M,,M,,37,Law & District AAC,http://www.lawaac.co.uk/,76
-61,0:27:11,8M,,M,,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,77
+61,0:27:11,8M,Barry Mitchell,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,77
 62,0:27:14,5M,David Riach,M,MASTER,5,Westerlands CCC,https://westerlandsccc.co.uk/,78
 63,0:27:16,17M,,M,,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,81
-64,0:27:34,8M,,M,,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,84
+64,0:27:34,8M,Kenneth Scott,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,84
 65,0:27:34,57M,David Cathie,M,MASTER,57,Whitemoss AAC,https://whitemossaac.co.uk/,85
 66,0:27:38,37M,,M,,37,Law & District AAC,http://www.lawaac.co.uk/,87
 67,0:27:42,11M,,M,,11,Airdrie Harriers,http://airdrieharriers.org/,88
@@ -75,7 +75,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website,finishPositi
 74,0:29:46,10M,Harry Chow,M,SENIOR,10,Shettleston Harriers,http://shettlestonharriers.org.uk/,101
 75,0:29:46,40M,Dickson Scott,M,SENIOR,40,Motherwell AC,https://motherwellac.com/,102
 76,0:30:28,6M,Iain Crawford,M,MASTER,6,Cambuslang Harriers,https://cambuslangharriers.org/,105
-77,0:30:38,8M,,M,,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,107
+77,0:30:38,8M,David Carson,M,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,107
 78,0:30:43,44M,Gary Kilpatrick,M,MASTER,44,North Ayrshire AAC,https://naathletics.co.uk/,108
 79,0:31:01,50M,,M,,50,Strathaven Striders,,111
 80,0:31:10,1M,ADAM McCORMICK,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/,112

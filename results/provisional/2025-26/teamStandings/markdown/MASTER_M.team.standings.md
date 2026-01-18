@@ -1,12 +1,13 @@
-|   1 |   Total | Club name            | Website                              |
-|----:|--------:|:---------------------|:-------------------------------------|
-|  11 |      11 | Shettleston Harriers | http://shettlestonharriers.org.uk/   |
-|  20 |      20 | East Kilbride AC     | http://www.ekac.org.uk/              |
-|  31 |      31 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/   |
-|  36 |      36 | Cambuslang Harriers  | https://cambuslangharriers.org/      |
-|  67 |      67 | North Ayrshire AAC   | https://naathletics.co.uk/           |
-|  73 |      73 | Helensburgh AAC      | https://www.helensburghaac.com/      |
-|  74 |      74 | Hamilton Harriers    | nan                                  |
-|  82 |      82 | Westerlands CCC      | https://westerlandsccc.co.uk/        |
-|  83 |      83 | Whitemoss AAC        | https://whitemossaac.co.uk/          |
-|  89 |      89 | Larkhall YMCA        | https://www.larkhallymcaharriers.org |
+|   1 |   Total | Club name             | Website                                |
+|----:|--------:|:----------------------|:---------------------------------------|
+|  11 |      11 | Shettleston Harriers  | http://shettlestonharriers.org.uk/     |
+|  25 |      25 | East Kilbride AC      | http://www.ekac.org.uk/                |
+|  26 |      26 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
+|  38 |      38 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |
+|  44 |      44 | Cambuslang Harriers   | https://cambuslangharriers.org/        |
+|  80 |      80 | North Ayrshire AAC    | https://naathletics.co.uk/             |
+|  85 |      85 | Helensburgh AAC       | https://www.helensburghaac.com/        |
+|  86 |      86 | Hamilton Harriers     | nan                                    |
+|  96 |      96 | Westerlands CCC       | https://westerlandsccc.co.uk/          |
+|  98 |      98 | Whitemoss AAC         | https://whitemossaac.co.uk/            |
+| 104 |     104 | Larkhall YMCA         | https://www.larkhallymcaharriers.org   |
