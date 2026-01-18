@@ -1,0 +1,13 @@
+|   position | Club name             |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                |
+|-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:---------------------------------------|
+|          1 | Kilmarnock H&AC       |      2 | M        | 2,3,6               |           11 |               0 |            11 |                7 | http://www.kilmarnockharriers.com/     |
+|          2 | Calderglen Harriers   |     17 | M        | 9,13                |           22 |              31 |            53 |                2 | http://www.calderglenharriers.org.uk/  |
+|          3 | Law & District AAC    |     37 | M        | 5,19                |           24 |              31 |            55 |                2 | http://www.lawaac.co.uk/               |
+|          4 | Cambuslang Harriers   |      6 | M        | 11,14               |           25 |              31 |            56 |                2 | https://cambuslangharriers.org/        |
+|          5 | Giffnock North AC     |      7 | M        | 1                   |            1 |              62 |            63 |                1 | https://www.giffnocknorth.co.uk/       |
+|          6 | Ayr Seaforth AC       |     14 | M        | 4                   |            4 |              62 |            66 |                1 | https://www.ayrseaforth.co.uk/         |
+|          7 | Bellahouston Harriers |      8 | M        | 7                   |            7 |              62 |            69 |                1 | http://www.bellahoustonharriers.co.uk/ |
+|          8 | Motherwell AC         |     40 | M        | 8                   |            8 |              62 |            70 |                1 | https://motherwellac.com/              |
+|          9 | North Ayrshire AAC    |     44 | M        | 10                  |           10 |              62 |            72 |                1 | https://naathletics.co.uk/             |
+|         10 | Larkhall YMCA         |     36 | M        | 20,21               |           41 |              31 |            72 |                2 | https://www.larkhallymcaharriers.org   |
+|         11 | Strathaven Striders   |     50 | M        | 17                  |           17 |              62 |            79 |                1 | nan                                    |

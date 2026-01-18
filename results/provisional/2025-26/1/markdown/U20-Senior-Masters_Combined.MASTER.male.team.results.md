@@ -1,0 +1,10 @@
+|   position | Club name           |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                            |
+|-----------:|:--------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-----------------------------------|
+|          1 | East Kilbride AC    |      1 | M        | 1,6,7               |           14 |               0 |            14 |                5 | http://www.ekac.org.uk/            |
+|          2 | Kilmarnock H&AC     |      2 | M        | 3,8,10              |           21 |               0 |            21 |                3 | http://www.kilmarnockharriers.com/ |
+|          3 | Cambuslang Harriers |      6 | M        | 2,11,14             |           27 |               0 |            27 |                4 | https://cambuslangharriers.org/    |
+|          4 | North Ayrshire AAC  |     44 | M        | 9,17                |           26 |              28 |            54 |                2 | https://naathletics.co.uk/         |
+|          5 | Helensburgh AAC     |     32 | M        | 4                   |            4 |              56 |            60 |                1 | https://www.helensburghaac.com/    |
+|          6 | Hamilton Harriers   |     31 | M        | 5                   |            5 |              56 |            61 |                1 | nan                                |
+|          7 | Westerlands CCC     |      5 | M        | 12                  |           12 |              56 |            68 |                1 | https://westerlandsccc.co.uk/      |
+|          8 | Whitemoss AAC       |     57 | M        | 13                  |           13 |              56 |            69 |                1 | https://whitemossaac.co.uk/        |

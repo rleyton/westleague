@@ -1,0 +1,15 @@
+|   position | Club name           |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                               |
+|-----------:|:--------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:--------------------------------------|
+|          1 | Ayr Seaforth AC     |     14 | F        | 4,6,7               |           17 |               0 |            17 |                4 | https://www.ayrseaforth.co.uk/        |
+|          2 | Law & District AAC  |     37 | F        | 1,8,15              |           24 |               0 |            24 |                7 | http://www.lawaac.co.uk/              |
+|          3 | Giffnock North AC   |      7 | F        | 5,9,25              |           39 |               0 |            39 |                6 | https://www.giffnocknorth.co.uk/      |
+|          4 | East Kilbride AC    |      1 | F        | 3,19,23             |           45 |               0 |            45 |                4 | http://www.ekac.org.uk/               |
+|          5 | Inverclyde AC       |      4 | F        | 12,22,24            |           58 |               0 |            58 |                3 | https://www.inverclydeac.org/         |
+|          6 | Airdrie Harriers    |     11 | F        | 16,20,26            |           62 |               0 |            62 |               12 | http://airdrieharriers.org/           |
+|          7 | Kilmarnock H&AC     |      2 | F        | 14,21,35            |           70 |               0 |            70 |                7 | http://www.kilmarnockharriers.com/    |
+|          8 | Calderglen Harriers |     17 | F        | 13,30,50            |           93 |               0 |            93 |                3 | http://www.calderglenharriers.org.uk/ |
+|          9 | Motherwell AC       |     40 | F        | 10,28               |           38 |              64 |           102 |                2 | https://motherwellac.com/             |
+|         10 | Cambuslang Harriers |      6 | F        | 11,45               |           56 |              64 |           120 |                2 | https://cambuslangharriers.org/       |
+|         11 | Kilbarchan AAC      |     34 | F        | 2                   |            2 |             128 |           130 |                1 | https://kilbarchanaac.org.uk/         |
+|         12 | North Ayrshire AAC  |     44 | F        | 34,39               |           73 |              64 |           137 |                2 | https://naathletics.co.uk/            |
+|         13 | Larkhall YMCA       |     36 | F        | 37                  |           37 |             128 |           165 |                1 | https://www.larkhallymcaharriers.org  |

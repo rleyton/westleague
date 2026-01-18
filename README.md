@@ -9,7 +9,15 @@
 
 ### 2025-26
 
-- **Results for Event #1 (Strathaven), 17th Jan 2026 will be processed on 18th January 2026**. See above for team managers/clubs.
+
+* [Event #1, Strathaven](https://results.westleague.org.uk/results/provisional/2025-26/1/html/)
+  * [PROVISIONAL Race results](https://results.westleague.org.uk/results/provisional/2025-26/1/html/)
+  * Still [awaiting 15 team results](./results/provisional/2025-26/1/missingTeamSubmissions.csv)
+  * Hosted by [East Kilbride AC](http://www.ekac.org.uk/)
+  * [Attendance: 409](./results/provisional/2025-26/1/meta.json)
+  * [Thanks to the volunteers](./results/provisional/2025-26/1/html/volunteers.html)
+    * [Attendance](./results/provisional/2025-26/1/meta.json)
+  * Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2025-26/1), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2025-26/1/markdown/)
 
 
 ### Processing notes

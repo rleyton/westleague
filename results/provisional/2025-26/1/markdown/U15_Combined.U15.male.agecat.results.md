@@ -1,0 +1,23 @@
+|   position | times   | team   | Name            | gender   | AgeCat   |   clubnumber | Club name             | Website                                |   finishPosition |
+|-----------:|:--------|:-------|:----------------|:---------|:---------|-------------:|:----------------------|:---------------------------------------|-----------------:|
+|          1 | 0:11:38 | 7M     | nan             | M        | U15      |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |                1 |
+|          2 | 0:11:50 | 2M     | Jamie Walker    | M        | U15      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |                2 |
+|          3 | 0:11:51 | 2M     | Calum Curley    | M        | U15      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |                3 |
+|          4 | 0:11:56 | 14M    | nan             | M        | U15      |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/         |                4 |
+|          5 | 0:12:00 | 37M    | nan             | M        | U15      |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |                5 |
+|          6 | 0:12:10 | 2M     | Lewis Sinclair  | M        | U15      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |                6 |
+|          7 | 0:12:20 | 8M     | nan             | M        | U15      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |                8 |
+|          8 | 0:12:28 | 40M    | Geddes Luke     | M        | U15      |           40 | Motherwell AC         | https://motherwellac.com/              |               10 |
+|          9 | 0:12:35 | 17M    | nan             | M        | U15      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |               12 |
+|         10 | 0:12:47 | 44M    | Sam Clark       | M        | U15      |           44 | North Ayrshire AAC    | https://naathletics.co.uk/             |               15 |
+|         11 | 0:12:53 | 6M     | Alex Bellingham | M        | U15      |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               17 |
+|         12 | 0:12:59 | 2M     | Harris Steven   | M        | U15      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |               19 |
+|         13 | 0:13:06 | 17M    | nan             | M        | U15      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |               21 |
+|         14 | 0:13:08 | 6M     | Oliver Lievonen | M        | U15      |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               22 |
+|         15 | 0:13:11 | 2M     | Callum O'Neil   | M        | U15      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |               23 |
+|         16 | 0:13:35 | 2M     | Liam Hume       | M        | U15      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |               26 |
+|         17 | 0:13:47 | 50M    | nan             | M        | U15      |           50 | Strathaven Striders   | nan                                    |               29 |
+|         18 | 0:13:49 | 2M     | Logan Peddie    | M        | U15      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |               30 |
+|         19 | 0:13:51 | 37M    | nan             | M        | U15      |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |               31 |
+|         20 | 0:15:48 | 36M    | nan             | M        | U15      |           36 | Larkhall YMCA         | https://www.larkhallymcaharriers.org   |               47 |
+|         21 | 0:16:14 | 36M    | nan             | M        | U15      |           36 | Larkhall YMCA         | https://www.larkhallymcaharriers.org   |               48 |
