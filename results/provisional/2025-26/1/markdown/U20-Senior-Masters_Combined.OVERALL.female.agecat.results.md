@@ -1,45 +1,45 @@
-|   position | times   | team   | Name            | gender   | AgeCat   |   clubnumber | Club name             | Website                                |   finishPosition |
-|-----------:|:--------|:-------|:----------------|:---------|:---------|-------------:|:----------------------|:---------------------------------------|-----------------:|
-|          1 | 0:22:51 | 48F    | Cat Gillen      | F        | SENIOR   |           48 | Springburn Harriers   | https://www.springburnharriers.co.uk/  |               21 |
-|          2 | 0:24:34 | 7F     | nan             | F        | nan      |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |               35 |
-|          3 | 0:24:44 | 8F     | nan             | F        | nan      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               36 |
-|          4 | 0:25:01 | 6F     | Catriona Bain   | F        | SENIOR   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               38 |
-|          5 | 0:25:16 | 10F    | nan             | F        | nan      |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/     |               42 |
-|          6 | 0:25:59 | 1F     | AMY ANDREW      | F        | U20      |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               53 |
-|          7 | 0:26:02 | 37F    | nan             | F        | nan      |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |               55 |
-|          8 | 0:26:09 | 6F     | Marie Kane      | F        | SENIOR   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               56 |
-|          9 | 0:26:09 | 2F     | Eve Starritt    | F        | U20      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |               57 |
-|         10 | 0:26:09 | 8F     | nan             | F        | nan      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               58 |
-|         11 | 0:26:23 | 6F     | Kirsty O'Brien  | F        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               62 |
-|         12 | 0:26:40 | 37F    | nan             | F        | nan      |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |               68 |
-|         13 | 0:26:43 | 1F     | KELLY BAILLIE   | F        | MASTER   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               69 |
-|         14 | 0:26:49 | 6F     | Emma Morris     | F        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               70 |
-|         15 | 0:26:59 | 11F    | nan             | F        | nan      |           11 | Airdrie Harriers      | http://airdrieharriers.org/            |               74 |
-|         16 | 0:27:01 | 6F     | Natalie Brohan  | F        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               75 |
-|         17 | 0:27:16 | 2F     | Morgan McBurnie | F        | SENIOR   |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |               79 |
-|         18 | 0:27:16 | 10F    | nan             | F        | nan      |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/     |               80 |
-|         19 | 0:27:18 | 8F     | nan             | F        | nan      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               82 |
-|         20 | 0:27:24 | 8F     | nan             | F        | nan      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               83 |
-|         21 | 0:27:36 | 8F     | nan             | F        | nan      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               86 |
-|         22 | 0:27:44 | 8F     | nan             | F        | nan      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               89 |
-|         23 | 0:28:42 | 5F     | Alice Gamble    | F        | SENIOR   |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/          |               93 |
-|         24 | 0:28:55 | 36F    | nan             | F        | nan      |           36 | Larkhall YMCA         | https://www.larkhallymcaharriers.org   |               94 |
-|         25 | 0:29:12 | 14F    | nan             | F        | nan      |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/         |               96 |
-|         26 | 0:29:18 | 14F    | nan             | F        | nan      |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/         |               97 |
-|         27 | 0:29:34 | 8F     | nan             | F        | nan      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               99 |
-|         28 | 0:30:05 | 40F    | Dunn Carla      | F        | SENIOR   |           40 | Motherwell AC         | https://motherwellac.com/              |              103 |
-|         29 | 0:30:14 | 40F    | O'Neill Angela  | F        | SENIOR   |           40 | Motherwell AC         | https://motherwellac.com/              |              104 |
-|         30 | 0:30:35 | 53F    | nan             | F        | nan      |           53 | Troon Tortoises       | http://troontortoises.co.uk            |              106 |
-|         31 | 0:30:45 | 8F     | nan             | F        | nan      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |              109 |
-|         32 | 0:30:52 | 17F    | nan             | F        | nan      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |              110 |
-|         33 | 0:31:17 | 6F     | Jacqueine McLew | F        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |              114 |
-|         34 | 0:31:42 | 8F     | nan             | F        | nan      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |              116 |
-|         35 | 0:31:46 | 40F    | McKean Julie    | F        | SENIOR   |           40 | Motherwell AC         | https://motherwellac.com/              |              117 |
-|         36 | 0:33:01 | 54F    | nan             | F        | nan      |           54 | VP-Glasgow            | https://www.vp-glasgow.com             |              119 |
-|         37 | 0:34:01 | 17F    | nan             | F        | nan      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |              120 |
-|         38 | 0:34:25 | 1F     | TRACEY YATES    | F        | MASTER   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |              121 |
-|         39 | 0:35:16 | 4F     | nan             | F        | nan      |            4 | Inverclyde AC         | https://www.inverclydeac.org/          |              123 |
-|         40 | 0:35:27 | 5F     | Wiebke Lammers  | F        | MASTER   |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/          |              124 |
-|         41 | 0:38:41 | 8F     | nan             | F        | nan      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |              125 |
-|         42 | 0:38:55 | 8F     | nan             | F        | nan      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |              126 |
-|         43 | 0:40:19 | 17F    | nan             | F        | nan      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |              128 |
+|   position | times   | team   | Name              | gender   | AgeCat   |   clubnumber | Club name             | Website                                |   finishPosition |
+|-----------:|:--------|:-------|:------------------|:---------|:---------|-------------:|:----------------------|:---------------------------------------|-----------------:|
+|          1 | 0:22:51 | 48F    | Cat Gillen        | F        | SENIOR   |           48 | Springburn Harriers   | https://www.springburnharriers.co.uk/  |               21 |
+|          2 | 0:24:34 | 7F     | nan               | F        | nan      |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |               35 |
+|          3 | 0:24:44 | 8F     | nan               | F        | nan      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               36 |
+|          4 | 0:25:01 | 6F     | Catriona Bain     | F        | SENIOR   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               38 |
+|          5 | 0:25:16 | 10F    | Charlene McCallum | F        | SENIOR   |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/     |               42 |
+|          6 | 0:25:59 | 1F     | AMY ANDREW        | F        | U20      |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               53 |
+|          7 | 0:26:02 | 37F    | nan               | F        | nan      |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |               55 |
+|          8 | 0:26:09 | 6F     | Marie Kane        | F        | SENIOR   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               56 |
+|          9 | 0:26:09 | 2F     | Eve Starritt      | F        | U20      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |               57 |
+|         10 | 0:26:09 | 8F     | nan               | F        | nan      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               58 |
+|         11 | 0:26:23 | 6F     | Kirsty O'Brien    | F        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               62 |
+|         12 | 0:26:40 | 37F    | nan               | F        | nan      |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |               68 |
+|         13 | 0:26:43 | 1F     | KELLY BAILLIE     | F        | MASTER   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               69 |
+|         14 | 0:26:49 | 6F     | Emma Morris       | F        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               70 |
+|         15 | 0:26:59 | 11F    | nan               | F        | nan      |           11 | Airdrie Harriers      | http://airdrieharriers.org/            |               74 |
+|         16 | 0:27:01 | 6F     | Natalie Brohan    | F        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               75 |
+|         17 | 0:27:16 | 2F     | Morgan McBurnie   | F        | SENIOR   |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |               79 |
+|         18 | 0:27:16 | 10F    | Molly Quinn       | F        | SENIOR   |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/     |               80 |
+|         19 | 0:27:18 | 8F     | nan               | F        | nan      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               82 |
+|         20 | 0:27:24 | 8F     | nan               | F        | nan      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               83 |
+|         21 | 0:27:36 | 8F     | nan               | F        | nan      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               86 |
+|         22 | 0:27:44 | 8F     | nan               | F        | nan      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               89 |
+|         23 | 0:28:42 | 5F     | Alice Gamble      | F        | SENIOR   |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/          |               93 |
+|         24 | 0:28:55 | 36F    | Julie Hill        | F        | MASTER   |           36 | Larkhall YMCA         | https://www.larkhallymcaharriers.org   |               94 |
+|         25 | 0:29:12 | 14F    | nan               | F        | nan      |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/         |               96 |
+|         26 | 0:29:18 | 14F    | nan               | F        | nan      |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/         |               97 |
+|         27 | 0:29:34 | 8F     | nan               | F        | nan      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               99 |
+|         28 | 0:30:05 | 40F    | Dunn Carla        | F        | SENIOR   |           40 | Motherwell AC         | https://motherwellac.com/              |              103 |
+|         29 | 0:30:14 | 40F    | O'Neill Angela    | F        | SENIOR   |           40 | Motherwell AC         | https://motherwellac.com/              |              104 |
+|         30 | 0:30:35 | 53F    | nan               | F        | nan      |           53 | Troon Tortoises       | http://troontortoises.co.uk            |              106 |
+|         31 | 0:30:45 | 8F     | nan               | F        | nan      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |              109 |
+|         32 | 0:30:52 | 17F    | nan               | F        | nan      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |              110 |
+|         33 | 0:31:17 | 6F     | Jacqueine McLew   | F        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |              114 |
+|         34 | 0:31:42 | 8F     | nan               | F        | nan      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |              116 |
+|         35 | 0:31:46 | 40F    | McKean Julie      | F        | SENIOR   |           40 | Motherwell AC         | https://motherwellac.com/              |              117 |
+|         36 | 0:33:01 | 54F    | nan               | F        | nan      |           54 | VP-Glasgow            | https://www.vp-glasgow.com             |              119 |
+|         37 | 0:34:01 | 17F    | nan               | F        | nan      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |              120 |
+|         38 | 0:34:25 | 1F     | TRACEY YATES      | F        | MASTER   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |              121 |
+|         39 | 0:35:16 | 4F     | nan               | F        | nan      |            4 | Inverclyde AC         | https://www.inverclydeac.org/          |              123 |
+|         40 | 0:35:27 | 5F     | Wiebke Lammers    | F        | MASTER   |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/          |              124 |
+|         41 | 0:38:41 | 8F     | nan               | F        | nan      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |              125 |
+|         42 | 0:38:55 | 8F     | nan               | F        | nan      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |              126 |
+|         43 | 0:40:19 | 17F    | nan               | F        | nan      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |              128 |
