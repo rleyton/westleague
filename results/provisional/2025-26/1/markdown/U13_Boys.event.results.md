@@ -33,7 +33,7 @@
 |         31 | 0:12:19 | 14M    | nan                            | M        | U13      |           14 | Ayr Seaforth AC            | https://www.ayrseaforth.co.uk/         |
 |         32 | 0:12:22 | 1M     | CALUM McCORMICK                | M        | U13      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                |
 |         33 | 0:12:25 | 10M    | Lucas Millican                 | M        | U13      |           10 | Shettleston Harriers       | http://shettlestonharriers.org.uk/     |
-|         34 | 0:12:32 | 17M    | nan                            | M        | U13      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/  |
+|         34 | 0:12:32 | 17M    | Innes McMonegal                | M        | U13      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/  |
 |         35 | 0:12:34 | 1M     | AARON DOWLING                  | M        | U13      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                |
 |         36 | 0:12:41 | 1M     | FINLAY EDWARDS                 | M        | U13      |            1 | East Kilbride AC           | http://www.ekac.org.uk/                |
 |         37 | 0:12:55 | 32M    | William Cannon                 | M        | U13      |           32 | Helensburgh AAC            | https://www.helensburghaac.com/        |
@@ -42,6 +42,6 @@
 |         40 | 0:13:07 | 2M     | Callum Curley                  | M        | U13      |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/     |
 |         41 | 0:13:16 | 44M    | Riley Nimmo-Rayne              | M        | U13      |           44 | North Ayrshire AAC         | https://naathletics.co.uk/             |
 |         42 | 0:13:35 | 50M    | nan                            | M        | U13      |           50 | Strathaven Striders        | nan                                    |
-|         43 | 0:13:43 | 17M    | nan                            | M        | U13      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/  |
+|         43 | 0:13:43 | 17M    | Luca McArthur                  | M        | U13      |           17 | Calderglen Harriers        | http://www.calderglenharriers.org.uk/  |
 |         44 | 0:14:32 | 11M    | nan                            | M        | U13      |           11 | Airdrie Harriers           | http://airdrieharriers.org/            |
 |         45 | 0:14:51 | 2M     | Isaac Stevenson                | M        | U13      |            2 | Kilmarnock H&AC            | http://www.kilmarnockharriers.com/     |

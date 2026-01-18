@@ -11,7 +11,7 @@
 |          9 | 0:12:23 | 44F    | Lola Finnigan              | F        | U15      |           44 | North Ayrshire AAC    | https://naathletics.co.uk/             |
 |         10 | 0:12:28 | 40M    | Geddes Luke                | M        | U15      |           40 | Motherwell AC         | https://motherwellac.com/              |
 |         11 | 0:12:33 | 7F     | Emma Nicholson             | F        | U15      |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |
-|         12 | 0:12:35 | 17M    | nan                        | M        | U15      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |
+|         12 | 0:12:35 | 17M    | Finlay McMonegal           | M        | U15      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |
 |         13 | 0:12:45 | 1F     | ZOE BAILIE                 | F        | U15      |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |
 |         14 | 0:12:47 | 14F    | nan                        | F        | U15      |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/         |
 |         15 | 0:12:47 | 44M    | Sam Clark                  | M        | U15      |           44 | North Ayrshire AAC    | https://naathletics.co.uk/             |
@@ -20,7 +20,7 @@
 |         18 | 0:12:55 | 14F    | nan                        | F        | U15      |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/         |
 |         19 | 0:12:59 | 2M     | Harris Steven              | M        | U15      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |
 |         20 | 0:13:01 | 14F    | nan                        | F        | U15      |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/         |
-|         21 | 0:13:06 | 17M    | nan                        | M        | U15      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |
+|         21 | 0:13:06 | 17M    | Robbie Rooney              | M        | U15      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |
 |         22 | 0:13:08 | 6M     | Oliver Lievonen            | M        | U15      |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |
 |         23 | 0:13:11 | 2M     | Callum O'Neil              | M        | U15      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |
 |         24 | 0:13:27 | 2F     | Megan Haggarty             | F        | U15      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |

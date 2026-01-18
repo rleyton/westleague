@@ -42,11 +42,11 @@
 |         40 | 0:25:24 | 37M    | nan               | M        | nan      |           37 | Law & District AAC      | http://www.lawaac.co.uk/                   |               45 |
 |         41 | 0:25:30 | 6M     | Ross Noble        | M        | SENIOR   |            6 | Cambuslang Harriers     | https://cambuslangharriers.org/            |               46 |
 |         42 | 0:25:32 | 8M     | Chris Morris      | M        | MASTER   |            8 | Bellahouston Harriers   | http://www.bellahoustonharriers.co.uk/     |               47 |
-|         43 | 0:25:40 | 17M    | nan               | M        | nan      |           17 | Calderglen Harriers     | http://www.calderglenharriers.org.uk/      |               48 |
+|         43 | 0:25:40 | 17M    | Kai Wheeler       | M        | U20      |           17 | Calderglen Harriers     | http://www.calderglenharriers.org.uk/      |               48 |
 |         44 | 0:25:43 | 1M     | KEITH CHARTERS    | M        | MASTER   |            1 | East Kilbride AC        | http://www.ekac.org.uk/                    |               49 |
 |         45 | 0:25:54 | 2M     | Greig Glendinning | M        | MASTER   |            2 | Kilmarnock H&AC         | http://www.kilmarnockharriers.com/         |               50 |
 |         46 | 0:25:56 | 40M    | O'Neill Derek     | M        | SENIOR   |           40 | Motherwell AC           | https://motherwellac.com/                  |               51 |
-|         47 | 0:25:56 | 17M    | nan               | M        | nan      |           17 | Calderglen Harriers     | http://www.calderglenharriers.org.uk/      |               52 |
+|         47 | 0:25:56 | 17M    | Martin MacDonald  | M        | SENIOR   |           17 | Calderglen Harriers     | http://www.calderglenharriers.org.uk/      |               52 |
 |         48 | 0:26:02 | 10M    | John Duffy        | M        | MASTER   |           10 | Shettleston Harriers    | http://shettlestonharriers.org.uk/         |               54 |
 |         49 | 0:26:10 | 8M     | Mark Webster      | M        | SENIOR   |            8 | Bellahouston Harriers   | http://www.bellahoustonharriers.co.uk/     |               59 |
 |         50 | 0:26:10 | 40M    | Whyte Marcus      | M        | SENIOR   |           40 | Motherwell AC           | https://motherwellac.com/                  |               60 |
@@ -56,20 +56,20 @@
 |         54 | 0:26:29 | 14M    | nan               | M        | nan      |           14 | Ayr Seaforth AC         | https://www.ayrseaforth.co.uk/             |               65 |
 |         55 | 0:26:35 | 37M    | nan               | M        | nan      |           37 | Law & District AAC      | http://www.lawaac.co.uk/                   |               66 |
 |         56 | 0:26:35 | 6M     | Iain Wallace      | M        | MASTER   |            6 | Cambuslang Harriers     | https://cambuslangharriers.org/            |               67 |
-|         57 | 0:26:49 | 17M    | nan               | M        | nan      |           17 | Calderglen Harriers     | http://www.calderglenharriers.org.uk/      |               71 |
+|         57 | 0:26:49 | 17M    | Iain MacLean      | M        | MASTER   |           17 | Calderglen Harriers     | http://www.calderglenharriers.org.uk/      |               71 |
 |         58 | 0:26:53 | 57M    | James Cathie      | M        | SENIOR   |           57 | Whitemoss AAC           | https://whitemossaac.co.uk/                |               72 |
 |         59 | 0:26:58 | 50M    | nan               | M        | nan      |           50 | Strathaven Striders     | nan                                        |               73 |
 |         60 | 0:27:04 | 37M    | nan               | M        | nan      |           37 | Law & District AAC      | http://www.lawaac.co.uk/                   |               76 |
 |         61 | 0:27:11 | 8M     | Barry Mitchell    | M        | MASTER   |            8 | Bellahouston Harriers   | http://www.bellahoustonharriers.co.uk/     |               77 |
 |         62 | 0:27:14 | 5M     | David Riach       | M        | MASTER   |            5 | Westerlands CCC         | https://westerlandsccc.co.uk/              |               78 |
-|         63 | 0:27:16 | 17M    | nan               | M        | nan      |           17 | Calderglen Harriers     | http://www.calderglenharriers.org.uk/      |               81 |
+|         63 | 0:27:16 | 17M    | Jason Grant       | M        | MASTER   |           17 | Calderglen Harriers     | http://www.calderglenharriers.org.uk/      |               81 |
 |         64 | 0:27:34 | 8M     | Kenneth Scott     | M        | MASTER   |            8 | Bellahouston Harriers   | http://www.bellahoustonharriers.co.uk/     |               84 |
 |         65 | 0:27:34 | 57M    | David Cathie      | M        | MASTER   |           57 | Whitemoss AAC           | https://whitemossaac.co.uk/                |               85 |
 |         66 | 0:27:38 | 37M    | nan               | M        | nan      |           37 | Law & District AAC      | http://www.lawaac.co.uk/                   |               87 |
 |         67 | 0:27:42 | 11M    | nan               | M        | nan      |           11 | Airdrie Harriers        | http://airdrieharriers.org/                |               88 |
 |         68 | 0:28:04 | 6M     | Des Dickson       | M        | MASTER   |            6 | Cambuslang Harriers     | https://cambuslangharriers.org/            |               90 |
-|         69 | 0:28:08 | 17M    | nan               | M        | nan      |           17 | Calderglen Harriers     | http://www.calderglenharriers.org.uk/      |               91 |
-|         70 | 0:28:14 | 17M    | nan               | M        | nan      |           17 | Calderglen Harriers     | http://www.calderglenharriers.org.uk/      |               92 |
+|         69 | 0:28:08 | 17M    | Andrew Buchanan   | M        | MASTER   |           17 | Calderglen Harriers     | http://www.calderglenharriers.org.uk/      |               91 |
+|         70 | 0:28:14 | 17M    | Andrew Higgins    | M        | SENIOR   |           17 | Calderglen Harriers     | http://www.calderglenharriers.org.uk/      |               92 |
 |         71 | 0:28:59 | 40M    | Kane Darren       | M        | SENIOR   |           40 | Motherwell AC           | https://motherwellac.com/                  |               95 |
 |         72 | 0:29:23 | 11M    | nan               | M        | nan      |           11 | Airdrie Harriers        | http://airdrieharriers.org/                |               98 |
 |         73 | 0:29:38 | 1M     | MICHAEL CARLIN    | M        | MASTER   |            1 | East Kilbride AC        | http://www.ekac.org.uk/                    |              100 |
@@ -82,6 +82,6 @@
 |         80 | 0:31:10 | 1M     | ADAM McCORMICK    | M        | MASTER   |            1 | East Kilbride AC        | http://www.ekac.org.uk/                    |              112 |
 |         81 | 0:31:14 | 36M    | William Thomson   | M        | MASTER   |           36 | Larkhall YMCA           | https://www.larkhallymcaharriers.org       |              113 |
 |         82 | 0:31:40 | 54M    | nan               | M        | nan      |           54 | VP-Glasgow              | https://www.vp-glasgow.com                 |              115 |
-|         83 | 0:32:11 | 17M    | nan               | M        | nan      |           17 | Calderglen Harriers     | http://www.calderglenharriers.org.uk/      |              118 |
+|         83 | 0:32:11 | 17M    | Richard Lawton    | M        | MASTER   |           17 | Calderglen Harriers     | http://www.calderglenharriers.org.uk/      |              118 |
 |         84 | 0:35:01 | 35M    | nan               | M        | nan      |           35 | Kirkintilloch Olympians | https://kirkintillocholympians.co.uk/      |              122 |
-|         85 | 0:39:33 | 17M    | nan               | M        | nan      |           17 | Calderglen Harriers     | http://www.calderglenharriers.org.uk/      |              127 |
+|         85 | 0:39:33 | 17M    | Russell Couper    | M        | MASTER   |           17 | Calderglen Harriers     | http://www.calderglenharriers.org.uk/      |              127 |

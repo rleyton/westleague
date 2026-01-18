@@ -1,22 +1,24 @@
-|   position | times   | team   | Name            | gender   | AgeCat   |   clubnumber | Club name             | Website                                |   finishPosition |
-|-----------:|:--------|:-------|:----------------|:---------|:---------|-------------:|:----------------------|:---------------------------------------|-----------------:|
-|          1 | 0:20:02 | 2M     | Jonathon Downey | M        | SENIOR   |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |                1 |
-|          2 | 0:20:33 | 1M     | JOHN FERGUSSON  | M        | SENIOR   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |                2 |
-|          3 | 0:20:49 | 10M    | Luke Howard     | M        | SENIOR   |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/     |                3 |
-|          4 | 0:21:12 | 1M     | PATRICK MOCHAN  | M        | SENIOR   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |                5 |
-|          5 | 0:21:31 | 10M    | Allan Neil      | M        | SENIOR   |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/     |                7 |
-|          6 | 0:21:38 | 5M     | Drew Carr       | M        | SENIOR   |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/          |                8 |
-|          7 | 0:22:26 | 1M     | JACK KIRWAN     | M        | SENIOR   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               17 |
-|          8 | 0:22:49 | 1M     | KENNETH SCOTT   | M        | SENIOR   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               20 |
-|          9 | 0:23:13 | 8M     | Matthew Brown   | M        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               25 |
-|         10 | 0:23:59 | 8M     | Jamie Slater    | M        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               30 |
-|         11 | 0:25:08 | 8M     | Anthony Carson  | M        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               39 |
-|         12 | 0:25:30 | 6M     | Ross Noble      | M        | SENIOR   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               46 |
-|         13 | 0:25:56 | 40M    | O'Neill Derek   | M        | SENIOR   |           40 | Motherwell AC         | https://motherwellac.com/              |               51 |
-|         14 | 0:26:10 | 8M     | Mark Webster    | M        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               59 |
-|         15 | 0:26:10 | 40M    | Whyte Marcus    | M        | SENIOR   |           40 | Motherwell AC         | https://motherwellac.com/              |               60 |
-|         16 | 0:26:53 | 57M    | James Cathie    | M        | SENIOR   |           57 | Whitemoss AAC         | https://whitemossaac.co.uk/            |               72 |
-|         17 | 0:28:59 | 40M    | Kane Darren     | M        | SENIOR   |           40 | Motherwell AC         | https://motherwellac.com/              |               95 |
-|         18 | 0:29:46 | 10M    | Harry Chow      | M        | SENIOR   |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/     |              101 |
-|         19 | 0:29:46 | 40M    | Dickson Scott   | M        | SENIOR   |           40 | Motherwell AC         | https://motherwellac.com/              |              102 |
-|         20 | 0:30:38 | 8M     | David Carson    | M        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |              107 |
+|   position | times   | team   | Name             | gender   | AgeCat   |   clubnumber | Club name             | Website                                |   finishPosition |
+|-----------:|:--------|:-------|:-----------------|:---------|:---------|-------------:|:----------------------|:---------------------------------------|-----------------:|
+|          1 | 0:20:02 | 2M     | Jonathon Downey  | M        | SENIOR   |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |                1 |
+|          2 | 0:20:33 | 1M     | JOHN FERGUSSON   | M        | SENIOR   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |                2 |
+|          3 | 0:20:49 | 10M    | Luke Howard      | M        | SENIOR   |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/     |                3 |
+|          4 | 0:21:12 | 1M     | PATRICK MOCHAN   | M        | SENIOR   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |                5 |
+|          5 | 0:21:31 | 10M    | Allan Neil       | M        | SENIOR   |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/     |                7 |
+|          6 | 0:21:38 | 5M     | Drew Carr        | M        | SENIOR   |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/          |                8 |
+|          7 | 0:22:26 | 1M     | JACK KIRWAN      | M        | SENIOR   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               17 |
+|          8 | 0:22:49 | 1M     | KENNETH SCOTT    | M        | SENIOR   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               20 |
+|          9 | 0:23:13 | 8M     | Matthew Brown    | M        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               25 |
+|         10 | 0:23:59 | 8M     | Jamie Slater     | M        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               30 |
+|         11 | 0:25:08 | 8M     | Anthony Carson   | M        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               39 |
+|         12 | 0:25:30 | 6M     | Ross Noble       | M        | SENIOR   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               46 |
+|         13 | 0:25:56 | 40M    | O'Neill Derek    | M        | SENIOR   |           40 | Motherwell AC         | https://motherwellac.com/              |               51 |
+|         14 | 0:25:56 | 17M    | Martin MacDonald | M        | SENIOR   |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |               52 |
+|         15 | 0:26:10 | 8M     | Mark Webster     | M        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               59 |
+|         16 | 0:26:10 | 40M    | Whyte Marcus     | M        | SENIOR   |           40 | Motherwell AC         | https://motherwellac.com/              |               60 |
+|         17 | 0:26:53 | 57M    | James Cathie     | M        | SENIOR   |           57 | Whitemoss AAC         | https://whitemossaac.co.uk/            |               72 |
+|         18 | 0:28:14 | 17M    | Andrew Higgins   | M        | SENIOR   |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |               92 |
+|         19 | 0:28:59 | 40M    | Kane Darren      | M        | SENIOR   |           40 | Motherwell AC         | https://motherwellac.com/              |               95 |
+|         20 | 0:29:46 | 10M    | Harry Chow       | M        | SENIOR   |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/     |              101 |
+|         21 | 0:29:46 | 40M    | Dickson Scott    | M        | SENIOR   |           40 | Motherwell AC         | https://motherwellac.com/              |              102 |
+|         22 | 0:30:38 | 8M     | David Carson     | M        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |              107 |
