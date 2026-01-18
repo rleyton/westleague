@@ -2,7 +2,8 @@
 |----:|--------:|:----------------------|:---------------------------------------|
 |   8 |       8 | Cambuslang Harriers   | https://cambuslangharriers.org/        |
 |  19 |      19 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
-|  41 |      41 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |
-|  44 |      44 | East Kilbride AC      | http://www.ekac.org.uk/                |
-|  63 |      63 | Larkhall YMCA         | https://www.larkhallymcaharriers.org   |
-|  71 |      71 | Westerlands CCC       | https://westerlandsccc.co.uk/          |
+|  44 |      44 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |
+|  46 |      46 | East Kilbride AC      | http://www.ekac.org.uk/                |
+|  65 |      65 | Larkhall YMCA         | https://www.larkhallymcaharriers.org   |
+|  67 |      67 | Troon Tortoises       | http://troontortoises.co.uk            |
+|  74 |      74 | Westerlands CCC       | https://westerlandsccc.co.uk/          |
