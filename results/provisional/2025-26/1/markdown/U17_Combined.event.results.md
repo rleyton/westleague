@@ -25,5 +25,5 @@
 |         23 | 0:20:28 | 37M    | nan               | M        | U17      |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |
 |         24 | 0:22:04 | 37F    | nan               | F        | U17      |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |
 |         25 | 0:22:13 | 37F    | nan               | F        | U17      |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |
-|         26 | 0:24:46 | 8F     | nan               | F        | U17      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
+|         26 | 0:24:46 | 8F     | Lexie Speirs      | F        | U17      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
 |         27 | 0:27:16 | 2F     | Rebecca McNulty   | F        | U17      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |

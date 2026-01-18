@@ -1,6 +1,7 @@
-|   position | Club name           |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                              |
-|-----------:|:--------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------|
-|          1 | Cambuslang Harriers |      6 | F        | 1,3,4               |            8 |               0 |             8 |                4 | https://cambuslangharriers.org/      |
-|          2 | East Kilbride AC    |      1 | F        | 2,7                 |            9 |              18 |            27 |                2 | http://www.ekac.org.uk/              |
-|          3 | Larkhall YMCA       |     36 | F        | 5                   |            5 |              36 |            41 |                1 | https://www.larkhallymcaharriers.org |
-|          4 | Westerlands CCC     |      5 | F        | 8                   |            8 |              36 |            44 |                1 | https://westerlandsccc.co.uk/        |
+|   position | Club name             |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                |
+|-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:---------------------------------------|
+|          1 | Cambuslang Harriers   |      6 | F        | 1,3,4               |            8 |               0 |             8 |                4 | https://cambuslangharriers.org/        |
+|          2 | Bellahouston Harriers |      8 | F        | 5,6,8               |           19 |               0 |            19 |                7 | http://www.bellahoustonharriers.co.uk/ |
+|          3 | East Kilbride AC      |      1 | F        | 2,12                |           14 |              25 |            39 |                2 | http://www.ekac.org.uk/                |
+|          4 | Larkhall YMCA         |     36 | F        | 7                   |            7 |              50 |            57 |                1 | https://www.larkhallymcaharriers.org   |
+|          5 | Westerlands CCC       |      5 | F        | 13                  |           13 |              50 |            63 |                1 | https://westerlandsccc.co.uk/          |

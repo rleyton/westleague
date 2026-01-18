@@ -6,7 +6,7 @@
 |          4 | 0:11:56 | 14M    | nan             | M        | U15      |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/         |                4 |
 |          5 | 0:12:00 | 37M    | nan             | M        | U15      |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |                5 |
 |          6 | 0:12:10 | 2M     | Lewis Sinclair  | M        | U15      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |                6 |
-|          7 | 0:12:20 | 8M     | nan             | M        | U15      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |                8 |
+|          7 | 0:12:20 | 8M     | Callum Walker   | M        | U15      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |                8 |
 |          8 | 0:12:28 | 40M    | Geddes Luke     | M        | U15      |           40 | Motherwell AC         | https://motherwellac.com/              |               10 |
 |          9 | 0:12:35 | 17M    | nan             | M        | U15      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |               12 |
 |         10 | 0:12:47 | 44M    | Sam Clark       | M        | U15      |           44 | North Ayrshire AAC    | https://naathletics.co.uk/             |               15 |

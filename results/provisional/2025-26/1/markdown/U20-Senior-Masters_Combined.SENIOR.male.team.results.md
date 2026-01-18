@@ -1,9 +1,10 @@
-|   position | Club name            |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                            |
-|-----------:|:---------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-----------------------------------|
-|          1 | East Kilbride AC     |      1 | M        | 2,4,7,8             |           21 |               0 |            21 |                4 | http://www.ekac.org.uk/            |
-|          2 | Shettleston Harriers |     10 | M        | 3,5,14              |           22 |              25 |            47 |                3 | http://shettlestonharriers.org.uk/ |
-|          3 | Motherwell AC        |     40 | M        | 10,11,13,15         |           49 |               0 |            49 |                4 | https://motherwellac.com/          |
-|          4 | Kilmarnock H&AC      |      2 | M        | 1                   |            1 |              75 |            76 |                1 | http://www.kilmarnockharriers.com/ |
-|          5 | Westerlands CCC      |      5 | M        | 6                   |            6 |              75 |            81 |                1 | https://westerlandsccc.co.uk/      |
-|          6 | Cambuslang Harriers  |      6 | M        | 9                   |            9 |              75 |            84 |                1 | https://cambuslangharriers.org/    |
-|          7 | Whitemoss AAC        |     57 | M        | 12                  |           12 |              75 |            87 |                1 | https://whitemossaac.co.uk/        |
+|   position | Club name             |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                |
+|-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:---------------------------------------|
+|          1 | East Kilbride AC      |      1 | M        | 2,4,7,8             |           21 |               0 |            21 |                4 | http://www.ekac.org.uk/                |
+|          2 | Bellahouston Harriers |      8 | M        | 9,10,11,14          |           44 |               0 |            44 |                5 | http://www.bellahoustonharriers.co.uk/ |
+|          3 | Shettleston Harriers  |     10 | M        | 3,5,18              |           26 |              30 |            56 |                3 | http://shettlestonharriers.org.uk/     |
+|          4 | Motherwell AC         |     40 | M        | 13,15,17,19         |           64 |               0 |            64 |                4 | https://motherwellac.com/              |
+|          5 | Kilmarnock H&AC       |      2 | M        | 1                   |            1 |              90 |            91 |                1 | http://www.kilmarnockharriers.com/     |
+|          6 | Westerlands CCC       |      5 | M        | 6                   |            6 |              90 |            96 |                1 | https://westerlandsccc.co.uk/          |
+|          7 | Cambuslang Harriers   |      6 | M        | 12                  |           12 |              90 |           102 |                1 | https://cambuslangharriers.org/        |
+|          8 | Whitemoss AAC         |     57 | M        | 16                  |           16 |              90 |           106 |                1 | https://whitemossaac.co.uk/            |

@@ -162,13 +162,14 @@
             },
             "U20": {
                   "M": {
-                        "penalty": 13,
-                        "participants": 3,
+                        "penalty": 14,
+                        "participants": 4,
                         "counters": 3,
                         "clubparticipation": {
                               "1": 1,
                               "2": 1,
-                              "6": 1
+                              "6": 1,
+                              "8": 1
                         }
                   },
                   "F": {
@@ -183,27 +184,29 @@
             },
             "SENIOR": {
                   "M": {
-                        "penalty": 25,
-                        "participants": 15,
+                        "penalty": 30,
+                        "participants": 20,
                         "counters": 4,
                         "clubparticipation": {
                               "1": 4,
                               "2": 1,
                               "5": 1,
                               "6": 1,
+                              "8": 5,
                               "10": 3,
                               "40": 4,
                               "57": 1
                         }
                   },
                   "F": {
-                        "penalty": 20,
-                        "participants": 10,
+                        "penalty": 24,
+                        "participants": 14,
                         "counters": 4,
                         "clubparticipation": {
                               "2": 1,
                               "5": 1,
                               "6": 2,
+                              "8": 4,
                               "10": 2,
                               "40": 3,
                               "48": 1
@@ -212,14 +215,15 @@
             },
             "MASTER": {
                   "M": {
-                        "penalty": 33,
-                        "participants": 23,
+                        "penalty": 38,
+                        "participants": 28,
                         "counters": 3,
                         "clubparticipation": {
                               "1": 5,
                               "2": 3,
                               "5": 1,
                               "6": 4,
+                              "8": 5,
                               "10": 4,
                               "31": 1,
                               "32": 1,
@@ -229,13 +233,14 @@
                         }
                   },
                   "F": {
-                        "penalty": 18,
-                        "participants": 8,
+                        "penalty": 25,
+                        "participants": 15,
                         "counters": 3,
                         "clubparticipation": {
                               "1": 2,
                               "5": 1,
                               "6": 4,
+                              "8": 7,
                               "36": 1
                         }
                   }
@@ -301,8 +306,8 @@
       "attendance": {
             "total": 419,
             "gender": {
-                  "M": 182,
-                  "F": 170
+                  "M": 193,
+                  "F": 181
             }
       }
 }
