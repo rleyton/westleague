@@ -1,0 +1,14 @@
+|   position | Club name             |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                |
+|-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:---------------------------------------|
+|          1 | Law & District AAC    |     37 | F        | 1,2,3               |            6 |               0 |             6 |                7 | http://www.lawaac.co.uk/               |
+|          2 | Ayr Seaforth AC       |     14 | F        | 7,9,10              |           26 |               0 |            26 |                6 | https://www.ayrseaforth.co.uk/         |
+|          3 | Giffnock North AC     |      7 | F        | 5,11,12             |           28 |               0 |            28 |                8 | https://www.giffnocknorth.co.uk/       |
+|          4 | Airdrie Harriers      |     11 | F        | 8,22,27             |           57 |               0 |            57 |                7 | http://airdrieharriers.org/            |
+|          5 | East Kilbride AC      |      1 | F        | 17,20,24            |           61 |               0 |            61 |               10 | http://www.ekac.org.uk/                |
+|          6 | North Ayrshire AAC    |     44 | F        | 14,33,36            |           83 |               0 |            83 |                5 | https://naathletics.co.uk/             |
+|          7 | Kilmarnock H&AC       |      2 | F        | 21,30,32            |           83 |               0 |            83 |                5 | http://www.kilmarnockharriers.com/     |
+|          8 | Larkhall YMCA         |     36 | F        | 13,29               |           42 |              64 |           106 |                2 | https://www.larkhallymcaharriers.org   |
+|          9 | Inverclyde AC         |      4 | F        | 6                   |            6 |             128 |           134 |                1 | https://www.inverclydeac.org/          |
+|         10 | Motherwell AC         |     40 | F        | 25                  |           25 |             128 |           153 |                1 | https://motherwellac.com/              |
+|         11 | Bellahouston Harriers |      8 | F        | 39                  |           39 |             128 |           167 |                1 | http://www.bellahoustonharriers.co.uk/ |
+|         12 | Shettleston Harriers  |     10 | F        | 49                  |           49 |             128 |           177 |                1 | http://shettlestonharriers.org.uk/     |

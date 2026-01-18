@@ -1,0 +1,8 @@
+|   position | Club name           |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                            |
+|-----------:|:--------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-----------------------------------|
+|          1 | East Kilbride AC    |      1 | M        | 2,3,5,6             |           16 |               0 |            16 |                4 | http://www.ekac.org.uk/            |
+|          2 | Motherwell AC       |     40 | M        | 8,9,11,12           |           40 |               0 |            40 |                4 | https://motherwellac.com/          |
+|          3 | Kilmarnock H&AC     |      2 | M        | 1                   |            1 |              66 |            67 |                1 | http://www.kilmarnockharriers.com/ |
+|          4 | Westerlands CCC     |      5 | M        | 4                   |            4 |              66 |            70 |                1 | https://westerlandsccc.co.uk/      |
+|          5 | Cambuslang Harriers |      6 | M        | 7                   |            7 |              66 |            73 |                1 | https://cambuslangharriers.org/    |
+|          6 | Whitemoss AAC       |     57 | M        | 10                  |           10 |              66 |            76 |                1 | https://whitemossaac.co.uk/        |

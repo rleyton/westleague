@@ -1,0 +1,25 @@
+position,Club name,team,gender,finisherPositions,teamPoints,penaltyPoints,totalPoints,totalFinishers,Website
+1,East Kilbride AC,1,M,"2,5,10,17",34,0,34,10,http://www.ekac.org.uk/
+2,Shettleston Harriers,10,M,"3,7,11,19",40,0,40,7,http://shettlestonharriers.org.uk/
+3,Kilmarnock H&AC,2,M,"1,4,31,45",81,0,81,5,http://www.kilmarnockharriers.com/
+4,Bellahouston Harriers,8,M,"24,27,29,30",110,0,110,11,http://www.bellahoustonharriers.co.uk/
+5,Law & District AAC,37,M,"9,23,40,55",127,0,127,6,http://www.lawaac.co.uk/
+6,Cambuslang Harriers,6,M,"18,33,41,56",148,0,148,6,https://cambuslangharriers.org/
+7,Giffnock North AC,7,M,"6,22,34",62,95,157,3,https://www.giffnocknorth.co.uk/
+8,Ayr Seaforth AC,14,M,"13,26,54",93,95,188,3,https://www.ayrseaforth.co.uk/
+9,Calderglen Harriers,17,M,"43,47,57,63",210,0,210,8,http://www.calderglenharriers.org.uk/
+10,Kirkintilloch Olympians,35,M,"15,32,84",131,95,226,3,https://kirkintillocholympians.co.uk/
+11,Bellahouston RR,3,M,"16,28",44,190,234,2,https://www.bellahoustonroadrunners.co.uk/
+12,Motherwell AC,40,M,"46,50,71,75",242,0,242,4,https://motherwellac.com/
+13,Westerlands CCC,5,M,"8,62",70,190,260,2,https://westerlandsccc.co.uk/
+14,Garscube Harriers,9,M,12,12,285,297,1,https://www.garscubeharriers.org.uk/
+15,Inverclyde AC,4,M,14,14,285,299,1,https://www.inverclydeac.org/
+16,Whitemoss AAC,57,M,"58,65",123,190,313,2,https://whitemossaac.co.uk/
+17,North Ayrshire AAC,44,M,"52,78",130,190,320,2,https://naathletics.co.uk/
+18,Helensburgh AAC,32,M,37,37,285,322,1,https://www.helensburghaac.com/
+19,Hamilton Harriers,31,M,38,38,285,323,1,
+20,Strathaven Striders,50,M,"59,79",138,190,328,2,
+21,Airdrie Harriers,11,M,"67,72",139,190,329,2,http://airdrieharriers.org/
+22,Troon Tortoises,53,M,51,51,285,336,1,http://troontortoises.co.uk
+23,Larkhall YMCA,36,M,81,81,285,366,1,https://www.larkhallymcaharriers.org
+24,VP-Glasgow,54,M,82,82,285,367,1,https://www.vp-glasgow.com

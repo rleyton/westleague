@@ -1,0 +1,5 @@
+|   1 |   Total | Club name           | Website                         |
+|----:|--------:|:--------------------|:--------------------------------|
+|   8 |       8 | Cambuslang Harriers | https://cambuslangharriers.org/ |
+|  25 |      25 | East Kilbride AC    | http://www.ekac.org.uk/         |
+|  41 |      41 | Westerlands CCC     | https://westerlandsccc.co.uk/   |

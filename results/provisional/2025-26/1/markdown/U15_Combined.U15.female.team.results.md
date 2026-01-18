@@ -1,0 +1,12 @@
+|   position | Club name             |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                |
+|-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:---------------------------------------|
+|          1 | East Kilbride AC      |      1 | F        | 1,4,14              |           19 |               0 |            19 |                5 | http://www.ekac.org.uk/                |
+|          2 | Ayr Seaforth AC       |     14 | F        | 5,7,8               |           20 |               0 |            20 |                3 | https://www.ayrseaforth.co.uk/         |
+|          3 | North Ayrshire AAC    |     44 | F        | 2,10,15             |           27 |               0 |            27 |                3 | https://naathletics.co.uk/             |
+|          4 | Giffnock North AC     |      7 | F        | 3,6,21              |           30 |               0 |            30 |                5 | https://www.giffnocknorth.co.uk/       |
+|          5 | Motherwell AC         |     40 | F        | 13,18,20            |           51 |               0 |            51 |                5 | https://motherwellac.com/              |
+|          6 | Law & District AAC    |     37 | F        | 17,19,26            |           62 |               0 |            62 |                3 | http://www.lawaac.co.uk/               |
+|          7 | Cambuslang Harriers   |      6 | F        | 11,28,32            |           71 |               0 |            71 |                3 | https://cambuslangharriers.org/        |
+|          8 | Airdrie Harriers      |     11 | F        | 12,22               |           34 |              42 |            76 |                2 | http://airdrieharriers.org/            |
+|          9 | Kilmarnock H&AC       |      2 | F        | 9                   |            9 |              84 |            93 |                1 | http://www.kilmarnockharriers.com/     |
+|         10 | Bellahouston Harriers |      8 | F        | 29,31               |           60 |              42 |           102 |                2 | http://www.bellahoustonharriers.co.uk/ |

@@ -1,0 +1,26 @@
+|   1 |   Total | Club name               | Website                                    |
+|----:|--------:|:------------------------|:-------------------------------------------|
+|  34 |      34 | East Kilbride AC        | http://www.ekac.org.uk/                    |
+|  40 |      40 | Shettleston Harriers    | http://shettlestonharriers.org.uk/         |
+|  81 |      81 | Kilmarnock H&AC         | http://www.kilmarnockharriers.com/         |
+| 110 |     110 | Bellahouston Harriers   | http://www.bellahoustonharriers.co.uk/     |
+| 127 |     127 | Law & District AAC      | http://www.lawaac.co.uk/                   |
+| 148 |     148 | Cambuslang Harriers     | https://cambuslangharriers.org/            |
+| 157 |     157 | Giffnock North AC       | https://www.giffnocknorth.co.uk/           |
+| 188 |     188 | Ayr Seaforth AC         | https://www.ayrseaforth.co.uk/             |
+| 210 |     210 | Calderglen Harriers     | http://www.calderglenharriers.org.uk/      |
+| 226 |     226 | Kirkintilloch Olympians | https://kirkintillocholympians.co.uk/      |
+| 234 |     234 | Bellahouston RR         | https://www.bellahoustonroadrunners.co.uk/ |
+| 242 |     242 | Motherwell AC           | https://motherwellac.com/                  |
+| 260 |     260 | Westerlands CCC         | https://westerlandsccc.co.uk/              |
+| 297 |     297 | Garscube Harriers       | https://www.garscubeharriers.org.uk/       |
+| 299 |     299 | Inverclyde AC           | https://www.inverclydeac.org/              |
+| 313 |     313 | Whitemoss AAC           | https://whitemossaac.co.uk/                |
+| 320 |     320 | North Ayrshire AAC      | https://naathletics.co.uk/                 |
+| 322 |     322 | Helensburgh AAC         | https://www.helensburghaac.com/            |
+| 323 |     323 | Hamilton Harriers       | nan                                        |
+| 328 |     328 | Strathaven Striders     | nan                                        |
+| 329 |     329 | Airdrie Harriers        | http://airdrieharriers.org/                |
+| 336 |     336 | Troon Tortoises         | http://troontortoises.co.uk                |
+| 366 |     366 | Larkhall YMCA           | https://www.larkhallymcaharriers.org       |
+| 367 |     367 | VP-Glasgow              | https://www.vp-glasgow.com                 |

@@ -1,0 +1,7 @@
+|   position | Club name           |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                               |
+|-----------:|:--------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:--------------------------------------|
+|          1 | Motherwell AC       |     40 | F        | 6,7,8               |           21 |              18 |            39 |                3 | https://motherwellac.com/             |
+|          2 | Cambuslang Harriers |      6 | F        | 2,3                 |            5 |              36 |            41 |                2 | https://cambuslangharriers.org/       |
+|          3 | Springburn Harriers |     48 | F        | 1                   |            1 |              54 |            55 |                1 | https://www.springburnharriers.co.uk/ |
+|          4 | Kilmarnock H&AC     |      2 | F        | 4                   |            4 |              54 |            58 |                1 | http://www.kilmarnockharriers.com/    |
+|          5 | Westerlands CCC     |      5 | F        | 5                   |            5 |              54 |            59 |                1 | https://westerlandsccc.co.uk/         |
