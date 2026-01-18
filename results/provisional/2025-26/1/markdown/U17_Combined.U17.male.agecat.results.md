@@ -11,9 +11,9 @@
 |          9 | 0:16:08 | 37M    | nan               | M        | U17      |           37 | Law & District AAC   | http://www.lawaac.co.uk/           |                9 |
 |         10 | 0:16:41 | 1M     | BRIAN HESLOP      | M        | U17      |            1 | East Kilbride AC     | http://www.ekac.org.uk/            |               10 |
 |         11 | 0:16:51 | 1M     | EUAN THORPE       | M        | U17      |            1 | East Kilbride AC     | http://www.ekac.org.uk/            |               11 |
-|         12 | 0:16:54 | 10M    | nan               | M        | U17      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/ |               12 |
+|         12 | 0:16:54 | 10M    | Sam McGowan       | M        | U17      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/ |               12 |
 |         13 | 0:17:32 | 32M    | James McPherson   | M        | U17      |           32 | Helensburgh AAC      | https://www.helensburghaac.com/    |               15 |
 |         14 | 0:18:14 | 50M    | nan               | M        | U17      |           50 | Strathaven Striders  | nan                                |               16 |
 |         15 | 0:18:33 | 40M    | Adebisi Tobi      | M        | U17      |           40 | Motherwell AC        | https://motherwellac.com/          |               17 |
-|         16 | 0:18:50 | 7M     | nan               | M        | U17      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/   |               19 |
+|         16 | 0:18:50 | 7M     | Ruaraidh Mostyn   | M        | U17      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/   |               19 |
 |         17 | 0:20:28 | 37M    | nan               | M        | U17      |           37 | Law & District AAC   | http://www.lawaac.co.uk/           |               23 |

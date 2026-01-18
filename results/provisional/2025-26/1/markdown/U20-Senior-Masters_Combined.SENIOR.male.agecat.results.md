@@ -1,14 +1,17 @@
-|   position | times   | team   | Name            | gender   | AgeCat   |   clubnumber | Club name           | Website                            |   finishPosition |
-|-----------:|:--------|:-------|:----------------|:---------|:---------|-------------:|:--------------------|:-----------------------------------|-----------------:|
-|          1 | 0:20:02 | 2M     | Jonathon Downey | M        | SENIOR   |            2 | Kilmarnock H&AC     | http://www.kilmarnockharriers.com/ |                1 |
-|          2 | 0:20:33 | 1M     | JOHN FERGUSSON  | M        | SENIOR   |            1 | East Kilbride AC    | http://www.ekac.org.uk/            |                2 |
-|          3 | 0:21:12 | 1M     | PATRICK MOCHAN  | M        | SENIOR   |            1 | East Kilbride AC    | http://www.ekac.org.uk/            |                5 |
-|          4 | 0:21:38 | 5M     | Drew Carr       | M        | SENIOR   |            5 | Westerlands CCC     | https://westerlandsccc.co.uk/      |                8 |
-|          5 | 0:22:26 | 1M     | JACK KIRWAN     | M        | SENIOR   |            1 | East Kilbride AC    | http://www.ekac.org.uk/            |               17 |
-|          6 | 0:22:49 | 1M     | KENNETH SCOTT   | M        | SENIOR   |            1 | East Kilbride AC    | http://www.ekac.org.uk/            |               20 |
-|          7 | 0:25:30 | 6M     | Ross Noble      | M        | SENIOR   |            6 | Cambuslang Harriers | https://cambuslangharriers.org/    |               46 |
-|          8 | 0:25:56 | 40M    | O'Neill Derek   | M        | SENIOR   |           40 | Motherwell AC       | https://motherwellac.com/          |               51 |
-|          9 | 0:26:10 | 40M    | Whyte Marcus    | M        | SENIOR   |           40 | Motherwell AC       | https://motherwellac.com/          |               60 |
-|         10 | 0:26:53 | 57M    | James Cathie    | M        | SENIOR   |           57 | Whitemoss AAC       | https://whitemossaac.co.uk/        |               72 |
-|         11 | 0:28:59 | 40M    | Kane Darren     | M        | SENIOR   |           40 | Motherwell AC       | https://motherwellac.com/          |               95 |
-|         12 | 0:29:46 | 40M    | Dickson Scott   | M        | SENIOR   |           40 | Motherwell AC       | https://motherwellac.com/          |              102 |
+|   position | times   | team   | Name            | gender   | AgeCat   |   clubnumber | Club name            | Website                            |   finishPosition |
+|-----------:|:--------|:-------|:----------------|:---------|:---------|-------------:|:---------------------|:-----------------------------------|-----------------:|
+|          1 | 0:20:02 | 2M     | Jonathon Downey | M        | SENIOR   |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/ |                1 |
+|          2 | 0:20:33 | 1M     | JOHN FERGUSSON  | M        | SENIOR   |            1 | East Kilbride AC     | http://www.ekac.org.uk/            |                2 |
+|          3 | 0:20:49 | 10M    | Luke Howard     | M        | SENIOR   |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/ |                3 |
+|          4 | 0:21:12 | 1M     | PATRICK MOCHAN  | M        | SENIOR   |            1 | East Kilbride AC     | http://www.ekac.org.uk/            |                5 |
+|          5 | 0:21:31 | 10M    | Allan Neil      | M        | SENIOR   |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/ |                7 |
+|          6 | 0:21:38 | 5M     | Drew Carr       | M        | SENIOR   |            5 | Westerlands CCC      | https://westerlandsccc.co.uk/      |                8 |
+|          7 | 0:22:26 | 1M     | JACK KIRWAN     | M        | SENIOR   |            1 | East Kilbride AC     | http://www.ekac.org.uk/            |               17 |
+|          8 | 0:22:49 | 1M     | KENNETH SCOTT   | M        | SENIOR   |            1 | East Kilbride AC     | http://www.ekac.org.uk/            |               20 |
+|          9 | 0:25:30 | 6M     | Ross Noble      | M        | SENIOR   |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/    |               46 |
+|         10 | 0:25:56 | 40M    | O'Neill Derek   | M        | SENIOR   |           40 | Motherwell AC        | https://motherwellac.com/          |               51 |
+|         11 | 0:26:10 | 40M    | Whyte Marcus    | M        | SENIOR   |           40 | Motherwell AC        | https://motherwellac.com/          |               60 |
+|         12 | 0:26:53 | 57M    | James Cathie    | M        | SENIOR   |           57 | Whitemoss AAC        | https://whitemossaac.co.uk/        |               72 |
+|         13 | 0:28:59 | 40M    | Kane Darren     | M        | SENIOR   |           40 | Motherwell AC        | https://motherwellac.com/          |               95 |
+|         14 | 0:29:46 | 10M    | Harry Chow      | M        | SENIOR   |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/ |              101 |
+|         15 | 0:29:46 | 40M    | Dickson Scott   | M        | SENIOR   |           40 | Motherwell AC        | https://motherwellac.com/          |              102 |

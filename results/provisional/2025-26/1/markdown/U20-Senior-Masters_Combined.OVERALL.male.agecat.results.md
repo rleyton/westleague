@@ -2,15 +2,15 @@
 |-----------:|:--------|:-------|:------------------|:---------|:---------|-------------:|:------------------------|:-------------------------------------------|-----------------:|
 |          1 | 0:20:02 | 2M     | Jonathon Downey   | M        | SENIOR   |            2 | Kilmarnock H&AC         | http://www.kilmarnockharriers.com/         |                1 |
 |          2 | 0:20:33 | 1M     | JOHN FERGUSSON    | M        | SENIOR   |            1 | East Kilbride AC        | http://www.ekac.org.uk/                    |                2 |
-|          3 | 0:20:49 | 10M    | nan               | M        | nan      |           10 | Shettleston Harriers    | http://shettlestonharriers.org.uk/         |                3 |
+|          3 | 0:20:49 | 10M    | Luke Howard       | M        | SENIOR   |           10 | Shettleston Harriers    | http://shettlestonharriers.org.uk/         |                3 |
 |          4 | 0:21:01 | 2M     | Jamie Work        | M        | U20      |            2 | Kilmarnock H&AC         | http://www.kilmarnockharriers.com/         |                4 |
 |          5 | 0:21:12 | 1M     | PATRICK MOCHAN    | M        | SENIOR   |            1 | East Kilbride AC        | http://www.ekac.org.uk/                    |                5 |
 |          6 | 0:21:15 | 7M     | nan               | M        | nan      |            7 | Giffnock North AC       | https://www.giffnocknorth.co.uk/           |                6 |
-|          7 | 0:21:31 | 10M    | nan               | M        | nan      |           10 | Shettleston Harriers    | http://shettlestonharriers.org.uk/         |                7 |
+|          7 | 0:21:31 | 10M    | Allan Neil        | M        | SENIOR   |           10 | Shettleston Harriers    | http://shettlestonharriers.org.uk/         |                7 |
 |          8 | 0:21:38 | 5M     | Drew Carr         | M        | SENIOR   |            5 | Westerlands CCC         | https://westerlandsccc.co.uk/              |                8 |
 |          9 | 0:21:40 | 37M    | nan               | M        | nan      |           37 | Law & District AAC      | http://www.lawaac.co.uk/                   |                9 |
 |         10 | 0:21:40 | 1M     | GRANT BAILLIE     | M        | MASTER   |            1 | East Kilbride AC        | http://www.ekac.org.uk/                    |               10 |
-|         11 | 0:21:45 | 10M    | nan               | M        | nan      |           10 | Shettleston Harriers    | http://shettlestonharriers.org.uk/         |               11 |
+|         11 | 0:21:45 | 10M    | Michael Paxton    | M        | MASTER   |           10 | Shettleston Harriers    | http://shettlestonharriers.org.uk/         |               11 |
 |         12 | 0:21:53 | 9M     | nan               | M        | nan      |            9 | Garscube Harriers       | https://www.garscubeharriers.org.uk/       |               12 |
 |         13 | 0:21:59 | 14M    | nan               | M        | nan      |           14 | Ayr Seaforth AC         | https://www.ayrseaforth.co.uk/             |               13 |
 |         14 | 0:22:01 | 4M     | nan               | M        | nan      |            4 | Inverclyde AC           | https://www.inverclydeac.org/              |               14 |
@@ -18,13 +18,13 @@
 |         16 | 0:22:22 | 3M     | nan               | M        | nan      |            3 | Bellahouston RR         | https://www.bellahoustonroadrunners.co.uk/ |               16 |
 |         17 | 0:22:26 | 1M     | JACK KIRWAN       | M        | SENIOR   |            1 | East Kilbride AC        | http://www.ekac.org.uk/                    |               17 |
 |         18 | 0:22:34 | 6M     | Iain Reid         | M        | MASTER   |            6 | Cambuslang Harriers     | https://cambuslangharriers.org/            |               18 |
-|         19 | 0:22:38 | 10M    | nan               | M        | nan      |           10 | Shettleston Harriers    | http://shettlestonharriers.org.uk/         |               19 |
+|         19 | 0:22:38 | 10M    | Ronnie Strachan   | M        | MASTER   |           10 | Shettleston Harriers    | http://shettlestonharriers.org.uk/         |               19 |
 |         20 | 0:22:49 | 1M     | KENNETH SCOTT     | M        | SENIOR   |            1 | East Kilbride AC        | http://www.ekac.org.uk/                    |               20 |
 |         21 | 0:23:02 | 1M     | JONATHAN HUNTER   | M        | U20      |            1 | East Kilbride AC        | http://www.ekac.org.uk/                    |               22 |
 |         22 | 0:23:06 | 7M     | nan               | M        | nan      |            7 | Giffnock North AC       | https://www.giffnocknorth.co.uk/           |               23 |
 |         23 | 0:23:07 | 37M    | nan               | M        | nan      |           37 | Law & District AAC      | http://www.lawaac.co.uk/                   |               24 |
 |         24 | 0:23:13 | 8M     | nan               | M        | nan      |            8 | Bellahouston Harriers   | http://www.bellahoustonharriers.co.uk/     |               25 |
-|         25 | 0:23:15 | 10M    | nan               | M        | nan      |           10 | Shettleston Harriers    | http://shettlestonharriers.org.uk/         |               26 |
+|         25 | 0:23:15 | 10M    | Paul Sorrie       | M        | MASTER   |           10 | Shettleston Harriers    | http://shettlestonharriers.org.uk/         |               26 |
 |         26 | 0:23:38 | 14M    | nan               | M        | nan      |           14 | Ayr Seaforth AC         | https://www.ayrseaforth.co.uk/             |               27 |
 |         27 | 0:23:52 | 8M     | nan               | M        | nan      |            8 | Bellahouston Harriers   | http://www.bellahoustonharriers.co.uk/     |               28 |
 |         28 | 0:23:59 | 3M     | nan               | M        | nan      |            3 | Bellahouston RR         | https://www.bellahoustonroadrunners.co.uk/ |               29 |
@@ -47,7 +47,7 @@
 |         45 | 0:25:54 | 2M     | Greig Glendinning | M        | MASTER   |            2 | Kilmarnock H&AC         | http://www.kilmarnockharriers.com/         |               50 |
 |         46 | 0:25:56 | 40M    | O'Neill Derek     | M        | SENIOR   |           40 | Motherwell AC           | https://motherwellac.com/                  |               51 |
 |         47 | 0:25:56 | 17M    | nan               | M        | nan      |           17 | Calderglen Harriers     | http://www.calderglenharriers.org.uk/      |               52 |
-|         48 | 0:26:02 | 10M    | nan               | M        | nan      |           10 | Shettleston Harriers    | http://shettlestonharriers.org.uk/         |               54 |
+|         48 | 0:26:02 | 10M    | John Duffy        | M        | MASTER   |           10 | Shettleston Harriers    | http://shettlestonharriers.org.uk/         |               54 |
 |         49 | 0:26:10 | 8M     | nan               | M        | nan      |            8 | Bellahouston Harriers   | http://www.bellahoustonharriers.co.uk/     |               59 |
 |         50 | 0:26:10 | 40M    | Whyte Marcus      | M        | SENIOR   |           40 | Motherwell AC           | https://motherwellac.com/                  |               60 |
 |         51 | 0:26:12 | 53M    | nan               | M        | nan      |           53 | Troon Tortoises         | http://troontortoises.co.uk                |               61 |
@@ -73,14 +73,14 @@
 |         71 | 0:28:59 | 40M    | Kane Darren       | M        | SENIOR   |           40 | Motherwell AC           | https://motherwellac.com/                  |               95 |
 |         72 | 0:29:23 | 11M    | nan               | M        | nan      |           11 | Airdrie Harriers        | http://airdrieharriers.org/                |               98 |
 |         73 | 0:29:38 | 1M     | MICHAEL CARLIN    | M        | MASTER   |            1 | East Kilbride AC        | http://www.ekac.org.uk/                    |              100 |
-|         74 | 0:29:46 | 10M    | nan               | M        | nan      |           10 | Shettleston Harriers    | http://shettlestonharriers.org.uk/         |              101 |
+|         74 | 0:29:46 | 10M    | Harry Chow        | M        | SENIOR   |           10 | Shettleston Harriers    | http://shettlestonharriers.org.uk/         |              101 |
 |         75 | 0:29:46 | 40M    | Dickson Scott     | M        | SENIOR   |           40 | Motherwell AC           | https://motherwellac.com/                  |              102 |
 |         76 | 0:30:28 | 6M     | Iain Crawford     | M        | MASTER   |            6 | Cambuslang Harriers     | https://cambuslangharriers.org/            |              105 |
 |         77 | 0:30:38 | 8M     | nan               | M        | nan      |            8 | Bellahouston Harriers   | http://www.bellahoustonharriers.co.uk/     |              107 |
 |         78 | 0:30:43 | 44M    | Gary Kilpatrick   | M        | MASTER   |           44 | North Ayrshire AAC      | https://naathletics.co.uk/                 |              108 |
 |         79 | 0:31:01 | 50M    | nan               | M        | nan      |           50 | Strathaven Striders     | nan                                        |              111 |
 |         80 | 0:31:10 | 1M     | ADAM McCORMICK    | M        | MASTER   |            1 | East Kilbride AC        | http://www.ekac.org.uk/                    |              112 |
-|         81 | 0:31:14 | 36M    | nan               | M        | nan      |           36 | Larkhall YMCA           | https://www.larkhallymcaharriers.org       |              113 |
+|         81 | 0:31:14 | 36M    | William Thomson   | M        | MASTER   |           36 | Larkhall YMCA           | https://www.larkhallymcaharriers.org       |              113 |
 |         82 | 0:31:40 | 54M    | nan               | M        | nan      |           54 | VP-Glasgow              | https://www.vp-glasgow.com                 |              115 |
 |         83 | 0:32:11 | 17M    | nan               | M        | nan      |           17 | Calderglen Harriers     | http://www.calderglenharriers.org.uk/      |              118 |
 |         84 | 0:35:01 | 35M    | nan               | M        | nan      |           35 | Kirkintilloch Olympians | https://kirkintillocholympians.co.uk/      |              122 |

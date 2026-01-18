@@ -1,9 +1,11 @@
 position,Club name,team,gender,finisherPositions,teamPoints,penaltyPoints,totalPoints,totalFinishers,Website
-1,East Kilbride AC,1,M,"1,6,7",14,0,14,5,http://www.ekac.org.uk/
-2,Kilmarnock H&AC,2,M,"3,8,10",21,0,21,3,http://www.kilmarnockharriers.com/
-3,Cambuslang Harriers,6,M,"2,11,14",27,0,27,4,https://cambuslangharriers.org/
-4,North Ayrshire AAC,44,M,"9,17",26,28,54,2,https://naathletics.co.uk/
-5,Helensburgh AAC,32,M,4,4,56,60,1,https://www.helensburghaac.com/
-6,Hamilton Harriers,31,M,5,5,56,61,1,
-7,Westerlands CCC,5,M,12,12,56,68,1,https://westerlandsccc.co.uk/
-8,Whitemoss AAC,57,M,13,13,56,69,1,https://whitemossaac.co.uk/
+1,Shettleston Harriers,10,M,"2,4,5",11,0,11,4,http://shettlestonharriers.org.uk/
+2,East Kilbride AC,1,M,"1,9,10",20,0,20,5,http://www.ekac.org.uk/
+3,Kilmarnock H&AC,2,M,"6,11,14",31,0,31,3,http://www.kilmarnockharriers.com/
+4,Cambuslang Harriers,6,M,"3,15,18",36,0,36,4,https://cambuslangharriers.org/
+5,North Ayrshire AAC,44,M,"13,21",34,33,67,2,https://naathletics.co.uk/
+6,Helensburgh AAC,32,M,7,7,66,73,1,https://www.helensburghaac.com/
+7,Hamilton Harriers,31,M,8,8,66,74,1,
+8,Westerlands CCC,5,M,16,16,66,82,1,https://westerlandsccc.co.uk/
+9,Whitemoss AAC,57,M,17,17,66,83,1,https://whitemossaac.co.uk/
+10,Larkhall YMCA,36,M,23,23,66,89,1,https://www.larkhallymcaharriers.org

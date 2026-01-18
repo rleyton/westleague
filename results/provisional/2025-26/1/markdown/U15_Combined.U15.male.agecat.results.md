@@ -1,6 +1,6 @@
 |   position | times   | team   | Name            | gender   | AgeCat   |   clubnumber | Club name             | Website                                |   finishPosition |
 |-----------:|:--------|:-------|:----------------|:---------|:---------|-------------:|:----------------------|:---------------------------------------|-----------------:|
-|          1 | 0:11:38 | 7M     | nan             | M        | U15      |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |                1 |
+|          1 | 0:11:38 | 7M     | Evan Tyler      | M        | U15      |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |                1 |
 |          2 | 0:11:50 | 2M     | Jamie Walker    | M        | U15      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |                2 |
 |          3 | 0:11:51 | 2M     | Calum Curley    | M        | U15      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |                3 |
 |          4 | 0:11:56 | 14M    | nan             | M        | U15      |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/         |                4 |
@@ -19,5 +19,5 @@
 |         17 | 0:13:47 | 50M    | nan             | M        | U15      |           50 | Strathaven Striders   | nan                                    |               29 |
 |         18 | 0:13:49 | 2M     | Logan Peddie    | M        | U15      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |               30 |
 |         19 | 0:13:51 | 37M    | nan             | M        | U15      |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |               31 |
-|         20 | 0:15:48 | 36M    | nan             | M        | U15      |           36 | Larkhall YMCA         | https://www.larkhallymcaharriers.org   |               47 |
-|         21 | 0:16:14 | 36M    | nan             | M        | U15      |           36 | Larkhall YMCA         | https://www.larkhallymcaharriers.org   |               48 |
+|         20 | 0:15:48 | 36M    | Gavin Lee       | M        | U15      |           36 | Larkhall YMCA         | https://www.larkhallymcaharriers.org   |               47 |
+|         21 | 0:16:14 | 36M    | Sam Thomson     | M        | U15      |           36 | Larkhall YMCA         | https://www.larkhallymcaharriers.org   |               48 |

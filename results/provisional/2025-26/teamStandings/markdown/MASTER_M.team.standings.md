@@ -1,10 +1,12 @@
-|   1 |   Total | Club name           | Website                            |
-|----:|--------:|:--------------------|:-----------------------------------|
-|  14 |      14 | East Kilbride AC    | http://www.ekac.org.uk/            |
-|  21 |      21 | Kilmarnock H&AC     | http://www.kilmarnockharriers.com/ |
-|  27 |      27 | Cambuslang Harriers | https://cambuslangharriers.org/    |
-|  54 |      54 | North Ayrshire AAC  | https://naathletics.co.uk/         |
-|  60 |      60 | Helensburgh AAC     | https://www.helensburghaac.com/    |
-|  61 |      61 | Hamilton Harriers   | nan                                |
-|  68 |      68 | Westerlands CCC     | https://westerlandsccc.co.uk/      |
-|  69 |      69 | Whitemoss AAC       | https://whitemossaac.co.uk/        |
+|   1 |   Total | Club name            | Website                              |
+|----:|--------:|:---------------------|:-------------------------------------|
+|  11 |      11 | Shettleston Harriers | http://shettlestonharriers.org.uk/   |
+|  20 |      20 | East Kilbride AC     | http://www.ekac.org.uk/              |
+|  31 |      31 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/   |
+|  36 |      36 | Cambuslang Harriers  | https://cambuslangharriers.org/      |
+|  67 |      67 | North Ayrshire AAC   | https://naathletics.co.uk/           |
+|  73 |      73 | Helensburgh AAC      | https://www.helensburghaac.com/      |
+|  74 |      74 | Hamilton Harriers    | nan                                  |
+|  82 |      82 | Westerlands CCC      | https://westerlandsccc.co.uk/        |
+|  83 |      83 | Whitemoss AAC        | https://whitemossaac.co.uk/          |
+|  89 |      89 | Larkhall YMCA        | https://www.larkhallymcaharriers.org |

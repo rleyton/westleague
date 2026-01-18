@@ -12,7 +12,7 @@
 
 * [Event #1, Strathaven](https://results.westleague.org.uk/results/provisional/2025-26/1/html/)
   * [PROVISIONAL Race results](https://results.westleague.org.uk/results/provisional/2025-26/1/html/)
-  * Still [awaiting 15 team results](./results/provisional/2025-26/1/missingTeamSubmissions.csv)
+  * Still [awaiting 12 team results](./results/provisional/2025-26/1/missingTeamSubmissions.csv)
   * Hosted by [East Kilbride AC](http://www.ekac.org.uk/)
   * [Attendance: 409](./results/provisional/2025-26/1/meta.json)
   * [Thanks to the volunteers](./results/provisional/2025-26/1/html/volunteers.html)
