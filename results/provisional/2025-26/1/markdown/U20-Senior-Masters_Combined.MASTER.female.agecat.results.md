@@ -1,21 +1,23 @@
 |   position | times   | team   | Name               | gender   | AgeCat   |   clubnumber | Club name             | Website                                |   finishPosition |
 |-----------:|:--------|:-------|:-------------------|:---------|:---------|-------------:|:----------------------|:---------------------------------------|-----------------:|
-|          1 | 0:26:23 | 6F     | Kirsty O'Brien     | F        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               62 |
-|          2 | 0:26:43 | 1F     | KELLY BAILLIE      | F        | MASTER   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               69 |
-|          3 | 0:26:49 | 6F     | Emma Morris        | F        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               70 |
-|          4 | 0:27:01 | 6F     | Natalie Brohan     | F        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               75 |
-|          5 | 0:27:18 | 8F     | Marianne Wilson    | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               82 |
-|          6 | 0:27:44 | 8F     | Jennifer Walker    | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               89 |
-|          7 | 0:28:55 | 36F    | Julie Hill         | F        | MASTER   |           36 | Larkhall YMCA         | https://www.larkhallymcaharriers.org   |               94 |
-|          8 | 0:29:34 | 8F     | Kirsty Milton-Moir | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               99 |
-|          9 | 0:30:35 | 53F    | Anne Noble         | F        | MASTER   |           53 | Troon Tortoises       | http://troontortoises.co.uk            |              106 |
-|         10 | 0:30:45 | 8F     | Lauren Mackay      | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |              109 |
-|         11 | 0:30:52 | 17F    | Alison Lessells    | F        | MASTER   |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |              110 |
-|         12 | 0:31:17 | 6F     | Jacqueine McLew    | F        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |              114 |
-|         13 | 0:31:42 | 8F     | Stephanie Rudd     | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |              116 |
-|         14 | 0:34:01 | 17F    | Jacqueline Balmer  | F        | MASTER   |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |              120 |
-|         15 | 0:34:25 | 1F     | TRACEY YATES       | F        | MASTER   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |              121 |
-|         16 | 0:35:27 | 5F     | Wiebke Lammers     | F        | MASTER   |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/          |              124 |
-|         17 | 0:38:41 | 8F     | Helen Stevenson    | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |              125 |
-|         18 | 0:38:55 | 8F     | June MacLeod       | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |              126 |
-|         19 | 0:40:19 | 17F    | Lorraine Buchanan  | F        | MASTER   |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |              128 |
+|          1 | 0:26:02 | 37F    | Elaine Boyle       | F        | MASTER   |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |               55 |
+|          2 | 0:26:23 | 6F     | Kirsty O'Brien     | F        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               62 |
+|          3 | 0:26:43 | 1F     | KELLY BAILLIE      | F        | MASTER   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               69 |
+|          4 | 0:26:49 | 6F     | Emma Morris        | F        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               70 |
+|          5 | 0:27:01 | 6F     | Natalie Brohan     | F        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               75 |
+|          6 | 0:27:18 | 8F     | Marianne Wilson    | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               82 |
+|          7 | 0:27:44 | 8F     | Jennifer Walker    | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               89 |
+|          8 | 0:28:55 | 36F    | Julie Hill         | F        | MASTER   |           36 | Larkhall YMCA         | https://www.larkhallymcaharriers.org   |               94 |
+|          9 | 0:29:12 | 14F    | Toni McIntosh      | F        | MASTER   |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/         |               96 |
+|         10 | 0:29:34 | 8F     | Kirsty Milton-Moir | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               99 |
+|         11 | 0:30:35 | 53F    | Anne Noble         | F        | MASTER   |           53 | Troon Tortoises       | http://troontortoises.co.uk            |              106 |
+|         12 | 0:30:45 | 8F     | Lauren Mackay      | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |              109 |
+|         13 | 0:30:52 | 17F    | Alison Lessells    | F        | MASTER   |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |              110 |
+|         14 | 0:31:17 | 6F     | Jacqueine McLew    | F        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |              114 |
+|         15 | 0:31:42 | 8F     | Stephanie Rudd     | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |              116 |
+|         16 | 0:34:01 | 17F    | Jacqueline Balmer  | F        | MASTER   |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |              120 |
+|         17 | 0:34:25 | 1F     | TRACEY YATES       | F        | MASTER   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |              121 |
+|         18 | 0:35:27 | 5F     | Wiebke Lammers     | F        | MASTER   |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/          |              124 |
+|         19 | 0:38:41 | 8F     | Helen Stevenson    | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |              125 |
+|         20 | 0:38:55 | 8F     | June MacLeod       | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |              126 |
+|         21 | 0:40:19 | 17F    | Lorraine Buchanan  | F        | MASTER   |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |              128 |

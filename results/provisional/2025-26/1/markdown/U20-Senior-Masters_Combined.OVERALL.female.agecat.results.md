@@ -6,15 +6,15 @@
 |          4 | 0:25:01 | 6F     | Catriona Bain      | F        | SENIOR   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               38 |
 |          5 | 0:25:16 | 10F    | Charlene McCallum  | F        | SENIOR   |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/     |               42 |
 |          6 | 0:25:59 | 1F     | AMY ANDREW         | F        | U20      |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               53 |
-|          7 | 0:26:02 | 37F    | nan                | F        | nan      |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |               55 |
+|          7 | 0:26:02 | 37F    | Elaine Boyle       | F        | MASTER   |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |               55 |
 |          8 | 0:26:09 | 6F     | Marie Kane         | F        | SENIOR   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               56 |
 |          9 | 0:26:09 | 2F     | Eve Starritt       | F        | U20      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |               57 |
 |         10 | 0:26:09 | 8F     | Julie Lynch        | F        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               58 |
 |         11 | 0:26:23 | 6F     | Kirsty O'Brien     | F        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               62 |
-|         12 | 0:26:40 | 37F    | nan                | F        | nan      |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |               68 |
+|         12 | 0:26:40 | 37F    | Christime Neill    | F        | SENIOR   |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |               68 |
 |         13 | 0:26:43 | 1F     | KELLY BAILLIE      | F        | MASTER   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               69 |
 |         14 | 0:26:49 | 6F     | Emma Morris        | F        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               70 |
-|         15 | 0:26:59 | 11F    | nan                | F        | nan      |           11 | Airdrie Harriers      | http://airdrieharriers.org/            |               74 |
+|         15 | 0:26:59 | 11F    | Grace Wilson       | F        | U20      |           11 | Airdrie Harriers      | http://airdrieharriers.org/            |               74 |
 |         16 | 0:27:01 | 6F     | Natalie Brohan     | F        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               75 |
 |         17 | 0:27:16 | 2F     | Morgan McBurnie    | F        | SENIOR   |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |               79 |
 |         18 | 0:27:16 | 10F    | Molly Quinn        | F        | SENIOR   |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/     |               80 |
@@ -24,8 +24,8 @@
 |         22 | 0:27:44 | 8F     | Jennifer Walker    | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               89 |
 |         23 | 0:28:42 | 5F     | Alice Gamble       | F        | SENIOR   |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/          |               93 |
 |         24 | 0:28:55 | 36F    | Julie Hill         | F        | MASTER   |           36 | Larkhall YMCA         | https://www.larkhallymcaharriers.org   |               94 |
-|         25 | 0:29:12 | 14F    | nan                | F        | nan      |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/         |               96 |
-|         26 | 0:29:18 | 14F    | nan                | F        | nan      |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/         |               97 |
+|         25 | 0:29:12 | 14F    | Toni McIntosh      | F        | MASTER   |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/         |               96 |
+|         26 | 0:29:18 | 14F    | Emma Steele        | F        | U20      |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/         |               97 |
 |         27 | 0:29:34 | 8F     | Kirsty Milton-Moir | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               99 |
 |         28 | 0:30:05 | 40F    | Dunn Carla         | F        | SENIOR   |           40 | Motherwell AC         | https://motherwellac.com/              |              103 |
 |         29 | 0:30:14 | 40F    | O'Neill Angela     | F        | SENIOR   |           40 | Motherwell AC         | https://motherwellac.com/              |              104 |

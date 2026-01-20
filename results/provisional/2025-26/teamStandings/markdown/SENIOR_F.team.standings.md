@@ -1,9 +1,10 @@
 |   1 |   Total | Club name             | Website                                |
 |----:|--------:|:----------------------|:---------------------------------------|
-|  27 |      27 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
-|  56 |      56 | Cambuslang Harriers   | https://cambuslangharriers.org/        |
-|  60 |      60 | Shettleston Harriers  | http://shettlestonharriers.org.uk/     |
-|  63 |      63 | Motherwell AC         | https://motherwellac.com/              |
-|  73 |      73 | Springburn Harriers   | https://www.springburnharriers.co.uk/  |
-|  79 |      79 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |
-|  83 |      83 | Westerlands CCC       | https://westerlandsccc.co.uk/          |
+|  29 |      29 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
+|  58 |      58 | Cambuslang Harriers   | https://cambuslangharriers.org/        |
+|  63 |      63 | Shettleston Harriers  | http://shettlestonharriers.org.uk/     |
+|  67 |      67 | Motherwell AC         | https://motherwellac.com/              |
+|  76 |      76 | Springburn Harriers   | https://www.springburnharriers.co.uk/  |
+|  82 |      82 | Law & District AAC    | http://www.lawaac.co.uk/               |
+|  83 |      83 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |
+|  87 |      87 | Westerlands CCC       | https://westerlandsccc.co.uk/          |
