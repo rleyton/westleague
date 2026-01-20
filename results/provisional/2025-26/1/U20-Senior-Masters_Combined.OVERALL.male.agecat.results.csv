@@ -7,11 +7,11 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website,finishPositi
 6,0:21:15,7M,,M,,7,Giffnock North AC,https://www.giffnocknorth.co.uk/,6
 7,0:21:31,10M,Allan Neil,M,SENIOR,10,Shettleston Harriers,http://shettlestonharriers.org.uk/,7
 8,0:21:38,5M,Drew Carr,M,SENIOR,5,Westerlands CCC,https://westerlandsccc.co.uk/,8
-9,0:21:40,37M,,M,,37,Law & District AAC,http://www.lawaac.co.uk/,9
+9,0:21:40,37M,Stuart,M,SENIOR,37,Law & District AAC,http://www.lawaac.co.uk/,9
 10,0:21:40,1M,GRANT BAILLIE,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/,10
 11,0:21:45,10M,Michael Paxton,M,MASTER,10,Shettleston Harriers,http://shettlestonharriers.org.uk/,11
 12,0:21:53,9M,,M,,9,Garscube Harriers,https://www.garscubeharriers.org.uk/,12
-13,0:21:59,14M,,M,,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/,13
+13,0:21:59,14M,Kenny Neill,M,MASTER,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/,13
 14,0:22:01,4M,,M,,4,Inverclyde AC,https://www.inverclydeac.org/,14
 15,0:22:12,35M,,M,,35,Kirkintilloch Olympians,https://kirkintillocholympians.co.uk/,15
 16,0:22:22,3M,,M,,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,16
@@ -21,10 +21,10 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website,finishPositi
 20,0:22:49,1M,KENNETH SCOTT,M,SENIOR,1,East Kilbride AC,http://www.ekac.org.uk/,20
 21,0:23:02,1M,JONATHAN HUNTER,M,U20,1,East Kilbride AC,http://www.ekac.org.uk/,22
 22,0:23:06,7M,,M,,7,Giffnock North AC,https://www.giffnocknorth.co.uk/,23
-23,0:23:07,37M,,M,,37,Law & District AAC,http://www.lawaac.co.uk/,24
+23,0:23:07,37M,Ryan Kellock,M,U20,37,Law & District AAC,http://www.lawaac.co.uk/,24
 24,0:23:13,8M,Matthew Brown,M,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,25
 25,0:23:15,10M,Paul Sorrie,M,MASTER,10,Shettleston Harriers,http://shettlestonharriers.org.uk/,26
-26,0:23:38,14M,,M,,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/,27
+26,0:23:38,14M,Ben Forrest,M,SENIOR,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/,27
 27,0:23:52,8M,Donald MacLaren,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,28
 28,0:23:59,3M,,M,,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/,29
 29,0:23:59,8M,Jamie Slater,M,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,30
@@ -38,7 +38,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website,finishPositi
 37,0:25:14,32M,Dougie Laird,M,MASTER,32,Helensburgh AAC,https://www.helensburghaac.com/,41
 38,0:25:18,31M,mark wheeler,M,MASTER,31,Hamilton Harriers,,43
 39,0:25:21,1M,JOHN EDWARDS,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/,44
-40,0:25:24,37M,,M,,37,Law & District AAC,http://www.lawaac.co.uk/,45
+40,0:25:24,37M,Rich Beattie,M,MASTER,37,Law & District AAC,http://www.lawaac.co.uk/,45
 41,0:25:30,6M,Ross Noble,M,SENIOR,6,Cambuslang Harriers,https://cambuslangharriers.org/,46
 42,0:25:32,8M,Chris Morris,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,47
 43,0:25:40,17M,Kai Wheeler,M,U20,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,48
@@ -52,25 +52,25 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website,finishPositi
 51,0:26:12,53M,Matt Pearce,M,MASTER,53,Troon Tortoises,http://troontortoises.co.uk,61
 52,0:26:26,44M,Craig Dailly,M,MASTER,44,North Ayrshire AAC,https://naathletics.co.uk/,63
 53,0:26:26,2M,Gary Martin,M,MASTER,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/,64
-54,0:26:29,14M,,M,,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/,65
-55,0:26:35,37M,,M,,37,Law & District AAC,http://www.lawaac.co.uk/,66
+54,0:26:29,14M,Alasdair Meldrum,M,MASTER,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/,65
+55,0:26:35,37M,Finn Milligan,M,SENIOR,37,Law & District AAC,http://www.lawaac.co.uk/,66
 56,0:26:35,6M,Iain Wallace,M,MASTER,6,Cambuslang Harriers,https://cambuslangharriers.org/,67
 57,0:26:49,17M,Iain MacLean,M,MASTER,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,71
 58,0:26:53,57M,James Cathie,M,SENIOR,57,Whitemoss AAC,https://whitemossaac.co.uk/,72
 59,0:26:58,50M,,M,,50,Strathaven Striders,,73
-60,0:27:04,37M,,M,,37,Law & District AAC,http://www.lawaac.co.uk/,76
+60,0:27:04,37M,Bobby Hill,M,SENIOR,37,Law & District AAC,http://www.lawaac.co.uk/,76
 61,0:27:11,8M,Barry Mitchell,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,77
 62,0:27:14,5M,David Riach,M,MASTER,5,Westerlands CCC,https://westerlandsccc.co.uk/,78
 63,0:27:16,17M,Jason Grant,M,MASTER,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,81
 64,0:27:34,8M,Kenneth Scott,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/,84
 65,0:27:34,57M,David Cathie,M,MASTER,57,Whitemoss AAC,https://whitemossaac.co.uk/,85
-66,0:27:38,37M,,M,,37,Law & District AAC,http://www.lawaac.co.uk/,87
-67,0:27:42,11M,,M,,11,Airdrie Harriers,http://airdrieharriers.org/,88
+66,0:27:38,37M,David Bennet,M,SENIOR,37,Law & District AAC,http://www.lawaac.co.uk/,87
+67,0:27:42,11M,Brian Wilson,M,MASTER,11,Airdrie Harriers,http://airdrieharriers.org/,88
 68,0:28:04,6M,Des Dickson,M,MASTER,6,Cambuslang Harriers,https://cambuslangharriers.org/,90
 69,0:28:08,17M,Andrew Buchanan,M,MASTER,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,91
 70,0:28:14,17M,Andrew Higgins,M,SENIOR,17,Calderglen Harriers,http://www.calderglenharriers.org.uk/,92
 71,0:28:59,40M,Kane Darren,M,SENIOR,40,Motherwell AC,https://motherwellac.com/,95
-72,0:29:23,11M,,M,,11,Airdrie Harriers,http://airdrieharriers.org/,98
+72,0:29:23,11M,Steven Philips,M,MASTER,11,Airdrie Harriers,http://airdrieharriers.org/,98
 73,0:29:38,1M,MICHAEL CARLIN,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/,100
 74,0:29:46,10M,Harry Chow,M,SENIOR,10,Shettleston Harriers,http://shettlestonharriers.org.uk/,101
 75,0:29:46,40M,Dickson Scott,M,SENIOR,40,Motherwell AC,https://motherwellac.com/,102

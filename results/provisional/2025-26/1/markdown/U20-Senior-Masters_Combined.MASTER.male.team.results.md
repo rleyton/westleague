@@ -1,15 +1,18 @@
 |   position | Club name             |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                |
 |-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:---------------------------------------|
-|          1 | Shettleston Harriers  |     10 | M        | 2,4,5               |           11 |               0 |            11 |                4 | http://shettlestonharriers.org.uk/     |
-|          2 | East Kilbride AC      |      1 | M        | 1,11,13             |           25 |               0 |            25 |                5 | http://www.ekac.org.uk/                |
-|          3 | Bellahouston Harriers |      8 | M        | 6,8,12              |           26 |               0 |            26 |                5 | http://www.bellahoustonharriers.co.uk/ |
-|          4 | Kilmarnock H&AC       |      2 | M        | 7,14,18             |           39 |               0 |            39 |                3 | http://www.kilmarnockharriers.com/     |
-|          5 | Cambuslang Harriers   |      6 | M        | 3,19,26             |           48 |               0 |            48 |                4 | https://cambuslangharriers.org/        |
-|          6 | Calderglen Harriers   |     17 | M        | 20,23,27            |           70 |               0 |            70 |                5 | http://www.calderglenharriers.org.uk/  |
-|          7 | North Ayrshire AAC    |     44 | M        | 17,30               |           47 |              44 |            91 |                2 | https://naathletics.co.uk/             |
-|          8 | Helensburgh AAC       |     32 | M        | 9                   |            9 |              88 |            97 |                1 | https://www.helensburghaac.com/        |
-|          9 | Hamilton Harriers     |     31 | M        | 10                  |           10 |              88 |            98 |                1 | nan                                    |
-|         10 | Troon Tortoises       |     53 | M        | 16                  |           16 |              88 |           104 |                1 | http://troontortoises.co.uk            |
-|         11 | Westerlands CCC       |      5 | M        | 22                  |           22 |              88 |           110 |                1 | https://westerlandsccc.co.uk/          |
-|         12 | Whitemoss AAC         |     57 | M        | 25                  |           25 |              88 |           113 |                1 | https://whitemossaac.co.uk/            |
-|         13 | Larkhall YMCA         |     36 | M        | 32                  |           32 |              88 |           120 |                1 | https://www.larkhallymcaharriers.org   |
+|          1 | Shettleston Harriers  |     10 | M        | 2,5,6               |           13 |               0 |            13 |                4 | http://shettlestonharriers.org.uk/     |
+|          2 | East Kilbride AC      |      1 | M        | 1,12,15             |           28 |               0 |            28 |                5 | http://www.ekac.org.uk/                |
+|          3 | Bellahouston Harriers |      8 | M        | 7,9,14              |           30 |               0 |            30 |                5 | http://www.bellahoustonharriers.co.uk/ |
+|          4 | Kilmarnock H&AC       |      2 | M        | 8,16,20             |           44 |               0 |            44 |                3 | http://www.kilmarnockharriers.com/     |
+|          5 | Cambuslang Harriers   |      6 | M        | 4,22,30             |           56 |               0 |            56 |                4 | https://cambuslangharriers.org/        |
+|          6 | Ayr Seaforth AC       |     14 | M        | 3,21                |           24 |              49 |            73 |                2 | https://www.ayrseaforth.co.uk/         |
+|          7 | Calderglen Harriers   |     17 | M        | 23,26,31            |           80 |               0 |            80 |                5 | http://www.calderglenharriers.org.uk/  |
+|          8 | North Ayrshire AAC    |     44 | M        | 19,35               |           54 |              49 |           103 |                2 | https://naathletics.co.uk/             |
+|          9 | Helensburgh AAC       |     32 | M        | 10                  |           10 |              98 |           108 |                1 | https://www.helensburghaac.com/        |
+|         10 | Hamilton Harriers     |     31 | M        | 11                  |           11 |              98 |           109 |                1 | nan                                    |
+|         11 | Airdrie Harriers      |     11 | M        | 29,32               |           61 |              49 |           110 |                2 | http://airdrieharriers.org/            |
+|         12 | Law & District AAC    |     37 | M        | 13                  |           13 |              98 |           111 |                1 | http://www.lawaac.co.uk/               |
+|         13 | Troon Tortoises       |     53 | M        | 18                  |           18 |              98 |           116 |                1 | http://troontortoises.co.uk            |
+|         14 | Westerlands CCC       |      5 | M        | 25                  |           25 |              98 |           123 |                1 | https://westerlandsccc.co.uk/          |
+|         15 | Whitemoss AAC         |     57 | M        | 28                  |           28 |              98 |           126 |                1 | https://whitemossaac.co.uk/            |
+|         16 | Larkhall YMCA         |     36 | M        | 37                  |           37 |              98 |           135 |                1 | https://www.larkhallymcaharriers.org   |

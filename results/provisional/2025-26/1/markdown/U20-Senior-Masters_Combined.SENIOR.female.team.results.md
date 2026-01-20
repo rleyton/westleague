@@ -1,9 +1,10 @@
 |   position | Club name             |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                |
 |-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:---------------------------------------|
-|          1 | Bellahouston Harriers |      8 | F        | 2,6,9,10            |           27 |               0 |            27 |                4 | http://www.bellahoustonharriers.co.uk/ |
-|          2 | Cambuslang Harriers   |      6 | F        | 3,5                 |            8 |              48 |            56 |                2 | https://cambuslangharriers.org/        |
-|          3 | Shettleston Harriers  |     10 | F        | 4,8                 |           12 |              48 |            60 |                2 | http://shettlestonharriers.org.uk/     |
-|          4 | Motherwell AC         |     40 | F        | 12,13,14            |           39 |              24 |            63 |                3 | https://motherwellac.com/              |
-|          5 | Springburn Harriers   |     48 | F        | 1                   |            1 |              72 |            73 |                1 | https://www.springburnharriers.co.uk/  |
-|          6 | Kilmarnock H&AC       |      2 | F        | 7                   |            7 |              72 |            79 |                1 | http://www.kilmarnockharriers.com/     |
-|          7 | Westerlands CCC       |      5 | F        | 11                  |           11 |              72 |            83 |                1 | https://westerlandsccc.co.uk/          |
+|          1 | Bellahouston Harriers |      8 | F        | 2,6,10,11           |           29 |               0 |            29 |                4 | http://www.bellahoustonharriers.co.uk/ |
+|          2 | Cambuslang Harriers   |      6 | F        | 3,5                 |            8 |              50 |            58 |                2 | https://cambuslangharriers.org/        |
+|          3 | Shettleston Harriers  |     10 | F        | 4,9                 |           13 |              50 |            63 |                2 | http://shettlestonharriers.org.uk/     |
+|          4 | Motherwell AC         |     40 | F        | 13,14,15            |           42 |              25 |            67 |                3 | https://motherwellac.com/              |
+|          5 | Springburn Harriers   |     48 | F        | 1                   |            1 |              75 |            76 |                1 | https://www.springburnharriers.co.uk/  |
+|          6 | Law & District AAC    |     37 | F        | 7                   |            7 |              75 |            82 |                1 | http://www.lawaac.co.uk/               |
+|          7 | Kilmarnock H&AC       |      2 | F        | 8                   |            8 |              75 |            83 |                1 | http://www.kilmarnockharriers.com/     |
+|          8 | Westerlands CCC       |      5 | F        | 12                  |           12 |              75 |            87 |                1 | https://westerlandsccc.co.uk/          |

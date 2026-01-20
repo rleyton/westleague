@@ -2,6 +2,7 @@
 |-----------:|:--------|:-------|:----------------|:---------|:---------|-------------:|:----------------------|:---------------------------------------|-----------------:|
 |          1 | 0:21:01 | 2M     | Jamie Work      | M        | U20      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |                4 |
 |          2 | 0:23:02 | 1M     | JONATHAN HUNTER | M        | U20      |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               22 |
-|          3 | 0:24:05 | 8M     | Alistair Munro  | M        | U20      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               31 |
-|          4 | 0:24:29 | 6M     | Gabriel Murphy  | M        | U20      |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               34 |
-|          5 | 0:25:40 | 17M    | Kai Wheeler     | M        | U20      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |               48 |
+|          3 | 0:23:07 | 37M    | Ryan Kellock    | M        | U20      |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |               24 |
+|          4 | 0:24:05 | 8M     | Alistair Munro  | M        | U20      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               31 |
+|          5 | 0:24:29 | 6M     | Gabriel Murphy  | M        | U20      |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               34 |
+|          6 | 0:25:40 | 17M    | Kai Wheeler     | M        | U20      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |               48 |
