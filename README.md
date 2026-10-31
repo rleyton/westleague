@@ -7,19 +7,28 @@
 
 ## Provisional results
 
-### 2025-26
+### 2026-27
 
+#### Event #1
 
-* [Event #1, Strathaven](https://results.westleague.org.uk/results/provisional/2025-26/1/html/)
-  * [PROVISIONAL Race results](https://results.westleague.org.uk/results/provisional/2025-26/1/html/) - Processed to team submissions received to 6pm, 20th Jan 2025.
-    * **Still some team results missing for this event** - [See list of teams missing](./results/provisional/2025-26/1/missingTeamSubmissions.csv)
-    * Giffnock North - missing Seniors
-  * Hosted by [East Kilbride AC](http://www.ekac.org.uk/)
-  * [Attendance: 409](./results/provisional/2025-26/1/meta.json)
+* Event #1, Brediland Park, Foxbar, Paisley: Saturday, 31st October 2026
+  * Pending
+    * Awaiting transcribed results from organising team
+  * Hosted by [Kilbarchan AAC](https://kilbarchanaac.org.uk/)
+  * [Attendance: TBC](./results/provisional/2025-26/1/meta.json)
   * [Thanks to the volunteers](./results/provisional/2025-26/1/html/volunteers.html)
     * [Attendance](./results/provisional/2025-26/1/meta.json)
   * Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2025-26/1), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2025-26/1/markdown/)
 
+#### Event #2 (Future event)
+
+* See https://westleague.org.uk
+* Provisionally 9th January 2027, Calderglen Park, East Kilbride: Calderglen Harriers
+
+#### Event #3 (Future event)
+
+* See https://westleague.org.uk
+* Provisionally 13th February, 2027, Alexandra Park, Glasgow: Westerlands CCC
 
 ### Processing notes
 
