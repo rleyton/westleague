@@ -2,6 +2,10 @@
 
 Results and standings from previous West District XC League seasons.
 
+## 2025-26
+
+- [Results summary/links for the 2024-25 season](./README.2025-26.md)
+
 ## 2024-25
 
 - [Results summary/links for the 2024-25 season](./README.2024-25.md)
