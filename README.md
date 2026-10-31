@@ -14,6 +14,7 @@
 * Event #1, Brediland Park, Foxbar, Paisley: Saturday, 31st October 2026
   * Pending
     * Awaiting transcribed results from organising team
+    * Awaiting team submissions from clubs. See [league website for details](https://westleague.org.uk/results/submission/)
   * Hosted by [Kilbarchan AAC](https://kilbarchanaac.org.uk/)
   * [Attendance: TBC](./results/provisional/2025-26/1/meta.json)
   * [Thanks to the volunteers](./results/provisional/2025-26/1/html/volunteers.html)
