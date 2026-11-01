@@ -17,15 +17,15 @@ from tools.src.adapter_points import (
 class TestGetTeamCounters:
     """Tests for get_team_counters function"""
 
-    @patch('tools.src.adapter_points.AgeCatCounterOverrides', {"U11": 3, "U13": 4})
+    @patch('tools.src.adapter_points.AgeCatCounterOverrides', {"U12": 3, "U14": 4})
     @patch('tools.src.adapter_points.DEFAULT_COUNTERS', 5)
     def test_returns_override_when_agecat_has_override(self):
         """Should return specific counter for age category with override"""
-        result = get_team_counters("U11")
+        result = get_team_counters("U12")
 
         assert result == 3
 
-    @patch('tools.src.adapter_points.AgeCatCounterOverrides', {"U11": 3})
+    @patch('tools.src.adapter_points.AgeCatCounterOverrides', {"U12": 3})
     @patch('tools.src.adapter_points.DEFAULT_COUNTERS', 5)
     def test_returns_default_when_no_override(self):
         """Should return default counters when age category not in overrides"""
@@ -38,17 +38,17 @@ class TestGetCompetitionBreakout:
     """Tests for get_competition_breakout function"""
 
     @patch('tools.src.adapter_points.CompetitionsBreakouts', {
-        "U11_Boys": ["U11"],
+        "U12_Boys": ["U12"],
         "default": ["SENIOR", "MASTER"]
     })
     def test_returns_specific_breakout_when_exists(self):
         """Should return specific breakout for known event"""
-        result = get_competition_breakout("U11_Boys")
+        result = get_competition_breakout("U12_Boys")
 
-        assert result == ["U11"]
+        assert result == ["U12"]
 
     @patch('tools.src.adapter_points.CompetitionsBreakouts', {
-        "U11_Boys": ["U11"],
+        "U12_Boys": ["U12"],
         "default": ["SENIOR", "MASTER"]
     })
     def test_returns_default_breakout_when_event_not_found(self):
@@ -64,9 +64,9 @@ class TestGetCompetitionAgecats:
     @patch('tools.src.adapter_points.OVERALL', 'OVERALL')
     def test_extracts_single_agecat(self):
         """Should extract single age category from event name"""
-        result = get_competition_agecats("U11_Boys")
+        result = get_competition_agecats("U12_Boys")
 
-        assert result == ["U11"]
+        assert result == ["U12"]
 
     @patch('tools.src.adapter_points.OVERALL', 'OVERALL')
     def test_extracts_multiple_agecats_separated_by_dash(self):
@@ -97,9 +97,9 @@ class TestGetCompetitionAgecats:
     @patch('tools.src.adapter_points.OVERALL', 'OVERALL')
     def test_converts_to_uppercase(self):
         """Should convert event name to uppercase"""
-        result = get_competition_agecats("u13_girls")
+        result = get_competition_agecats("U14_girls")
 
-        assert result == ["U13"]
+        assert result == ["U14"]
 
     def test_raises_exception_when_event_is_none(self):
         """Should raise Exception when event is None"""
@@ -165,20 +165,20 @@ class TestExtractFilteredResults:
     def test_filters_by_age_category(self):
         """Should filter results by age category"""
         results = pd.DataFrame({
-            "AgeCat": ["U11", "U13", "U11", "U13"],
+            "AgeCat": ["U12", "U14", "U12", "U14"],
             "position": [1, 2, 3, 4],
             "gender": ["M", "M", "M", "M"]
         })
 
-        result = extract_filtered_results(results, ageCat="U11", gender=None)
+        result = extract_filtered_results(results, ageCat="U12", gender=None)
 
         assert len(result) == 2
-        assert all(result["AgeCat"] == "U11")
+        assert all(result["AgeCat"] == "U12")
 
     def test_filters_by_gender_female(self):
         """Should filter to only female results when gender='F'"""
         results = pd.DataFrame({
-            "AgeCat": ["U11", "U11", "U11"],
+            "AgeCat": ["U12", "U12", "U12"],
             "position": [1, 2, 3],
             "gender": ["M", "F", "F"]
         })
@@ -191,7 +191,7 @@ class TestExtractFilteredResults:
     def test_filters_by_gender_male_includes_nonbinary(self):
         """Should include both M and A (non-binary) when gender='M'"""
         results = pd.DataFrame({
-            "AgeCat": ["U11", "U11", "U11", "U11"],
+            "AgeCat": ["U12", "U12", "U12", "U12"],
             "position": [1, 2, 3, 4],
             "gender": ["M", "F", "A", "M"]
         })
@@ -205,12 +205,12 @@ class TestExtractFilteredResults:
     def test_preserves_finish_position(self):
         """Should preserve original position in finishPosition column"""
         results = pd.DataFrame({
-            "AgeCat": ["U11", "U11"],
+            "AgeCat": ["U12", "U12"],
             "position": [5, 10],
             "gender": ["M", "M"]
         })
 
-        result = extract_filtered_results(results, ageCat="U11", gender="M")
+        result = extract_filtered_results(results, ageCat="U12", gender="M")
 
         assert "finishPosition" in result.columns
         assert list(result["finishPosition"]) == [5, 10]
@@ -218,12 +218,12 @@ class TestExtractFilteredResults:
     def test_renumbers_positions_sequentially(self):
         """Should renumber positions starting from 1 after filtering"""
         results = pd.DataFrame({
-            "AgeCat": ["U11", "U13", "U11", "U13"],
+            "AgeCat": ["U12", "U14", "U12", "U14"],
             "position": [1, 2, 3, 4],
             "gender": ["M", "M", "M", "M"]
         })
 
-        result = extract_filtered_results(results, ageCat="U11", gender=None)
+        result = extract_filtered_results(results, ageCat="U12", gender=None)
 
         # Should be renumbered 1, 2 even though original was 1, 3
         assert list(result["position"]) == [1, 2]
@@ -231,7 +231,7 @@ class TestExtractFilteredResults:
     def test_returns_all_when_no_filters(self):
         """Should return all results when no filters applied"""
         results = pd.DataFrame({
-            "AgeCat": ["U11", "U13"],
+            "AgeCat": ["U12", "U14"],
             "position": [1, 2],
             "gender": ["M", "F"]
         })
@@ -491,7 +491,7 @@ class TestCalculateCompetitionPoints:
         results = pd.DataFrame({
             "position": [1, 2, 3, 4],
             "clubnumber": [1, 2, 1, 2],
-            "AgeCat": ["U11", "U11", "U11", "U11"],
+            "AgeCat": ["U12", "U12", "U12", "U12"],
             "gender": ["M", "M", "F", "F"]
         })
 
@@ -500,7 +500,7 @@ class TestCalculateCompetitionPoints:
         }, index=[1, 2])
         teams.index.name = "clubnumber"
 
-        event = "U11_Boys"
+        event = "U12_Boys"
 
         try:
             reference, competition_points, competition_results = calculate_competition_points(
@@ -531,7 +531,7 @@ class TestCalculateCompetitionPoints:
             reference, competition_points, competition_results = calculate_competition_points(
                 results=results,
                 teams=teams,
-                event="U11_Boys"
+                event="U12_Boys"
             )
             assert isinstance(reference, dict)
         except:
@@ -545,7 +545,7 @@ class TestCalculateCompetitionPoints:
         results = pd.DataFrame({
             "position": [1, 2],
             "clubnumber": [1, 1],
-            "AgeCat": ["U11", "U11"],
+            "AgeCat": ["U12", "U12"],
             "gender": ["M", "M"]
         })
 
@@ -556,7 +556,7 @@ class TestCalculateCompetitionPoints:
             reference, _, _ = calculate_competition_points(
                 results=results,
                 teams=teams,
-                event="U11_Boys"
+                event="U12_Boys"
             )
 
             # Reference should have totals

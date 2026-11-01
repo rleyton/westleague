@@ -1,0 +1,8 @@
+|   position | Club name            |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                              |
+|-----------:|:---------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------|
+|          1 | Queen's Park AC      |     58 | M        | 3,4                 |            7 |              40 |            47 |                2 | https://queensparkac-org-uk.l.ink    |
+|          2 | Giffnock North AC    |      7 | M        | 2,6                 |            8 |              40 |            48 |                2 | https://www.giffnocknorth.co.uk/     |
+|          3 | Kilmarnock H&AC      |      2 | M        | 7,8                 |           15 |              40 |            55 |                2 | http://www.kilmarnockharriers.com/   |
+|          4 | Glasgow FrontRunners |     27 | M        | 9,10                |           19 |              40 |            59 |                2 | https://www.glasgowfrontrunners.org/ |
+|          5 | Shettleston Harriers |     10 | M        | 1                   |            1 |              60 |            61 |                1 | http://shettlestonharriers.org.uk/   |
+|          6 | Ayr Seaforth AC      |     14 | M        | 5                   |            5 |              60 |            65 |                1 | https://www.ayrseaforth.co.uk/       |
