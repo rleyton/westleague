@@ -103,7 +103,7 @@ class TestGetAllPossibleColumns:
             "team": ["1M"],
             "Name": ["A"],
             "gender": ["M"],
-            "AgeCat": ["U11"],
+            "AgeCat": ["U12"],
             "clubnumber": [1],
             "Club name": ["Club A"],
             "Website": ["http://club.com"]
@@ -377,7 +377,7 @@ class TestNormaliseAgecatRecord:
         """Should return SENIOR as default when agecat is None"""
         from tools.src.adapter_results import normalise_agecat_record
 
-        result = normalise_agecat_record(None, "U11_Boys")
+        result = normalise_agecat_record(None, "U12_Boys")
 
         assert result == "SENIOR"
 
@@ -385,7 +385,7 @@ class TestNormaliseAgecatRecord:
         """Should return SENIOR when agecat is not a string"""
         from tools.src.adapter_results import normalise_agecat_record
 
-        result = normalise_agecat_record(123, "U11_Boys")
+        result = normalise_agecat_record(123, "U12_Boys")
 
         assert result == "SENIOR"
 
@@ -408,7 +408,7 @@ class TestMergeRunners:
         # Function is not designed to handle None results
         # It will fail with AttributeError when accessing results.columns
         with pytest.raises(AttributeError):
-            merge_runners(results=None, clubSubmissions={}, event="U11_Boys")
+            merge_runners(results=None, clubSubmissions={}, event="U12_Boys")
 
     def test_returns_results_when_club_submissions_empty(self):
         """Should return original results when club submissions is empty"""
@@ -420,7 +420,7 @@ class TestMergeRunners:
             "position": [1, 2]
         })
 
-        result = merge_runners(results=results, clubSubmissions={}, event="U11_Boys")
+        result = merge_runners(results=results, clubSubmissions={}, event="U12_Boys")
 
         # When no submissions, should return results unchanged or None
         assert result is None or isinstance(result, pd.DataFrame)
@@ -437,12 +437,12 @@ class TestMergeRunners:
         })
 
         club_submissions = {
-            1: pd.DataFrame({"names": ["Runner A"], "gender": ["M"], "agecat": ["U11"]}),
-            2: pd.DataFrame({"names": ["Runner B"], "gender": ["F"], "agecat": ["U11"]})
+            1: pd.DataFrame({"names": ["Runner A"], "gender": ["M"], "agecat": ["U12"]}),
+            2: pd.DataFrame({"names": ["Runner B"], "gender": ["F"], "agecat": ["U12"]})
         }
 
         try:
-            result = merge_runners(results=results, clubSubmissions=club_submissions, event="U11_Boys")
+            result = merge_runners(results=results, clubSubmissions=club_submissions, event="U12_Boys")
             # If successful, result should have merged data
             assert result is None or isinstance(result, pd.DataFrame)
         except:

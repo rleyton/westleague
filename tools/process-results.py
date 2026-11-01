@@ -341,10 +341,10 @@ summary = f"""
 <p>The are presented in the following order:<p>
 <ul>
 <li>Still pending team submissions</li>
-<li>U11: Male, Male Teams, Female, Female Teams</li>
-<li>U13: Male, Male Teams, Female, Female Teams</li>
-<li>U15: Male, Male Teams, Female, Female Teams</li>
-<li>U17: Male, Male Teams, Female, Female Teams</li>
+<li>U12: Male, Male Teams, Female, Female Teams</li>
+<li>U14: Male, Male Teams, Female, Female Teams</li>
+<li>U16: Male, Male Teams, Female, Female Teams</li>
+<li>U18: Male, Male Teams, Female, Female Teams</li>
 <li>U20: Male, Male Teams, Female, Female Teams</li>
 <li>Senior: Male, Male Teams, Female, Female Teams</li>
 <li>Master: Male, Male Teams, Female, Female Teams</li>

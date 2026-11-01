@@ -28,12 +28,12 @@ RESULT_PLACE_TEAM_RANGE = (
 
 # Where to find which competition in the submission spreadsheet
 SheetColumns = {
-    "U11_Girls": 1,
-    "U11_Boys": 3,
-    "U13_Girls": 5,
-    "U13_Boys": 7,
-    "U15_Combined": 9,
-    "U17_Combined": 12,
+    "U12_Girls": 1,
+    "U12_Boys": 3,
+    "U14_Girls": 5,
+    "U14_Boys": 7,
+    "U16_Combined": 9,
+    "U18_Combined": 12,
     "U20-Senior-Masters_Combined": 15,
 }
 
@@ -55,12 +55,12 @@ NAMES_GENDER = 2
 NAMES_GENDER_AGECAT = 3
 
 SheetType = {
-    "U11_Girls": NAMES,
-    "U11_Boys": NAMES,
-    "U13_Girls": NAMES,
-    "U13_Boys": NAMES,
-    "U15_Combined": NAMES_GENDER,
-    "U17_Combined": NAMES_GENDER,
+    "U12_Girls": NAMES,
+    "U12_Boys": NAMES,
+    "U14_Girls": NAMES,
+    "U14_Boys": NAMES,
+    "U16_Combined": NAMES_GENDER,
+    "U18_Combined": NAMES_GENDER,
     "U20-Senior-Masters_Combined": NAMES_GENDER_AGECAT,
 }
 

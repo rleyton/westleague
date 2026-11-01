@@ -63,8 +63,8 @@ class TestFetchClubsFromDir:
 class TestExtractRange:
     """Tests for extract_range function"""
 
-    @patch('tools.src.adapter_excel.SheetType', {"U11": 1})
-    @patch('tools.src.adapter_excel.SheetColumns', {"U11": 1})
+    @patch('tools.src.adapter_excel.SheetType', {"U12": 1})
+    @patch('tools.src.adapter_excel.SheetColumns', {"U12": 1})
     @patch('tools.src.adapter_excel.DataStart', 2)
     @patch('tools.src.adapter_excel.NAMES', 1)
     def test_extracts_names_column(self):
@@ -74,13 +74,13 @@ class TestExtractRange:
             "B": ["Header", "Runner A", "Runner B"]
         })
 
-        result = extract_range(sheet, "U11")
+        result = extract_range(sheet, "U12")
 
         assert result is not None
         assert "names" in result.columns
 
-    @patch('tools.src.adapter_excel.SheetType', {"U11": 2})
-    @patch('tools.src.adapter_excel.SheetColumns', {"U11": 1})
+    @patch('tools.src.adapter_excel.SheetType', {"U12": 2})
+    @patch('tools.src.adapter_excel.SheetColumns', {"U12": 1})
     @patch('tools.src.adapter_excel.DataStart', 2)
     @patch('tools.src.adapter_excel.NAMES_GENDER', 2)
     def test_extracts_gender_when_columns_wide_enough(self):
@@ -91,14 +91,14 @@ class TestExtractRange:
             "C": ["Gender", "M", "F"]
         })
 
-        result = extract_range(sheet, "U11")
+        result = extract_range(sheet, "U12")
 
         if result is not None and "gender" in result.columns:
             assert "gender" in result.columns
 
     def test_returns_none_when_sheet_is_none(self):
         """Should return None when sheet is None"""
-        result = extract_range(None, "U11")
+        result = extract_range(None, "U12")
 
         assert result is None
 
@@ -110,8 +110,8 @@ class TestExtractRange:
 
         assert result is None
 
-    @patch('tools.src.adapter_excel.SheetType', {"U11": 1})
-    @patch('tools.src.adapter_excel.SheetColumns', {"U11": 1})
+    @patch('tools.src.adapter_excel.SheetType', {"U12": 1})
+    @patch('tools.src.adapter_excel.SheetColumns', {"U12": 1})
     @patch('tools.src.adapter_excel.DataStart', 2)
     def test_returns_none_when_data_all_null(self):
         """Should return None when all data is NaN"""
@@ -120,6 +120,6 @@ class TestExtractRange:
             "B": [None, None, None]
         })
 
-        result = extract_range(sheet, "U11")
+        result = extract_range(sheet, "U12")
 
         assert result is None

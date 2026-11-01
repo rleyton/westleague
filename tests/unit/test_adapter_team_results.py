@@ -19,17 +19,17 @@ class TestLoadTeamResults:
     def test_loads_team_results_from_directory(self, mock_read_csv, mock_fetch):
         """Should load team results from CSV files"""
         mock_fetch.return_value = [
-            {"filename": "/path/U11.M.team.results.csv", "agecat": "U11", "gender": "M"},
-            {"filename": "/path/U13.F.team.results.csv", "agecat": "U13", "gender": "F"}
+            {"filename": "/path/U12.M.team.results.csv", "agecat": "U12", "gender": "M"},
+            {"filename": "/path/U14.F.team.results.csv", "agecat": "U14", "gender": "F"}
         ]
         mock_read_csv.return_value = pd.DataFrame({"position": [1, 2]})
 
         result = load_team_results("/test/dir")
 
-        assert "U11" in result
-        assert "M" in result["U11"]
-        assert "U13" in result
-        assert "F" in result["U13"]
+        assert "U12" in result
+        assert "M" in result["U12"]
+        assert "U14" in result
+        assert "F" in result["U14"]
 
     @patch('tools.src.adapter_team_results.fetch_results_filenames')
     @patch('tools.src.adapter_team_results.pd.read_csv')
@@ -80,11 +80,11 @@ class TestExtractRaceResults:
         df2 = pd.DataFrame({"position": [1, 2, 3]})
 
         allEvents = {
-            "event1": {"U11": {"M": df1}},
-            "event2": {"U11": {"M": df2}}
+            "event1": {"U12": {"M": df1}},
+            "event2": {"U12": {"M": df2}}
         }
 
-        result = extract_race_results(allEvents, "U11", "M")
+        result = extract_race_results(allEvents, "U12", "M")
 
         assert "event1" in result
         assert "event2" in result
@@ -94,10 +94,10 @@ class TestExtractRaceResults:
     def test_returns_empty_dict_when_competition_not_found(self):
         """Should return empty dict when competition/gender not found"""
         allEvents = {
-            "event1": {"U11": {"M": pd.DataFrame({"position": [1]})}}
+            "event1": {"U12": {"M": pd.DataFrame({"position": [1]})}}
         }
 
-        result = extract_race_results(allEvents, "U13", "F")
+        result = extract_race_results(allEvents, "U14", "F")
 
         # Should have tried event1 but found nothing
         assert isinstance(result, dict)
@@ -105,8 +105,8 @@ class TestExtractRaceResults:
     def test_handles_missing_competition_gracefully(self):
         """Should handle missing competition without crashing"""
         allEvents = {
-            "event1": {"U11": {"M": pd.DataFrame()}},
-            "event2": {"U13": {"F": pd.DataFrame()}}
+            "event1": {"U12": {"M": pd.DataFrame()}},
+            "event2": {"U14": {"F": pd.DataFrame()}}
         }
 
         # Should not raise exception
@@ -117,12 +117,12 @@ class TestExtractRaceResults:
     def test_extracts_from_multiple_events(self):
         """Should extract from all events that have the competition"""
         allEvents = {
-            "event1": {"U11": {"M": pd.DataFrame({"pos": [1]})}},
-            "event2": {"U11": {"M": pd.DataFrame({"pos": [1, 2]})}},
-            "event3": {"U13": {"F": pd.DataFrame({"pos": [1]})}}
+            "event1": {"U12": {"M": pd.DataFrame({"pos": [1]})}},
+            "event2": {"U12": {"M": pd.DataFrame({"pos": [1, 2]})}},
+            "event3": {"U14": {"F": pd.DataFrame({"pos": [1]})}}
         }
 
-        result = extract_race_results(allEvents, "U11", "M")
+        result = extract_race_results(allEvents, "U12", "M")
 
         assert len(result) == 2
         assert "event1" in result
@@ -149,7 +149,7 @@ class TestCalculateTeamStandings:
             result = calculate_team_standings(
                 raceResults=raceResults,
                 eventMeta=eventMeta,
-                competition="U11",
+                competition="U12",
                 gender="M"
             )
             # If it returns something, that's good
@@ -169,7 +169,7 @@ class TestCalculateTeamStandings:
             calculate_team_standings(
                 raceResults=raceResults,
                 eventMeta=eventMeta,
-                competition="U11",
+                competition="U12",
                 gender="M"
             )
 
@@ -190,7 +190,7 @@ class TestCalculateTeamStandings:
         eventMeta = {
             1: {
                 "races": {
-                    "U11": {
+                    "U12": {
                         "M": {
                             "penalty": 100,
                             "counters": 4,
@@ -201,7 +201,7 @@ class TestCalculateTeamStandings:
             },
             2: {
                 "races": {
-                    "U11": {
+                    "U12": {
                         "M": {
                             "penalty": 100,
                             "counters": 4,
@@ -215,7 +215,7 @@ class TestCalculateTeamStandings:
         result = calculate_team_standings(
             raceResults=raceResults,
             eventMeta=eventMeta,
-            competition="U11",
+            competition="U12",
             gender="M"
         )
 

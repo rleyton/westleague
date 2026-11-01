@@ -19,6 +19,7 @@ clubSubmissions = fetch_clubs_from_dir(process_dir)
 clubData = {}
 for club, filename in clubSubmissions:
     try:
+        logging.info(f"Processing club: {club} from file: {filename}") 
         sheet = pd.read_excel(
             io=DATA_DIR + "/" + CLUB_SUBMISSIONS + "/" + filename,
             sheet_name="Submission",
