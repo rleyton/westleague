@@ -1,0 +1,22 @@
+|   position | Club name             |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                    |
+|-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
+|          1 | Bellahouston Harriers |      8 | M        | 1,14,16,20          |           51 |               0 |            51 |                9 | http://www.bellahoustonharriers.co.uk/     |
+|          2 | Kilbarchan AAC        |     34 | M        | 4,8,21,37           |           70 |               0 |            70 |                6 | https://kilbarchanaac.org.uk/              |
+|          3 | Queen's Park AC       |     58 | M        | 6,13,15             |           34 |              74 |           108 |                3 | https://queensparkac-org-uk.l.ink          |
+|          4 | Bellahouston RR       |      3 | M        | 2,12,23             |           37 |              74 |           111 |                3 | https://www.bellahoustonroadrunners.co.uk/ |
+|          5 | Cambuslang Harriers   |      6 | M        | 10,24,31            |           65 |              74 |           139 |                3 | https://cambuslangharriers.org/            |
+|          6 | East Kilbride AC      |      1 | M        | 3,30,44             |           77 |              74 |           151 |                3 | http://www.ekac.org.uk/                    |
+|          7 | Westerlands CCC       |      5 | M        | 18,40,51,52         |          161 |               0 |           161 |                5 | https://westerlandsccc.co.uk/              |
+|          8 | Shettleston Harriers  |     10 | M        | 5,33,60             |           98 |              74 |           172 |                3 | http://shettlestonharriers.org.uk/         |
+|          9 | Ayr Seaforth AC       |     14 | M        | 9,17                |           26 |             148 |           174 |                2 | https://www.ayrseaforth.co.uk/             |
+|         10 | Giffnock North AC     |      7 | M        | 7,27                |           34 |             148 |           182 |                2 | https://www.giffnocknorth.co.uk/           |
+|         11 | Irvine RC             |     33 | M        | 11,26               |           37 |             148 |           185 |                2 | https://www.irvinerunningclub.co.uk/       |
+|         12 | Inverclyde AC         |      4 | M        | 19,22               |           41 |             148 |           189 |                2 | https://www.inverclydeac.org/              |
+|         13 | Troon Tortoises       |     53 | M        | 35,42,58            |          135 |              74 |           209 |                3 | http://troontortoises.co.uk                |
+|         14 | Kilmarnock H&AC       |      2 | M        | 29,32               |           61 |             148 |           209 |                2 | http://www.kilmarnockharriers.com/         |
+|         15 | Helensburgh AAC       |     32 | M        | 25,36               |           61 |             148 |           209 |                2 | https://www.helensburghaac.com/            |
+|         16 | Motherwell AC         |     40 | M        | 41,43,53            |          137 |              74 |           211 |                3 | https://motherwellac.com/                  |
+|         17 | Newton Road Runners   |     42 | M        | 38,49,50            |          137 |              74 |           211 |                3 | https://www.newton-roadrunners.com/        |
+|         18 | Springburn Harriers   |     48 | M        | 28,57               |           85 |             148 |           233 |                2 | https://www.springburnharriers.co.uk/      |
+|         19 | Calderglen Harriers   |     17 | M        | 45,61,63,64         |          233 |               0 |           233 |                4 | http://www.calderglenharriers.org.uk/      |
+|         20 | Glasgow FrontRunners  |     27 | M        | 56,62               |          118 |             148 |           266 |                2 | https://www.glasgowfrontrunners.org/       |

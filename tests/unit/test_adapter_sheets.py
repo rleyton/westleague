@@ -134,12 +134,12 @@ class TestLoadResultMeta:
         mock_sheet = MagicMock()
         mock_sheet.col_values.side_effect = [
             ["event", "date", "location", ""],
-            ["U11_Boys", "2024-01-20", "Kilmarnock", ""]
+            ["U12_Boys", "2024-01-20", "Kilmarnock", ""]
         ]
 
         result = load_result_meta(mock_sheet)
 
-        assert result["event"] == "U11_Boys"
+        assert result["event"] == "U12_Boys"
         assert result["date"] == "2024-01-20"
         assert result["location"] == "Kilmarnock"
 
@@ -151,7 +151,7 @@ class TestLoadResultMeta:
         mock_sheet = MagicMock()
         mock_sheet.col_values.side_effect = [
             ["event", "date", "", "extra"],
-            ["U11_Boys", "2024-01-20", "", "should_not_load"]
+            ["U12_Boys", "2024-01-20", "", "should_not_load"]
         ]
 
         result = load_result_meta(mock_sheet)
@@ -320,7 +320,7 @@ class TestLoadResults:
     @patch('tools.src.adapter_sheets.META_IMPLICIT_GENDER_KEY', 'implicitGender')
     def test_loads_results_from_sheets(self, mock_finishers, mock_times, mock_meta):
         """Should load results from multiple sheets"""
-        mock_meta.return_value = {"event": "U11_Boys", "implicitGender": "M"}
+        mock_meta.return_value = {"event": "U12_Boys", "implicitGender": "M"}
         mock_times.return_value = ["12:30", "12:45"]
         mock_finishers.return_value = ["1M", "2M"]
 
@@ -328,10 +328,10 @@ class TestLoadResults:
 
         result = load_results([mock_sheet])
 
-        assert "U11_Boys" in result
-        assert result["U11_Boys"][0] == mock_meta.return_value
-        assert result["U11_Boys"][1] == mock_times.return_value
-        assert result["U11_Boys"][2] == mock_finishers.return_value
+        assert "U12_Boys" in result
+        assert result["U12_Boys"][0] == mock_meta.return_value
+        assert result["U12_Boys"][1] == mock_times.return_value
+        assert result["U12_Boys"][2] == mock_finishers.return_value
 
     @patch('tools.src.adapter_sheets.load_result_meta')
     @patch('tools.src.adapter_sheets.load_result_times')
@@ -339,7 +339,7 @@ class TestLoadResults:
     @patch('tools.src.adapter_sheets.META_EVENT', 'event')
     def test_handles_keyerror_gracefully(self, mock_finishers, mock_times, mock_meta):
         """Should handle KeyError and continue processing"""
-        mock_meta.return_value = {"event": "U11_Boys"}  # Missing implicitGender
+        mock_meta.return_value = {"event": "U12_Boys"}  # Missing implicitGender
         mock_times.return_value = ["12:30"]
         mock_finishers.side_effect = KeyError("implicitGender")
 
