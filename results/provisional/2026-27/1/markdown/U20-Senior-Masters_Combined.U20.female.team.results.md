@@ -1,0 +1,16 @@
+|   position | Club name             |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                    |
+|-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
+|          1 | Bellahouston Harriers |      8 | F        | 7,8,9               |           24 |               0 |            24 |               10 | http://www.bellahoustonharriers.co.uk/     |
+|          2 | Bellahouston RR       |      3 | F        | 3,4,19              |           26 |               0 |            26 |                3 | https://www.bellahoustonroadrunners.co.uk/ |
+|          3 | Westerlands CCC       |      5 | F        | 12,18,31            |           61 |               0 |            61 |                3 | https://westerlandsccc.co.uk/              |
+|          4 | Cambuslang Harriers   |      6 | F        | 5,17                |           22 |              43 |            65 |                2 | https://cambuslangharriers.org/            |
+|          5 | Troon Tortoises       |     53 | F        | 16,23               |           39 |              43 |            82 |                2 | http://troontortoises.co.uk                |
+|          6 | Calderglen Harriers   |     17 | F        | 25,30,32            |           87 |               0 |            87 |                3 | http://www.calderglenharriers.org.uk/      |
+|          7 | Shettleston Harriers  |     10 | F        | 1                   |            1 |              86 |            87 |                1 | http://shettlestonharriers.org.uk/         |
+|          8 | Kilbarchan AAC        |     34 | F        | 21,24               |           45 |              43 |            88 |                2 | https://kilbarchanaac.org.uk/              |
+|          9 | Giffnock North AC     |      7 | F        | 2                   |            2 |              86 |            88 |                1 | https://www.giffnocknorth.co.uk/           |
+|         10 | East Kilbride AC      |      1 | F        | 22,26               |           48 |              43 |            91 |                2 | http://www.ekac.org.uk/                    |
+|         11 | Newton Road Runners   |     42 | F        | 6                   |            6 |              86 |            92 |                1 | https://www.newton-roadrunners.com/        |
+|         12 | Larkhall YMCA         |     36 | F        | 10                  |           10 |              86 |            96 |                1 | https://www.larkhallymcaharriers.org       |
+|         13 | Glasgow FrontRunners  |     27 | F        | 13                  |           13 |              86 |            99 |                1 | https://www.glasgowfrontrunners.org/       |
+|         14 | Nithsdale AC          |     43 | F        | 20                  |           20 |              86 |           106 |                1 | nan                                        |

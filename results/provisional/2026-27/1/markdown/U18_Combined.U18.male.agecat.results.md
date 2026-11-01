@@ -1,24 +1,24 @@
-|   position | times   | team   | Name           | gender   | AgeCat   |   clubnumber | Club name            | Website                            |   finishPosition |
-|-----------:|:--------|:-------|:---------------|:---------|:---------|-------------:|:---------------------|:-----------------------------------|-----------------:|
-|          1 | 0:18:14 | 37M    | nan            | M        | U18      |           37 | Law & District AAC   | http://www.lawaac.co.uk/           |                1 |
-|          2 | 0:18:30 | 37M    | nan            | M        | U18      |           37 | Law & District AAC   | http://www.lawaac.co.uk/           |                2 |
-|          3 | 0:18:32 | 40M    | nan            | M        | U18      |           40 | Motherwell AC        | https://motherwellac.com/          |                3 |
-|          4 | 0:18:34 | 37M    | nan            | M        | U18      |           37 | Law & District AAC   | http://www.lawaac.co.uk/           |                4 |
-|          5 | 0:18:52 | 14M    | Caleb Ghosh    | M        | U18      |           14 | Ayr Seaforth AC      | https://www.ayrseaforth.co.uk/     |                5 |
-|          6 | 0:18:54 | 40M    | nan            | M        | U18      |           40 | Motherwell AC        | https://motherwellac.com/          |                6 |
-|          7 | 0:19:04 | 14M    | Lewis Relly    | M        | U18      |           14 | Ayr Seaforth AC      | https://www.ayrseaforth.co.uk/     |                7 |
-|          8 | 0:19:31 | 34M    | nan            | M        | U18      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/      |                8 |
-|          9 | 0:19:41 | 2M     | Jamie Walker   | M        | U18      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/ |                9 |
-|         10 | 0:19:50 | 1M     | BRIAN HESLOP   | M        | U18      |            1 | East Kilbride AC     | http://www.ekac.org.uk/            |               10 |
-|         11 | 0:20:13 | 10M    | Matthew McEwan | M        | U18      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/ |               11 |
-|         12 | 0:20:31 | 10M    | Sam McGowan    | M        | U18      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/ |               14 |
-|         13 | 0:20:38 | 2M     | Liam Hume      | M        | U18      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/ |               16 |
-|         14 | 0:20:41 | 32M    | nan            | M        | U18      |           32 | Helensburgh AAC      | https://www.helensburghaac.com/    |               17 |
-|         15 | 0:20:45 | 34M    | nan            | M        | U18      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/      |               18 |
-|         16 | 0:20:51 | 1M     | NEIL ARTHUR    | M        | U18      |            1 | East Kilbride AC     | http://www.ekac.org.uk/            |               20 |
-|         17 | 0:21:00 | 37M    | nan            | M        | U18      |           37 | Law & District AAC   | http://www.lawaac.co.uk/           |               21 |
-|         18 | 0:21:11 | 7M     | nan            | M        | U18      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/   |               22 |
-|         19 | 0:22:02 | 2M     | Logan Peddie   | M        | U18      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/ |               27 |
-|         20 | 0:22:28 | 10M    | Lucas Millican | M        | U18      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/ |               29 |
-|         21 | 0:22:48 | 34M    | nan            | M        | U18      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/      |               32 |
-|         22 | 0:23:16 | 6M     | nan            | M        | U18      |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/    |               36 |
+|   position | times   | team   | gender   | AgeCat   |   clubnumber | Club name            | Website                            |   finishPosition |
+|-----------:|:--------|:-------|:---------|:---------|-------------:|:---------------------|:-----------------------------------|-----------------:|
+|          1 | 0:18:14 | 37M    | M        | U18      |           37 | Law & District AAC   | http://www.lawaac.co.uk/           |                1 |
+|          2 | 0:18:30 | 37M    | M        | U18      |           37 | Law & District AAC   | http://www.lawaac.co.uk/           |                2 |
+|          3 | 0:18:32 | 40M    | M        | U18      |           40 | Motherwell AC        | https://motherwellac.com/          |                3 |
+|          4 | 0:18:34 | 37M    | M        | U18      |           37 | Law & District AAC   | http://www.lawaac.co.uk/           |                4 |
+|          5 | 0:18:52 | 14M    | M        | U18      |           14 | Ayr Seaforth AC      | https://www.ayrseaforth.co.uk/     |                5 |
+|          6 | 0:18:54 | 40M    | M        | U18      |           40 | Motherwell AC        | https://motherwellac.com/          |                6 |
+|          7 | 0:19:04 | 14M    | M        | U18      |           14 | Ayr Seaforth AC      | https://www.ayrseaforth.co.uk/     |                7 |
+|          8 | 0:19:31 | 34M    | M        | U18      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/      |                8 |
+|          9 | 0:19:41 | 2M     | M        | U18      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/ |                9 |
+|         10 | 0:19:50 | 1M     | M        | U18      |            1 | East Kilbride AC     | http://www.ekac.org.uk/            |               10 |
+|         11 | 0:20:13 | 10M    | M        | U18      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/ |               11 |
+|         12 | 0:20:31 | 10M    | M        | U18      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/ |               14 |
+|         13 | 0:20:38 | 2M     | M        | U18      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/ |               16 |
+|         14 | 0:20:41 | 32M    | M        | U18      |           32 | Helensburgh AAC      | https://www.helensburghaac.com/    |               17 |
+|         15 | 0:20:45 | 34M    | M        | U18      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/      |               18 |
+|         16 | 0:20:51 | 1M     | M        | U18      |            1 | East Kilbride AC     | http://www.ekac.org.uk/            |               20 |
+|         17 | 0:21:00 | 37M    | M        | U18      |           37 | Law & District AAC   | http://www.lawaac.co.uk/           |               21 |
+|         18 | 0:21:11 | 7M     | M        | U18      |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/   |               22 |
+|         19 | 0:22:02 | 2M     | M        | U18      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/ |               27 |
+|         20 | 0:22:28 | 10M    | M        | U18      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/ |               29 |
+|         21 | 0:22:48 | 34M    | M        | U18      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/      |               32 |
+|         22 | 0:23:16 | 6M     | M        | U18      |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/    |               36 |
