@@ -13,7 +13,7 @@
 
 
 * [Event #1, Brediland Park, Foxbar, Paisley](https://results.westleague.org.uk/results/provisional/2026-27/1/html/)): Saturday, 31st October 2026
-   * Processed to teamn results received by **22:00**
+   * Processed to teamn result received by **22:00**
    * [See list of teams missing](./results/provisional/2026-27/1/missingTeamSubmissions.csv) as of that time
   * Hosted by [Kilbarchan AAC](https://kilbarchanaac.org.uk/)
   * [Attendance: TBC](./results/provisional/2026-27/1/meta.json)
