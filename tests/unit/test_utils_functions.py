@@ -144,34 +144,34 @@ class TestFetchResultsFilenames:
     def test_parses_team_results_filenames_correctly(self, tmp_path):
         """Should parse team results files and extract metadata"""
         # Create test files with proper naming pattern
-        (tmp_path / "U11.M.team.results.csv").touch()
-        (tmp_path / "U13.F.team.results.csv").touch()
+        (tmp_path / "U12.M.team.results.csv").touch()
+        (tmp_path / "U14.F.team.results.csv").touch()
 
         result = fetch_results_filenames(str(tmp_path))
 
         assert len(result) == 2
 
         # Check first result
-        assert result[0]["eventname"] == "U11"
+        assert result[0]["eventname"] == "U12"
         assert result[0]["agecat"] == "M"
         assert result[0]["gender"] == "team"
-        assert "U11.M.team.results.csv" in result[0]["filename"]
+        assert "U12.M.team.results.csv" in result[0]["filename"]
 
         # Check second result
-        assert result[1]["eventname"] == "U13"
+        assert result[1]["eventname"] == "U14"
         assert result[1]["agecat"] == "F"
         assert result[1]["gender"] == "team"
 
     def test_ignores_non_team_results_files(self, tmp_path):
         """Should only process files matching *.team.results.csv pattern"""
-        (tmp_path / "U11.M.team.results.csv").touch()
+        (tmp_path / "U12.M.team.results.csv").touch()
         (tmp_path / "other_data.csv").touch()
         (tmp_path / "results.txt").touch()
 
         result = fetch_results_filenames(str(tmp_path))
 
         assert len(result) == 1
-        assert result[0]["eventname"] == "U11"
+        assert result[0]["eventname"] == "U12"
 
     def test_handles_complex_event_names(self, tmp_path):
         """Should handle event names with underscores"""
@@ -186,9 +186,9 @@ class TestFetchResultsFilenames:
 
     def test_filename_includes_full_path(self, tmp_path):
         """Should include full directory path in filename field"""
-        (tmp_path / "U11.M.team.results.csv").touch()
+        (tmp_path / "U12.M.team.results.csv").touch()
 
         result = fetch_results_filenames(str(tmp_path))
 
         assert result[0]["filename"].startswith(str(tmp_path))
-        assert result[0]["filename"].endswith("U11.M.team.results.csv")
+        assert result[0]["filename"].endswith("U12.M.team.results.csv")

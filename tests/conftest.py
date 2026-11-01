@@ -90,7 +90,7 @@ def sample_team_results_csv(tmp_path):
 2,Team2,35,5
 3,Team3,45,4
 """
-    csv_file = tmp_path / "U11.M.team.results.csv"
+    csv_file = tmp_path / "U12.M.team.results.csv"
     csv_file.write_text(csv_content)
     return str(csv_file)
 
