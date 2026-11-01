@@ -1,0 +1,29 @@
+|   position | times   | team   | Name               | gender   | AgeCat   |   clubnumber | Club name             | Website                                |   finishPosition |
+|-----------:|:--------|:-------|:-------------------|:---------|:---------|-------------:|:----------------------|:---------------------------------------|-----------------:|
+|          1 | 0:13:19 | 9M     | nan                | M        | U16      |            9 | Garscube Harriers     | https://www.garscubeharriers.org.uk/   |                1 |
+|          2 | 0:13:26 | 9M     | nan                | M        | U16      |            9 | Garscube Harriers     | https://www.garscubeharriers.org.uk/   |                2 |
+|          3 | 0:13:28 | 6M     | nan                | M        | U16      |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |                3 |
+|          4 | 0:13:33 | 10M    | Noad Woldeselassie | M        | U16      |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/     |                4 |
+|          5 | 0:13:36 | 44M    | nan                | M        | U16      |           44 | North Ayrshire AAC    | https://naathletics.co.uk/             |                5 |
+|          6 | 0:13:39 | 17M    | nan                | M        | U16      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/  |                6 |
+|          7 | 0:13:49 | 40M    | nan                | M        | U16      |           40 | Motherwell AC         | https://motherwellac.com/              |                7 |
+|          8 | 0:13:49 | 7M     | nan                | M        | U16      |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |                8 |
+|          9 | 0:13:51 | 40M    | nan                | M        | U16      |           40 | Motherwell AC         | https://motherwellac.com/              |                9 |
+|         10 | 0:13:58 | 34M    | nan                | M        | U16      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/          |               10 |
+|         11 | 0:14:06 | 34M    | nan                | M        | U16      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/          |               11 |
+|         12 | 0:14:17 | 6M     | nan                | M        | U16      |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               12 |
+|         13 | 0:14:19 | 34M    | nan                | M        | U16      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/          |               13 |
+|         14 | 0:14:26 | 7M     | nan                | M        | U16      |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |               14 |
+|         15 | 0:14:43 | 40M    | nan                | M        | U16      |           40 | Motherwell AC         | https://motherwellac.com/              |               17 |
+|         16 | 0:14:45 | 2M     | Lewis Sinclair     | M        | U16      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |               18 |
+|         17 | 0:14:53 | 14M    | Sebastian Craig    | M        | U16      |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/         |               19 |
+|         18 | 0:15:22 | 34M    | nan                | M        | U16      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/          |               20 |
+|         19 | 0:15:24 | 6M     | nan                | M        | U16      |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               21 |
+|         20 | 0:15:45 | 14M    | Alex Starkey       | M        | U16      |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/         |               24 |
+|         21 | 0:15:48 | 8M     | nan                | M        | U16      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               25 |
+|         22 | 0:15:56 | 1M     | CALLUM McCORMICK   | M        | U16      |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               28 |
+|         23 | 0:15:59 | 8M     | nan                | M        | U16      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               30 |
+|         24 | 0:16:10 | 1M     | CHARLIE GILMOUR    | M        | U16      |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               31 |
+|         25 | 0:16:28 | 34M    | nan                | M        | U16      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/          |               35 |
+|         26 | 0:16:41 | 1M     | LEWIS ALLAN        | M        | U16      |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               38 |
+|         27 | 0:16:53 | 14M    | Oliver Barrie      | M        | U16      |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/         |               41 |

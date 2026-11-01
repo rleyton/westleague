@@ -1,0 +1,16 @@
+|   position | Club name            |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                               |
+|-----------:|:---------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:--------------------------------------|
+|          1 | Giffnock North AC    |      7 | F        | 1,12,14             |           27 |               0 |            27 |                6 | https://www.giffnocknorth.co.uk/      |
+|          2 | Airdrie Harriers     |     11 | F        | 8,18,20             |           46 |               0 |            46 |                4 | http://airdrieharriers.org/           |
+|          3 | VP-Glasgow           |     54 | F        | 5,15,26             |           46 |               0 |            46 |                3 | https://www.vp-glasgow.com            |
+|          4 | East Kilbride AC     |      1 | F        | 9,10,28             |           47 |               0 |            47 |                3 | http://www.ekac.org.uk/               |
+|          5 | Kilbarchan AAC       |     34 | F        | 6,22,23             |           51 |               0 |            51 |                5 | https://kilbarchanaac.org.uk/         |
+|          6 | Inverclyde AC        |      4 | F        | 2,25,30             |           57 |               0 |            57 |                4 | https://www.inverclydeac.org/         |
+|          7 | Cambuslang Harriers  |      6 | F        | 4,7                 |           11 |              48 |            59 |                2 | https://cambuslangharriers.org/       |
+|          8 | Law & District AAC   |     37 | F        | 11,24,37            |           72 |               0 |            72 |                3 | http://www.lawaac.co.uk/              |
+|          9 | Motherwell AC        |     40 | F        | 3,31                |           34 |              48 |            82 |                2 | https://motherwellac.com/             |
+|         10 | Shettleston Harriers |     10 | F        | 13                  |           13 |              96 |           109 |                1 | http://shettlestonharriers.org.uk/    |
+|         11 | Kilmarnock H&AC      |      2 | F        | 29,33               |           62 |              48 |           110 |                2 | http://www.kilmarnockharriers.com/    |
+|         12 | Calderglen Harriers  |     17 | F        | 17                  |           17 |              96 |           113 |                1 | http://www.calderglenharriers.org.uk/ |
+|         13 | Springburn Harriers  |     48 | F        | 27                  |           27 |              96 |           123 |                1 | https://www.springburnharriers.co.uk/ |
+|         14 | Garscube Harriers    |      9 | F        | 34                  |           34 |              96 |           130 |                1 | https://www.garscubeharriers.org.uk/  |

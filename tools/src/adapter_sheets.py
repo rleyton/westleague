@@ -82,6 +82,9 @@ def load_result_finishers(sheet: Worksheet = None, implicitGender: str = None):
             (team, gender) = (place.value, next(placesIterator).value)
             if len(gender) == 0:
                 gender = implicitGender
+            elif len(gender) > 1:
+                # MALE->M, FEMALE->F, etc
+                gender = gender[0]
             if len(team) == 0:
                 # reached the end
                 break
