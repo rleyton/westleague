@@ -11,15 +11,15 @@
 
 #### Event #1
 
-* Event #1, Brediland Park, Foxbar, Paisley: Saturday, 31st October 2026
-  * Pending
-    * Awaiting transcribed results from organising team
-    * Awaiting team submissions from clubs. See [league website for details](https://westleague.org.uk/results/submission/)
+
+* [Event #1, Brediland Park, Foxbar, Paisley](https://results.westleague.org.uk/results/confirmed/2026-27/1/html/)): Saturday, 31st October 2026
+   * Processed to teamn results received by **22:00**
+   * [See list of teams missing](./results/confirmed/2026-27/1/missingTeamSubmissions.csv) as of that time
   * Hosted by [Kilbarchan AAC](https://kilbarchanaac.org.uk/)
-  * [Attendance: TBC](./results/provisional/2025-26/1/meta.json)
-  * [Thanks to the volunteers](./results/provisional/2025-26/1/html/volunteers.html)
+  * [Attendance: TBC](./results/provisional/2026-27/1/meta.json)
+  * [Thanks to the volunteers](./results/provisional/2026-27/1/html/volunteers.html)
     * [Attendance](./results/provisional/2025-26/1/meta.json)
-  * Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2025-26/1), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2025-26/1/markdown/)
+  * Data variations: [CSV](https://github.com/rleyton/westleague/tree/main/results/provisional/2026-27/1), [markdown](https://github.com/rleyton/westleague/tree/main/results/provisional/2026-27/1/markdown/)
 
 #### Event #2 (Future event)
 
