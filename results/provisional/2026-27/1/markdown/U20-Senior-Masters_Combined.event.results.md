@@ -25,7 +25,7 @@
 |         23 | 0:26:11 | 4M     | Thomas Jamieson              | M        | MASTER   |            4 | Inverclyde AC         | https://www.inverclydeac.org/              |
 |         24 | 0:26:39 | 3M     | nan                          | M        | nan      |            3 | Bellahouston RR       | https://www.bellahoustonroadrunners.co.uk/ |
 |         25 | 0:26:46 | 6M     | Mick Ohagan                  | M        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/            |
-|         26 | 0:26:53 | 32M    | nan                          | M        | nan      |           32 | Helensburgh AAC       | https://www.helensburghaac.com/            |
+|         26 | 0:26:53 | 32M    | Michael Sweeney              | M        | MASTER   |           32 | Helensburgh AAC       | https://www.helensburghaac.com/            |
 |         27 | 0:27:00 | 33M    | Alex Allardyce               | M        | MASTER   |           33 | Irvine RC             | https://www.irvinerunningclub.co.uk/       |
 |         28 | 0:27:09 | 7M     | Scott Kelman                 | M        | SENIOR   |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/           |
 |         29 | 0:27:22 | 48M    | Scott Troup                  | M        | MASTER   |           48 | Springburn Harriers   | https://www.springburnharriers.co.uk/      |
@@ -39,7 +39,7 @@
 |         37 | 0:27:56 | 3F     | nan                          | F        | nan      |            3 | Bellahouston RR       | https://www.bellahoustonroadrunners.co.uk/ |
 |         38 | 0:28:06 | 53M    | Matt Pearce                  | M        | MASTER   |           53 | Troon Tortoises       | http://troontortoises.co.uk                |
 |         39 | 0:28:09 | 3F     | nan                          | F        | nan      |            3 | Bellahouston RR       | https://www.bellahoustonroadrunners.co.uk/ |
-|         40 | 0:28:15 | 32M    | nan                          | M        | nan      |           32 | Helensburgh AAC       | https://www.helensburghaac.com/            |
+|         40 | 0:28:15 | 32M    | Allan MacKenzie              | M        | SENIOR   |           32 | Helensburgh AAC       | https://www.helensburghaac.com/            |
 |         41 | 0:28:44 | 34M    | nan                          | M        | nan      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/              |
 |         42 | 0:28:46 | 42M    | nan                          | M        | nan      |           42 | Newton Road Runners   | https://www.newton-roadrunners.com/        |
 |         43 | 0:28:47 | 8M     | nan                          | M        | nan      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |

@@ -13,7 +13,7 @@
 
 
 * [Event #1, Brediland Park, Foxbar, Paisley](https://results.westleague.org.uk/results/provisional/2026-27/1/html/): Saturday, 31st October 2026
-   * Processed to team result received by **9am, 2nd November**
+   * Processed to team result received by **3pm, 2nd November**
      * U12Boys results issue under investigation
    * [See list of teams missing](./results/provisional/2026-27/1/missingTeamSubmissions.csv) as of that time
   * Hosted by [Kilbarchan AAC](https://kilbarchanaac.org.uk/)

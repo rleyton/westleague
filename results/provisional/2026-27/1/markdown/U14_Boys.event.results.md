@@ -23,24 +23,24 @@
 |         21 | 0:12:50 | 6M     | Zac Deans            | M        | U14      |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |
 |         22 | 0:12:51 | 37M    | nan                  | M        | U14      |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |
 |         23 | 0:12:53 | 10M    | Joesph Paterson      | M        | U14      |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/     |
-|         24 | 0:13:01 | 32M    | nan                  | M        | U14      |           32 | Helensburgh AAC       | https://www.helensburghaac.com/        |
-|         25 | 0:13:03 | 54M    | nan                  | M        | U14      |           54 | VP-Glasgow            | https://www.vp-glasgow.com             |
+|         24 | 0:13:01 | 32M    | Kyle VanDuivenbode   | M        | U14      |           32 | Helensburgh AAC       | https://www.helensburghaac.com/        |
+|         25 | 0:13:03 | 54M    | Hugo Meikle          | M        | U14      |           54 | VP-Glasgow            | https://www.vp-glasgow.com             |
 |         26 | 0:13:05 | 34M    | nan                  | M        | U14      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/          |
 |         27 | 0:13:08 | 2M     | Isaac Todd           | M        | U14      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |
 |         28 | 0:13:11 | 1M     | LUKE McCORMICK       | M        | U14      |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |
 |         29 | 0:13:19 | 6M     | Ander Ritchie        | M        | U14      |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |
 |         30 | 0:13:20 | 10M    | Louis Millican       | M        | U14      |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/     |
 |         31 | 0:13:20 | 34M    | nan                  | M        | U14      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/          |
-|         32 | 0:13:21 | 54M    | nan                  | M        | U14      |           54 | VP-Glasgow            | https://www.vp-glasgow.com             |
+|         32 | 0:13:21 | 54M    | James MacLeod        | M        | U14      |           54 | VP-Glasgow            | https://www.vp-glasgow.com             |
 |         33 | 0:13:24 | 34M    | nan                  | M        | U14      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/          |
 |         34 | 0:13:25 | 7M     | nan                  | M        | U14      |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |
 |         35 | 0:13:34 | 9M     | CallumThomson        | M        | U14      |            9 | Garscube Harriers     | https://www.garscubeharriers.org.uk/   |
 |         36 | 0:13:48 | 49M    | Liam McMiken         | M        | U14      |           49 | Stewartry AC          | https://stewartryac.wordpress.com/     |
-|         37 | 0:13:50 | 54M    | nan                  | M        | U14      |           54 | VP-Glasgow            | https://www.vp-glasgow.com             |
+|         37 | 0:13:50 | 54M    | Findlay Grant        | M        | U14      |           54 | VP-Glasgow            | https://www.vp-glasgow.com             |
 |         38 | 0:14:15 | 34M    | nan                  | M        | U14      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/          |
 |         39 | 0:14:16 | 8M     | nan                  | M        | U14      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
 |         40 | 0:14:41 | 9M     | Finlay Cumming       | M        | U14      |            9 | Garscube Harriers     | https://www.garscubeharriers.org.uk/   |
-|         41 | 0:14:42 | 54M    | nan                  | M        | U14      |           54 | VP-Glasgow            | https://www.vp-glasgow.com             |
+|         41 | 0:14:42 | 54M    | Tai Winter           | M        | U14      |           54 | VP-Glasgow            | https://www.vp-glasgow.com             |
 |         42 | 0:15:20 | 11M    | nan                  | M        | U14      |           11 | Airdrie Harriers      | http://airdrieharriers.org/            |
 |         43 | 0:15:47 | 49M    | Fred Lightfoot       | M        | U14      |           49 | Stewartry AC          | https://stewartryac.wordpress.com/     |
 |         44 | 0:16:11 | 11M    | nan                  | M        | U14      |           11 | Airdrie Harriers      | http://airdrieharriers.org/            |

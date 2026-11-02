@@ -13,7 +13,7 @@
 |         11 | 0:20:13 | 10M    | Matthew McEwan  | M        | U18      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/ |               11 |
 |         12 | 0:20:31 | 10M    | Sam McGowan     | M        | U18      |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/ |               14 |
 |         13 | 0:20:38 | 2M     | Liam Hume       | M        | U18      |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/ |               16 |
-|         14 | 0:20:41 | 32M    | nan             | M        | U18      |           32 | Helensburgh AAC      | https://www.helensburghaac.com/    |               17 |
+|         14 | 0:20:41 | 32M    | Bruno Sweeney   | M        | U18      |           32 | Helensburgh AAC      | https://www.helensburghaac.com/    |               17 |
 |         15 | 0:20:45 | 34M    | nan             | M        | U18      |           34 | Kilbarchan AAC       | https://kilbarchanaac.org.uk/      |               18 |
 |         16 | 0:20:51 | 1M     | NEIL ARTHUR     | M        | U18      |            1 | East Kilbride AC     | http://www.ekac.org.uk/            |               20 |
 |         17 | 0:21:00 | 37M    | nan             | M        | U18      |           37 | Law & District AAC   | http://www.lawaac.co.uk/           |               21 |
