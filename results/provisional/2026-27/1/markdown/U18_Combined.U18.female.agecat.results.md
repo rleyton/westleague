@@ -1,9 +1,9 @@
 |   position | times   | team   | Name                         | gender   | AgeCat   |   clubnumber | Club name             | Website                                |   finishPosition |
 |-----------:|:--------|:-------|:-----------------------------|:---------|:---------|-------------:|:----------------------|:---------------------------------------|-----------------:|
-|          1 | 0:20:18 | 7F     | nan                          | F        | U18      |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |               12 |
+|          1 | 0:20:18 | 7F     | Eve Cameron                  | F        | U18      |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |               12 |
 |          2 | 0:20:20 | 14F    | Olivia Tadourian             | F        | U18      |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/         |               13 |
 |          3 | 0:20:32 | 37F    | nan                          | F        | U18      |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |               15 |
-|          4 | 0:20:47 | 7F     | nan                          | F        | U18      |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |               19 |
+|          4 | 0:20:47 | 7F     | Holly Simpson                | F        | U18      |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |               19 |
 |          5 | 0:21:22 | 44F    | nan                          | F        | U18      |           44 | North Ayrshire AAC    | https://naathletics.co.uk/             |               23 |
 |          6 | 0:21:22 | 1F     | SOPHIA CROWDER-WRIGHT Female | F        | U18      |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               24 |
 |          7 | 0:21:40 | 32F    | Zoe McPherson                | F        | U18      |           32 | Helensburgh AAC       | https://www.helensburghaac.com/        |               25 |

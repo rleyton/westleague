@@ -6,7 +6,7 @@
 |          4 | 0:06:36 | 54M    | Owen Herraghty  | M        | U12      |           54 | VP-Glasgow          | https://www.vp-glasgow.com            |
 |          5 | 0:06:38 | 9M     | Oliver Gorgas   | M        | U12      |            9 | Garscube Harriers   | https://www.garscubeharriers.org.uk/  |
 |          6 | 0:06:44 | 2M     | Nicholas Sharpe | M        | U12      |            2 | Kilmarnock H&AC     | http://www.kilmarnockharriers.com/    |
-|          7 | 0:06:54 | 7M     | nan             | M        | U12      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |
+|          7 | 0:06:54 | 7M     | Mark Tyler      | M        | U12      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |
 |          8 | 0:06:57 | 4M     | Ruaridh Callan  | M        | U12      |            4 | Inverclyde AC       | https://www.inverclydeac.org/         |
 |          9 | 0:07:06 | 4M     | James McFadden  | M        | U12      |            4 | Inverclyde AC       | https://www.inverclydeac.org/         |
 |         10 | 0:07:07 | 14M    | Harris Brown    | M        | U12      |           14 | Ayr Seaforth AC     | https://www.ayrseaforth.co.uk/        |
@@ -17,12 +17,12 @@
 |         15 | 0:07:19 | 49M    | Jack Fingland   | M        | U12      |           49 | Stewartry AC        | https://stewartryac.wordpress.com/    |
 |         16 | 0:07:19 | 40M    | nan             | M        | U12      |           40 | Motherwell AC       | https://motherwellac.com/             |
 |         17 | 0:07:36 | 4M     | Murray Jamieson | M        | U12      |            4 | Inverclyde AC       | https://www.inverclydeac.org/         |
-|         18 | 0:07:37 | 7M     | nan             | M        | U12      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |
-|         19 | 0:07:39 | 7M     | nan             | M        | U12      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |
+|         18 | 0:07:37 | 7M     | Matteo Toni     | M        | U12      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |
+|         19 | 0:07:39 | 7M     | Harry Scott     | M        | U12      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |
 |         20 | 0:07:43 | 34M    | nan             | M        | U12      |           34 | Kilbarchan AAC      | https://kilbarchanaac.org.uk/         |
 |         21 | 0:07:49 | 1M     | SAM ARTHUR      | M        | U12      |            1 | East Kilbride AC    | http://www.ekac.org.uk/               |
 |         22 | 0:07:51 | 34M    | nan             | M        | U12      |           34 | Kilbarchan AAC      | https://kilbarchanaac.org.uk/         |
-|         23 | 0:07:53 | 7M     | nan             | M        | U12      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |
+|         23 | 0:07:53 | 7M     | Peter Gilbert   | M        | U12      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |
 |         24 | 0:07:56 | 17M    | nan             | M        | U12      |           17 | Calderglen Harriers | http://www.calderglenharriers.org.uk/ |
 |         25 | 0:07:59 | 34M    | nan             | M        | U12      |           34 | Kilbarchan AAC      | https://kilbarchanaac.org.uk/         |
 |         26 | 0:08:06 | 37M    | nan             | M        | U12      |           37 | Law & District AAC  | http://www.lawaac.co.uk/              |
