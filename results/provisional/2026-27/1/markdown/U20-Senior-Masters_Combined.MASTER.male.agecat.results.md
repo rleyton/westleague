@@ -6,9 +6,10 @@
 |          4 | 0:25:37 | 4M     | Alan Callan     | M        | MASTER   |            4 | Inverclyde AC        | https://www.inverclydeac.org/         |               19 |
 |          5 | 0:26:11 | 4M     | Thomas Jamieson | M        | MASTER   |            4 | Inverclyde AC        | https://www.inverclydeac.org/         |               23 |
 |          6 | 0:26:46 | 6M     | Mick Ohagan     | M        | MASTER   |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/       |               25 |
-|          7 | 0:27:22 | 48M    | Scott Troup     | M        | MASTER   |           48 | Springburn Harriers  | https://www.springburnharriers.co.uk/ |               29 |
-|          8 | 0:27:29 | 1M     | KEITH CHARTERS  | M        | MASTER   |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |               31 |
-|          9 | 0:27:45 | 6M     | Iain Wallace    | M        | MASTER   |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/       |               33 |
-|         10 | 0:27:49 | 10M    | John Duffy      | M        | MASTER   |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/    |               35 |
-|         11 | 0:29:32 | 1M     | MICHAEL CARLIN  | M        | MASTER   |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |               51 |
-|         12 | 0:32:39 | 10M    | Stephen Clark   | M        | MASTER   |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/    |               79 |
+|          7 | 0:27:00 | 33M    | Alex Allardyce  | M        | MASTER   |           33 | Irvine RC            | https://www.irvinerunningclub.co.uk/  |               27 |
+|          8 | 0:27:22 | 48M    | Scott Troup     | M        | MASTER   |           48 | Springburn Harriers  | https://www.springburnharriers.co.uk/ |               29 |
+|          9 | 0:27:29 | 1M     | KEITH CHARTERS  | M        | MASTER   |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |               31 |
+|         10 | 0:27:45 | 6M     | Iain Wallace    | M        | MASTER   |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/       |               33 |
+|         11 | 0:27:49 | 10M    | John Duffy      | M        | MASTER   |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/    |               35 |
+|         12 | 0:29:32 | 1M     | MICHAEL CARLIN  | M        | MASTER   |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |               51 |
+|         13 | 0:32:39 | 10M    | Stephen Clark   | M        | MASTER   |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/    |               79 |

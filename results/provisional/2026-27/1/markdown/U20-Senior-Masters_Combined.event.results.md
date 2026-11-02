@@ -10,7 +10,7 @@
 |          8 | 0:23:22 | 34M    | nan                          | M        | nan      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/              |
 |          9 | 0:23:27 | 14M    | Kenny Neill                  | M        | MASTER   |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/             |
 |         10 | 0:24:08 | 6M     | Mark King                    | M        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/            |
-|         11 | 0:24:15 | 33M    | nan                          | M        | nan      |           33 | Irvine RC             | https://www.irvinerunningclub.co.uk/       |
+|         11 | 0:24:15 | 33M    | Owen McWilliams              | M        | SENIOR   |           33 | Irvine RC             | https://www.irvinerunningclub.co.uk/       |
 |         12 | 0:24:29 | 3M     | nan                          | M        | nan      |            3 | Bellahouston RR       | https://www.bellahoustonroadrunners.co.uk/ |
 |         13 | 0:24:37 | 58M    | Alex Clarkson                | M        | SENIOR   |           58 | Queen's Park AC       | https://queensparkac-org-uk.l.ink          |
 |         14 | 0:24:45 | 8M     | nan                          | M        | nan      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |
@@ -26,7 +26,7 @@
 |         24 | 0:26:39 | 3M     | nan                          | M        | nan      |            3 | Bellahouston RR       | https://www.bellahoustonroadrunners.co.uk/ |
 |         25 | 0:26:46 | 6M     | Mick Ohagan                  | M        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/            |
 |         26 | 0:26:53 | 32M    | nan                          | M        | nan      |           32 | Helensburgh AAC       | https://www.helensburghaac.com/            |
-|         27 | 0:27:00 | 33M    | nan                          | M        | nan      |           33 | Irvine RC             | https://www.irvinerunningclub.co.uk/       |
+|         27 | 0:27:00 | 33M    | Alex Allardyce               | M        | MASTER   |           33 | Irvine RC             | https://www.irvinerunningclub.co.uk/       |
 |         28 | 0:27:09 | 7M     | Scott Kelman                 | M        | SENIOR   |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/           |
 |         29 | 0:27:22 | 48M    | Scott Troup                  | M        | MASTER   |           48 | Springburn Harriers   | https://www.springburnharriers.co.uk/      |
 |         30 | 0:27:24 | 2M     | Corrie Speirs                | M        | SENIOR   |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/         |
@@ -53,7 +53,7 @@
 |         51 | 0:29:32 | 1M     | MICHAEL CARLIN               | M        | MASTER   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                    |
 |         52 | 0:29:52 | 8F     | nan                          | F        | nan      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |
 |         53 | 0:29:57 | 8F     | nan                          | F        | nan      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |
-|         54 | 0:30:04 | 36F    | nan                          | F        | nan      |           36 | Larkhall YMCA         | https://www.larkhallymcaharriers.org       |
+|         54 | 0:30:04 | 36F    | Julie Hill                   | F        | MASTER   |           36 | Larkhall YMCA         | https://www.larkhallymcaharriers.org       |
 |         55 | 0:30:07 | 17M    | nan                          | M        | nan      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/      |
 |         56 | 0:30:08 | 8F     | nan                          | F        | nan      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |
 |         57 | 0:30:13 | 5F     | nan                          | F        | nan      |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/              |

@@ -1,8 +1,9 @@
 |   position | Club name            |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                               |
 |-----------:|:---------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:--------------------------------------|
-|          1 | Cambuslang Harriers  |      6 | M        | 3,6,9               |           18 |               0 |            18 |                3 | https://cambuslangharriers.org/       |
-|          2 | East Kilbride AC     |      1 | M        | 1,8,11              |           20 |               0 |            20 |                3 | http://www.ekac.org.uk/               |
-|          3 | Inverclyde AC        |      4 | M        | 4,5                 |            9 |              22 |            31 |                2 | https://www.inverclydeac.org/         |
-|          4 | Shettleston Harriers |     10 | M        | 10,12               |           22 |              22 |            44 |                2 | http://shettlestonharriers.org.uk/    |
-|          5 | Ayr Seaforth AC      |     14 | M        | 2                   |            2 |              44 |            46 |                1 | https://www.ayrseaforth.co.uk/        |
-|          6 | Springburn Harriers  |     48 | M        | 7                   |            7 |              44 |            51 |                1 | https://www.springburnharriers.co.uk/ |
+|          1 | Cambuslang Harriers  |      6 | M        | 3,6,10              |           19 |               0 |            19 |                3 | https://cambuslangharriers.org/       |
+|          2 | East Kilbride AC     |      1 | M        | 1,9,12              |           22 |               0 |            22 |                3 | http://www.ekac.org.uk/               |
+|          3 | Inverclyde AC        |      4 | M        | 4,5                 |            9 |              23 |            32 |                2 | https://www.inverclydeac.org/         |
+|          4 | Shettleston Harriers |     10 | M        | 11,13               |           24 |              23 |            47 |                2 | http://shettlestonharriers.org.uk/    |
+|          5 | Ayr Seaforth AC      |     14 | M        | 2                   |            2 |              46 |            48 |                1 | https://www.ayrseaforth.co.uk/        |
+|          6 | Irvine RC            |     33 | M        | 7                   |            7 |              46 |            53 |                1 | https://www.irvinerunningclub.co.uk/  |
+|          7 | Springburn Harriers  |     48 | M        | 8                   |            8 |              46 |            54 |                1 | https://www.springburnharriers.co.uk/ |

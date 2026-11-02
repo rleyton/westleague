@@ -7,9 +7,7 @@
 |     11 | Airdrie Harriers      | http://airdrieharriers.org/                |
 |     17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/      |
 |     32 | Helensburgh AAC       | https://www.helensburghaac.com/            |
-|     33 | Irvine RC             | https://www.irvinerunningclub.co.uk/       |
 |     34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/              |
-|     36 | Larkhall YMCA         | https://www.larkhallymcaharriers.org       |
 |     37 | Law & District AAC    | http://www.lawaac.co.uk/                   |
 |     40 | Motherwell AC         | https://motherwellac.com/                  |
 |     42 | Newton Road Runners   | https://www.newton-roadrunners.com/        |
