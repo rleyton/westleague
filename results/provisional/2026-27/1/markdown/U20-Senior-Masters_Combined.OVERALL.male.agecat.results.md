@@ -34,14 +34,14 @@
 |         32 | 0:27:47 | 2M     | Mark Henderson               | M        | SENIOR   |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/         |               34 |
 |         33 | 0:27:49 | 10M    | John Duffy                   | M        | MASTER   |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/         |               35 |
 |         34 | 0:27:50 | 8M     | nan                          | M        | nan      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |               36 |
-|         35 | 0:28:06 | 53M    | nan                          | M        | nan      |           53 | Troon Tortoises       | http://troontortoises.co.uk                |               38 |
+|         35 | 0:28:06 | 53M    | Matt Pearce                  | M        | MASTER   |           53 | Troon Tortoises       | http://troontortoises.co.uk                |               38 |
 |         36 | 0:28:15 | 32M    | nan                          | M        | nan      |           32 | Helensburgh AAC       | https://www.helensburghaac.com/            |               40 |
 |         37 | 0:28:44 | 34M    | nan                          | M        | nan      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/              |               41 |
 |         38 | 0:28:46 | 42M    | nan                          | M        | nan      |           42 | Newton Road Runners   | https://www.newton-roadrunners.com/        |               42 |
 |         39 | 0:28:47 | 8M     | nan                          | M        | nan      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |               43 |
 |         40 | 0:28:55 | 5M     | nan                          | M        | nan      |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/              |               44 |
 |         41 | 0:29:16 | 40M    | nan                          | M        | nan      |           40 | Motherwell AC         | https://motherwellac.com/                  |               48 |
-|         42 | 0:29:19 | 53M    | nan                          | M        | nan      |           53 | Troon Tortoises       | http://troontortoises.co.uk                |               49 |
+|         42 | 0:29:19 | 53M    | John McCabe                  | M        | MASTER   |           53 | Troon Tortoises       | http://troontortoises.co.uk                |               49 |
 |         43 | 0:29:26 | 40M    | nan                          | M        | nan      |           40 | Motherwell AC         | https://motherwellac.com/                  |               50 |
 |         44 | 0:29:32 | 1M     | MICHAEL CARLIN               | M        | MASTER   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                    |               51 |
 |         45 | 0:30:07 | 17M    | nan                          | M        | nan      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/      |               55 |
@@ -57,7 +57,7 @@
 |         55 | 0:31:41 | 34M    | nan                          | M        | nan      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/              |               73 |
 |         56 | 0:31:44 | 27M    | Jason Banner                 | M        | SENIOR   |           27 | Glasgow FrontRunners  | https://www.glasgowfrontrunners.org/       |               74 |
 |         57 | 0:31:54 | 48M    | Unknown: Springburn Harriers | M        | nan      |           48 | Springburn Harriers   | https://www.springburnharriers.co.uk/      |               75 |
-|         58 | 0:32:00 | 53M    | nan                          | M        | nan      |           53 | Troon Tortoises       | http://troontortoises.co.uk                |               76 |
+|         58 | 0:32:00 | 53M    | Patrick Rice                 | M        | MASTER   |           53 | Troon Tortoises       | http://troontortoises.co.uk                |               76 |
 |         59 | 0:32:13 | 34M    | nan                          | M        | nan      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/              |               77 |
 |         60 | 0:32:39 | 10M    | Stephen Clark                | M        | MASTER   |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/         |               79 |
 |         61 | 0:33:07 | 17M    | nan                          | M        | nan      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/      |               82 |

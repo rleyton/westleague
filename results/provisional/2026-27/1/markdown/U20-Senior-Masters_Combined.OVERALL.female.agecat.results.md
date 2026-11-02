@@ -15,14 +15,14 @@
 |         13 | 0:30:17 | 27F    | Laura Wood        | F        | SENIOR   |           27 | Glasgow FrontRunners  | https://www.glasgowfrontrunners.org/       |               58 |
 |         14 | 0:30:18 | 8F     | nan               | F        | nan      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |               59 |
 |         15 | 0:31:10 | 8F     | nan               | F        | nan      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |               68 |
-|         16 | 0:31:19 | 53F    | nan               | F        | nan      |           53 | Troon Tortoises       | http://troontortoises.co.uk                |               69 |
+|         16 | 0:31:19 | 53F    | Caroline Millar   | F        | MASTER   |           53 | Troon Tortoises       | http://troontortoises.co.uk                |               69 |
 |         17 | 0:31:22 | 6F     | Bernadette O'Neil | F        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/            |               70 |
 |         18 | 0:31:34 | 5F     | nan               | F        | nan      |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/              |               71 |
 |         19 | 0:32:19 | 3F     | nan               | F        | nan      |            3 | Bellahouston RR       | https://www.bellahoustonroadrunners.co.uk/ |               78 |
 |         20 | 0:32:51 | 43F    | nan               | F        | nan      |           43 | Nithsdale AC          | nan                                        |               80 |
 |         21 | 0:33:00 | 34F    | nan               | F        | nan      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/              |               81 |
 |         22 | 0:33:14 | 1F     | LAURA HERVAS      | F        | MASTER   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                    |               83 |
-|         23 | 0:33:40 | 53F    | nan               | F        | nan      |           53 | Troon Tortoises       | http://troontortoises.co.uk                |               85 |
+|         23 | 0:33:40 | 53F    | Susie Hubbard     | F        | MASTER   |           53 | Troon Tortoises       | http://troontortoises.co.uk                |               85 |
 |         24 | 0:33:52 | 34F    | nan               | F        | nan      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/              |               86 |
 |         25 | 0:34:54 | 17F    | nan               | F        | nan      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/      |               87 |
 |         26 | 0:35:11 | 1F     | LYNN HESLOP       | F        | MASTER   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                    |               88 |
