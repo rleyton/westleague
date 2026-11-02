@@ -6,13 +6,14 @@
 |          4 | 0:25:37 | 4M     | Alan Callan     | M        | MASTER   |            4 | Inverclyde AC        | https://www.inverclydeac.org/         |               19 |
 |          5 | 0:26:11 | 4M     | Thomas Jamieson | M        | MASTER   |            4 | Inverclyde AC        | https://www.inverclydeac.org/         |               23 |
 |          6 | 0:26:46 | 6M     | Mick Ohagan     | M        | MASTER   |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/       |               25 |
-|          7 | 0:27:00 | 33M    | Alex Allardyce  | M        | MASTER   |           33 | Irvine RC            | https://www.irvinerunningclub.co.uk/  |               27 |
-|          8 | 0:27:22 | 48M    | Scott Troup     | M        | MASTER   |           48 | Springburn Harriers  | https://www.springburnharriers.co.uk/ |               29 |
-|          9 | 0:27:29 | 1M     | KEITH CHARTERS  | M        | MASTER   |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |               31 |
-|         10 | 0:27:45 | 6M     | Iain Wallace    | M        | MASTER   |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/       |               33 |
-|         11 | 0:27:49 | 10M    | John Duffy      | M        | MASTER   |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/    |               35 |
-|         12 | 0:28:06 | 53M    | Matt Pearce     | M        | MASTER   |           53 | Troon Tortoises      | http://troontortoises.co.uk           |               38 |
-|         13 | 0:29:19 | 53M    | John McCabe     | M        | MASTER   |           53 | Troon Tortoises      | http://troontortoises.co.uk           |               49 |
-|         14 | 0:29:32 | 1M     | MICHAEL CARLIN  | M        | MASTER   |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |               51 |
-|         15 | 0:32:00 | 53M    | Patrick Rice    | M        | MASTER   |           53 | Troon Tortoises      | http://troontortoises.co.uk           |               76 |
-|         16 | 0:32:39 | 10M    | Stephen Clark   | M        | MASTER   |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/    |               79 |
+|          7 | 0:26:53 | 32M    | Michael Sweeney | M        | MASTER   |           32 | Helensburgh AAC      | https://www.helensburghaac.com/       |               26 |
+|          8 | 0:27:00 | 33M    | Alex Allardyce  | M        | MASTER   |           33 | Irvine RC            | https://www.irvinerunningclub.co.uk/  |               27 |
+|          9 | 0:27:22 | 48M    | Scott Troup     | M        | MASTER   |           48 | Springburn Harriers  | https://www.springburnharriers.co.uk/ |               29 |
+|         10 | 0:27:29 | 1M     | KEITH CHARTERS  | M        | MASTER   |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |               31 |
+|         11 | 0:27:45 | 6M     | Iain Wallace    | M        | MASTER   |            6 | Cambuslang Harriers  | https://cambuslangharriers.org/       |               33 |
+|         12 | 0:27:49 | 10M    | John Duffy      | M        | MASTER   |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/    |               35 |
+|         13 | 0:28:06 | 53M    | Matt Pearce     | M        | MASTER   |           53 | Troon Tortoises      | http://troontortoises.co.uk           |               38 |
+|         14 | 0:29:19 | 53M    | John McCabe     | M        | MASTER   |           53 | Troon Tortoises      | http://troontortoises.co.uk           |               49 |
+|         15 | 0:29:32 | 1M     | MICHAEL CARLIN  | M        | MASTER   |            1 | East Kilbride AC     | http://www.ekac.org.uk/               |               51 |
+|         16 | 0:32:00 | 53M    | Patrick Rice    | M        | MASTER   |           53 | Troon Tortoises      | http://troontortoises.co.uk           |               76 |
+|         17 | 0:32:39 | 10M    | Stephen Clark   | M        | MASTER   |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/    |               79 |

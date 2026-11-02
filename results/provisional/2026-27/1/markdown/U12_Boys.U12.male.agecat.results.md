@@ -31,7 +31,7 @@
 |         29 | 0:08:11 | 4M     | Adam Harkins    | M        | U12      |            4 | Inverclyde AC       | https://www.inverclydeac.org/         |               29 |
 |         30 | 0:08:13 | 34M    | nan             | M        | U12      |           34 | Kilbarchan AAC      | https://kilbarchanaac.org.uk/         |               30 |
 |         31 | 0:08:34 | 2M     | James Beck      | M        | U12      |            2 | Kilmarnock H&AC     | http://www.kilmarnockharriers.com/    |               31 |
-|         32 | 0:08:34 | 32M    | nan             | M        | U12      |           32 | Helensburgh AAC     | https://www.helensburghaac.com/       |               32 |
+|         32 | 0:08:34 | 32M    | Oran Cleworth   | M        | U12      |           32 | Helensburgh AAC     | https://www.helensburghaac.com/       |               32 |
 |         33 | 0:08:35 | 11M    | nan             | M        | U12      |           11 | Airdrie Harriers    | http://airdrieharriers.org/           |               33 |
 |         34 | 0:08:42 | 34M    | nan             | M        | U12      |           34 | Kilbarchan AAC      | https://kilbarchanaac.org.uk/         |               34 |
 |         35 | 0:09:23 | 40M    | nan             | M        | U12      |           40 | Motherwell AC       | https://motherwellac.com/             |               35 |

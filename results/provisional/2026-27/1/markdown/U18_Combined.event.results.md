@@ -16,7 +16,7 @@
 |         14 | 0:20:31 | 10M    | Sam McGowan                  | M        | U18      |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/     |
 |         15 | 0:20:32 | 37F    | nan                          | F        | U18      |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |
 |         16 | 0:20:38 | 2M     | Liam Hume                    | M        | U18      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |
-|         17 | 0:20:41 | 32M    | nan                          | M        | U18      |           32 | Helensburgh AAC       | https://www.helensburghaac.com/        |
+|         17 | 0:20:41 | 32M    | Bruno Sweeney                | M        | U18      |           32 | Helensburgh AAC       | https://www.helensburghaac.com/        |
 |         18 | 0:20:45 | 34M    | nan                          | M        | U18      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/          |
 |         19 | 0:20:47 | 7F     | nan                          | F        | U18      |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |
 |         20 | 0:20:51 | 1M     | NEIL ARTHUR                  | M        | U18      |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |
@@ -24,7 +24,7 @@
 |         22 | 0:21:11 | 7M     | nan                          | M        | U18      |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |
 |         23 | 0:21:22 | 44F    | nan                          | F        | U18      |           44 | North Ayrshire AAC    | https://naathletics.co.uk/             |
 |         24 | 0:21:22 | 1F     | SOPHIA CROWDER-WRIGHT Female | F        | U18      |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |
-|         25 | 0:21:40 | 32F    | nan                          | F        | U18      |           32 | Helensburgh AAC       | https://www.helensburghaac.com/        |
+|         25 | 0:21:40 | 32F    | Zoe McPherson                | F        | U18      |           32 | Helensburgh AAC       | https://www.helensburghaac.com/        |
 |         26 | 0:21:45 | 40F    | nan                          | F        | U18      |           40 | Motherwell AC         | https://motherwellac.com/              |
 |         27 | 0:22:02 | 2M     | Logan Peddie                 | M        | U18      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |
 |         28 | 0:22:06 | 14F    | Ava Barrie                   | F        | U18      |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/         |

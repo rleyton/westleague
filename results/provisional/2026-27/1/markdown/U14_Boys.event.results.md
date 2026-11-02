@@ -23,7 +23,7 @@
 |         21 | 0:12:50 | 6M     | Zac Deans            | M        | U14      |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |
 |         22 | 0:12:51 | 37M    | nan                  | M        | U14      |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |
 |         23 | 0:12:53 | 10M    | Joesph Paterson      | M        | U14      |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/     |
-|         24 | 0:13:01 | 32M    | nan                  | M        | U14      |           32 | Helensburgh AAC       | https://www.helensburghaac.com/        |
+|         24 | 0:13:01 | 32M    | Kyle VanDuivenbode   | M        | U14      |           32 | Helensburgh AAC       | https://www.helensburghaac.com/        |
 |         25 | 0:13:03 | 54M    | nan                  | M        | U14      |           54 | VP-Glasgow            | https://www.vp-glasgow.com             |
 |         26 | 0:13:05 | 34M    | nan                  | M        | U14      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/          |
 |         27 | 0:13:08 | 2M     | Isaac Todd           | M        | U14      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |
