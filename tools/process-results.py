@@ -110,6 +110,9 @@ for event in sorted(fetch_events_from_dir(DATA_DIR)):
     # Build a team submissions (finish order, per club) DataFrame
     clubSubmissions = load_team_submissions(event=event)
 
+    if clubSubmissions is None:
+        logging.error(f"No club submissions for {event}")
+        
     # Do the main results processing:
     #  * Join the times to the finish order
     #  * Apply the club names to the resulting data frame

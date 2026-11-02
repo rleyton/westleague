@@ -12,9 +12,9 @@
 |         10 | 0:22:30 | 44F    | nan                          | F        | U18      |           44 | North Ayrshire AAC    | https://naathletics.co.uk/             |               30 |
 |         11 | 0:22:30 | 40F    | nan                          | F        | U18      |           40 | Motherwell AC         | https://motherwellac.com/              |               31 |
 |         12 | 0:22:51 | 10F    | Emma Lockie                  | F        | U18      |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/     |               33 |
-|         13 | 0:22:54 | 4F     | nan                          | F        | U18      |            4 | Inverclyde AC         | https://www.inverclydeac.org/          |               34 |
+|         13 | 0:22:54 | 4F     | Cara McDougall               | F        | U18      |            4 | Inverclyde AC         | https://www.inverclydeac.org/          |               34 |
 |         14 | 0:22:59 | 1F     | MARTHA CATHIE                | F        | U18      |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               35 |
-|         15 | 0:23:24 | 4F     | nan                          | F        | U18      |            4 | Inverclyde AC         | https://www.inverclydeac.org/          |               37 |
+|         15 | 0:23:24 | 4F     | Molly Farish                 | F        | U18      |            4 | Inverclyde AC         | https://www.inverclydeac.org/          |               37 |
 |         16 | 0:23:36 | 34F    | nan                          | F        | U18      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/          |               38 |
 |         17 | 0:25:11 | 54F    | nan                          | F        | U18      |           54 | VP-Glasgow            | https://www.vp-glasgow.com             |               39 |
 |         18 | 0:25:30 | 34F    | nan                          | F        | U18      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/          |               40 |

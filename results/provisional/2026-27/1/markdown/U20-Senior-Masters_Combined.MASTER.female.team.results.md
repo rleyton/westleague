@@ -1,4 +1,5 @@
-|   position | Club name         |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                          |
-|-----------:|:------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:---------------------------------|
-|          1 | East Kilbride AC  |      1 | F        | 2,3                 |            5 |              13 |            18 |                2 | http://www.ekac.org.uk/          |
-|          2 | Giffnock North AC |      7 | F        | 1                   |            1 |              26 |            27 |                1 | https://www.giffnocknorth.co.uk/ |
+|   position | Club name           |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                          |
+|-----------:|:--------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:---------------------------------|
+|          1 | Cambuslang Harriers |      6 | F        | 2,3                 |            5 |              15 |            20 |                2 | https://cambuslangharriers.org/  |
+|          2 | East Kilbride AC    |      1 | F        | 4,5                 |            9 |              15 |            24 |                2 | http://www.ekac.org.uk/          |
+|          3 | Giffnock North AC   |      7 | F        | 1                   |            1 |              30 |            31 |                1 | https://www.giffnocknorth.co.uk/ |
