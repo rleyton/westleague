@@ -14,7 +14,7 @@
 |         12 | 0:07:13 | 34M    | nan             | M        | U12      |           34 | Kilbarchan AAC      | https://kilbarchanaac.org.uk/         |
 |         13 | 0:07:14 | 54M    | nan             | M        | U12      |           54 | VP-Glasgow          | https://www.vp-glasgow.com            |
 |         14 | 0:07:17 | 4M     | Mason Gregory   | M        | U12      |            4 | Inverclyde AC       | https://www.inverclydeac.org/         |
-|         15 | 0:07:19 | 49M    | nan             | M        | U12      |           49 | Stewartry AC        | https://stewartryac.wordpress.com/    |
+|         15 | 0:07:19 | 49M    | Jack Fingland   | M        | U12      |           49 | Stewartry AC        | https://stewartryac.wordpress.com/    |
 |         16 | 0:07:19 | 40M    | nan             | M        | U12      |           40 | Motherwell AC       | https://motherwellac.com/             |
 |         17 | 0:07:36 | 4M     | Murray Jamieson | M        | U12      |            4 | Inverclyde AC       | https://www.inverclydeac.org/         |
 |         18 | 0:07:37 | 7M     | nan             | M        | U12      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |

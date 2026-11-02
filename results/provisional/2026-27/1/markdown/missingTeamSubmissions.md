@@ -13,6 +13,5 @@
 |     42 | Newton Road Runners   | https://www.newton-roadrunners.com/        |
 |     43 | Nithsdale AC          | nan                                        |
 |     44 | North Ayrshire AAC    | https://naathletics.co.uk/                 |
-|     49 | Stewartry AC          | https://stewartryac.wordpress.com/         |
 |     54 | VP-Glasgow            | https://www.vp-glasgow.com                 |
 |     56 | West End RR           | https://www.westendroadrunners.co.uk/      |
