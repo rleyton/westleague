@@ -3,7 +3,7 @@
 |          1 | 0:06:28 | 11M    | nan             | M        | U12      |           11 | Airdrie Harriers    | http://airdrieharriers.org/           |                1 |
 |          2 | 0:06:28 | 48M    | Finn McNulty    | M        | U12      |           48 | Springburn Harriers | https://www.springburnharriers.co.uk/ |                2 |
 |          3 | 0:06:34 | 4M     | Michael James   | M        | U12      |            4 | Inverclyde AC       | https://www.inverclydeac.org/         |                3 |
-|          4 | 0:06:36 | 54M    | nan             | M        | U12      |           54 | VP-Glasgow          | https://www.vp-glasgow.com            |                4 |
+|          4 | 0:06:36 | 54M    | Owen Herraghty  | M        | U12      |           54 | VP-Glasgow          | https://www.vp-glasgow.com            |                4 |
 |          5 | 0:06:38 | 9M     | Oliver Gorgas   | M        | U12      |            9 | Garscube Harriers   | https://www.garscubeharriers.org.uk/  |                5 |
 |          6 | 0:06:44 | 2M     | Nicholas Sharpe | M        | U12      |            2 | Kilmarnock H&AC     | http://www.kilmarnockharriers.com/    |                6 |
 |          7 | 0:06:54 | 7M     | nan             | M        | U12      |            7 | Giffnock North AC   | https://www.giffnocknorth.co.uk/      |                7 |
@@ -12,7 +12,7 @@
 |         10 | 0:07:07 | 14M    | Harris Brown    | M        | U12      |           14 | Ayr Seaforth AC     | https://www.ayrseaforth.co.uk/        |               10 |
 |         11 | 0:07:11 | 4M     | Niven McKnight  | M        | U12      |            4 | Inverclyde AC       | https://www.inverclydeac.org/         |               11 |
 |         12 | 0:07:13 | 34M    | nan             | M        | U12      |           34 | Kilbarchan AAC      | https://kilbarchanaac.org.uk/         |               12 |
-|         13 | 0:07:14 | 54M    | nan             | M        | U12      |           54 | VP-Glasgow          | https://www.vp-glasgow.com            |               13 |
+|         13 | 0:07:14 | 54M    | Finn Lyon       | M        | U12      |           54 | VP-Glasgow          | https://www.vp-glasgow.com            |               13 |
 |         14 | 0:07:17 | 4M     | Mason Gregory   | M        | U12      |            4 | Inverclyde AC       | https://www.inverclydeac.org/         |               14 |
 |         15 | 0:07:19 | 49M    | Jack Fingland   | M        | U12      |           49 | Stewartry AC        | https://stewartryac.wordpress.com/    |               15 |
 |         16 | 0:07:19 | 40M    | nan             | M        | U12      |           40 | Motherwell AC       | https://motherwellac.com/             |               16 |

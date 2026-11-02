@@ -12,5 +12,4 @@
 |     44 | North Ayrshire AAC    | https://naathletics.co.uk/                 |
 |     43 | Nithsdale AC          | nan                                        |
 |     17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/      |
-|     54 | VP-Glasgow            | https://www.vp-glasgow.com                 |
 |     56 | West End RR           | https://www.westendroadrunners.co.uk/      |
