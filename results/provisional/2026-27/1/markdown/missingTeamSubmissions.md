@@ -14,6 +14,5 @@
 |     43 | Nithsdale AC          | nan                                        |
 |     44 | North Ayrshire AAC    | https://naathletics.co.uk/                 |
 |     49 | Stewartry AC          | https://stewartryac.wordpress.com/         |
-|     53 | Troon Tortoises       | http://troontortoises.co.uk                |
 |     54 | VP-Glasgow            | https://www.vp-glasgow.com                 |
 |     56 | West End RR           | https://www.westendroadrunners.co.uk/      |
