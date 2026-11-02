@@ -35,12 +35,12 @@
 |         33 | 0:13:24 | 34M    | nan                  | M        | U14      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/          |
 |         34 | 0:13:25 | 7M     | nan                  | M        | U14      |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |
 |         35 | 0:13:34 | 9M     | CallumThomson        | M        | U14      |            9 | Garscube Harriers     | https://www.garscubeharriers.org.uk/   |
-|         36 | 0:13:48 | 49M    | nan                  | M        | U14      |           49 | Stewartry AC          | https://stewartryac.wordpress.com/     |
+|         36 | 0:13:48 | 49M    | Liam McMiken         | M        | U14      |           49 | Stewartry AC          | https://stewartryac.wordpress.com/     |
 |         37 | 0:13:50 | 54M    | nan                  | M        | U14      |           54 | VP-Glasgow            | https://www.vp-glasgow.com             |
 |         38 | 0:14:15 | 34M    | nan                  | M        | U14      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/          |
 |         39 | 0:14:16 | 8M     | nan                  | M        | U14      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
 |         40 | 0:14:41 | 9M     | Finlay Cumming       | M        | U14      |            9 | Garscube Harriers     | https://www.garscubeharriers.org.uk/   |
 |         41 | 0:14:42 | 54M    | nan                  | M        | U14      |           54 | VP-Glasgow            | https://www.vp-glasgow.com             |
 |         42 | 0:15:20 | 11M    | nan                  | M        | U14      |           11 | Airdrie Harriers      | http://airdrieharriers.org/            |
-|         43 | 0:15:47 | 49M    | nan                  | M        | U14      |           49 | Stewartry AC          | https://stewartryac.wordpress.com/     |
+|         43 | 0:15:47 | 49M    | Fred Lightfoot       | M        | U14      |           49 | Stewartry AC          | https://stewartryac.wordpress.com/     |
 |         44 | 0:16:11 | 11M    | nan                  | M        | U14      |           11 | Airdrie Harriers      | http://airdrieharriers.org/            |
