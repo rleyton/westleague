@@ -41,6 +41,6 @@
 |         39 | 0:14:16 | 8M     | nan                  | M        | U14      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               39 |
 |         40 | 0:14:41 | 9M     | Finlay Cumming       | M        | U14      |            9 | Garscube Harriers     | https://www.garscubeharriers.org.uk/   |               40 |
 |         41 | 0:14:42 | 54M    | Tai Winter           | M        | U14      |           54 | VP-Glasgow            | https://www.vp-glasgow.com             |               41 |
-|         42 | 0:15:20 | 11M    | nan                  | M        | U14      |           11 | Airdrie Harriers      | http://airdrieharriers.org/            |               42 |
+|         42 | 0:15:20 | 11M    | Zane Murray          | M        | U14      |           11 | Airdrie Harriers      | http://airdrieharriers.org/            |               42 |
 |         43 | 0:15:47 | 49M    | Fred Lightfoot       | M        | U14      |           49 | Stewartry AC          | https://stewartryac.wordpress.com/     |               43 |
-|         44 | 0:16:11 | 11M    | nan                  | M        | U14      |           11 | Airdrie Harriers      | http://airdrieharriers.org/            |               44 |
+|         44 | 0:16:11 | 11M    | Jamie Donnelly       | M        | U14      |           11 | Airdrie Harriers      | http://airdrieharriers.org/            |               44 |
