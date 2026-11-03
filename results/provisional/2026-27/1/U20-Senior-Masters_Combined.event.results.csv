@@ -1,6 +1,6 @@
 position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 1,0:21:48,8M,Alasdair Campbell,M,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
-2,0:21:55,3M,,M,,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+2,0:21:55,3M,Oscar Coetzee,M,MASTER,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
 3,0:22:07,1M,GRANT BAILLIE,M,MASTER,1,East Kilbride AC,http://www.ekac.org.uk/
 4,0:22:16,34M,,M,,34,Kilbarchan AAC,https://kilbarchanaac.org.uk/
 5,0:22:25,10M,Sam Lesley,M,SENIOR,10,Shettleston Harriers,http://shettlestonharriers.org.uk/
@@ -10,7 +10,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 9,0:23:27,14M,Kenny Neill,M,MASTER,14,Ayr Seaforth AC,https://www.ayrseaforth.co.uk/
 10,0:24:08,6M,Mark King,M,MASTER,6,Cambuslang Harriers,https://cambuslangharriers.org/
 11,0:24:15,33M,Owen McWilliams,M,SENIOR,33,Irvine RC,https://www.irvinerunningclub.co.uk/
-12,0:24:29,3M,,M,,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+12,0:24:29,3M,Sam Ramsay,M,MASTER,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
 13,0:24:37,58M,Alex Clarkson,M,SENIOR,58,Queen's Park AC,https://queensparkac-org-uk.l.ink
 14,0:24:45,8M,Brent Brodie,M,MASTER,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
 15,0:24:49,58M,Andrew Shields,M,SENIOR,58,Queen's Park AC,https://queensparkac-org-uk.l.ink
@@ -22,7 +22,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 21,0:25:59,34M,,M,,34,Kilbarchan AAC,https://kilbarchanaac.org.uk/
 22,0:26:09,10F,Jessica Martin,F,SENIOR,10,Shettleston Harriers,http://shettlestonharriers.org.uk/
 23,0:26:11,4M,Thomas Jamieson,M,MASTER,4,Inverclyde AC,https://www.inverclydeac.org/
-24,0:26:39,3M,,M,,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+24,0:26:39,3M,Mark Young,M,MASTER,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
 25,0:26:46,6M,Mick Ohagan,M,MASTER,6,Cambuslang Harriers,https://cambuslangharriers.org/
 26,0:26:53,32M,Michael Sweeney,M,MASTER,32,Helensburgh AAC,https://www.helensburghaac.com/
 27,0:27:00,33M,Alex Allardyce,M,MASTER,33,Irvine RC,https://www.irvinerunningclub.co.uk/
@@ -35,9 +35,9 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 34,0:27:47,2M,Mark Henderson,M,SENIOR,2,Kilmarnock H&AC,http://www.kilmarnockharriers.com/
 35,0:27:49,10M,John Duffy,M,MASTER,10,Shettleston Harriers,http://shettlestonharriers.org.uk/
 36,0:27:50,8M,Anthony Carson,M,SENIOR,8,Bellahouston Harriers,http://www.bellahoustonharriers.co.uk/
-37,0:27:56,3F,,F,,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+37,0:27:56,3F,Jen Conway-Evans,F,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
 38,0:28:06,53M,Matt Pearce,M,MASTER,53,Troon Tortoises,http://troontortoises.co.uk
-39,0:28:09,3F,,F,,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+39,0:28:09,3F,Cathy Wood,F,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
 40,0:28:15,32M,Allan MacKenzie,M,SENIOR,32,Helensburgh AAC,https://www.helensburghaac.com/
 41,0:28:44,34M,,M,,34,Kilbarchan AAC,https://kilbarchanaac.org.uk/
 42,0:28:46,42M,,M,,42,Newton Road Runners,https://www.newton-roadrunners.com/
@@ -76,7 +76,7 @@ position,times,team,Name,gender,AgeCat,clubnumber,Club name,Website
 75,0:31:54,48M,Joe Chambers,M,MASTER,48,Springburn Harriers,https://www.springburnharriers.co.uk/
 76,0:32:00,53M,Patrick Rice,M,MASTER,53,Troon Tortoises,http://troontortoises.co.uk
 77,0:32:13,34M,,M,,34,Kilbarchan AAC,https://kilbarchanaac.org.uk/
-78,0:32:19,3F,,F,,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
+78,0:32:19,3F,Kirsty MacFarlane,F,SENIOR,3,Bellahouston RR,https://www.bellahoustonroadrunners.co.uk/
 79,0:32:39,10M,Stephen Clark,M,MASTER,10,Shettleston Harriers,http://shettlestonharriers.org.uk/
 80,0:32:51,43F,,F,,43,Nithsdale AC,
 81,0:33:00,34F,,F,,34,Kilbarchan AAC,https://kilbarchanaac.org.uk/

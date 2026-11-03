@@ -1,5 +1,6 @@
-|   position | Club name             |   team | gender   |   finisherPositions |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                |
-|-----------:|:----------------------|-------:|:---------|--------------------:|-------------:|----------------:|--------------:|-----------------:|:---------------------------------------|
-|          1 | Shettleston Harriers  |     10 | F        |                   1 |            1 |              39 |            40 |                1 | http://shettlestonharriers.org.uk/     |
-|          2 | Glasgow FrontRunners  |     27 | F        |                   2 |            2 |              39 |            41 |                1 | https://www.glasgowfrontrunners.org/   |
-|          3 | Bellahouston Harriers |      8 | F        |                   3 |            3 |              39 |            42 |                1 | http://www.bellahoustonharriers.co.uk/ |
+|   position | Club name             |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                    |
+|-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
+|          1 | Bellahouston RR       |      3 | F        | 2,3,5               |           10 |              16 |            26 |                3 | https://www.bellahoustonroadrunners.co.uk/ |
+|          2 | Shettleston Harriers  |     10 | F        | 1                   |            1 |              48 |            49 |                1 | http://shettlestonharriers.org.uk/         |
+|          3 | Glasgow FrontRunners  |     27 | F        | 4                   |            4 |              48 |            52 |                1 | https://www.glasgowfrontrunners.org/       |
+|          4 | Bellahouston Harriers |      8 | F        | 6                   |            6 |              48 |            54 |                1 | http://www.bellahoustonharriers.co.uk/     |
