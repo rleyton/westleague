@@ -6,7 +6,7 @@
 |          4 | 0:11:30 | 7M     | Murray McKerracher   | M        | U14      |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |
 |          5 | 0:11:38 | 2M     | Fraser Edgar         | M        | U14      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |
 |          6 | 0:11:40 | 34M    | nan                  | M        | U14      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/          |
-|          7 | 0:11:45 | 8M     | nan                  | M        | U14      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
+|          7 | 0:11:45 | 8M     | Morris Mitchell      | M        | U14      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
 |          8 | 0:11:48 | 10M    | Dominic Boyle        | M        | U14      |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/     |
 |          9 | 0:11:50 | 37M    | nan                  | M        | U14      |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |
 |         10 | 0:11:51 | 9M     | Matthew Dempsey      | M        | U14      |            9 | Garscube Harriers     | https://www.garscubeharriers.org.uk/   |
@@ -38,7 +38,7 @@
 |         36 | 0:13:48 | 49M    | Liam McMiken         | M        | U14      |           49 | Stewartry AC          | https://stewartryac.wordpress.com/     |
 |         37 | 0:13:50 | 54M    | Findlay Grant        | M        | U14      |           54 | VP-Glasgow            | https://www.vp-glasgow.com             |
 |         38 | 0:14:15 | 34M    | nan                  | M        | U14      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/          |
-|         39 | 0:14:16 | 8M     | nan                  | M        | U14      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
+|         39 | 0:14:16 | 8M     | Jonah Bryers-Clark   | M        | U14      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
 |         40 | 0:14:41 | 9M     | Finlay Cumming       | M        | U14      |            9 | Garscube Harriers     | https://www.garscubeharriers.org.uk/   |
 |         41 | 0:14:42 | 54M    | Tai Winter           | M        | U14      |           54 | VP-Glasgow            | https://www.vp-glasgow.com             |
 |         42 | 0:15:20 | 11M    | Zane Murray          | M        | U14      |           11 | Airdrie Harriers      | http://airdrieharriers.org/            |

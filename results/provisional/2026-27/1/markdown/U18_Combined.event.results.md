@@ -41,5 +41,5 @@
 |         39 | 0:25:11 | 54F    | Phoebe Bonham                | F        | U18      |           54 | VP-Glasgow            | https://www.vp-glasgow.com             |
 |         40 | 0:25:30 | 34F    | nan                          | F        | U18      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/          |
 |         41 | 0:26:41 | 37F    | nan                          | F        | U18      |           37 | Law & District AAC    | http://www.lawaac.co.uk/               |
-|         42 | 0:31:40 | 8F     | nan                          | F        | U18      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
-|         43 | 0:32:49 | 8F     | nan                          | F        | U18      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
+|         42 | 0:31:40 | 8F     | Holly Chisholm               | F        | U18      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
+|         43 | 0:32:49 | 8F     | Elodie Smith                 | F        | U18      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |

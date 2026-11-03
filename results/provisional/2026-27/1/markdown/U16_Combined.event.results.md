@@ -24,12 +24,12 @@
 |         22 | 0:15:36 | 40F    | nan                | F        | U16      |           40 | Motherwell AC         | https://motherwellac.com/              |
 |         23 | 0:15:43 | 6F     | Brooke Walker      | F        | U16      |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |
 |         24 | 0:15:45 | 14M    | Alex Starkey       | M        | U16      |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/         |
-|         25 | 0:15:48 | 8M     | nan                | M        | U16      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
+|         25 | 0:15:48 | 8M     | Arran Bryers-Clark | M        | U16      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
 |         26 | 0:15:48 | 54F    | Lola Campton       | F        | U16      |           54 | VP-Glasgow            | https://www.vp-glasgow.com             |
 |         27 | 0:15:48 | 34F    | nan                | F        | U16      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/          |
 |         28 | 0:15:56 | 1M     | CALLUM McCORMICK   | M        | U16      |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |
 |         29 | 0:15:58 | 6F     | Ava Starrs         | F        | U16      |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |
-|         30 | 0:15:59 | 8M     | nan                | M        | U16      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
+|         30 | 0:15:59 | 8M     | Andrew Wilson      | M        | U16      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
 |         31 | 0:16:10 | 1M     | CHARLIE GILMOUR    | M        | U16      |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |
 |         32 | 0:16:12 | 11F    | Zara Gillespie     | F        | U16      |           11 | Airdrie Harriers      | http://airdrieharriers.org/            |
 |         33 | 0:16:14 | 1F     | MILLIE ASHELBY     | F        | U16      |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |

@@ -1,14 +1,18 @@
-|   position | times   | team   | Name             | gender   | AgeCat   |   clubnumber | Club name            | Website                              |   finishPosition |
-|-----------:|:--------|:-------|:-----------------|:---------|:---------|-------------:|:---------------------|:-------------------------------------|-----------------:|
-|          1 | 0:22:25 | 10M    | Sam Lesley       | M        | SENIOR   |           10 | Shettleston Harriers | http://shettlestonharriers.org.uk/   |                5 |
-|          2 | 0:22:29 | 7M     | Alastair Stables | M        | SENIOR   |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/     |                7 |
-|          3 | 0:24:15 | 33M    | Owen McWilliams  | M        | SENIOR   |           33 | Irvine RC            | https://www.irvinerunningclub.co.uk/ |               11 |
-|          4 | 0:24:37 | 58M    | Alex Clarkson    | M        | SENIOR   |           58 | Queen's Park AC      | https://queensparkac-org-uk.l.ink    |               13 |
-|          5 | 0:24:49 | 58M    | Andrew Shields   | M        | SENIOR   |           58 | Queen's Park AC      | https://queensparkac-org-uk.l.ink    |               15 |
-|          6 | 0:25:21 | 14M    | Ben              | M        | SENIOR   |           14 | Ayr Seaforth AC      | https://www.ayrseaforth.co.uk/       |               17 |
-|          7 | 0:27:09 | 7M     | Scott Kelman     | M        | SENIOR   |            7 | Giffnock North AC    | https://www.giffnocknorth.co.uk/     |               28 |
-|          8 | 0:27:24 | 2M     | Corrie Speirs    | M        | SENIOR   |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/   |               30 |
-|          9 | 0:27:47 | 2M     | Mark Henderson   | M        | SENIOR   |            2 | Kilmarnock H&AC      | http://www.kilmarnockharriers.com/   |               34 |
-|         10 | 0:28:15 | 32M    | Allan MacKenzie  | M        | SENIOR   |           32 | Helensburgh AAC      | https://www.helensburghaac.com/      |               40 |
-|         11 | 0:31:44 | 27M    | Jason Banner     | M        | SENIOR   |           27 | Glasgow FrontRunners | https://www.glasgowfrontrunners.org/ |               74 |
-|         12 | 0:33:24 | 27M    | Iain Newman      | M        | SENIOR   |           27 | Glasgow FrontRunners | https://www.glasgowfrontrunners.org/ |               84 |
+|   position | times   | team   | Name              | gender   | AgeCat   |   clubnumber | Club name             | Website                                |   finishPosition |
+|-----------:|:--------|:-------|:------------------|:---------|:---------|-------------:|:----------------------|:---------------------------------------|-----------------:|
+|          1 | 0:21:48 | 8M     | Alasdair Campbell | M        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |                1 |
+|          2 | 0:22:25 | 10M    | Sam Lesley        | M        | SENIOR   |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/     |                5 |
+|          3 | 0:22:29 | 7M     | Alastair Stables  | M        | SENIOR   |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |                7 |
+|          4 | 0:24:15 | 33M    | Owen McWilliams   | M        | SENIOR   |           33 | Irvine RC             | https://www.irvinerunningclub.co.uk/   |               11 |
+|          5 | 0:24:37 | 58M    | Alex Clarkson     | M        | SENIOR   |           58 | Queen's Park AC       | https://queensparkac-org-uk.l.ink      |               13 |
+|          6 | 0:24:49 | 58M    | Andrew Shields    | M        | SENIOR   |           58 | Queen's Park AC       | https://queensparkac-org-uk.l.ink      |               15 |
+|          7 | 0:25:03 | 8M     | Matthew Brown     | M        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               16 |
+|          8 | 0:25:21 | 14M    | Ben               | M        | SENIOR   |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/         |               17 |
+|          9 | 0:27:09 | 7M     | Scott Kelman      | M        | SENIOR   |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |               28 |
+|         10 | 0:27:24 | 2M     | Corrie Speirs     | M        | SENIOR   |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |               30 |
+|         11 | 0:27:47 | 2M     | Mark Henderson    | M        | SENIOR   |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |               34 |
+|         12 | 0:27:50 | 8M     | Anthony Carson    | M        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               36 |
+|         13 | 0:28:15 | 32M    | Allan MacKenzie   | M        | SENIOR   |           32 | Helensburgh AAC       | https://www.helensburghaac.com/        |               40 |
+|         14 | 0:28:47 | 8M     | Andrew Clark      | M        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               43 |
+|         15 | 0:31:44 | 27M    | Jason Banner      | M        | SENIOR   |           27 | Glasgow FrontRunners  | https://www.glasgowfrontrunners.org/   |               74 |
+|         16 | 0:33:24 | 27M    | Iain Newman       | M        | SENIOR   |           27 | Glasgow FrontRunners  | https://www.glasgowfrontrunners.org/   |               84 |

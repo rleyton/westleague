@@ -1,10 +1,11 @@
-|   position | Club name            |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                              |
-|-----------:|:---------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------|
-|          1 | Queen's Park AC      |     58 | M        | 4,5                 |            9 |              44 |            53 |                2 | https://queensparkac-org-uk.l.ink    |
-|          2 | Giffnock North AC    |      7 | M        | 2,7                 |            9 |              44 |            53 |                2 | https://www.giffnocknorth.co.uk/     |
-|          3 | Kilmarnock H&AC      |      2 | M        | 8,9                 |           17 |              44 |            61 |                2 | http://www.kilmarnockharriers.com/   |
-|          4 | Glasgow FrontRunners |     27 | M        | 11,12               |           23 |              44 |            67 |                2 | https://www.glasgowfrontrunners.org/ |
-|          5 | Shettleston Harriers |     10 | M        | 1                   |            1 |              66 |            67 |                1 | http://shettlestonharriers.org.uk/   |
-|          6 | Irvine RC            |     33 | M        | 3                   |            3 |              66 |            69 |                1 | https://www.irvinerunningclub.co.uk/ |
-|          7 | Ayr Seaforth AC      |     14 | M        | 6                   |            6 |              66 |            72 |                1 | https://www.ayrseaforth.co.uk/       |
-|          8 | Helensburgh AAC      |     32 | M        | 10                  |           10 |              66 |            76 |                1 | https://www.helensburghaac.com/      |
+|   position | Club name             |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                |
+|-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:---------------------------------------|
+|          1 | Bellahouston Harriers |      8 | M        | 1,7,12,14           |           34 |               0 |            34 |                4 | http://www.bellahoustonharriers.co.uk/ |
+|          2 | Queen's Park AC       |     58 | M        | 5,6                 |           11 |              52 |            63 |                2 | https://queensparkac-org-uk.l.ink      |
+|          3 | Giffnock North AC     |      7 | M        | 3,9                 |           12 |              52 |            64 |                2 | https://www.giffnocknorth.co.uk/       |
+|          4 | Kilmarnock H&AC       |      2 | M        | 10,11               |           21 |              52 |            73 |                2 | http://www.kilmarnockharriers.com/     |
+|          5 | Shettleston Harriers  |     10 | M        | 2                   |            2 |              78 |            80 |                1 | http://shettlestonharriers.org.uk/     |
+|          6 | Irvine RC             |     33 | M        | 4                   |            4 |              78 |            82 |                1 | https://www.irvinerunningclub.co.uk/   |
+|          7 | Glasgow FrontRunners  |     27 | M        | 15,16               |           31 |              52 |            83 |                2 | https://www.glasgowfrontrunners.org/   |
+|          8 | Ayr Seaforth AC       |     14 | M        | 8                   |            8 |              78 |            86 |                1 | https://www.ayrseaforth.co.uk/         |
+|          9 | Helensburgh AAC       |     32 | M        | 13                  |           13 |              78 |            91 |                1 | https://www.helensburghaac.com/        |
