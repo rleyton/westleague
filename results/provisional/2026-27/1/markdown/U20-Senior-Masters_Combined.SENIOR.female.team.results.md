@@ -1,4 +1,5 @@
-|   position | Club name            |   team | gender   |   finisherPositions |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                              |
-|-----------:|:---------------------|-------:|:---------|--------------------:|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------|
-|          1 | Shettleston Harriers |     10 | F        |                   1 |            1 |              36 |            37 |                1 | http://shettlestonharriers.org.uk/   |
-|          2 | Glasgow FrontRunners |     27 | F        |                   2 |            2 |              36 |            38 |                1 | https://www.glasgowfrontrunners.org/ |
+|   position | Club name             |   team | gender   |   finisherPositions |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                |
+|-----------:|:----------------------|-------:|:---------|--------------------:|-------------:|----------------:|--------------:|-----------------:|:---------------------------------------|
+|          1 | Shettleston Harriers  |     10 | F        |                   1 |            1 |              39 |            40 |                1 | http://shettlestonharriers.org.uk/     |
+|          2 | Glasgow FrontRunners  |     27 | F        |                   2 |            2 |              39 |            41 |                1 | https://www.glasgowfrontrunners.org/   |
+|          3 | Bellahouston Harriers |      8 | F        |                   3 |            3 |              39 |            42 |                1 | http://www.bellahoustonharriers.co.uk/ |

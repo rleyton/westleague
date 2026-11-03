@@ -20,9 +20,9 @@
 |         18 | 0:15:22 | 34M    | nan                | M        | U16      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/          |               20 |
 |         19 | 0:15:24 | 6M     | Logan Jones        | M        | U16      |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               21 |
 |         20 | 0:15:45 | 14M    | Alex Starkey       | M        | U16      |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/         |               24 |
-|         21 | 0:15:48 | 8M     | nan                | M        | U16      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               25 |
+|         21 | 0:15:48 | 8M     | Arran Bryers-Clark | M        | U16      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               25 |
 |         22 | 0:15:56 | 1M     | CALLUM McCORMICK   | M        | U16      |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               28 |
-|         23 | 0:15:59 | 8M     | nan                | M        | U16      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               30 |
+|         23 | 0:15:59 | 8M     | Andrew Wilson      | M        | U16      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               30 |
 |         24 | 0:16:10 | 1M     | CHARLIE GILMOUR    | M        | U16      |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               31 |
 |         25 | 0:16:28 | 34M    | nan                | M        | U16      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/          |               35 |
 |         26 | 0:16:41 | 1M     | LEWIS ALLAN        | M        | U16      |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               38 |

@@ -1,10 +1,11 @@
 position,Club name,team,gender,finisherPositions,teamPoints,penaltyPoints,totalPoints,totalFinishers,Website
-1,Cambuslang Harriers,6,M,"3,6,11",20,0,20,3,https://cambuslangharriers.org/
-2,East Kilbride AC,1,M,"1,10,15",26,0,26,3,http://www.ekac.org.uk/
-3,Inverclyde AC,4,M,"4,5",9,28,37,2,https://www.inverclydeac.org/
-4,Troon Tortoises,53,M,"13,14,17",44,0,44,3,http://troontortoises.co.uk
-5,Springburn Harriers,48,M,"9,16",25,28,53,2,https://www.springburnharriers.co.uk/
-6,Ayr Seaforth AC,14,M,2,2,56,58,1,https://www.ayrseaforth.co.uk/
-7,Shettleston Harriers,10,M,"12,18",30,28,58,2,http://shettlestonharriers.org.uk/
-8,Helensburgh AAC,32,M,7,7,56,63,1,https://www.helensburghaac.com/
-9,Irvine RC,33,M,8,8,56,64,1,https://www.irvinerunningclub.co.uk/
+1,Cambuslang Harriers,6,M,"3,8,13",24,0,24,3,https://cambuslangharriers.org/
+2,Bellahouston Harriers,8,M,"4,6,18",28,0,28,5,http://www.bellahoustonharriers.co.uk/
+3,East Kilbride AC,1,M,"1,12,17",30,0,30,3,http://www.ekac.org.uk/
+4,Inverclyde AC,4,M,"5,7",12,33,45,2,https://www.inverclydeac.org/
+5,Troon Tortoises,53,M,"15,16,22",53,0,53,3,http://troontortoises.co.uk
+6,Springburn Harriers,48,M,"11,21",32,33,65,2,https://www.springburnharriers.co.uk/
+7,Ayr Seaforth AC,14,M,2,2,66,68,1,https://www.ayrseaforth.co.uk/
+8,Shettleston Harriers,10,M,"14,23",37,33,70,2,http://shettlestonharriers.org.uk/
+9,Helensburgh AAC,32,M,9,9,66,75,1,https://www.helensburghaac.com/
+10,Irvine RC,33,M,10,10,66,76,1,https://www.irvinerunningclub.co.uk/

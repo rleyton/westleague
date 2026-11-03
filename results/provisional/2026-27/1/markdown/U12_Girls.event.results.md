@@ -14,7 +14,7 @@
 |         12 | 0:08:20 | 2F     | Pippa Russell      | F        | U12      |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |
 |         13 | 0:08:26 | 11F    | Jessica Murray     | F        | U12      |           11 | Airdrie Harriers      | http://airdrieharriers.org/            |
 |         14 | 0:08:28 | 14F    | Sophia Stewart     | F        | U12      |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/         |
-|         15 | 0:08:39 | 8F     | nan                | F        | U12      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
+|         15 | 0:08:39 | 8F     | Daniel McQuillan   | F        | U12      |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |
 |         16 | 0:08:41 | 34F    | nan                | F        | U12      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/          |
 |         17 | 0:08:53 | 34F    | nan                | F        | U12      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/          |
 |         18 | 0:08:54 | 56F    | nan                | F        | U12      |           56 | West End RR           | https://www.westendroadrunners.co.uk/  |
