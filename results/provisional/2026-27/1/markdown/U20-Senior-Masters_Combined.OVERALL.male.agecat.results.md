@@ -37,7 +37,7 @@
 |         35 | 0:28:06 | 53M    | Matt Pearce       | M        | MASTER   |           53 | Troon Tortoises       | http://troontortoises.co.uk                |               38 |
 |         36 | 0:28:15 | 32M    | Allan MacKenzie   | M        | SENIOR   |           32 | Helensburgh AAC       | https://www.helensburghaac.com/            |               40 |
 |         37 | 0:28:44 | 34M    | nan               | M        | nan      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/              |               41 |
-|         38 | 0:28:46 | 42M    | nan               | M        | nan      |           42 | Newton Road Runners   | https://www.newton-roadrunners.com/        |               42 |
+|         38 | 0:28:46 | 42M    | Peter Alexander   | M        | MASTER   |           42 | Newton Road Runners   | https://www.newton-roadrunners.com/        |               42 |
 |         39 | 0:28:47 | 8M     | Andrew Clark      | M        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |               43 |
 |         40 | 0:28:55 | 5M     | nan               | M        | nan      |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/              |               44 |
 |         41 | 0:29:16 | 40M    | nan               | M        | nan      |           40 | Motherwell AC         | https://motherwellac.com/                  |               48 |
@@ -48,8 +48,8 @@
 |         46 | 0:30:24 | 8M     | Louise Mitchell   | M        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |               60 |
 |         47 | 0:30:29 | 8M     | Graham Marshall   | M        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |               61 |
 |         48 | 0:30:31 | 8M     | Jamie McLaughlin  | M        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |               62 |
-|         49 | 0:30:49 | 42M    | nan               | M        | nan      |           42 | Newton Road Runners   | https://www.newton-roadrunners.com/        |               63 |
-|         50 | 0:30:55 | 42M    | nan               | M        | nan      |           42 | Newton Road Runners   | https://www.newton-roadrunners.com/        |               64 |
+|         49 | 0:30:49 | 42M    | John Kelly        | M        | MASTER   |           42 | Newton Road Runners   | https://www.newton-roadrunners.com/        |               63 |
+|         50 | 0:30:55 | 42M    | Grant Kerr        | M        | SENIOR   |           42 | Newton Road Runners   | https://www.newton-roadrunners.com/        |               64 |
 |         51 | 0:30:58 | 5M     | nan               | M        | nan      |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/              |               65 |
 |         52 | 0:31:00 | 5M     | nan               | M        | nan      |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/              |               66 |
 |         53 | 0:31:00 | 40M    | nan               | M        | nan      |           40 | Motherwell AC         | https://motherwellac.com/                  |               67 |

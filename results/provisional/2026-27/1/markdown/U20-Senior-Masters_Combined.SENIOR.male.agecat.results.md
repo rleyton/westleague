@@ -14,5 +14,6 @@
 |         12 | 0:27:50 | 8M     | Anthony Carson    | M        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               36 |
 |         13 | 0:28:15 | 32M    | Allan MacKenzie   | M        | SENIOR   |           32 | Helensburgh AAC       | https://www.helensburghaac.com/        |               40 |
 |         14 | 0:28:47 | 8M     | Andrew Clark      | M        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               43 |
-|         15 | 0:31:44 | 27M    | Jason Banner      | M        | SENIOR   |           27 | Glasgow FrontRunners  | https://www.glasgowfrontrunners.org/   |               74 |
-|         16 | 0:33:24 | 27M    | Iain Newman       | M        | SENIOR   |           27 | Glasgow FrontRunners  | https://www.glasgowfrontrunners.org/   |               84 |
+|         15 | 0:30:55 | 42M    | Grant Kerr        | M        | SENIOR   |           42 | Newton Road Runners   | https://www.newton-roadrunners.com/    |               64 |
+|         16 | 0:31:44 | 27M    | Jason Banner      | M        | SENIOR   |           27 | Glasgow FrontRunners  | https://www.glasgowfrontrunners.org/   |               74 |
+|         17 | 0:33:24 | 27M    | Iain Newman       | M        | SENIOR   |           27 | Glasgow FrontRunners  | https://www.glasgowfrontrunners.org/   |               84 |

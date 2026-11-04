@@ -5,7 +5,7 @@
 |          3 | 0:27:56 | 3F     | Jen Conway-Evans      | F        | SENIOR   |            3 | Bellahouston RR       | https://www.bellahoustonroadrunners.co.uk/ |               37 |
 |          4 | 0:28:09 | 3F     | Cathy Wood            | F        | SENIOR   |            3 | Bellahouston RR       | https://www.bellahoustonroadrunners.co.uk/ |               39 |
 |          5 | 0:28:59 | 6F     | Kirsty Obrien         | F        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/            |               45 |
-|          6 | 0:29:00 | 42F    | nan                   | F        | nan      |           42 | Newton Road Runners   | https://www.newton-roadrunners.com/        |               46 |
+|          6 | 0:29:00 | 42F    | Karen Allen           | F        | MASTER   |           42 | Newton Road Runners   | https://www.newton-roadrunners.com/        |               46 |
 |          7 | 0:29:05 | 8F     | Barry Mitchell        | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |               47 |
 |          8 | 0:29:52 | 8F     | Katherine Brown       | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |               52 |
 |          9 | 0:29:57 | 8F     | Jennifer Sarah Walker | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |               53 |

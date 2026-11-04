@@ -2,12 +2,13 @@
 |-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:-------------------------------------------|
 |          1 | Bellahouston RR       |      3 | M        | 1,5,10              |           16 |               0 |            16 |                3 | https://www.bellahoustonroadrunners.co.uk/ |
 |          2 | Cambuslang Harriers   |      6 | M        | 4,11,16             |           31 |               0 |            31 |                3 | https://cambuslangharriers.org/            |
-|          3 | Bellahouston Harriers |      8 | M        | 6,8,21              |           35 |               0 |            35 |                5 | http://www.bellahoustonharriers.co.uk/     |
-|          4 | East Kilbride AC      |      1 | M        | 2,15,20             |           37 |               0 |            37 |                3 | http://www.ekac.org.uk/                    |
-|          5 | Inverclyde AC         |      4 | M        | 7,9                 |           16 |              36 |            52 |                2 | https://www.inverclydeac.org/              |
-|          6 | Troon Tortoises       |     53 | M        | 18,19,25            |           62 |               0 |            62 |                3 | http://troontortoises.co.uk                |
-|          7 | Springburn Harriers   |     48 | M        | 14,24               |           38 |              36 |            74 |                2 | https://www.springburnharriers.co.uk/      |
-|          8 | Ayr Seaforth AC       |     14 | M        | 3                   |            3 |              72 |            75 |                1 | https://www.ayrseaforth.co.uk/             |
-|          9 | Shettleston Harriers  |     10 | M        | 17,26               |           43 |              36 |            79 |                2 | http://shettlestonharriers.org.uk/         |
-|         10 | Helensburgh AAC       |     32 | M        | 12                  |           12 |              72 |            84 |                1 | https://www.helensburghaac.com/            |
-|         11 | Irvine RC             |     33 | M        | 13                  |           13 |              72 |            85 |                1 | https://www.irvinerunningclub.co.uk/       |
+|          3 | Bellahouston Harriers |      8 | M        | 6,8,22              |           36 |               0 |            36 |                5 | http://www.bellahoustonharriers.co.uk/     |
+|          4 | East Kilbride AC      |      1 | M        | 2,15,21             |           38 |               0 |            38 |                3 | http://www.ekac.org.uk/                    |
+|          5 | Inverclyde AC         |      4 | M        | 7,9                 |           16 |              38 |            54 |                2 | https://www.inverclydeac.org/              |
+|          6 | Troon Tortoises       |     53 | M        | 18,20,27            |           65 |               0 |            65 |                3 | http://troontortoises.co.uk                |
+|          7 | Springburn Harriers   |     48 | M        | 14,26               |           40 |              38 |            78 |                2 | https://www.springburnharriers.co.uk/      |
+|          8 | Ayr Seaforth AC       |     14 | M        | 3                   |            3 |              76 |            79 |                1 | https://www.ayrseaforth.co.uk/             |
+|          9 | Newton Road Runners   |     42 | M        | 19,25               |           44 |              38 |            82 |                2 | https://www.newton-roadrunners.com/        |
+|         10 | Shettleston Harriers  |     10 | M        | 17,28               |           45 |              38 |            83 |                2 | http://shettlestonharriers.org.uk/         |
+|         11 | Helensburgh AAC       |     32 | M        | 12                  |           12 |              76 |            88 |                1 | https://www.helensburghaac.com/            |
+|         12 | Irvine RC             |     33 | M        | 13                  |           13 |              76 |            89 |                1 | https://www.irvinerunningclub.co.uk/       |

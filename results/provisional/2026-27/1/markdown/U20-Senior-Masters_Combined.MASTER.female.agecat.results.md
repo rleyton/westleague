@@ -2,17 +2,18 @@
 |-----------:|:--------|:-------|:----------------------|:---------|:---------|-------------:|:----------------------|:---------------------------------------|-----------------:|
 |          1 | 0:27:33 | 7F     | Jill Smylie           | F        | MASTER   |            7 | Giffnock North AC     | https://www.giffnocknorth.co.uk/       |               32 |
 |          2 | 0:28:59 | 6F     | Kirsty Obrien         | F        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               45 |
-|          3 | 0:29:05 | 8F     | Barry Mitchell        | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               47 |
-|          4 | 0:29:52 | 8F     | Katherine Brown       | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               52 |
-|          5 | 0:29:57 | 8F     | Jennifer Sarah Walker | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               53 |
-|          6 | 0:30:04 | 36F    | Julie Hill            | F        | MASTER   |           36 | Larkhall YMCA         | https://www.larkhallymcaharriers.org   |               54 |
-|          7 | 0:30:08 | 8F     | Claire Fitzsimmons    | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               56 |
-|          8 | 0:30:18 | 8F     | Marianne Wilson       | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               59 |
-|          9 | 0:31:10 | 8F     | Graeme Campbell       | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               68 |
-|         10 | 0:31:19 | 53F    | Caroline Millar       | F        | MASTER   |           53 | Troon Tortoises       | http://troontortoises.co.uk            |               69 |
-|         11 | 0:31:22 | 6F     | Bernadette O'Neil     | F        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               70 |
-|         12 | 0:33:14 | 1F     | LAURA HERVAS          | F        | MASTER   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               83 |
-|         13 | 0:33:40 | 53F    | Susie Hubbard         | F        | MASTER   |           53 | Troon Tortoises       | http://troontortoises.co.uk            |               85 |
-|         14 | 0:35:11 | 1F     | LYNN HESLOP           | F        | MASTER   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               88 |
-|         15 | 0:36:33 | 8F     | Morag Campbell        | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               91 |
-|         16 | 0:43:28 | 8F     | Stephanie Rudd        | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               97 |
+|          3 | 0:29:00 | 42F    | Karen Allen           | F        | MASTER   |           42 | Newton Road Runners   | https://www.newton-roadrunners.com/    |               46 |
+|          4 | 0:29:05 | 8F     | Barry Mitchell        | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               47 |
+|          5 | 0:29:52 | 8F     | Katherine Brown       | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               52 |
+|          6 | 0:29:57 | 8F     | Jennifer Sarah Walker | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               53 |
+|          7 | 0:30:04 | 36F    | Julie Hill            | F        | MASTER   |           36 | Larkhall YMCA         | https://www.larkhallymcaharriers.org   |               54 |
+|          8 | 0:30:08 | 8F     | Claire Fitzsimmons    | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               56 |
+|          9 | 0:30:18 | 8F     | Marianne Wilson       | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               59 |
+|         10 | 0:31:10 | 8F     | Graeme Campbell       | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               68 |
+|         11 | 0:31:19 | 53F    | Caroline Millar       | F        | MASTER   |           53 | Troon Tortoises       | http://troontortoises.co.uk            |               69 |
+|         12 | 0:31:22 | 6F     | Bernadette O'Neil     | F        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               70 |
+|         13 | 0:33:14 | 1F     | LAURA HERVAS          | F        | MASTER   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               83 |
+|         14 | 0:33:40 | 53F    | Susie Hubbard         | F        | MASTER   |           53 | Troon Tortoises       | http://troontortoises.co.uk            |               85 |
+|         15 | 0:35:11 | 1F     | LYNN HESLOP           | F        | MASTER   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               88 |
+|         16 | 0:36:33 | 8F     | Morag Campbell        | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               91 |
+|         17 | 0:43:28 | 8F     | Stephanie Rudd        | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               97 |
