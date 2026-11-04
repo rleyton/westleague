@@ -79,7 +79,7 @@
 |         77 | 0:32:13 | 34M    | nan                   | M        | nan      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/              |
 |         78 | 0:32:19 | 3F     | Kirsty MacFarlane     | F        | SENIOR   |            3 | Bellahouston RR       | https://www.bellahoustonroadrunners.co.uk/ |
 |         79 | 0:32:39 | 10M    | Stephen Clark         | M        | MASTER   |           10 | Shettleston Harriers  | http://shettlestonharriers.org.uk/         |
-|         80 | 0:32:51 | 43F    | nan                   | F        | nan      |           43 | Nithsdale AC          | nan                                        |
+|         80 | 0:32:51 | 42F    | Joanne Thorburn       | F        | MASTER   |           42 | Newton Road Runners   | https://www.newton-roadrunners.com/        |
 |         81 | 0:33:00 | 34F    | nan                   | F        | nan      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/              |
 |         82 | 0:33:07 | 17M    | nan                   | M        | nan      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/      |
 |         83 | 0:33:14 | 1F     | LAURA HERVAS          | F        | MASTER   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                    |

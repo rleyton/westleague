@@ -4,13 +4,12 @@
 |          2 | Bellahouston RR       |      3 | F        | 3,4,19              |           26 |              43 |            69 |                3 | https://www.bellahoustonroadrunners.co.uk/ |
 |          3 | Westerlands CCC       |      5 | F        | 12,18,31            |           61 |              43 |           104 |                3 | https://westerlandsccc.co.uk/              |
 |          4 | Cambuslang Harriers   |      6 | F        | 5,17                |           22 |              86 |           108 |                2 | https://cambuslangharriers.org/            |
-|          5 | Troon Tortoises       |     53 | F        | 16,23               |           39 |              86 |           125 |                2 | http://troontortoises.co.uk                |
-|          6 | Calderglen Harriers   |     17 | F        | 25,30,32            |           87 |              43 |           130 |                3 | http://www.calderglenharriers.org.uk/      |
-|          7 | Shettleston Harriers  |     10 | F        | 1                   |            1 |             129 |           130 |                1 | http://shettlestonharriers.org.uk/         |
-|          8 | Kilbarchan AAC        |     34 | F        | 21,24               |           45 |              86 |           131 |                2 | https://kilbarchanaac.org.uk/              |
-|          9 | Giffnock North AC     |      7 | F        | 2                   |            2 |             129 |           131 |                1 | https://www.giffnocknorth.co.uk/           |
-|         10 | East Kilbride AC      |      1 | F        | 22,26               |           48 |              86 |           134 |                2 | http://www.ekac.org.uk/                    |
-|         11 | Newton Road Runners   |     42 | F        | 6                   |            6 |             129 |           135 |                1 | https://www.newton-roadrunners.com/        |
+|          5 | Newton Road Runners   |     42 | F        | 6,20                |           26 |              86 |           112 |                2 | https://www.newton-roadrunners.com/        |
+|          6 | Troon Tortoises       |     53 | F        | 16,23               |           39 |              86 |           125 |                2 | http://troontortoises.co.uk                |
+|          7 | Calderglen Harriers   |     17 | F        | 25,30,32            |           87 |              43 |           130 |                3 | http://www.calderglenharriers.org.uk/      |
+|          8 | Shettleston Harriers  |     10 | F        | 1                   |            1 |             129 |           130 |                1 | http://shettlestonharriers.org.uk/         |
+|          9 | Kilbarchan AAC        |     34 | F        | 21,24               |           45 |              86 |           131 |                2 | https://kilbarchanaac.org.uk/              |
+|         10 | Giffnock North AC     |      7 | F        | 2                   |            2 |             129 |           131 |                1 | https://www.giffnocknorth.co.uk/           |
+|         11 | East Kilbride AC      |      1 | F        | 22,26               |           48 |              86 |           134 |                2 | http://www.ekac.org.uk/                    |
 |         12 | Larkhall YMCA         |     36 | F        | 10                  |           10 |             129 |           139 |                1 | https://www.larkhallymcaharriers.org       |
 |         13 | Glasgow FrontRunners  |     27 | F        | 13                  |           13 |             129 |           142 |                1 | https://www.glasgowfrontrunners.org/       |
-|         14 | Nithsdale AC          |     43 | F        | 20                  |           20 |             129 |           149 |                1 | nan                                        |

@@ -19,7 +19,7 @@
 |         17 | 0:31:22 | 6F     | Bernadette O'Neil     | F        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/            |               70 |
 |         18 | 0:31:34 | 5F     | nan                   | F        | nan      |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/              |               71 |
 |         19 | 0:32:19 | 3F     | Kirsty MacFarlane     | F        | SENIOR   |            3 | Bellahouston RR       | https://www.bellahoustonroadrunners.co.uk/ |               78 |
-|         20 | 0:32:51 | 43F    | nan                   | F        | nan      |           43 | Nithsdale AC          | nan                                        |               80 |
+|         20 | 0:32:51 | 42F    | Joanne Thorburn       | F        | MASTER   |           42 | Newton Road Runners   | https://www.newton-roadrunners.com/        |               80 |
 |         21 | 0:33:00 | 34F    | nan                   | F        | nan      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/              |               81 |
 |         22 | 0:33:14 | 1F     | LAURA HERVAS          | F        | MASTER   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                    |               83 |
 |         23 | 0:33:40 | 53F    | Susie Hubbard         | F        | MASTER   |           53 | Troon Tortoises       | http://troontortoises.co.uk                |               85 |
