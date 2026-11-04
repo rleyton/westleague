@@ -16,6 +16,7 @@
    * Processed all team submissions that have been received by: **10pm, 3rd November**
      * U12Boys results issue fixed.
      * U16 place recording transcription issue fixed.
+     * Seniors P80 fixed (43->42)
    * [See list of teams missing](./results/provisional/2026-27/1/missingTeamSubmissions.csv) as of that time
   * Hosted by [Kilbarchan AAC](https://kilbarchanaac.org.uk/)
   * [Attendance: TBC](./results/provisional/2026-27/1/meta.json)
