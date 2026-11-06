@@ -13,7 +13,8 @@
 |         11 | 0:27:47 | 2M     | Mark Henderson    | M        | SENIOR   |            2 | Kilmarnock H&AC       | http://www.kilmarnockharriers.com/     |               34 |
 |         12 | 0:27:50 | 8M     | Anthony Carson    | M        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               36 |
 |         13 | 0:28:15 | 32M    | Allan MacKenzie   | M        | SENIOR   |           32 | Helensburgh AAC       | https://www.helensburghaac.com/        |               40 |
-|         14 | 0:28:47 | 8M     | Andrew Clark      | M        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               43 |
+|         14 | 0:28:47 | 8M     | Andrew Bryers     | M        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               43 |
 |         15 | 0:30:55 | 42M    | Grant Kerr        | M        | SENIOR   |           42 | Newton Road Runners   | https://www.newton-roadrunners.com/    |               64 |
-|         16 | 0:31:44 | 27M    | Jason Banner      | M        | SENIOR   |           27 | Glasgow FrontRunners  | https://www.glasgowfrontrunners.org/   |               74 |
-|         17 | 0:33:24 | 27M    | Iain Newman       | M        | SENIOR   |           27 | Glasgow FrontRunners  | https://www.glasgowfrontrunners.org/   |               84 |
+|         16 | 0:31:39 | 5M     | Stuart Andrews    | M        | SENIOR   |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/          |               72 |
+|         17 | 0:31:44 | 27M    | Jason Banner      | M        | SENIOR   |           27 | Glasgow FrontRunners  | https://www.glasgowfrontrunners.org/   |               74 |
+|         18 | 0:33:24 | 27M    | Iain Newman       | M        | SENIOR   |           27 | Glasgow FrontRunners  | https://www.glasgowfrontrunners.org/   |               84 |

@@ -17,7 +17,7 @@
 |         15 | 0:24:49 | 58M    | Andrew Shields        | M        | SENIOR   |           58 | Queen's Park AC       | https://queensparkac-org-uk.l.ink          |
 |         16 | 0:25:03 | 8M     | Matthew Brown         | M        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |
 |         17 | 0:25:21 | 14M    | Ben                   | M        | SENIOR   |           14 | Ayr Seaforth AC       | https://www.ayrseaforth.co.uk/             |
-|         18 | 0:25:28 | 5M     | nan                   | M        | nan      |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/              |
+|         18 | 0:25:28 | 5M     | Scott Henderson       | M        | MASTER   |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/              |
 |         19 | 0:25:37 | 4M     | Alan Callan           | M        | MASTER   |            4 | Inverclyde AC         | https://www.inverclydeac.org/              |
 |         20 | 0:25:50 | 8M     | Eddie Neilson         | M        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |
 |         21 | 0:25:59 | 34M    | nan                   | M        | nan      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/              |
@@ -42,8 +42,8 @@
 |         40 | 0:28:15 | 32M    | Allan MacKenzie       | M        | SENIOR   |           32 | Helensburgh AAC       | https://www.helensburghaac.com/            |
 |         41 | 0:28:44 | 34M    | nan                   | M        | nan      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/              |
 |         42 | 0:28:46 | 42M    | Peter Alexander       | M        | MASTER   |           42 | Newton Road Runners   | https://www.newton-roadrunners.com/        |
-|         43 | 0:28:47 | 8M     | Andrew Clark          | M        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |
-|         44 | 0:28:55 | 5M     | nan                   | M        | nan      |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/              |
+|         43 | 0:28:47 | 8M     | Andrew Bryers         | M        | SENIOR   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |
+|         44 | 0:28:55 | 5M     | Felton Humble         | M        | MASTER   |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/              |
 |         45 | 0:28:59 | 6F     | Kirsty Obrien         | F        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/            |
 |         46 | 0:29:00 | 42F    | Karen Allen           | F        | MASTER   |           42 | Newton Road Runners   | https://www.newton-roadrunners.com/        |
 |         47 | 0:29:05 | 8F     | Barry Mitchell        | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |
@@ -56,7 +56,7 @@
 |         54 | 0:30:04 | 36F    | Julie Hill            | F        | MASTER   |           36 | Larkhall YMCA         | https://www.larkhallymcaharriers.org       |
 |         55 | 0:30:07 | 17M    | nan                   | M        | nan      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/      |
 |         56 | 0:30:08 | 8F     | Claire Fitzsimmons    | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |
-|         57 | 0:30:13 | 5F     | nan                   | F        | nan      |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/              |
+|         57 | 0:30:13 | 5F     | Alison Campbell       | F        | MASTER   |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/              |
 |         58 | 0:30:17 | 27F    | Laura Wood            | F        | SENIOR   |           27 | Glasgow FrontRunners  | https://www.glasgowfrontrunners.org/       |
 |         59 | 0:30:18 | 8F     | Marianne Wilson       | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |
 |         60 | 0:30:24 | 8M     | Louise Mitchell       | M        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |
@@ -64,14 +64,14 @@
 |         62 | 0:30:31 | 8M     | Jamie McLaughlin      | M        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |
 |         63 | 0:30:49 | 42M    | John Kelly            | M        | MASTER   |           42 | Newton Road Runners   | https://www.newton-roadrunners.com/        |
 |         64 | 0:30:55 | 42M    | Grant Kerr            | M        | SENIOR   |           42 | Newton Road Runners   | https://www.newton-roadrunners.com/        |
-|         65 | 0:30:58 | 5M     | nan                   | M        | nan      |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/              |
-|         66 | 0:31:00 | 5M     | nan                   | M        | nan      |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/              |
+|         65 | 0:30:58 | 5M     | David Riach           | M        | MASTER   |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/              |
+|         66 | 0:31:00 | 5M     | Dave Calder           | M        | MASTER   |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/              |
 |         67 | 0:31:00 | 40M    | nan                   | M        | nan      |           40 | Motherwell AC         | https://motherwellac.com/                  |
 |         68 | 0:31:10 | 8F     | Graeme Campbell       | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |
 |         69 | 0:31:19 | 53F    | Caroline Millar       | F        | MASTER   |           53 | Troon Tortoises       | http://troontortoises.co.uk                |
 |         70 | 0:31:22 | 6F     | Bernadette O'Neil     | F        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/            |
-|         71 | 0:31:34 | 5F     | nan                   | F        | nan      |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/              |
-|         72 | 0:31:39 | 5M     | nan                   | M        | nan      |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/              |
+|         71 | 0:31:34 | 5F     | Caroline Friel        | F        | MASTER   |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/              |
+|         72 | 0:31:39 | 5M     | Stuart Andrews        | M        | SENIOR   |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/              |
 |         73 | 0:31:41 | 34M    | nan                   | M        | nan      |           34 | Kilbarchan AAC        | https://kilbarchanaac.org.uk/              |
 |         74 | 0:31:44 | 27M    | Jason Banner          | M        | SENIOR   |           27 | Glasgow FrontRunners  | https://www.glasgowfrontrunners.org/       |
 |         75 | 0:31:54 | 48M    | Joe Chambers          | M        | MASTER   |           48 | Springburn Harriers   | https://www.springburnharriers.co.uk/      |
@@ -93,7 +93,7 @@
 |         91 | 0:36:33 | 8F     | Morag Campbell        | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |
 |         92 | 0:37:46 | 17M    | nan                   | M        | nan      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/      |
 |         93 | 0:37:52 | 17F    | nan                   | F        | nan      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/      |
-|         94 | 0:38:14 | 5F     | nan                   | F        | nan      |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/              |
+|         94 | 0:38:14 | 5F     | Wiebke Lammers        | F        | MASTER   |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/              |
 |         95 | 0:41:27 | 17F    | nan                   | F        | nan      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/      |
 |         96 | 0:43:15 | 17M    | nan                   | M        | nan      |           17 | Calderglen Harriers   | http://www.calderglenharriers.org.uk/      |
 |         97 | 0:43:28 | 8F     | Stephanie Rudd        | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/     |

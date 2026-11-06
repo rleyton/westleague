@@ -1,9 +1,10 @@
 |   position | Club name             |   team | gender   | finisherPositions   |   teamPoints |   penaltyPoints |   totalPoints |   totalFinishers | Website                                |
 |-----------:|:----------------------|-------:|:---------|:--------------------|-------------:|----------------:|--------------:|-----------------:|:---------------------------------------|
 |          1 | Bellahouston Harriers |      8 | F        | 4,5,6               |           15 |               0 |            15 |                8 | http://www.bellahoustonharriers.co.uk/ |
-|          2 | Cambuslang Harriers   |      6 | F        | 2,12                |           14 |              28 |            42 |                2 | https://cambuslangharriers.org/        |
-|          3 | Newton Road Runners   |     42 | F        | 3,13                |           16 |              28 |            44 |                2 | https://www.newton-roadrunners.com/    |
-|          4 | Troon Tortoises       |     53 | F        | 11,15               |           26 |              28 |            54 |                2 | http://troontortoises.co.uk            |
-|          5 | Giffnock North AC     |      7 | F        | 1                   |            1 |              56 |            57 |                1 | https://www.giffnocknorth.co.uk/       |
-|          6 | East Kilbride AC      |      1 | F        | 14,16               |           30 |              28 |            58 |                2 | http://www.ekac.org.uk/                |
-|          7 | Larkhall YMCA         |     36 | F        | 7                   |            7 |              56 |            63 |                1 | https://www.larkhallymcaharriers.org   |
+|          2 | Westerlands CCC       |      5 | F        | 9,14,20             |           43 |               0 |            43 |                3 | https://westerlandsccc.co.uk/          |
+|          3 | Cambuslang Harriers   |      6 | F        | 2,13                |           15 |              31 |            46 |                2 | https://cambuslangharriers.org/        |
+|          4 | Newton Road Runners   |     42 | F        | 3,15                |           18 |              31 |            49 |                2 | https://www.newton-roadrunners.com/    |
+|          5 | Troon Tortoises       |     53 | F        | 12,17               |           29 |              31 |            60 |                2 | http://troontortoises.co.uk            |
+|          6 | Giffnock North AC     |      7 | F        | 1                   |            1 |              62 |            63 |                1 | https://www.giffnocknorth.co.uk/       |
+|          7 | East Kilbride AC      |      1 | F        | 16,18               |           34 |              31 |            65 |                2 | http://www.ekac.org.uk/                |
+|          8 | Larkhall YMCA         |     36 | F        | 7                   |            7 |              62 |            69 |                1 | https://www.larkhallymcaharriers.org   |

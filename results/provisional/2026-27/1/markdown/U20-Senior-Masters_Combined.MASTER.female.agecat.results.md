@@ -8,13 +8,16 @@
 |          6 | 0:29:57 | 8F     | Jennifer Sarah Walker | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               53 |
 |          7 | 0:30:04 | 36F    | Julie Hill            | F        | MASTER   |           36 | Larkhall YMCA         | https://www.larkhallymcaharriers.org   |               54 |
 |          8 | 0:30:08 | 8F     | Claire Fitzsimmons    | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               56 |
-|          9 | 0:30:18 | 8F     | Marianne Wilson       | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               59 |
-|         10 | 0:31:10 | 8F     | Graeme Campbell       | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               68 |
-|         11 | 0:31:19 | 53F    | Caroline Millar       | F        | MASTER   |           53 | Troon Tortoises       | http://troontortoises.co.uk            |               69 |
-|         12 | 0:31:22 | 6F     | Bernadette O'Neil     | F        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               70 |
-|         13 | 0:32:51 | 42F    | Joanne Thorburn       | F        | MASTER   |           42 | Newton Road Runners   | https://www.newton-roadrunners.com/    |               80 |
-|         14 | 0:33:14 | 1F     | LAURA HERVAS          | F        | MASTER   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               83 |
-|         15 | 0:33:40 | 53F    | Susie Hubbard         | F        | MASTER   |           53 | Troon Tortoises       | http://troontortoises.co.uk            |               85 |
-|         16 | 0:35:11 | 1F     | LYNN HESLOP           | F        | MASTER   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               88 |
-|         17 | 0:36:33 | 8F     | Morag Campbell        | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               91 |
-|         18 | 0:43:28 | 8F     | Stephanie Rudd        | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               97 |
+|          9 | 0:30:13 | 5F     | Alison Campbell       | F        | MASTER   |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/          |               57 |
+|         10 | 0:30:18 | 8F     | Marianne Wilson       | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               59 |
+|         11 | 0:31:10 | 8F     | Graeme Campbell       | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               68 |
+|         12 | 0:31:19 | 53F    | Caroline Millar       | F        | MASTER   |           53 | Troon Tortoises       | http://troontortoises.co.uk            |               69 |
+|         13 | 0:31:22 | 6F     | Bernadette O'Neil     | F        | MASTER   |            6 | Cambuslang Harriers   | https://cambuslangharriers.org/        |               70 |
+|         14 | 0:31:34 | 5F     | Caroline Friel        | F        | MASTER   |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/          |               71 |
+|         15 | 0:32:51 | 42F    | Joanne Thorburn       | F        | MASTER   |           42 | Newton Road Runners   | https://www.newton-roadrunners.com/    |               80 |
+|         16 | 0:33:14 | 1F     | LAURA HERVAS          | F        | MASTER   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               83 |
+|         17 | 0:33:40 | 53F    | Susie Hubbard         | F        | MASTER   |           53 | Troon Tortoises       | http://troontortoises.co.uk            |               85 |
+|         18 | 0:35:11 | 1F     | LYNN HESLOP           | F        | MASTER   |            1 | East Kilbride AC      | http://www.ekac.org.uk/                |               88 |
+|         19 | 0:36:33 | 8F     | Morag Campbell        | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               91 |
+|         20 | 0:38:14 | 5F     | Wiebke Lammers        | F        | MASTER   |            5 | Westerlands CCC       | https://westerlandsccc.co.uk/          |               94 |
+|         21 | 0:43:28 | 8F     | Stephanie Rudd        | F        | MASTER   |            8 | Bellahouston Harriers | http://www.bellahoustonharriers.co.uk/ |               97 |
