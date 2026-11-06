@@ -2,8 +2,8 @@
       "races": {
             "U12": {
                   "M": {
-                        "penalty": 48,
-                        "participants": 38,
+                        "penalty": 49,
+                        "participants": 39,
                         "counters": 3,
                         "clubparticipation": {
                               "1": 2,
@@ -20,7 +20,7 @@
                               "40": 2,
                               "48": 1,
                               "49": 1,
-                              "54": 2
+                              "54": 3
                         }
                   },
                   "F": {
@@ -302,9 +302,9 @@
             }
       },
       "attendance": {
-            "total": 356,
+            "total": 357,
             "gender": {
-                  "M": 182,
+                  "M": 183,
                   "F": 156
             }
       }
